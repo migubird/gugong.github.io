@@ -1,0 +1,167 @@
+{
+  "gugong-construction": {
+    "id": "gugong-construction",
+    "name": "修建紫禁城",
+    "category": "修建工程",
+    "start_year": 1406,
+    "end_year": 1420,
+    "locations": ["taihe-dian", "zhonghe-dian", "baohe-dian", "qianqing-gong", "kunning-gong"],
+    "participants": ["yongle"],
+    "description": "明成祖朱棣下令修建紫禁城，耗时14年，动用工匠10万、民夫100万。1420年建成，次年正式迁都北京。",
+    "outcome": "紫禁城建成，明朝正式迁都北京"
+  },
+  "jingnan-zhiyi": {
+    "id": "jingnan-zhiyi",
+    "name": "靖难之役",
+    "category": "政变",
+    "start_year": 1399,
+    "end_year": 1402,
+    "locations": [],
+    "participants": ["yongle"],
+    "description": "燕王朱棣以'靖难'为名起兵反叛建文帝，历时四年攻入南京，夺取皇位。",
+    "outcome": "朱棣夺位成功，改元永乐"
+  },
+  "chongzhen-death": {
+    "id": "chongzhen-death",
+    "name": "崇祯帝自缢",
+    "category": "逝世葬礼",
+    "start_year": 1644,
+    "end_year": 1644,
+    "locations": [],
+    "participants": ["chongzhen", "eunuch-wang-cheng-en"],
+    "description": "李自成攻破北京，崇祯帝在煤山（今景山）自缢，太监王承恩随行。明朝灭亡。",
+    "outcome": "明朝灭亡"
+  },
+  "qing-enter-beijing": {
+    "id": "qing-enter-beijing",
+    "name": "清军入关定鼎北京",
+    "category": "战争",
+    "start_year": 1644,
+    "end_year": 1644,
+    "locations": [],
+    "participants": ["dorgon", "wu-sangui"],
+    "description": "吴三桂引清兵入关，多尔衮率军击败李自成，清军进入北京并定都于此，故宫成为清朝皇宫。",
+    "outcome": "清朝定都北京，故宫成为清皇宫"
+  },
+  "jiuzi-duodi": {
+    "id": "jiuzi-duodi",
+    "name": "九子夺嫡",
+    "category": "政变",
+    "start_year": 1708,
+    "end_year": 1722,
+    "locations": ["qianqing-gong", "yangxindian"],
+    "participants": ["kangxi", "yongzheng"],
+    "description": "康熙晚年诸皇子争夺储位，四阿哥胤禛（雍正）最终胜出即位。",
+    "outcome": "胤禛即位为雍正帝"
+  },
+  "junjichu-established": {
+    "id": "junjichu-established",
+    "name": "军机处设立",
+    "category": "朝会",
+    "start_year": 1729,
+    "end_year": 1729,
+    "locations": ["junji-chu", "yangxindian"],
+    "participants": ["yongzheng", "zhangtingyu"],
+    "description": "雍正七年设立军机处，成为清代中后期最高权力机关，取代议政王大臣会议。",
+    "outcome": "军机处成为清代实际最高决策机构"
+  },
+  "heshen-corruption": {
+    "id": "heshen-corruption",
+    "name": "和珅被抄家",
+    "category": "政变",
+    "start_year": 1799,
+    "end_year": 1799,
+    "locations": [],
+    "participants": ["qianlong", "he-shen", "jixiaolan"],
+    "description": "乾隆驾崩后十五天，嘉庆帝宣布和珅二十大罪状，赐自尽。抄家所得相当于清政府十余年财政收入。",
+    "outcome": "和珅被赐死，家产抄没"
+  },
+  "opium-war": {
+    "id": "opium-war",
+    "name": "虎门销烟与鸦片战争",
+    "category": "战争",
+    "start_year": 1839,
+    "end_year": 1842,
+    "locations": [],
+    "participants": ["daoguang", "lin-zexu"],
+    "description": "林则徐虎门销烟后，英国发动鸦片战争。清军战败，签订南京条约，中国开始沦为半殖民地。",
+    "outcome": "签订南京条约，割让香港"
+  },
+  "wuxu-bianfa": {
+    "id": "wuxu-bianfa",
+    "name": "戊戌变法",
+    "category": "政变",
+    "start_year": 1898,
+    "end_year": 1898,
+    "locations": [],
+    "participants": ["guangxu", "kangyouwei", "liangqichao", "cixi"],
+    "description": "光绪帝支持康有为、梁启超发起维新变法，推行新政。慈禧太后发动戊戌政变，变法失败。",
+    "outcome": "变法失败，光绪被软禁"
+  },
+  "zhenfei-death": {
+    "id": "zhenfei-death",
+    "name": "珍妃之死",
+    "category": "逝世葬礼",
+    "start_year": 1900,
+    "end_year": 1900,
+    "locations": [],
+    "participants": ["zhen-fei", "cixi"],
+    "description": "八国联军攻入北京，慈禧太后仓皇出逃前，命太监将珍妃投入井中溺死。",
+    "outcome": "珍妃遇害"
+  },
+  "abdication": {
+    "id": "abdication",
+    "name": "清帝退位",
+    "category": "退位",
+    "start_year": 1912,
+    "end_year": 1912,
+    "locations": ["yangxindian"],
+    "participants": ["xuantong", "longyu", "yuan-shikai"],
+    "description": "隆裕太后在养心殿签署《清帝退位诏书》，溥仪退位。清朝灭亡，中国两千多年帝制终结。",
+    "outcome": "清帝退位，帝制终结"
+  },
+  "pu-yi-expelled": {
+    "id": "pu-yi-expelled",
+    "name": "溥仪被逐出宫",
+    "category": "政变",
+    "start_year": 1924,
+    "end_year": 1924,
+    "locations": [],
+    "participants": ["xuantong"],
+    "description": "冯玉祥发动北京政变，派鹿钟麟率军进入故宫，限令溥仪三小时内离宫。溥仪从此告别紫禁城。",
+    "outcome": "溥仪永远离开故宫"
+  },
+  "wancheng-dadian": {
+    "id": "wancheng-dadian",
+    "name": "编纂永乐大典",
+    "category": "朝会",
+    "start_year": 1403,
+    "end_year": 1408,
+    "locations": [],
+    "participants": ["yongle"],
+    "description": "永乐帝命解缙等编纂《永乐大典》，全书22937卷，是中国古代最大的类书。",
+    "outcome": "《永乐大典》编成"
+  },
+  "zhenghe-voyages": {
+    "id": "zhenghe-voyages",
+    "name": "郑和下西洋",
+    "category": "朝会",
+    "start_year": 1405,
+    "end_year": 1433,
+    "locations": [],
+    "participants": ["yongle", "zheng-he"],
+    "description": "郑和七次率庞大船队远航，到达东南亚、南亚、阿拉伯半岛和非洲东海岸。",
+    "outcome": "拓展海上丝绸之路，宣扬国威"
+  },
+  "siku-quanshu": {
+    "id": "siku-quanshu",
+    "name": "编纂四库全书",
+    "category": "朝会",
+    "start_year": 1773,
+    "end_year": 1782,
+    "locations": [],
+    "participants": ["qianlong", "jixiaolan"],
+    "description": "乾隆帝命纪昀等总纂《四库全书》，收录图书3503种，是中国古代最大的丛书。",
+    "outcome": "《四库全书》编成"
+  }
+}
