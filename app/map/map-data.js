@@ -18,7 +18,7 @@ const PALACES = {
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 280
+      "y": 520
     },
     "width": 100,
     "height": 55,
@@ -45,7 +45,7 @@ const PALACES = {
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 350
+      "y": 450
     },
     "width": 55,
     "height": 50,
@@ -72,7 +72,7 @@ const PALACES = {
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 420
+      "y": 380
     },
     "width": 90,
     "height": 50,
@@ -98,7 +98,7 @@ const PALACES = {
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 520
+      "y": 280
     },
     "width": 90,
     "height": 45,
@@ -123,7 +123,7 @@ const PALACES = {
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 575
+      "y": 225
     },
     "width": 50,
     "height": 40,
@@ -148,7 +148,7 @@ const PALACES = {
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 625
+      "y": 175
     },
     "width": 85,
     "height": 45,
@@ -176,7 +176,7 @@ const PALACES = {
     "dynasty": "明清",
     "coordinates": {
       "x": 680,
-      "y": 560
+      "y": 240
     },
     "width": 60,
     "height": 40,
@@ -197,7 +197,7 @@ const PALACES = {
     "dynasty": "明清",
     "coordinates": {
       "x": 320,
-      "y": 560
+      "y": 240
     },
     "width": 60,
     "height": 40,
@@ -216,7 +216,7 @@ const PALACES = {
     "dynasty": "清",
     "coordinates": {
       "x": 390,
-      "y": 490
+      "y": 310
     },
     "width": 70,
     "height": 50,
@@ -235,7 +235,7 @@ const PALACES = {
     "dynasty": "清",
     "coordinates": {
       "x": 450,
-      "y": 450
+      "y": 350
     },
     "width": 35,
     "height": 25,

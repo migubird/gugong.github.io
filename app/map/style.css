@@ -5,6 +5,7 @@ body {
   background: #0d0d1a;
   color: #e0e0e0;
   min-height: 100vh;
+  font-size: 16px;
 }
 
 #app {
@@ -18,6 +19,30 @@ header {
   margin-bottom: 20px;
 }
 
+.header-top {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 16px;
+  flex-wrap: wrap;
+}
+
+.back-btn {
+  display: inline-block;
+  color: #888;
+  text-decoration: none;
+  font-size: 16px;
+  padding: 6px 14px;
+  border: 1px solid #444;
+  border-radius: 6px;
+  transition: color 0.2s, border-color 0.2s;
+}
+
+.back-btn:hover {
+  color: #d4a017;
+  border-color: #d4a017;
+}
+
 header h1 {
   font-size: 28px;
   color: #d4a017;
@@ -25,7 +50,7 @@ header h1 {
 }
 
 header .subtitle {
-  font-size: 14px;
+  font-size: 15px;
   color: #888;
 }
 
@@ -75,8 +100,8 @@ main {
 }
 
 .placeholder .icon { font-size: 64px; margin-bottom: 16px; }
-.placeholder h2 { font-size: 18px; margin-bottom: 8px; color: #888; }
-.placeholder p { font-size: 14px; }
+.placeholder h2 { font-size: 20px; margin-bottom: 8px; color: #888; }
+.placeholder p { font-size: 16px; }
 
 /* Palace rectangles in SVG */
 .palace-rect {
@@ -103,7 +128,7 @@ main {
 }
 
 .palace-label {
-  font-size: 13px;
+  font-size: 15px;
   font-weight: bold;
   fill: #fff;
   text-anchor: middle;
@@ -112,7 +137,7 @@ main {
 }
 
 .palace-alias {
-  font-size: 10px;
+  font-size: 12px;
   fill: #ccc;
   text-anchor: middle;
   pointer-events: none;
@@ -120,20 +145,20 @@ main {
 
 /* Sidebar palace detail */
 .palace-detail h2 {
-  font-size: 22px;
+  font-size: 24px;
   color: #d4a017;
-  margin-bottom: 4px;
+  margin-bottom: 6px;
 }
 
 .palace-detail .aliases {
-  font-size: 13px;
+  font-size: 15px;
   color: #888;
   margin-bottom: 12px;
 }
 
 .palace-detail .description {
-  font-size: 14px;
-  line-height: 1.7;
+  font-size: 16px;
+  line-height: 1.8;
   margin-bottom: 16px;
   color: #ccc;
 }
@@ -142,7 +167,7 @@ main {
   display: grid;
   grid-template-columns: 80px 1fr;
   gap: 6px 12px;
-  font-size: 13px;
+  font-size: 15px;
   margin-bottom: 16px;
 }
 
@@ -150,7 +175,7 @@ main {
 .palace-detail .info-value { color: #e0e0e0; }
 
 .section-title {
-  font-size: 15px;
+  font-size: 17px;
   color: #d4a017;
   border-bottom: 1px solid #333;
   padding-bottom: 6px;
@@ -161,52 +186,53 @@ main {
   display: flex;
   align-items: flex-start;
   gap: 8px;
-  padding: 8px 0;
+  padding: 10px 0;
   border-bottom: 1px solid #222;
-  font-size: 13px;
+  font-size: 15px;
 }
 
 .relation-item .type-badge {
   background: #d4a01733;
   color: #d4a017;
-  padding: 2px 8px;
+  padding: 3px 10px;
   border-radius: 4px;
-  font-size: 11px;
+  font-size: 13px;
   white-space: nowrap;
   margin-top: 2px;
 }
 
 .relation-item .details { flex: 1; }
 .relation-item .details .name { color: #e0e0e0; font-weight: bold; }
-.relation-item .details .note { color: #888; font-size: 12px; margin-top: 2px; }
+.relation-item .details .note { color: #888; font-size: 14px; margin-top: 2px; }
 
 .event-item {
-  padding: 10px;
+  padding: 12px;
   background: #1a1a2e;
   border-radius: 6px;
-  margin-bottom: 8px;
-  font-size: 13px;
+  margin-bottom: 10px;
+  font-size: 15px;
 }
 
 .event-item .event-name {
   color: #e74c3c;
   font-weight: bold;
   margin-bottom: 4px;
+  font-size: 16px;
 }
 
-.event-item .event-desc { color: #aaa; line-height: 1.5; }
-.event-item .event-year { color: #888; font-size: 11px; margin-top: 4px; }
+.event-item .event-desc { color: #aaa; line-height: 1.6; font-size: 15px; }
+.event-item .event-year { color: #888; font-size: 13px; margin-top: 4px; }
 
 /* Timeline bar */
 #timeline-bar {
   margin-top: 16px;
-  padding: 12px 20px;
+  padding: 14px 20px;
   background: #16213e;
   border-radius: 12px;
   display: flex;
   align-items: center;
   gap: 12px;
-  font-size: 14px;
+  font-size: 16px;
 }
 
 #timeline-bar label { color: #888; }
@@ -230,7 +256,57 @@ main {
 
 /* Responsive */
 @media (max-width: 900px) {
-  main { flex-direction: column; height: auto; }
-  #sidebar { min-width: unset; max-width: unset; max-height: 400px; }
-  #map-container { min-height: 400px; }
+  #app { padding: 12px; }
+
+  header { margin-bottom: 12px; }
+  header h1 { font-size: 24px; }
+  header .subtitle { font-size: 14px; }
+  .back-btn { font-size: 14px; padding: 4px 10px; }
+
+  main {
+    flex-direction: column;
+    height: auto;
+    gap: 12px;
+  }
+
+  #map-container {
+    min-height: 50vh;
+    width: 100%;
+  }
+
+  #sidebar {
+    min-width: unset;
+    max-width: unset;
+    max-height: none;
+    width: 100%;
+  }
+
+  #sidebar-content { padding: 16px; }
+
+  .palace-detail h2 { font-size: 22px; }
+  .palace-detail .description { font-size: 16px; }
+  .palace-detail .info-grid { font-size: 15px; }
+  .section-title { font-size: 17px; }
+  .relation-item { font-size: 15px; }
+  .event-item { font-size: 15px; }
+
+  #timeline-bar {
+    flex-wrap: wrap;
+    font-size: 14px;
+    padding: 12px;
+    gap: 8px;
+  }
+
+  #year-slider { order: 3; width: 100%; flex: unset; }
+}
+
+@media (max-width: 480px) {
+  header h1 { font-size: 20px; }
+  .back-btn { font-size: 13px; padding: 3px 8px; }
+  .palace-detail h2 { font-size: 20px; }
+  .palace-detail .description { font-size: 15px; }
+  .relation-item { font-size: 14px; }
+  .event-item { font-size: 14px; padding: 10px; }
+  .event-item .event-name { font-size: 15px; }
+  #timeline-bar { font-size: 13px; }
 }

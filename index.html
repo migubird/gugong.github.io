@@ -23,6 +23,14 @@
     .stat .num { font-size: 2rem; color: #c9a227; font-weight: bold; }
     .stat .label { color: #8b949e; font-size: 0.9rem; }
     footer { text-align: center; padding: 2rem; color: #484f58; font-size: 0.85rem; border-top: 1px solid #21262d; margin-top: 3rem; }
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.8rem; }
+      header p { font-size: 0.95rem; }
+      .stats { gap: 1.5rem; }
+      .stat .num { font-size: 1.5rem; }
+      .container { padding: 0 1rem; }
+      .card-grid { grid-template-columns: 1fr; }
+    }
   </style>
 </head>
 <body>
@@ -41,26 +49,26 @@
       <div class="card">
         <h3>交互式平面图</h3>
         <p>在故宫平面图上探索各宫殿位置，点击查看详情。</p>
-        <a href="app/map/">进入平面图 →</a>
+        <a href="app/map/">进入平面图 &#8594;</a>
       </div>
       <div class="card">
         <h3>Wiki 百科</h3>
         <p>每个宫殿和皇帝的独立页面，含生平、关联与大事记。</p>
-        <a href="wiki/index.html">浏览 Wiki →</a>
+        <a href="wiki/index.html">浏览 Wiki &#8594;</a>
       </div>
       <div class="card">
         <h3>数据层</h3>
         <p>开放 JSON 数据：宫殿、皇帝、人物、事件与关系图谱。</p>
-        <a href="data/">查看数据 →</a>
+        <a href="data/">查看数据 &#8594;</a>
       </div>
     </div>
     <div class="card" style="margin-top: 2rem;">
       <h3>项目架构</h3>
-      <p>仿照 <a href="https://github.com/baojie/shiji-kb" style="color:#58a6ff;">shiji-kb（史记知识库）</a> 的五层架构，将故宫从线性介绍转为空间-人物-事件三维知识图谱。本体定义 → 实体数据 → 关系图谱 → 交互应用 → Wiki 百科。</p>
+      <p>以空间为核心的知识图谱架构：从故宫的建筑空间出发，串联皇帝起居轨迹、大臣活动范围与历史事件现场，构建空间-人物-事件三维关联网络。本体定义 &#8594; 实体数据 &#8594; 关系图谱 &#8594; 交互应用 &#8594; Wiki 百科。</p>
     </div>
   </div>
   <footer>
-    <p>Gugong Knowledge Graph MVP · 2026 · CC BY-NC-SA 4.0</p>
+    <p>Gugong Knowledge Graph MVP &#183; 2026 &#183; CC BY-NC-SA 4.0</p>
   </footer>
 </body>
 </html>

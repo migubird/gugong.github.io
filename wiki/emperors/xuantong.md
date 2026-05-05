@@ -1,8 +1,3 @@
----
-title: "清逊帝溥仪"
-layout: default
----
-
 # 清逊帝溥仪
 
 - **年号**：宣统
@@ -18,4 +13,3 @@ layout: default
 
 
 
-## 相关人物

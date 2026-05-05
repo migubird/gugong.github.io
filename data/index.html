@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>故宫知识图谱 - 数据层</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: "PingFang SC", "Microsoft YaHei", sans-serif; background: #0d1117; color: #e6edf3; min-height: 100vh; }
+    header { background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 2rem; text-align: center; border-bottom: 2px solid #c9a227; }
+    header h1 { font-size: 2rem; color: #c9a227; margin-bottom: 0.5rem; }
+    .container { max-width: 900px; margin: 2rem auto; padding: 0 1.5rem; }
+    .back-link { display: inline-block; color: #58a6ff; text-decoration: none; margin-bottom: 1.5rem; font-size: 1rem; }
+    .back-link:hover { text-decoration: underline; }
+    .file-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1rem; }
+    .file-card { background: #161b22; border: 1px solid #30363d; border-radius: 8px; padding: 1.2rem; }
+    .file-card h3 { color: #c9a227; font-size: 1rem; margin-bottom: 0.5rem; }
+    .file-card p { color: #8b949e; font-size: 0.9rem; line-height: 1.5; }
+    .file-card a { color: #58a6ff; text-decoration: none; }
+    .file-card a:hover { text-decoration: underline; }
+    .file-card .meta { color: #484f58; font-size: 0.8rem; margin-top: 0.5rem; }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>数据层</h1>
+    <p>开放 JSON 格式的知识图谱数据</p>
+  </header>
+  <div class="container">
+    <a class="back-link" href="../">&#8592; 返回主页</a>
+    <div class="file-grid">
+      <div class="file-card">
+        <h3><a href="ontology.json">ontology.json</a></h3>
+        <p>本体定义：实体类型（宫殿/人物/事件）与关系类型的 schema 描述</p>
+      </div>
+      <div class="file-card">
+        <h3><a href="palaces.json">palaces.json</a></h3>
+        <p>10 座核心宫殿数据：坐标、建筑尺寸、历史变迁与功能描述</p>
+      </div>
+      <div class="file-card">
+        <h3><a href="emperors.json">emperors.json</a></h3>
+        <p>10 位明清皇帝数据：在位时期、居所与关键事迹</p>
+      </div>
+      <div class="file-card">
+        <h3><a href="figures.json">figures.json</a></h3>
+        <p>30 位历史人物数据：大臣、后妃、太监等角色与生卒年</p>
+      </div>
+      <div class="file-card">
+        <h3><a href="events.json">events.json</a></h3>
+        <p>15 个关键历史事件：修建、政变、战争等</p>
+      </div>
+      <div class="file-card">
+        <h3><a href="relations.json">relations.json</a></h3>
+        <p>80+ 条关系连线：连接人物-宫殿-事件的图谱边数据</p>
+      </div>
+    </div>
+  </div>
+</body>
+</html>
