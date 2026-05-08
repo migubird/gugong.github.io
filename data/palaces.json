@@ -1,0 +1,1500 @@
+{
+  "taihe-dian": {
+    "id": "taihe-dian",
+    "name": "太和殿",
+    "aliases": [
+      "金銮殿",
+      "奉天殿"
+    ],
+    "category": "外朝大殿",
+    "built_year": 1420,
+    "rebuilt_years": [
+      1441,
+      1695
+    ],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 500,
+      "y": 280
+    },
+    "width": 100,
+    "height": 55,
+    "description": "故宫最大的宫殿，皇帝登基、大婚、命将出征、万寿节（皇帝生日）等重大典礼场所。殿内正中设金漆雕龙宝座，上悬\"建极绥猷\"匾额。",
+    "significance": "皇权象征，国家最高礼仪中心",
+    "dimensions": {
+      "width_m": 63.5,
+      "depth_m": 37.2,
+      "height_m": 35.05
+    },
+    "color": "#d4a017"
+  },
+  "zhonghe-dian": {
+    "id": "zhonghe-dian",
+    "name": "中和殿",
+    "aliases": [
+      "华盖殿"
+    ],
+    "category": "外朝大殿",
+    "built_year": 1420,
+    "rebuilt_years": [
+      1695
+    ],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 500,
+      "y": 350
+    },
+    "width": 55,
+    "height": 50,
+    "description": "皇帝去太和殿举行大典前在此休息、接受执事官朝拜之处。方形殿，四面开门。",
+    "significance": "大典前的准备场所",
+    "dimensions": {
+      "width_m": 24.15,
+      "depth_m": 24.15,
+      "height_m": 19.7
+    },
+    "color": "#d4a017"
+  },
+  "baohe-dian": {
+    "id": "baohe-dian",
+    "name": "保和殿",
+    "aliases": [
+      "谨身殿"
+    ],
+    "category": "外朝大殿",
+    "built_year": 1420,
+    "rebuilt_years": [
+      1695
+    ],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 500,
+      "y": 420
+    },
+    "width": 90,
+    "height": 50,
+    "description": "明代大典前皇帝更衣之处。清代为除夕、正月十五皇帝宴饮外藩王公及公主额驸的场所，也是殿试考场。",
+    "significance": "殿试场所，宴会厅",
+    "dimensions": {
+      "width_m": 53.4,
+      "depth_m": 27.75,
+      "height_m": 29.5
+    },
+    "color": "#d4a017"
+  },
+  "qianqing-gong": {
+    "id": "qianqing-gong",
+    "name": "乾清宫",
+    "aliases": [],
+    "category": "内廷后寝",
+    "built_year": 1420,
+    "rebuilt_years": [
+      1695,
+      1798
+    ],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 500,
+      "y": 520
+    },
+    "width": 90,
+    "height": 45,
+    "description": "明代至清初皇帝的寝宫和处理日常政务之所。清康熙前为皇帝寝宫，雍正后移至养心殿。\"正大光明\"匾后曾藏立储密匣。",
+    "significance": "皇帝寝宫（清初前），理政中心",
+    "dimensions": {
+      "width_m": 45.3,
+      "depth_m": 21.6,
+      "height_m": 20.0
+    },
+    "color": "#c0392b"
+  },
+  "jiaotai-dian": {
+    "id": "jiaotai-dian",
+    "name": "交泰殿",
+    "aliases": [],
+    "category": "内廷后寝",
+    "built_year": 1420,
+    "rebuilt_years": [
+      1695
+    ],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 500,
+      "y": 575
+    },
+    "width": 50,
+    "height": 40,
+    "description": "皇后生日、元旦、冬至接受朝贺之处。殿内正中设宝座，存放二十五方宝玺。后部设铜壶滴漏和自鸣钟。",
+    "significance": "皇后礼仪场所，存放宝玺",
+    "dimensions": {
+      "width_m": 20.3,
+      "depth_m": 16.8,
+      "height_m": 16.5
+    },
+    "color": "#c0392b"
+  },
+  "kunning-gong": {
+    "id": "kunning-gong",
+    "name": "坤宁宫",
+    "aliases": [],
+    "category": "内廷后寝",
+    "built_year": 1420,
+    "rebuilt_years": [
+      1695
+    ],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 500,
+      "y": 625
+    },
+    "width": 85,
+    "height": 45,
+    "description": "明代皇后寝宫。清代改为祭神场所，东暖阁为皇帝大婚洞房。殿内设有萨满教祭祀设施，保留满族传统。",
+    "significance": "皇后寝宫（明），祭神场所（清），大婚洞房",
+    "dimensions": {
+      "width_m": 42.8,
+      "depth_m": 16.3,
+      "height_m": 15.8
+    },
+    "color": "#c0392b"
+  },
+  "yanxi-gong": {
+    "id": "yanxi-gong",
+    "name": "延禧宫",
+    "aliases": [
+      "水晶宫"
+    ],
+    "category": "东西六宫",
+    "built_year": 1420,
+    "rebuilt_years": [
+      1851,
+      1909
+    ],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 680,
+      "y": 560
+    },
+    "width": 60,
+    "height": 40,
+    "description": "东西六宫之一。清代多位妃嫔曾居此。宣统元年（1909）改建为西式三层\"水晶宫\"，因辛亥革命停工。",
+    "significance": "妃嫔居所，晚清西洋建筑尝试",
+    "dimensions": {},
+    "color": "#8e44ad"
+  },
+  "chuxiu-gong": {
+    "id": "chuxiu-gong",
+    "name": "储秀宫",
+    "aliases": [],
+    "category": "东西六宫",
+    "built_year": 1420,
+    "rebuilt_years": [
+      1884
+    ],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 320,
+      "y": 560
+    },
+    "width": 60,
+    "height": 40,
+    "description": "西六宫之一。慈禧太后入宫时居于此，后为庆祝五十大寿斥巨资修缮。光绪大婚时，慈禧居于此宫。",
+    "significance": "慈禧入宫居所",
+    "dimensions": {},
+    "color": "#8e44ad"
+  },
+  "yangxindian": {
+    "id": "yangxindian",
+    "name": "养心殿",
+    "aliases": [],
+    "category": "内廷后寝",
+    "built_year": 1723,
+    "rebuilt_years": [],
+    "dynasty": "清",
+    "coordinates": {
+      "x": 390,
+      "y": 490
+    },
+    "width": 70,
+    "height": 50,
+    "description": "雍正起清代皇帝的寝宫和理政中心。\"勤政亲贤\"匾额下是皇帝日常办公之处。晚清慈禧太后在此垂帘听政。",
+    "significance": "清雍正后皇帝实际寝宫，垂帘听政地",
+    "dimensions": {},
+    "color": "#c0392b"
+  },
+  "junji-chu": {
+    "id": "junji-chu",
+    "name": "军机处",
+    "aliases": [],
+    "category": "附属建筑",
+    "built_year": 1729,
+    "rebuilt_years": [],
+    "dynasty": "清",
+    "coordinates": {
+      "x": 450,
+      "y": 450
+    },
+    "width": 35,
+    "height": 25,
+    "description": "雍正七年（1729）设立，清朝中后期实际最高权力机关。军机大臣在此每日觐见皇帝，处理军国大事。",
+    "significance": "清代中后期最高决策机构",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "taihe-men": {
+    "id": "taihe-men",
+    "name": "太和门",
+    "aliases": [
+      "奉天门"
+    ],
+    "category": "前朝门禁",
+    "built_year": 1420,
+    "rebuilt_years": [
+      1889
+    ],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 500,
+      "y": 200
+    },
+    "width": 100,
+    "height": 35,
+    "description": "外朝正门，皇帝御门听政之处。明代称奉天门。",
+    "significance": "外朝正门，御门听政",
+    "dimensions": {},
+    "color": "#d4a017"
+  },
+  "wu-men": {
+    "id": "wu-men",
+    "name": "午门",
+    "aliases": [
+      "五凤楼"
+    ],
+    "category": "前朝门禁",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 500,
+      "y": 100
+    },
+    "width": 120,
+    "height": 40,
+    "description": "紫禁城正南门，呈'凹'字形，中门为皇帝专用。举行献俘礼、颁布历书之处。",
+    "significance": "紫禁城正门，国家礼仪象征",
+    "dimensions": {},
+    "color": "#d4a017"
+  },
+  "duan-men": {
+    "id": "duan-men",
+    "name": "端门",
+    "aliases": [],
+    "category": "前朝门禁",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 500,
+      "y": 50
+    },
+    "width": 100,
+    "height": 35,
+    "description": "位于午门之北、天安门之南，形制与天安门相似。",
+    "significance": "皇城礼仪通道",
+    "dimensions": {},
+    "color": "#d4a017"
+  },
+  "wenhua-dian": {
+    "id": "wenhua-dian",
+    "name": "文华殿",
+    "aliases": [],
+    "category": "外朝大殿",
+    "built_year": 1420,
+    "rebuilt_years": [
+      1695
+    ],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 650,
+      "y": 300
+    },
+    "width": 70,
+    "height": 40,
+    "description": "外朝东侧大殿，明代为太子讲学之处。清代为经筵讲学之所，后设文华殿大学士。",
+    "significance": "太子讲学、经筵场所",
+    "dimensions": {},
+    "color": "#d4a017"
+  },
+  "wuying-dian": {
+    "id": "wuying-dian",
+    "name": "武英殿",
+    "aliases": [],
+    "category": "外朝大殿",
+    "built_year": 1420,
+    "rebuilt_years": [
+      1695
+    ],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 350,
+      "y": 300
+    },
+    "width": 70,
+    "height": 40,
+    "description": "外朝西侧大殿，明代皇帝斋居之处。清代设为修书处，武英殿刻印书籍闻名。",
+    "significance": "清代修书处、武英殿刻本",
+    "dimensions": {},
+    "color": "#d4a017"
+  },
+  "qianqing-men": {
+    "id": "qianqing-men",
+    "name": "乾清门",
+    "aliases": [],
+    "category": "内廷门禁",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 500,
+      "y": 470
+    },
+    "width": 80,
+    "height": 30,
+    "description": "内廷正门，清代御门听政改在此举行。",
+    "significance": "内廷正门，御门听政",
+    "dimensions": {},
+    "color": "#c0392b"
+  },
+  "jingren-gong": {
+    "id": "jingren-gong",
+    "name": "景仁宫",
+    "aliases": [],
+    "category": "东西六宫",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 620,
+      "y": 620
+    },
+    "width": 55,
+    "height": 35,
+    "description": "东六宫之一。康熙帝出生于此。东西六宫建筑布局相同。",
+    "significance": "妃嫔居所",
+    "dimensions": {},
+    "color": "#8e44ad"
+  },
+  "chengqian-gong": {
+    "id": "chengqian-gong",
+    "name": "承乾宫",
+    "aliases": [],
+    "category": "东西六宫",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 620,
+      "y": 680
+    },
+    "width": 55,
+    "height": 35,
+    "description": "东六宫之一。顺治帝董鄂妃居所。东西六宫建筑布局相同。",
+    "significance": "妃嫔居所",
+    "dimensions": {},
+    "color": "#8e44ad"
+  },
+  "zhongcui-gong": {
+    "id": "zhongcui-gong",
+    "name": "钟粹宫",
+    "aliases": [],
+    "category": "东西六宫",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 620,
+      "y": 740
+    },
+    "width": 55,
+    "height": 35,
+    "description": "东六宫之一。清代后妃居所。东西六宫建筑布局相同。",
+    "significance": "妃嫔居所",
+    "dimensions": {},
+    "color": "#8e44ad"
+  },
+  "yonghe-gong": {
+    "id": "yonghe-gong",
+    "name": "永和宫",
+    "aliases": [],
+    "category": "东西六宫",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 740,
+      "y": 680
+    },
+    "width": 55,
+    "height": 35,
+    "description": "东六宫之一。清代后妃居所。",
+    "significance": "妃嫔居所",
+    "dimensions": {},
+    "color": "#8e44ad"
+  },
+  "yikun-gong": {
+    "id": "yikun-gong",
+    "name": "翊坤宫",
+    "aliases": [],
+    "category": "东西六宫",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 380,
+      "y": 620
+    },
+    "width": 55,
+    "height": 35,
+    "description": "西六宫之一。清代后妃居所。",
+    "significance": "妃嫔居所",
+    "dimensions": {},
+    "color": "#8e44ad"
+  },
+  "changchun-gong": {
+    "id": "changchun-gong",
+    "name": "长春宫",
+    "aliases": [],
+    "category": "东西六宫",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 380,
+      "y": 680
+    },
+    "width": 55,
+    "height": 35,
+    "description": "西六宫之一。慈禧太后曾居于此，后迁储秀宫。",
+    "significance": "妃嫔居所",
+    "dimensions": {},
+    "color": "#8e44ad"
+  },
+  "xianfu-gong": {
+    "id": "xianfu-gong",
+    "name": "咸福宫",
+    "aliases": [],
+    "category": "东西六宫",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 380,
+      "y": 740
+    },
+    "width": 55,
+    "height": 35,
+    "description": "西六宫之一。清代后妃居所，嘉庆、道光、咸丰守孝处。",
+    "significance": "妃嫔居所",
+    "dimensions": {},
+    "color": "#8e44ad"
+  },
+  "yongshou-gong": {
+    "id": "yongshou-gong",
+    "name": "永寿宫",
+    "aliases": [],
+    "category": "东西六宫",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 260,
+      "y": 620
+    },
+    "width": 55,
+    "height": 35,
+    "description": "西六宫之一。清代后妃居所。",
+    "significance": "妃嫔居所",
+    "dimensions": {},
+    "color": "#8e44ad"
+  },
+  "taiji-dian": {
+    "id": "taiji-dian",
+    "name": "太极殿",
+    "aliases": [],
+    "category": "东西六宫",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 260,
+      "y": 680
+    },
+    "width": 55,
+    "height": 35,
+    "description": "西六宫之一，原名启祥宫。清代后妃居所。",
+    "significance": "妃嫔居所",
+    "dimensions": {},
+    "color": "#8e44ad"
+  },
+  "cining-gong": {
+    "id": "cining-gong",
+    "name": "慈宁宫",
+    "aliases": [],
+    "category": "附属宫殿",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 260,
+      "y": 420
+    },
+    "width": 60,
+    "height": 40,
+    "description": "太后居所。孝庄太后、慈安太后等曾居于此。",
+    "significance": "皇家礼仪场所",
+    "dimensions": {},
+    "color": "#c0392b"
+  },
+  "shoukang-gong": {
+    "id": "shoukang-gong",
+    "name": "寿康宫",
+    "aliases": [],
+    "category": "附属宫殿",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 260,
+      "y": 480
+    },
+    "width": 60,
+    "height": 40,
+    "description": "乾隆帝为生母崇庆皇太后所建。",
+    "significance": "皇家礼仪场所",
+    "dimensions": {},
+    "color": "#c0392b"
+  },
+  "ning-shougong": {
+    "id": "ning-shougong",
+    "name": "宁寿宫",
+    "aliases": [],
+    "category": "附属宫殿",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 740,
+      "y": 400
+    },
+    "width": 60,
+    "height": 40,
+    "description": "乾隆帝为退位后养老所建。珍妃井在此区域内。",
+    "significance": "皇家礼仪场所",
+    "dimensions": {},
+    "color": "#c0392b"
+  },
+  "fengxian-dian": {
+    "id": "fengxian-dian",
+    "name": "奉先殿",
+    "aliases": [],
+    "category": "附属宫殿",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 640,
+      "y": 450
+    },
+    "width": 60,
+    "height": 40,
+    "description": "皇家祭祀祖先之所。",
+    "significance": "皇家礼仪场所",
+    "dimensions": {},
+    "color": "#c0392b"
+  },
+  "chuanxindian": {
+    "id": "chuanxindian",
+    "name": "传心殿",
+    "aliases": [],
+    "category": "附属宫殿",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 680,
+      "y": 260
+    },
+    "width": 60,
+    "height": 40,
+    "description": "祭祀先师孔子之所。",
+    "significance": "皇家礼仪场所",
+    "dimensions": {},
+    "color": "#c0392b"
+  },
+  "yu-huayuan": {
+    "id": "yu-huayuan",
+    "name": "御花园",
+    "aliases": [],
+    "category": "园林建筑",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 500,
+      "y": 700
+    },
+    "width": 120,
+    "height": 60,
+    "description": "紫禁城内最大的花园，位于坤宁宫后方。内有千秋亭、万春亭、钦安殿等。",
+    "significance": "皇家御花园",
+    "dimensions": {},
+    "color": "#27ae60"
+  },
+  "cining-huayuan": {
+    "id": "cining-huayuan",
+    "name": "慈宁宫花园",
+    "aliases": [],
+    "category": "园林建筑",
+    "built_year": 1536,
+    "rebuilt_years": [],
+    "dynasty": "明",
+    "coordinates": {
+      "x": 200,
+      "y": 450
+    },
+    "width": 60,
+    "height": 50,
+    "description": "慈宁宫西侧花园，太后太妃们游赏之处。",
+    "significance": "太后花园",
+    "dimensions": {},
+    "color": "#27ae60"
+  },
+  "ningshou-huayuan": {
+    "id": "ningshou-huayuan",
+    "name": "宁寿宫花园",
+    "aliases": [
+      "乾隆花园"
+    ],
+    "category": "园林建筑",
+    "built_year": 1771,
+    "rebuilt_years": [],
+    "dynasty": "清",
+    "coordinates": {
+      "x": 740,
+      "y": 480
+    },
+    "width": 60,
+    "height": 80,
+    "description": "又称乾隆花园，位于宁寿宫区域西北，是乾隆帝为自己退位后修建的花园。内有古华轩、遂初堂等。",
+    "significance": "乾隆帝养老花园",
+    "dimensions": {},
+    "color": "#27ae60"
+  },
+  "shenwu-men": {
+    "id": "shenwu-men",
+    "name": "神武门",
+    "aliases": [],
+    "category": "外朝门禁",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 500,
+      "y": 800
+    },
+    "width": 70,
+    "height": 30,
+    "description": "紫禁城北门。原名玄武门，清代避康熙讳改名。",
+    "significance": "宫城门禁",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "donghua-men": {
+    "id": "donghua-men",
+    "name": "东华门",
+    "aliases": [],
+    "category": "外朝门禁",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 820,
+      "y": 450
+    },
+    "width": 70,
+    "height": 30,
+    "description": "紫禁城东门。",
+    "significance": "宫城门禁",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "xihua-men": {
+    "id": "xihua-men",
+    "name": "西华门",
+    "aliases": [],
+    "category": "外朝门禁",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 180,
+      "y": 450
+    },
+    "width": 70,
+    "height": 30,
+    "description": "紫禁城西门。",
+    "significance": "宫城门禁",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "wenhuadian-ge": {
+    "id": "wenhuadian-ge",
+    "name": "文渊阁",
+    "aliases": [],
+    "category": "附属建筑",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 680,
+      "y": 350
+    },
+    "width": 45,
+    "height": 30,
+    "description": "乾隆年间修建，专藏《四库全书》。仿宁波天一阁建造。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "nansansuo": {
+    "id": "nansansuo",
+    "name": "南三所",
+    "aliases": [],
+    "category": "附属建筑",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 660,
+      "y": 520
+    },
+    "width": 45,
+    "height": 30,
+    "description": "皇子居所，位于外朝东侧。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "chunhua-dian": {
+    "id": "chunhua-dian",
+    "name": "淳化轩",
+    "aliases": [],
+    "category": "附属建筑",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 740,
+      "y": 560
+    },
+    "width": 45,
+    "height": 30,
+    "description": "宁寿宫区域内建筑。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "huangjidian": {
+    "id": "huangjidian",
+    "name": "皇极殿",
+    "aliases": [],
+    "category": "附属宫殿",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 740,
+      "y": 440
+    },
+    "width": 45,
+    "height": 30,
+    "description": "宁寿宫区正殿，乾隆退位后在此受贺。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "le-shoutang": {
+    "id": "le-shoutang",
+    "name": "乐寿堂",
+    "aliases": [],
+    "category": "附属宫殿",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 740,
+      "y": 520
+    },
+    "width": 45,
+    "height": 30,
+    "description": "宁寿宫区域建筑，慈禧太后曾居于此。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "yangxing-zhai": {
+    "id": "yangxing-zhai",
+    "name": "养性斋",
+    "aliases": [],
+    "category": "附属建筑",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 600,
+      "y": 720
+    },
+    "width": 45,
+    "height": 30,
+    "description": "御花园西侧建筑。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "qianqiu-ting": {
+    "id": "qianqiu-ting",
+    "name": "千秋亭",
+    "aliases": [],
+    "category": "园林建筑",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 460,
+      "y": 720
+    },
+    "width": 45,
+    "height": 30,
+    "description": "御花园内亭子，与万春亭对称。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "wanchun-ting": {
+    "id": "wanchun-ting",
+    "name": "万春亭",
+    "aliases": [],
+    "category": "园林建筑",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 540,
+      "y": 720
+    },
+    "width": 45,
+    "height": 30,
+    "description": "御花园内亭子，与千秋亭对称。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "qinan-dian": {
+    "id": "qinan-dian",
+    "name": "钦安殿",
+    "aliases": [],
+    "category": "园林建筑",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 500,
+      "y": 760
+    },
+    "width": 45,
+    "height": 30,
+    "description": "御花园正中，供奉玄武大帝。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "ciqiku": {
+    "id": "ciqiku",
+    "name": "瓷器库",
+    "aliases": [],
+    "category": "附属建筑",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 200,
+      "y": 350
+    },
+    "width": 45,
+    "height": 30,
+    "description": "宫廷库房之一。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "duan-yi-men": {
+    "id": "duan-yi-men",
+    "name": "端仪门",
+    "aliases": [],
+    "category": "内廷门禁",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 400,
+      "y": 470
+    },
+    "width": 45,
+    "height": 30,
+    "description": "乾清门广场侧门。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "jing-yun-men": {
+    "id": "jing-yun-men",
+    "name": "景运门",
+    "aliases": [],
+    "category": "内廷门禁",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 600,
+      "y": 470
+    },
+    "width": 45,
+    "height": 30,
+    "description": "乾清门广场东侧门。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "hongyi-dian": {
+    "id": "hongyi-dian",
+    "name": "弘义阁",
+    "aliases": [],
+    "category": "附属建筑",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 420,
+      "y": 200
+    },
+    "width": 40,
+    "height": 30,
+    "description": "太和殿广场西侧楼阁。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "tiyi-dian": {
+    "id": "tiyi-dian",
+    "name": "体仁阁",
+    "aliases": [],
+    "category": "附属建筑",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 580,
+      "y": 200
+    },
+    "width": 40,
+    "height": 30,
+    "description": "太和殿广场东侧楼阁。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "zhaode-men": {
+    "id": "zhaode-men",
+    "name": "昭德门",
+    "aliases": [],
+    "category": "前朝门禁",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 580,
+      "y": 180
+    },
+    "width": 40,
+    "height": 30,
+    "description": "太和门广场侧门。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "zhendu-men": {
+    "id": "zhendu-men",
+    "name": "贞度门",
+    "aliases": [],
+    "category": "前朝门禁",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 420,
+      "y": 180
+    },
+    "width": 40,
+    "height": 30,
+    "description": "太和门广场侧门。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "xianhuamen": {
+    "id": "xianhuamen",
+    "name": "协和门",
+    "aliases": [],
+    "category": "前朝门禁",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 580,
+      "y": 230
+    },
+    "width": 40,
+    "height": 30,
+    "description": "前朝区域门。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "xiximen": {
+    "id": "xiximen",
+    "name": "熙和门",
+    "aliases": [],
+    "category": "前朝门禁",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 420,
+      "y": 230
+    },
+    "width": 40,
+    "height": 30,
+    "description": "前朝区域门。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "cangku-fang": {
+    "id": "cangku-fang",
+    "name": "方略馆",
+    "aliases": [],
+    "category": "附属建筑",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 350,
+      "y": 350
+    },
+    "width": 40,
+    "height": 30,
+    "description": "武英殿旁修书场所。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "wenyuan-dian": {
+    "id": "wenyuan-dian",
+    "name": "文渊殿",
+    "aliases": [],
+    "category": "附属建筑",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 650,
+      "y": 370
+    },
+    "width": 40,
+    "height": 30,
+    "description": "文华殿后殿。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "zhushengfang": {
+    "id": "zhushengfang",
+    "name": "主善斋",
+    "aliases": [],
+    "category": "附属建筑",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 260,
+      "y": 540
+    },
+    "width": 40,
+    "height": 30,
+    "description": "西六宫区域建筑。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "yifangzhai": {
+    "id": "yifangzhai",
+    "name": "怡芳斋",
+    "aliases": [],
+    "category": "附属建筑",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 200,
+      "y": 580
+    },
+    "width": 40,
+    "height": 30,
+    "description": "西六宫区域建筑。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "daxue-shi": {
+    "id": "daxue-shi",
+    "name": "翰林院",
+    "aliases": [],
+    "category": "附属建筑",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 700,
+      "y": 380
+    },
+    "width": 40,
+    "height": 30,
+    "description": "文华殿附近，翰林办公处。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "yuyuan-dian": {
+    "id": "yuyuan-dian",
+    "name": "毓庆宫",
+    "aliases": [],
+    "category": "附属宫殿",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明清",
+    "coordinates": {
+      "x": 640,
+      "y": 560
+    },
+    "width": 40,
+    "height": 30,
+    "description": "同治、光绪读书处。",
+    "significance": "宫廷建筑",
+    "dimensions": {},
+    "color": "#7f8c8d"
+  },
+  "nei-wu-fu": {
+    "id": "nei-wu-fu",
+    "name": "内务府",
+    "aliases": [
+      "内务府"
+    ],
+    "category": "服务",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明",
+    "coordinates": {
+      "x": 200,
+      "y": 600
+    },
+    "width": 80,
+    "height": 40,
+    "description": "管理皇室内部事务的机构",
+    "significance": "宫廷行政中心",
+    "dimensions": {
+      "width": 80,
+      "height": 40
+    },
+    "color": "#808080"
+  },
+  "zuoyi-men": {
+    "id": "zuoyi-men",
+    "name": "左翼门",
+    "aliases": [
+      "左翼门"
+    ],
+    "category": "门禁",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明",
+    "coordinates": {
+      "x": 450,
+      "y": 550
+    },
+    "width": 30,
+    "height": 20,
+    "description": "太和殿左侧门",
+    "significance": "礼仪通道",
+    "dimensions": {
+      "width": 30,
+      "height": 20
+    },
+    "color": "#8B4513"
+  },
+  "youyi-men": {
+    "id": "youyi-men",
+    "name": "右翼门",
+    "aliases": [
+      "右翼门"
+    ],
+    "category": "门禁",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明",
+    "coordinates": {
+      "x": 550,
+      "y": 550
+    },
+    "width": 30,
+    "height": 20,
+    "description": "太和殿右侧门",
+    "significance": "礼仪通道",
+    "dimensions": {
+      "width": 30,
+      "height": 20
+    },
+    "color": "#8B4513"
+  },
+  "wuying-men": {
+    "id": "wuying-men",
+    "name": "武英门",
+    "aliases": [
+      "武英门"
+    ],
+    "category": "门禁",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明",
+    "coordinates": {
+      "x": 150,
+      "y": 300
+    },
+    "width": 30,
+    "height": 20,
+    "description": "武英殿正门",
+    "significance": "",
+    "dimensions": {
+      "width": 30,
+      "height": 20
+    },
+    "color": "#8B4513"
+  },
+  "wenhua-men": {
+    "id": "wenhua-men",
+    "name": "文华门",
+    "aliases": [
+      "文华门"
+    ],
+    "category": "门禁",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明",
+    "coordinates": {
+      "x": 750,
+      "y": 300
+    },
+    "width": 30,
+    "height": 20,
+    "description": "文华殿正门",
+    "significance": "",
+    "dimensions": {
+      "width": 30,
+      "height": 20
+    },
+    "color": "#8B4513"
+  },
+  "jingyun-men": {
+    "id": "jingyun-men",
+    "name": "景运门",
+    "aliases": [
+      "景运门"
+    ],
+    "category": "门禁",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明",
+    "coordinates": {
+      "x": 600,
+      "y": 500
+    },
+    "width": 30,
+    "height": 20,
+    "description": "内廷东侧门",
+    "significance": "",
+    "dimensions": {
+      "width": 30,
+      "height": 20
+    },
+    "color": "#8B4513"
+  },
+  "longzong-men": {
+    "id": "longzong-men",
+    "name": "隆宗门",
+    "aliases": [
+      "隆宗门"
+    ],
+    "category": "门禁",
+    "built_year": 1420,
+    "rebuilt_years": [],
+    "dynasty": "明",
+    "coordinates": {
+      "x": 400,
+      "y": 500
+    },
+    "width": 30,
+    "height": 20,
+    "description": "内廷西侧门",
+    "significance": "",
+    "dimensions": {
+      "width": 30,
+      "height": 20
+    },
+    "color": "#8B4513"
+  },
+  "ning-shou-gong": {
+    "id": "ning-shou-gong",
+    "name": "宁寿宫",
+    "aliases": [
+      "宁寿宫",
+      "宁寿宫区"
+    ],
+    "category": "内廷",
+    "built_year": 1695,
+    "rebuilt_years": [
+      1771
+    ],
+    "dynasty": "清",
+    "coordinates": {
+      "x": 700,
+      "y": 650
+    },
+    "width": 60,
+    "height": 35,
+    "description": "乾隆帝退位后居所",
+    "significance": "太上皇宫殿",
+    "dimensions": {
+      "width": 60,
+      "height": 35
+    },
+    "color": "#B8860B"
+  },
+  "huang-ji-dian": {
+    "id": "huang-ji-dian",
+    "name": "皇极殿",
+    "aliases": [
+      "皇极殿"
+    ],
+    "category": "内廷",
+    "built_year": 1771,
+    "rebuilt_years": [],
+    "dynasty": "清",
+    "coordinates": {
+      "x": 700,
+      "y": 600
+    },
+    "width": 55,
+    "height": 30,
+    "description": "宁寿宫区主殿，乾隆禅位后受朝贺处",
+    "significance": "禅位大典",
+    "dimensions": {
+      "width": 55,
+      "height": 30
+    },
+    "color": "#DAA520"
+  },
+  "ci-shou-gong": {
+    "id": "ci-shou-gong",
+    "name": "慈寿宫",
+    "aliases": [
+      "慈寿宫"
+    ],
+    "category": "内廷",
+    "built_year": 1536,
+    "rebuilt_years": [],
+    "dynasty": "明",
+    "coordinates": {
+      "x": 300,
+      "y": 750
+    },
+    "width": 45,
+    "height": 25,
+    "description": "太后居所之一",
+    "significance": "",
+    "dimensions": {
+      "width": 45,
+      "height": 25
+    },
+    "color": "#CD853F"
+  },
+  "shang-shu-fang": {
+    "id": "shang-shu-fang",
+    "name": "尚书房",
+    "aliases": [
+      "尚书房",
+      "上书房"
+    ],
+    "category": "服务",
+    "built_year": 1722,
+    "rebuilt_years": [],
+    "dynasty": "清",
+    "coordinates": {
+      "x": 550,
+      "y": 450
+    },
+    "width": 35,
+    "height": 20,
+    "description": "皇子皇孙读书之所",
+    "significance": "皇家教育场所",
+    "dimensions": {
+      "width": 35,
+      "height": 20
+    },
+    "color": "#8B6914"
+  },
+  "ying-hua-dian": {
+    "id": "ying-hua-dian",
+    "name": "英华殿",
+    "aliases": [
+      "英华殿"
+    ],
+    "category": "祭祀",
+    "built_year": 1420,
+    "rebuilt_years": [
+      1597
+    ],
+    "dynasty": "明",
+    "coordinates": {
+      "x": 350,
+      "y": 400
+    },
+    "width": 40,
+    "height": 25,
+    "description": "宫中佛殿，后妃礼佛之所",
+    "significance": "",
+    "dimensions": {
+      "width": 40,
+      "height": 25
+    },
+    "color": "#CD853F"
+  }
+}

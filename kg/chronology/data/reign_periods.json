@@ -1,0 +1,184 @@
+{
+  "yongle": {
+    "name": "明成祖朱棣",
+    "era_name": "永乐",
+    "reign_start": 1402,
+    "reign_end": 1424,
+    "dynasty": "明"
+  },
+  "jiajing": {
+    "name": "明世宗朱厚熜",
+    "era_name": "嘉靖",
+    "reign_start": 1521,
+    "reign_end": 1566,
+    "dynasty": "明"
+  },
+  "wanli": {
+    "name": "明神宗朱翊钧",
+    "era_name": "万历",
+    "reign_start": 1572,
+    "reign_end": 1620,
+    "dynasty": "明"
+  },
+  "chongzhen": {
+    "name": "明思宗朱由检",
+    "era_name": "崇祯",
+    "reign_start": 1627,
+    "reign_end": 1644,
+    "dynasty": "明"
+  },
+  "kangxi": {
+    "name": "清圣祖玄烨",
+    "era_name": "康熙",
+    "reign_start": 1661,
+    "reign_end": 1722,
+    "dynasty": "清"
+  },
+  "yongzheng": {
+    "name": "清世宗胤禛",
+    "era_name": "雍正",
+    "reign_start": 1722,
+    "reign_end": 1735,
+    "dynasty": "清"
+  },
+  "qianlong": {
+    "name": "清高宗弘历",
+    "era_name": "乾隆",
+    "reign_start": 1735,
+    "reign_end": 1795,
+    "dynasty": "清"
+  },
+  "daoguang": {
+    "name": "清宣宗旻宁",
+    "era_name": "道光",
+    "reign_start": 1820,
+    "reign_end": 1850,
+    "dynasty": "清"
+  },
+  "guangxu": {
+    "name": "清德宗载湉",
+    "era_name": "光绪",
+    "reign_start": 1875,
+    "reign_end": 1908,
+    "dynasty": "清"
+  },
+  "xuantong": {
+    "name": "清逊帝溥仪",
+    "era_name": "宣统",
+    "reign_start": 1908,
+    "reign_end": 1912,
+    "dynasty": "清"
+  },
+  "hongwu": {
+    "name": "明太祖朱元璋",
+    "era_name": "洪武",
+    "reign_start": 1368,
+    "reign_end": 1398,
+    "dynasty": "明"
+  },
+  "jianwen": {
+    "name": "明惠帝朱允炆",
+    "era_name": "建文",
+    "reign_start": 1398,
+    "reign_end": 1402,
+    "dynasty": "明"
+  },
+  "hongxi": {
+    "name": "明仁宗朱高炽",
+    "era_name": "洪熙",
+    "reign_start": 1424,
+    "reign_end": 1425,
+    "dynasty": "明"
+  },
+  "xuande": {
+    "name": "明宣宗朱瞻基",
+    "era_name": "宣德",
+    "reign_start": 1425,
+    "reign_end": 1435,
+    "dynasty": "明"
+  },
+  "zhengtong": {
+    "name": "明英宗朱祁镇",
+    "era_name": "正统",
+    "reign_start": 1435,
+    "reign_end": 1449,
+    "dynasty": "明"
+  },
+  "jingtai": {
+    "name": "明代宗朱祁钰",
+    "era_name": "景泰",
+    "reign_start": 1449,
+    "reign_end": 1457,
+    "dynasty": "明"
+  },
+  "chenghua": {
+    "name": "明宪宗朱见深",
+    "era_name": "成化",
+    "reign_start": 1464,
+    "reign_end": 1487,
+    "dynasty": "明"
+  },
+  "hongzhi": {
+    "name": "明孝宗朱祐樘",
+    "era_name": "弘治",
+    "reign_start": 1487,
+    "reign_end": 1505,
+    "dynasty": "明"
+  },
+  "zhengde": {
+    "name": "明武宗朱厚照",
+    "era_name": "正德",
+    "reign_start": 1505,
+    "reign_end": 1521,
+    "dynasty": "明"
+  },
+  "longqing": {
+    "name": "明穆宗朱载坖",
+    "era_name": "隆庆",
+    "reign_start": 1521,
+    "reign_end": 1567,
+    "dynasty": "明"
+  },
+  "taichang": {
+    "name": "明光宗朱常洛",
+    "era_name": "泰昌",
+    "reign_start": 1620,
+    "reign_end": 1620,
+    "dynasty": "明"
+  },
+  "tianqi": {
+    "name": "明熹宗朱由校",
+    "era_name": "天启",
+    "reign_start": 1620,
+    "reign_end": 1627,
+    "dynasty": "明"
+  },
+  "shunzhi": {
+    "name": "清世祖福临",
+    "era_name": "顺治",
+    "reign_start": 1643,
+    "reign_end": 1661,
+    "dynasty": "清"
+  },
+  "xianfeng": {
+    "name": "清文宗奕詝",
+    "era_name": "咸丰",
+    "reign_start": 1850,
+    "reign_end": 1861,
+    "dynasty": "清"
+  },
+  "tongzhi": {
+    "name": "清穆宗载淳",
+    "era_name": "同治",
+    "reign_start": 1861,
+    "reign_end": 1875,
+    "dynasty": "清"
+  },
+  "jiaqing": {
+    "name": "颙琰",
+    "era_name": "嘉庆",
+    "reign_start": 1796,
+    "reign_end": 1820,
+    "dynasty": "清"
+  }
+}

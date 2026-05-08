@@ -1,0 +1,1606 @@
+{
+  "太和殿": {
+    "url": "docs/palaces/taihe-dian.html",
+    "type": "palace"
+  },
+  "金銮殿": {
+    "url": "docs/palaces/taihe-dian.html",
+    "type": "palace"
+  },
+  "奉天殿": {
+    "url": "docs/palaces/taihe-dian.html",
+    "type": "palace"
+  },
+  "中和殿": {
+    "url": "docs/palaces/zhonghe-dian.html",
+    "type": "palace"
+  },
+  "华盖殿": {
+    "url": "docs/palaces/zhonghe-dian.html",
+    "type": "palace"
+  },
+  "保和殿": {
+    "url": "docs/palaces/baohe-dian.html",
+    "type": "palace"
+  },
+  "谨身殿": {
+    "url": "docs/palaces/baohe-dian.html",
+    "type": "palace"
+  },
+  "乾清宫": {
+    "url": "docs/palaces/qianqing-gong.html",
+    "type": "palace"
+  },
+  "交泰殿": {
+    "url": "docs/palaces/jiaotai-dian.html",
+    "type": "palace"
+  },
+  "坤宁宫": {
+    "url": "docs/palaces/kunning-gong.html",
+    "type": "palace"
+  },
+  "延禧宫": {
+    "url": "docs/palaces/yanxi-gong.html",
+    "type": "palace"
+  },
+  "水晶宫": {
+    "url": "docs/palaces/yanxi-gong.html",
+    "type": "palace"
+  },
+  "储秀宫": {
+    "url": "docs/palaces/chuxiu-gong.html",
+    "type": "palace"
+  },
+  "养心殿": {
+    "url": "docs/palaces/yangxindian.html",
+    "type": "palace"
+  },
+  "军机处": {
+    "url": "docs/palaces/junji-chu.html",
+    "type": "palace"
+  },
+  "太和门": {
+    "url": "docs/palaces/taihe-men.html",
+    "type": "palace"
+  },
+  "奉天门": {
+    "url": "docs/palaces/taihe-men.html",
+    "type": "palace"
+  },
+  "午门": {
+    "url": "docs/palaces/wu-men.html",
+    "type": "palace"
+  },
+  "五凤楼": {
+    "url": "docs/palaces/wu-men.html",
+    "type": "palace"
+  },
+  "端门": {
+    "url": "docs/palaces/duan-men.html",
+    "type": "palace"
+  },
+  "文华殿": {
+    "url": "docs/palaces/wenhua-dian.html",
+    "type": "palace"
+  },
+  "武英殿": {
+    "url": "docs/palaces/wuying-dian.html",
+    "type": "palace"
+  },
+  "乾清门": {
+    "url": "docs/palaces/qianqing-men.html",
+    "type": "palace"
+  },
+  "景仁宫": {
+    "url": "docs/palaces/jingren-gong.html",
+    "type": "palace"
+  },
+  "承乾宫": {
+    "url": "docs/palaces/chengqian-gong.html",
+    "type": "palace"
+  },
+  "钟粹宫": {
+    "url": "docs/palaces/zhongcui-gong.html",
+    "type": "palace"
+  },
+  "永和宫": {
+    "url": "docs/palaces/yonghe-gong.html",
+    "type": "palace"
+  },
+  "翊坤宫": {
+    "url": "docs/palaces/yikun-gong.html",
+    "type": "palace"
+  },
+  "长春宫": {
+    "url": "docs/palaces/changchun-gong.html",
+    "type": "palace"
+  },
+  "咸福宫": {
+    "url": "docs/palaces/xianfu-gong.html",
+    "type": "palace"
+  },
+  "永寿宫": {
+    "url": "docs/palaces/yongshou-gong.html",
+    "type": "palace"
+  },
+  "太极殿": {
+    "url": "docs/palaces/taiji-dian.html",
+    "type": "palace"
+  },
+  "慈宁宫": {
+    "url": "docs/palaces/cining-gong.html",
+    "type": "palace"
+  },
+  "寿康宫": {
+    "url": "docs/palaces/shoukang-gong.html",
+    "type": "palace"
+  },
+  "宁寿宫": {
+    "url": "docs/palaces/ning-shou-gong.html",
+    "type": "palace"
+  },
+  "奉先殿": {
+    "url": "docs/palaces/fengxian-dian.html",
+    "type": "palace"
+  },
+  "传心殿": {
+    "url": "docs/palaces/chuanxindian.html",
+    "type": "palace"
+  },
+  "御花园": {
+    "url": "docs/palaces/yu-huayuan.html",
+    "type": "palace"
+  },
+  "慈宁宫花园": {
+    "url": "docs/palaces/cining-huayuan.html",
+    "type": "palace"
+  },
+  "宁寿宫花园": {
+    "url": "docs/palaces/ningshou-huayuan.html",
+    "type": "palace"
+  },
+  "乾隆花园": {
+    "url": "docs/palaces/ningshou-huayuan.html",
+    "type": "palace"
+  },
+  "神武门": {
+    "url": "docs/palaces/shenwu-men.html",
+    "type": "palace"
+  },
+  "东华门": {
+    "url": "docs/palaces/donghua-men.html",
+    "type": "palace"
+  },
+  "西华门": {
+    "url": "docs/palaces/xihua-men.html",
+    "type": "palace"
+  },
+  "文渊阁": {
+    "url": "docs/palaces/wenhuadian-ge.html",
+    "type": "palace"
+  },
+  "南三所": {
+    "url": "docs/palaces/nansansuo.html",
+    "type": "palace"
+  },
+  "淳化轩": {
+    "url": "docs/palaces/chunhua-dian.html",
+    "type": "palace"
+  },
+  "皇极殿": {
+    "url": "docs/palaces/huang-ji-dian.html",
+    "type": "palace"
+  },
+  "乐寿堂": {
+    "url": "docs/palaces/le-shoutang.html",
+    "type": "palace"
+  },
+  "养性斋": {
+    "url": "docs/palaces/yangxing-zhai.html",
+    "type": "palace"
+  },
+  "千秋亭": {
+    "url": "docs/palaces/qianqiu-ting.html",
+    "type": "palace"
+  },
+  "万春亭": {
+    "url": "docs/palaces/wanchun-ting.html",
+    "type": "palace"
+  },
+  "钦安殿": {
+    "url": "docs/palaces/qinan-dian.html",
+    "type": "palace"
+  },
+  "瓷器库": {
+    "url": "docs/palaces/ciqiku.html",
+    "type": "palace"
+  },
+  "端仪门": {
+    "url": "docs/palaces/duan-yi-men.html",
+    "type": "palace"
+  },
+  "景运门": {
+    "url": "docs/palaces/jingyun-men.html",
+    "type": "palace"
+  },
+  "弘义阁": {
+    "url": "docs/palaces/hongyi-dian.html",
+    "type": "palace"
+  },
+  "体仁阁": {
+    "url": "docs/palaces/tiyi-dian.html",
+    "type": "palace"
+  },
+  "昭德门": {
+    "url": "docs/palaces/zhaode-men.html",
+    "type": "palace"
+  },
+  "贞度门": {
+    "url": "docs/palaces/zhendu-men.html",
+    "type": "palace"
+  },
+  "协和门": {
+    "url": "docs/palaces/xianhuamen.html",
+    "type": "palace"
+  },
+  "熙和门": {
+    "url": "docs/palaces/xiximen.html",
+    "type": "palace"
+  },
+  "方略馆": {
+    "url": "docs/palaces/cangku-fang.html",
+    "type": "palace"
+  },
+  "文渊殿": {
+    "url": "docs/palaces/wenyuan-dian.html",
+    "type": "palace"
+  },
+  "主善斋": {
+    "url": "docs/palaces/zhushengfang.html",
+    "type": "palace"
+  },
+  "怡芳斋": {
+    "url": "docs/palaces/yifangzhai.html",
+    "type": "palace"
+  },
+  "翰林院": {
+    "url": "docs/palaces/daxue-shi.html",
+    "type": "palace"
+  },
+  "毓庆宫": {
+    "url": "docs/palaces/yuyuan-dian.html",
+    "type": "palace"
+  },
+  "内务府": {
+    "url": "docs/palaces/nei-wu-fu.html",
+    "type": "palace"
+  },
+  "左翼门": {
+    "url": "docs/palaces/zuoyi-men.html",
+    "type": "palace"
+  },
+  "右翼门": {
+    "url": "docs/palaces/youyi-men.html",
+    "type": "palace"
+  },
+  "武英门": {
+    "url": "docs/palaces/wuying-men.html",
+    "type": "palace"
+  },
+  "文华门": {
+    "url": "docs/palaces/wenhua-men.html",
+    "type": "palace"
+  },
+  "隆宗门": {
+    "url": "docs/palaces/longzong-men.html",
+    "type": "palace"
+  },
+  "宁寿宫区": {
+    "url": "docs/palaces/ning-shou-gong.html",
+    "type": "palace"
+  },
+  "慈寿宫": {
+    "url": "docs/palaces/ci-shou-gong.html",
+    "type": "palace"
+  },
+  "尚书房": {
+    "url": "docs/palaces/shang-shu-fang.html",
+    "type": "palace"
+  },
+  "上书房": {
+    "url": "docs/palaces/shang-shu-fang.html",
+    "type": "palace"
+  },
+  "英华殿": {
+    "url": "docs/palaces/ying-hua-dian.html",
+    "type": "palace"
+  },
+  "明成祖朱棣": {
+    "url": "docs/emperors/yongle.html",
+    "type": "emperor"
+  },
+  "永乐": {
+    "url": "docs/emperors/yongle.html",
+    "type": "emperor"
+  },
+  "明世宗朱厚熜": {
+    "url": "docs/emperors/jiajing.html",
+    "type": "emperor"
+  },
+  "嘉靖": {
+    "url": "docs/emperors/jiajing.html",
+    "type": "emperor"
+  },
+  "明神宗朱翊钧": {
+    "url": "docs/emperors/wanli.html",
+    "type": "emperor"
+  },
+  "万历": {
+    "url": "docs/emperors/wanli.html",
+    "type": "emperor"
+  },
+  "明思宗朱由检": {
+    "url": "docs/emperors/chongzhen.html",
+    "type": "emperor"
+  },
+  "崇祯": {
+    "url": "docs/emperors/chongzhen.html",
+    "type": "emperor"
+  },
+  "清圣祖玄烨": {
+    "url": "docs/emperors/kangxi.html",
+    "type": "emperor"
+  },
+  "康熙": {
+    "url": "docs/emperors/kangxi.html",
+    "type": "emperor"
+  },
+  "清世宗胤禛": {
+    "url": "docs/emperors/yongzheng.html",
+    "type": "emperor"
+  },
+  "雍正": {
+    "url": "docs/emperors/yongzheng.html",
+    "type": "emperor"
+  },
+  "清高宗弘历": {
+    "url": "docs/emperors/qianlong.html",
+    "type": "emperor"
+  },
+  "乾隆": {
+    "url": "docs/emperors/qianlong.html",
+    "type": "emperor"
+  },
+  "清宣宗旻宁": {
+    "url": "docs/emperors/daoguang.html",
+    "type": "emperor"
+  },
+  "道光": {
+    "url": "docs/emperors/daoguang.html",
+    "type": "emperor"
+  },
+  "清德宗载湉": {
+    "url": "docs/emperors/guangxu.html",
+    "type": "emperor"
+  },
+  "光绪": {
+    "url": "docs/emperors/guangxu.html",
+    "type": "emperor"
+  },
+  "清逊帝溥仪": {
+    "url": "docs/emperors/xuantong.html",
+    "type": "emperor"
+  },
+  "宣统": {
+    "url": "docs/emperors/xuantong.html",
+    "type": "emperor"
+  },
+  "明太祖朱元璋": {
+    "url": "docs/emperors/hongwu.html",
+    "type": "emperor"
+  },
+  "洪武": {
+    "url": "docs/emperors/hongwu.html",
+    "type": "emperor"
+  },
+  "明惠帝朱允炆": {
+    "url": "docs/emperors/jianwen.html",
+    "type": "emperor"
+  },
+  "建文": {
+    "url": "docs/emperors/jianwen.html",
+    "type": "emperor"
+  },
+  "明仁宗朱高炽": {
+    "url": "docs/emperors/hongxi.html",
+    "type": "emperor"
+  },
+  "洪熙": {
+    "url": "docs/emperors/hongxi.html",
+    "type": "emperor"
+  },
+  "明宣宗朱瞻基": {
+    "url": "docs/emperors/xuande.html",
+    "type": "emperor"
+  },
+  "宣德": {
+    "url": "docs/emperors/xuande.html",
+    "type": "emperor"
+  },
+  "明英宗朱祁镇": {
+    "url": "docs/emperors/zhengtong.html",
+    "type": "emperor"
+  },
+  "正统": {
+    "url": "docs/emperors/zhengtong.html",
+    "type": "emperor"
+  },
+  "明代宗朱祁钰": {
+    "url": "docs/emperors/jingtai.html",
+    "type": "emperor"
+  },
+  "景泰": {
+    "url": "docs/emperors/jingtai.html",
+    "type": "emperor"
+  },
+  "明宪宗朱见深": {
+    "url": "docs/emperors/chenghua.html",
+    "type": "emperor"
+  },
+  "成化": {
+    "url": "docs/emperors/chenghua.html",
+    "type": "emperor"
+  },
+  "明孝宗朱祐樘": {
+    "url": "docs/emperors/hongzhi.html",
+    "type": "emperor"
+  },
+  "弘治": {
+    "url": "docs/emperors/hongzhi.html",
+    "type": "emperor"
+  },
+  "明武宗朱厚照": {
+    "url": "docs/emperors/zhengde.html",
+    "type": "emperor"
+  },
+  "正德": {
+    "url": "docs/emperors/zhengde.html",
+    "type": "emperor"
+  },
+  "明穆宗朱载坖": {
+    "url": "docs/emperors/longqing.html",
+    "type": "emperor"
+  },
+  "隆庆": {
+    "url": "docs/emperors/longqing.html",
+    "type": "emperor"
+  },
+  "明光宗朱常洛": {
+    "url": "docs/emperors/taichang.html",
+    "type": "emperor"
+  },
+  "泰昌": {
+    "url": "docs/emperors/taichang.html",
+    "type": "emperor"
+  },
+  "明熹宗朱由校": {
+    "url": "docs/emperors/tianqi.html",
+    "type": "emperor"
+  },
+  "天启": {
+    "url": "docs/emperors/tianqi.html",
+    "type": "emperor"
+  },
+  "清世祖福临": {
+    "url": "docs/emperors/shunzhi.html",
+    "type": "emperor"
+  },
+  "顺治": {
+    "url": "docs/emperors/shunzhi.html",
+    "type": "emperor"
+  },
+  "清文宗奕詝": {
+    "url": "docs/emperors/xianfeng.html",
+    "type": "emperor"
+  },
+  "咸丰": {
+    "url": "docs/emperors/xianfeng.html",
+    "type": "emperor"
+  },
+  "清穆宗载淳": {
+    "url": "docs/emperors/tongzhi.html",
+    "type": "emperor"
+  },
+  "同治": {
+    "url": "docs/emperors/tongzhi.html",
+    "type": "emperor"
+  },
+  "颙琰": {
+    "url": "docs/emperors/jiaqing.html",
+    "type": "emperor"
+  },
+  "嘉庆": {
+    "url": "docs/emperors/jiaqing.html",
+    "type": "emperor"
+  },
+  "张居正": {
+    "url": "docs/figures/zhangju-zheng.html",
+    "type": "figure"
+  },
+  "严嵩": {
+    "url": "docs/figures/yan-song.html",
+    "type": "figure"
+  },
+  "海瑞": {
+    "url": "docs/figures/hai-rui.html",
+    "type": "figure"
+  },
+  "魏忠贤": {
+    "url": "docs/figures/wei-zhongxian.html",
+    "type": "figure"
+  },
+  "郑和": {
+    "url": "docs/figures/zheng-he.html",
+    "type": "figure"
+  },
+  "于谦": {
+    "url": "docs/figures/yu-qian.html",
+    "type": "figure"
+  },
+  "张廷玉": {
+    "url": "docs/figures/zhang-tingyu.html",
+    "type": "figure"
+  },
+  "和珅": {
+    "url": "docs/figures/he-shen.html",
+    "type": "figure"
+  },
+  "纪昀（纪晓岚）": {
+    "url": "docs/figures/jixiaolan.html",
+    "type": "figure"
+  },
+  "林则徐": {
+    "url": "docs/figures/lin-ze-xu.html",
+    "type": "figure"
+  },
+  "左宗棠": {
+    "url": "docs/figures/zuo-zongtang.html",
+    "type": "figure"
+  },
+  "李鸿章": {
+    "url": "docs/figures/li-hongzhang.html",
+    "type": "figure"
+  },
+  "慈禧太后": {
+    "url": "docs/figures/ci-xi.html",
+    "type": "figure"
+  },
+  "隆裕太后": {
+    "url": "docs/figures/longyu.html",
+    "type": "figure"
+  },
+  "婉容": {
+    "url": "docs/figures/wanrong.html",
+    "type": "figure"
+  },
+  "珍妃": {
+    "url": "docs/figures/zhen-fei.html",
+    "type": "figure"
+  },
+  "慈安太后": {
+    "url": "docs/figures/ci-an.html",
+    "type": "figure"
+  },
+  "李莲英": {
+    "url": "docs/figures/li-lian-ying.html",
+    "type": "figure"
+  },
+  "吴三桂": {
+    "url": "docs/figures/wu-sangui.html",
+    "type": "figure"
+  },
+  "纳兰性德": {
+    "url": "docs/figures/nalan-xingde.html",
+    "type": "figure"
+  },
+  "曹雪芹": {
+    "url": "docs/figures/cao-xue-qin.html",
+    "type": "figure"
+  },
+  "曾国藩": {
+    "url": "docs/figures/zeng-guofan.html",
+    "type": "figure"
+  },
+  "康有为": {
+    "url": "docs/figures/kang-youwei.html",
+    "type": "figure"
+  },
+  "梁启超": {
+    "url": "docs/figures/liang-qichao.html",
+    "type": "figure"
+  },
+  "袁世凯": {
+    "url": "docs/figures/yuan-shikai.html",
+    "type": "figure"
+  },
+  "孙中山": {
+    "url": "docs/figures/sun-yat-sen.html",
+    "type": "figure"
+  },
+  "多尔衮": {
+    "url": "docs/figures/duo-er-gun.html",
+    "type": "figure"
+  },
+  "王承恩": {
+    "url": "docs/figures/eunuch-wang-cheng-en.html",
+    "type": "figure"
+  },
+  "高拱": {
+    "url": "docs/figures/gao-gong.html",
+    "type": "figure"
+  },
+  "杨涟": {
+    "url": "docs/figures/eunuch-wei-zhongxian-rival.html",
+    "type": "figure"
+  },
+  "刘基（刘伯温）": {
+    "url": "docs/figures/liu-ji.html",
+    "type": "figure"
+  },
+  "李善长": {
+    "url": "docs/figures/li-shan-chang.html",
+    "type": "figure"
+  },
+  "徐达": {
+    "url": "docs/figures/xu-da.html",
+    "type": "figure"
+  },
+  "常遇春": {
+    "url": "docs/figures/chang-yu-chun.html",
+    "type": "figure"
+  },
+  "姚广孝": {
+    "url": "docs/figures/yao-guangxiao.html",
+    "type": "figure"
+  },
+  "解缙": {
+    "url": "docs/figures/xie-jin.html",
+    "type": "figure"
+  },
+  "杨士奇": {
+    "url": "docs/figures/yang-shiqi.html",
+    "type": "figure"
+  },
+  "杨荣": {
+    "url": "docs/figures/yang-rong.html",
+    "type": "figure"
+  },
+  "杨溥": {
+    "url": "docs/figures/yang-pu.html",
+    "type": "figure"
+  },
+  "李东阳": {
+    "url": "docs/figures/li-dong-yang.html",
+    "type": "figure"
+  },
+  "商辂": {
+    "url": "docs/figures/shang-lu.html",
+    "type": "figure"
+  },
+  "徐阶": {
+    "url": "docs/figures/xu-jie.html",
+    "type": "figure"
+  },
+  "严世蕃": {
+    "url": "docs/figures/yan-shi-fan.html",
+    "type": "figure"
+  },
+  "戚继光": {
+    "url": "docs/figures/qi-ji-guang.html",
+    "type": "figure"
+  },
+  "李如松": {
+    "url": "docs/figures/li-ru-song.html",
+    "type": "figure"
+  },
+  "史可法": {
+    "url": "docs/figures/shi-ke-fa.html",
+    "type": "figure"
+  },
+  "郑成功": {
+    "url": "docs/figures/zheng-chenggong.html",
+    "type": "figure"
+  },
+  "俞大猷": {
+    "url": "docs/figures/yu-dayou.html",
+    "type": "figure"
+  },
+  "袁崇焕": {
+    "url": "docs/figures/yuan-chonghuan.html",
+    "type": "figure"
+  },
+  "孙传庭": {
+    "url": "docs/figures/sun-chuanting.html",
+    "type": "figure"
+  },
+  "卢象升": {
+    "url": "docs/figures/lu-xiang-sheng.html",
+    "type": "figure"
+  },
+  "刘瑾": {
+    "url": "docs/figures/eunuch-liu-jin.html",
+    "type": "figure"
+  },
+  "王振": {
+    "url": "docs/figures/eunuch-wang-zhen.html",
+    "type": "figure"
+  },
+  "汪直": {
+    "url": "docs/figures/eunuch-wang-zhi.html",
+    "type": "figure"
+  },
+  "冯保": {
+    "url": "docs/figures/eunuch-feng-bao.html",
+    "type": "figure"
+  },
+  "马皇后": {
+    "url": "docs/figures/ma-huanghou.html",
+    "type": "figure"
+  },
+  "徐皇后": {
+    "url": "docs/figures/xu-huanghou.html",
+    "type": "figure"
+  },
+  "张皇后": {
+    "url": "docs/figures/zhang-huanghou.html",
+    "type": "figure"
+  },
+  "孙皇后": {
+    "url": "docs/figures/sun-huanghou.html",
+    "type": "figure"
+  },
+  "万贵妃": {
+    "url": "docs/figures/wan-guifei.html",
+    "type": "figure"
+  },
+  "孝庄太后": {
+    "url": "docs/figures/xiao-zhuang.html",
+    "type": "figure"
+  },
+  "香妃": {
+    "url": "docs/figures/xiang-fei.html",
+    "type": "figure"
+  },
+  "孝贤纯皇后": {
+    "url": "docs/figures/xiaoxianchun.html",
+    "type": "figure"
+  },
+  "孝诚仁皇后": {
+    "url": "docs/figures/xiaochengren.html",
+    "type": "figure"
+  },
+  "孝敬宪皇后": {
+    "url": "docs/figures/xiaojingxian.html",
+    "type": "figure"
+  },
+  "孝全成皇后": {
+    "url": "docs/figures/xiaoquanchun.html",
+    "type": "figure"
+  },
+  "孝钦显皇后": {
+    "url": "docs/figures/xiaoqinxian.html",
+    "type": "figure"
+  },
+  "遏必隆": {
+    "url": "docs/figures/e-zhongyi.html",
+    "type": "figure"
+  },
+  "索尼": {
+    "url": "docs/figures/sonin.html",
+    "type": "figure"
+  },
+  "苏克萨哈": {
+    "url": "docs/figures/suksaha.html",
+    "type": "figure"
+  },
+  "鳌拜": {
+    "url": "docs/figures/aobai.html",
+    "type": "figure"
+  },
+  "明珠": {
+    "url": "docs/figures/mingju.html",
+    "type": "figure"
+  },
+  "李光地": {
+    "url": "docs/figures/li-guangdi.html",
+    "type": "figure"
+  },
+  "陈廷敬": {
+    "url": "docs/figures/chen-tingjing.html",
+    "type": "figure"
+  },
+  "刘墉": {
+    "url": "docs/figures/liu-yong.html",
+    "type": "figure"
+  },
+  "王杰": {
+    "url": "docs/figures/wang-jie.html",
+    "type": "figure"
+  },
+  "纪昀": {
+    "url": "docs/figures/ji-xiaolan.html",
+    "type": "figure"
+  },
+  "福康安": {
+    "url": "docs/figures/fu-kang-an.html",
+    "type": "figure"
+  },
+  "阿桂": {
+    "url": "docs/figures/heshen-rival.html",
+    "type": "figure"
+  },
+  "魏源": {
+    "url": "docs/figures/wei-yuan.html",
+    "type": "figure"
+  },
+  "恭亲王奕訢": {
+    "url": "docs/figures/gong-qinwang.html",
+    "type": "figure"
+  },
+  "曾国荃": {
+    "url": "docs/figures/zeng-guoquan.html",
+    "type": "figure"
+  },
+  "刘坤一": {
+    "url": "docs/figures/liu-kun-yi.html",
+    "type": "figure"
+  },
+  "张之洞": {
+    "url": "docs/figures/zhang-zhidong.html",
+    "type": "figure"
+  },
+  "谭嗣同": {
+    "url": "docs/figures/tan-sitong.html",
+    "type": "figure"
+  },
+  "严复": {
+    "url": "docs/figures/yan-fu.html",
+    "type": "figure"
+  },
+  "章太炎": {
+    "url": "docs/figures/zhang-binglin.html",
+    "type": "figure"
+  },
+  "安德海": {
+    "url": "docs/figures/an-de-hai.html",
+    "type": "figure"
+  },
+  "小德张": {
+    "url": "docs/figures/eunuch-xiao-dehai.html",
+    "type": "figure"
+  },
+  "寇连材": {
+    "url": "docs/figures/eunuch-lian-ying.html",
+    "type": "figure"
+  },
+  "蒯祥": {
+    "url": "docs/figures/kuai-xiang.html",
+    "type": "figure"
+  },
+  "雷发达": {
+    "url": "docs/figures/lei-fa-da.html",
+    "type": "figure"
+  },
+  "雷金兆": {
+    "url": "docs/figures/lei-jinxi.html",
+    "type": "figure"
+  },
+  "雷家玺": {
+    "url": "docs/figures/lei-jiayu.html",
+    "type": "figure"
+  },
+  "王阳明": {
+    "url": "docs/figures/wang-yangming.html",
+    "type": "figure"
+  },
+  "李贽": {
+    "url": "docs/figures/li-zhi.html",
+    "type": "figure"
+  },
+  "黄宗羲": {
+    "url": "docs/figures/huang-zong-xi.html",
+    "type": "figure"
+  },
+  "顾炎武": {
+    "url": "docs/figures/gu-yan-wu.html",
+    "type": "figure"
+  },
+  "王夫之": {
+    "url": "docs/figures/wang-fu-zhi.html",
+    "type": "figure"
+  },
+  "胡惟庸": {
+    "url": "docs/figures/hu-wei-yong.html",
+    "type": "figure"
+  },
+  "方孝孺": {
+    "url": "docs/figures/fang-xiaoru.html",
+    "type": "figure"
+  },
+  "石亨": {
+    "url": "docs/figures/yu-qian-ally.html",
+    "type": "figure"
+  },
+  "曹吉祥": {
+    "url": "docs/figures/cao-qin.html",
+    "type": "figure"
+  },
+  "马永成": {
+    "url": "docs/figures/liu-jin-8tiger.html",
+    "type": "figure"
+  },
+  "董贤": {
+    "url": "docs/figures/dong-xian.html",
+    "type": "figure"
+  },
+  "孙承宗": {
+    "url": "docs/figures/sun-chengzong.html",
+    "type": "figure"
+  },
+  "熊廷弼": {
+    "url": "docs/figures/xiong-tingbi.html",
+    "type": "figure"
+  },
+  "麻贵": {
+    "url": "docs/figures/ma-shuai.html",
+    "type": "figure"
+  },
+  "陈璘": {
+    "url": "docs/figures/chen-lin.html",
+    "type": "figure"
+  },
+  "施琅": {
+    "url": "docs/figures/shi-lang.html",
+    "type": "figure"
+  },
+  "彭春": {
+    "url": "docs/figures/pengchun.html",
+    "type": "figure"
+  },
+  "费扬古": {
+    "url": "docs/figures/fei-yang-gu.html",
+    "type": "figure"
+  },
+  "胤礽": {
+    "url": "docs/figures/yin-reng.html",
+    "type": "figure"
+  },
+  "胤禩": {
+    "url": "docs/figures/yinsi.html",
+    "type": "figure"
+  },
+  "胤禵": {
+    "url": "docs/figures/yinzhen-rival.html",
+    "type": "figure"
+  },
+  "年羹尧": {
+    "url": "docs/figures/nian-gengyao.html",
+    "type": "figure"
+  },
+  "隆科多": {
+    "url": "docs/figures/longkodo.html",
+    "type": "figure"
+  },
+  "刘统勋": {
+    "url": "docs/figures/liu-tong-xun.html",
+    "type": "figure"
+  },
+  "福长安": {
+    "url": "docs/figures/he-shen-fu.html",
+    "type": "figure"
+  },
+  "邵雍": {
+    "url": "docs/figures/shao-yong.html",
+    "type": "figure"
+  },
+  "丁汝昌": {
+    "url": "docs/figures/ding-ruchang.html",
+    "type": "figure"
+  },
+  "邓世昌": {
+    "url": "docs/figures/deng-shichang.html",
+    "type": "figure"
+  },
+  "关天培": {
+    "url": "docs/figures/guan-yue-qing.html",
+    "type": "figure"
+  },
+  "僧格林沁": {
+    "url": "docs/figures/se-leng-e.html",
+    "type": "figure"
+  },
+  "荣禄": {
+    "url": "docs/figures/rong-lu.html",
+    "type": "figure"
+  },
+  "刚毅": {
+    "url": "docs/figures/gang-yi.html",
+    "type": "figure"
+  },
+  "载漪": {
+    "url": "docs/figures/zai-yi.html",
+    "type": "figure"
+  },
+  "溥俊": {
+    "url": "docs/figures/pu-jun.html",
+    "type": "figure"
+  },
+  "载沣": {
+    "url": "docs/figures/zai-feng.html",
+    "type": "figure"
+  },
+  "袁克定": {
+    "url": "docs/figures/yuan-shikai-son.html",
+    "type": "figure"
+  },
+  "蒲松龄": {
+    "url": "docs/figures/pu-song-ling.html",
+    "type": "figure"
+  },
+  "吴敬梓": {
+    "url": "docs/figures/wu-jing-zi.html",
+    "type": "figure"
+  },
+  "孔尚任": {
+    "url": "docs/figures/kong-shangren.html",
+    "type": "figure"
+  },
+  "洪昇": {
+    "url": "docs/figures/hong-sheng.html",
+    "type": "figure"
+  },
+  "朱宸濠": {
+    "url": "docs/figures/ning-wang.html",
+    "type": "figure"
+  },
+  "崔呈秀": {
+    "url": "docs/figures/wei-zhongxian-ally.html",
+    "type": "figure"
+  },
+  "左光斗": {
+    "url": "docs/figures/donglin-1.html",
+    "type": "figure"
+  },
+  "魏大中": {
+    "url": "docs/figures/donglin-2.html",
+    "type": "figure"
+  },
+  "田文镜": {
+    "url": "docs/figures/tian-wenqi.html",
+    "type": "figure"
+  },
+  "李卫": {
+    "url": "docs/figures/li-wei.html",
+    "type": "figure"
+  },
+  "李自成": {
+    "url": "docs/figures/li-zicheng.html",
+    "type": "figure"
+  },
+  "奕訢": {
+    "url": "docs/figures/gongqinwang-yixin.html",
+    "type": "figure"
+  },
+  "顾宪成": {
+    "url": "docs/figures/gu-xian-cheng.html",
+    "type": "figure"
+  },
+  "陈元龙": {
+    "url": "docs/figures/chen-yuan-long.html",
+    "type": "figure"
+  },
+  "梁诗正": {
+    "url": "docs/figures/liang-shi-cheng.html",
+    "type": "figure"
+  },
+  "雷金徽": {
+    "url": "docs/figures/lei-jin-wei.html",
+    "type": "figure"
+  },
+  "雷景昌": {
+    "url": "docs/figures/lei-jing-chang.html",
+    "type": "figure"
+  },
+  "高士奇": {
+    "url": "docs/figures/gao-shi-qi.html",
+    "type": "figure"
+  },
+  "唐英": {
+    "url": "docs/figures/tang-ying.html",
+    "type": "figure"
+  },
+  "郎世宁": {
+    "url": "docs/figures/lang-shi-ning.html",
+    "type": "figure"
+  },
+  "宁悫妃": {
+    "url": "docs/figures/ning-qi.html",
+    "type": "figure"
+  },
+  "赫舍里氏": {
+    "url": "docs/figures/hesheli.html",
+    "type": "figure"
+  },
+  "钮祜禄氏": {
+    "url": "docs/figures/niu-hulu.html",
+    "type": "figure"
+  },
+  "那拉氏": {
+    "url": "docs/figures/na-la-shi.html",
+    "type": "figure"
+  },
+  "辉发那拉氏": {
+    "url": "docs/figures/hui-fa.html",
+    "type": "figure"
+  },
+  "佟佳氏": {
+    "url": "docs/figures/tong-jia-shi.html",
+    "type": "figure"
+  },
+  "邓愈": {
+    "url": "docs/figures/deng-yu.html",
+    "type": "figure"
+  },
+  "汤和": {
+    "url": "docs/figures/tang-he.html",
+    "type": "figure"
+  },
+  "傅友德": {
+    "url": "docs/figures/fu-you-de.html",
+    "type": "figure"
+  },
+  "蓝玉": {
+    "url": "docs/figures/lan-yu.html",
+    "type": "figure"
+  },
+  "汪广洋": {
+    "url": "docs/figures/wang-meng.html",
+    "type": "figure"
+  },
+  "方国珍": {
+    "url": "docs/figures/fang-guo-zhen.html",
+    "type": "figure"
+  },
+  "朱文正": {
+    "url": "docs/figures/zhu-wen-zheng.html",
+    "type": "figure"
+  },
+  "李景隆": {
+    "url": "docs/figures/li-jinglong.html",
+    "type": "figure"
+  },
+  "铁铉": {
+    "url": "docs/figures/tie-xuan.html",
+    "type": "figure"
+  },
+  "盛庸": {
+    "url": "docs/figures/sheng-yong.html",
+    "type": "figure"
+  },
+  "景清": {
+    "url": "docs/figures/jing-nan.html",
+    "type": "figure"
+  },
+  "夏原吉": {
+    "url": "docs/figures/xia-yuan-ji.html",
+    "type": "figure"
+  },
+  "亦失哈": {
+    "url": "docs/figures/yi-ya-tu.html",
+    "type": "figure"
+  },
+  "陈诚": {
+    "url": "docs/figures/chen-cheng.html",
+    "type": "figure"
+  },
+  "金幼孜": {
+    "url": "docs/figures/jin-you-zi.html",
+    "type": "figure"
+  },
+  "胡广": {
+    "url": "docs/figures/hu-guang.html",
+    "type": "figure"
+  },
+  "周新": {
+    "url": "docs/figures/zhou-xin.html",
+    "type": "figure"
+  },
+  "丘濬": {
+    "url": "docs/figures/qiu-jun.html",
+    "type": "figure"
+  },
+  "唐寅": {
+    "url": "docs/figures/tang-yin.html",
+    "type": "figure"
+  },
+  "文徵明": {
+    "url": "docs/figures/wen-zheng-ming.html",
+    "type": "figure"
+  },
+  "沈周": {
+    "url": "docs/figures/shen-zhou.html",
+    "type": "figure"
+  },
+  "王世贞": {
+    "url": "docs/figures/wang-shi-zhen.html",
+    "type": "figure"
+  },
+  "归有光": {
+    "url": "docs/figures/gui-you-guang.html",
+    "type": "figure"
+  },
+  "徐霞客": {
+    "url": "docs/figures/xu-xia-ke.html",
+    "type": "figure"
+  },
+  "宋应星": {
+    "url": "docs/figures/song-ying-xing.html",
+    "type": "figure"
+  },
+  "李时珍": {
+    "url": "docs/figures/li-shi-zhen.html",
+    "type": "figure"
+  },
+  "吴承恩": {
+    "url": "docs/figures/wu-cheng-en.html",
+    "type": "figure"
+  },
+  "施耐庵": {
+    "url": "docs/figures/shi-nai-an.html",
+    "type": "figure"
+  },
+  "罗贯中": {
+    "url": "docs/figures/luo-guan-zhong.html",
+    "type": "figure"
+  },
+  "汤显祖": {
+    "url": "docs/figures/tang-xian-zu.html",
+    "type": "figure"
+  },
+  "曹寅": {
+    "url": "docs/figures/cao-yin.html",
+    "type": "figure"
+  },
+  "袁枚": {
+    "url": "docs/figures/yuan-mei.html",
+    "type": "figure"
+  },
+  "郑燮": {
+    "url": "docs/figures/zhen-xi-chao.html",
+    "type": "figure"
+  },
+  "戴震": {
+    "url": "docs/figures/dai-zhen.html",
+    "type": "figure"
+  },
+  "石涛": {
+    "url": "docs/figures/shi-tao.html",
+    "type": "figure"
+  },
+  "八大山人": {
+    "url": "docs/figures/ba-da-shan-ren.html",
+    "type": "figure"
+  },
+  "修建紫禁城": {
+    "url": "docs/events/gugong-construction.html",
+    "type": "event"
+  },
+  "靖难之役": {
+    "url": "docs/events/jingnan-zhiyi.html",
+    "type": "event"
+  },
+  "崇祯帝自缢": {
+    "url": "docs/events/chongzhen-death.html",
+    "type": "event"
+  },
+  "清军入关定鼎北京": {
+    "url": "docs/events/qing-enter-beijing.html",
+    "type": "event"
+  },
+  "九子夺嫡": {
+    "url": "docs/events/jiuzi-duodi.html",
+    "type": "event"
+  },
+  "军机处设立": {
+    "url": "docs/events/junjichu-established.html",
+    "type": "event"
+  },
+  "和珅被抄家": {
+    "url": "docs/events/heshen-corruption.html",
+    "type": "event"
+  },
+  "虎门销烟与鸦片战争": {
+    "url": "docs/events/opium-war.html",
+    "type": "event"
+  },
+  "戊戌变法": {
+    "url": "docs/events/wuxu-reform.html",
+    "type": "event"
+  },
+  "珍妃之死": {
+    "url": "docs/events/zhenfei-death.html",
+    "type": "event"
+  },
+  "清帝退位": {
+    "url": "docs/events/abdication.html",
+    "type": "event"
+  },
+  "溥仪被逐出宫": {
+    "url": "docs/events/pu-yi-expelled.html",
+    "type": "event"
+  },
+  "编纂永乐大典": {
+    "url": "docs/events/yongle-encyclopedia.html",
+    "type": "event"
+  },
+  "郑和下西洋": {
+    "url": "docs/events/zhenghe-voyages.html",
+    "type": "event"
+  },
+  "编纂四库全书": {
+    "url": "docs/events/qianlong-siku.html",
+    "type": "event"
+  },
+  "三大殿火灾(永乐)": {
+    "url": "docs/events/taihe-dian-fire-1421.html",
+    "type": "event"
+  },
+  "三大殿火灾(嘉靖)": {
+    "url": "docs/events/taihe-dian-fire-1557.html",
+    "type": "event"
+  },
+  "三大殿火灾(万历)": {
+    "url": "docs/events/taihe-dian-fire-1597.html",
+    "type": "event"
+  },
+  "乾清宫火灾": {
+    "url": "docs/events/qianqing-fire.html",
+    "type": "event"
+  },
+  "太和殿重建(康熙)": {
+    "url": "docs/events/taihe-dian-rebuild-1695.html",
+    "type": "event"
+  },
+  "武英殿修书": {
+    "url": "docs/events/wuyingdian-rebuild.html",
+    "type": "event"
+  },
+  "御花园修缮": {
+    "url": "docs/events/yu-huayuan-build.html",
+    "type": "event"
+  },
+  "宁寿宫区修建": {
+    "url": "docs/events/ning-shougong-build.html",
+    "type": "event"
+  },
+  "永乐帝登基": {
+    "url": "docs/events/yongle-enthronement.html",
+    "type": "event"
+  },
+  "宣德帝登基": {
+    "url": "docs/events/xuande-enthronement.html",
+    "type": "event"
+  },
+  "乾隆帝登基": {
+    "url": "docs/events/qianlong-enthronement.html",
+    "type": "event"
+  },
+  "康熙帝登基": {
+    "url": "docs/events/kangxi-enthronement.html",
+    "type": "event"
+  },
+  "顺治帝登基": {
+    "url": "docs/events/shunzhi-enthronement.html",
+    "type": "event"
+  },
+  "康熙大婚": {
+    "url": "docs/events/kangxi-wedding.html",
+    "type": "event"
+  },
+  "光绪大婚": {
+    "url": "docs/events/guangxu-wedding.html",
+    "type": "event"
+  },
+  "同治大婚": {
+    "url": "docs/events/tongzhi-wedding.html",
+    "type": "event"
+  },
+  "宣统大婚": {
+    "url": "docs/events/xuantong-wedding.html",
+    "type": "event"
+  },
+  "元旦朝贺": {
+    "url": "docs/events/new-year-ceremony.html",
+    "type": "event"
+  },
+  "万寿节庆典": {
+    "url": "docs/events/wanshou-ceremony.html",
+    "type": "event"
+  },
+  "殿试": {
+    "url": "docs/events/dianshi.html",
+    "type": "event"
+  },
+  "经筵讲学": {
+    "url": "docs/events/jingyan.html",
+    "type": "event"
+  },
+  "夺门之变": {
+    "url": "docs/events/duomen-zhi-bian.html",
+    "type": "event"
+  },
+  "壬寅宫变": {
+    "url": "docs/events/renyin-gongbian.html",
+    "type": "event"
+  },
+  "三藩之乱": {
+    "url": "docs/events/sanfan-rebellion.html",
+    "type": "event"
+  },
+  "林爽文起义": {
+    "url": "docs/events/lin-shuangwen.html",
+    "type": "event"
+  },
+  "白莲教起义": {
+    "url": "docs/events/baixianjiao.html",
+    "type": "event"
+  },
+  "太平天国运动": {
+    "url": "docs/events/taiping-rebellion.html",
+    "type": "event"
+  },
+  "捻军起义": {
+    "url": "docs/events/nian-rebellion.html",
+    "type": "event"
+  },
+  "第二次鸦片战争": {
+    "url": "docs/events/second-opium-war.html",
+    "type": "event"
+  },
+  "火烧圆明园": {
+    "url": "docs/events/yuanmingyuan-fire.html",
+    "type": "event"
+  },
+  "甲午战争": {
+    "url": "docs/events/jiawu-war.html",
+    "type": "event"
+  },
+  "八国联军侵华": {
+    "url": "docs/events/boxer-war.html",
+    "type": "event"
+  },
+  "戊戌政变": {
+    "url": "docs/events/wuxu-coup.html",
+    "type": "event"
+  },
+  "辛亥革命": {
+    "url": "docs/events/xinhai-revolution.html",
+    "type": "event"
+  },
+  "靖难起兵": {
+    "url": "docs/events/jingnan-start.html",
+    "type": "event"
+  },
+  "朱元璋驾崩": {
+    "url": "docs/events/hongwu-death.html",
+    "type": "event"
+  },
+  "永乐帝驾崩": {
+    "url": "docs/events/yongle-death.html",
+    "type": "event"
+  },
+  "土木堡之变": {
+    "url": "docs/events/tumu-crisis.html",
+    "type": "event"
+  },
+  "北京保卫战": {
+    "url": "docs/events/beijing-defense.html",
+    "type": "event"
+  },
+  "洪熙仁政": {
+    "url": "docs/events/hongxi-reforms.html",
+    "type": "event"
+  },
+  "仁宣之治": {
+    "url": "docs/events/renxuan-zhizhi.html",
+    "type": "event"
+  },
+  "廷杖制度": {
+    "url": "docs/events/tingzhang.html",
+    "type": "event"
+  },
+  "国子监": {
+    "url": "docs/events/guozi-jian.html",
+    "type": "event"
+  },
+  "多尔衮去世": {
+    "url": "docs/events/dorgon-death.html",
+    "type": "event"
+  },
+  "康熙南巡": {
+    "url": "docs/events/kangxi-southern-tour.html",
+    "type": "event"
+  },
+  "乾隆南巡": {
+    "url": "docs/events/qianlong-southern-tour.html",
+    "type": "event"
+  },
+  "和珅倒台": {
+    "url": "docs/events/heshen-fall.html",
+    "type": "event"
+  },
+  "乾隆禅位": {
+    "url": "docs/events/qianlong-abdication.html",
+    "type": "event"
+  },
+  "咸丰帝逃往热河": {
+    "url": "docs/events/xianfeng-flee.html",
+    "type": "event"
+  },
+  "辛酉政变": {
+    "url": "docs/events/xinyou-coup.html",
+    "type": "event"
+  },
+  "同治帝驾崩": {
+    "url": "docs/events/tongzhi-death.html",
+    "type": "event"
+  },
+  "光绪帝驾崩": {
+    "url": "docs/events/guangxu-death.html",
+    "type": "event"
+  },
+  "慈禧太后驾崩": {
+    "url": "docs/events/cixi-death.html",
+    "type": "event"
+  },
+  "光绪被囚瀛台": {
+    "url": "docs/events/guangxu-imprison.html",
+    "type": "event"
+  },
+  "签订马关条约": {
+    "url": "docs/events/li-hongzhang-treaty.html",
+    "type": "event"
+  },
+  "签订辛丑条约": {
+    "url": "docs/events/xinchou-treaty.html",
+    "type": "event"
+  },
+  "曹石之变": {
+    "url": "docs/events/cao-shi-coup.html",
+    "type": "event"
+  },
+  "梃击案": {
+    "url": "docs/events/tingji-case.html",
+    "type": "event"
+  },
+  "红丸案": {
+    "url": "docs/events/hongwan-case.html",
+    "type": "event"
+  },
+  "西厂设立": {
+    "url": "docs/events/xi-chang.html",
+    "type": "event"
+  },
+  "大小金川之役": {
+    "url": "docs/events/jinchuan-campaign.html",
+    "type": "event"
+  },
+  "签订南京条约": {
+    "url": "docs/events/taipai-treaty.html",
+    "type": "event"
+  },
+  "故宫博物院成立": {
+    "url": "docs/events/gugong-becomes-museum.html",
+    "type": "event"
+  }
+}

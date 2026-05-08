@@ -1,0 +1,51 @@
+{
+  "palace": {
+    "description": "故宫内的建筑实体",
+    "categories": [
+      "外朝大殿",
+      "内廷后寝",
+      "东西六宫",
+      "园林建筑",
+      "附属建筑"
+    ]
+  },
+  "person": {
+    "description": "与故宫相关的历史人物",
+    "categories": [
+      "皇帝",
+      "皇后",
+      "妃嫔",
+      "大学士",
+      "尚书侍郎",
+      "太监",
+      "将军"
+    ]
+  },
+  "event": {
+    "description": "在故宫发生的历史事件",
+    "categories": [
+      "登基大典",
+      "大婚",
+      "朝会",
+      "政变",
+      "火灾重建",
+      "逝世葬礼",
+      "退位"
+    ]
+  },
+  "relation_types": {
+    "description": "实体之间的关系类型",
+    "types": [
+      {"id": "居住于", "from": "person", "to": "palace"},
+      {"id": "执政于", "from": "emperor", "to": "palace"},
+      {"id": "发生于", "from": "event", "to": "palace"},
+      {"id": "父子", "from": "person", "to": "person"},
+      {"id": "夫妻", "from": "person", "to": "person"},
+      {"id": "君臣", "from": "emperor", "to": "person"},
+      {"id": "政敌", "from": "person", "to": "person"},
+      {"id": "辅佐", "from": "person", "to": "emperor"},
+      {"id": "参与事件", "from": "person", "to": "event"},
+      {"id": "主持修建", "from": "person", "to": "palace"}
+    ]
+  }
+}

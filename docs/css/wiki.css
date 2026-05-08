@@ -1,0 +1,464 @@
+/* 故宫知识图谱 Wiki - Dark Chinese Imperial Theme */
+
+:root {
+  --bg-primary: #0d1117;
+  --bg-secondary: #161b22;
+  --bg-tertiary: #1c2333;
+  --border: #30363d;
+  --text-primary: #e6edf3;
+  --text-secondary: #8b949e;
+  --text-muted: #6e7681;
+  --gold: #c9a227;
+  --gold-dim: #c9a01733;
+  --blue: #58a6ff;
+  --link: #58a6ff;
+
+  /* Entity type colors */
+  --entity-person: #3498db;    /* 人名 */
+  --entity-palace: #27ae60;    /* 建筑 */
+  --entity-event: #c0392b;     /* 事件 */
+  --entity-figure: #e67e22;    /* 人物/figures */
+  --entity-time: #f39c12;      /* 时间 */
+  --entity-title: #9b59b6;     /* 官职 */
+}
+
+* { margin: 0; padding: 0; box-sizing: border-box; }
+
+body {
+  font-family: "PingFang SC", "Microsoft YaHei", "Noto Sans SC", sans-serif;
+  background: var(--bg-primary);
+  color: var(--text-primary);
+  min-height: 100vh;
+  font-size: 16px;
+  line-height: 1.6;
+}
+
+/* ── Header ─────────────────────────────────────────────────────── */
+
+header {
+  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  padding: 1.25rem 2rem;
+  border-bottom: 2px solid var(--gold);
+}
+
+.header-top {
+  display: flex;
+  align-items: center;
+  gap: 1rem;
+  margin-bottom: 0.5rem;
+  flex-wrap: wrap;
+}
+
+.header-top a {
+  color: var(--blue);
+  text-decoration: none;
+  font-size: 0.95rem;
+}
+
+.header-top a:hover { text-decoration: underline; }
+
+header h1 {
+  color: var(--gold);
+  font-size: 1.8rem;
+  font-weight: 700;
+}
+
+header h1 .entity-badge {
+  font-size: 0.75rem;
+  vertical-align: middle;
+  padding: 2px 8px;
+  border-radius: 4px;
+  margin-left: 8px;
+  font-weight: 400;
+}
+
+/* ── Container ──────────────────────────────────────────────────── */
+
+.container {
+  max-width: 960px;
+  margin: 2rem auto;
+  padding: 0 1.5rem;
+}
+
+/* ── Meta table ─────────────────────────────────────────────────── */
+
+.meta {
+  display: grid;
+  grid-template-columns: 110px 1fr;
+  gap: 8px 14px;
+  font-size: 15px;
+  margin: 1.25rem 0;
+  background: var(--bg-secondary);
+  padding: 14px 18px;
+  border-radius: 8px;
+  border: 1px solid var(--border);
+}
+
+.meta-label {
+  color: var(--text-secondary);
+  font-weight: 500;
+}
+
+.meta-value {
+  color: var(--text-primary);
+}
+
+/* ── Description ────────────────────────────────────────────────── */
+
+.desc {
+  font-size: 17px;
+  line-height: 1.85;
+  color: #ccc;
+  margin: 1.25rem 0;
+}
+
+/* ── Section headings ───────────────────────────────────────────── */
+
+h2 {
+  color: var(--gold);
+  font-size: 1.3rem;
+  margin: 1.75rem 0 0.75rem;
+  padding-bottom: 6px;
+  border-bottom: 1px solid var(--border);
+}
+
+h3 {
+  color: var(--gold);
+  font-size: 1.1rem;
+  margin: 1.25rem 0 0.5rem;
+}
+
+/* ── Lists ──────────────────────────────────────────────────────── */
+
+ul { padding-left: 1.5rem; }
+li { margin: 0.4rem 0; line-height: 1.6; font-size: 15px; }
+li a { color: var(--blue); text-decoration: none; }
+li a:hover { text-decoration: underline; }
+
+/* ── Badges ─────────────────────────────────────────────────────── */
+
+.badge {
+  display: inline-block;
+  background: var(--gold-dim);
+  color: var(--gold);
+  padding: 2px 10px;
+  border-radius: 4px;
+  font-size: 13px;
+  margin-right: 6px;
+  white-space: nowrap;
+}
+
+.note {
+  color: var(--text-secondary);
+  font-size: 14px;
+}
+
+/* ── Event cards ────────────────────────────────────────────────── */
+
+.event-card {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 14px 16px;
+  margin: 10px 0;
+}
+
+.event-card .ename {
+  color: #e74c3c;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.event-card .edesc {
+  color: #aaa;
+  line-height: 1.5;
+  margin-top: 4px;
+}
+
+.event-card .eyear {
+  color: var(--text-secondary);
+  font-size: 13px;
+  margin-top: 4px;
+}
+
+.event-card .eoutcome {
+  color: var(--gold);
+  font-size: 14px;
+  margin-top: 4px;
+}
+
+/* ── Entity mentions (syntax highlighting) ──────────────────────── */
+
+.entity-person {
+  color: var(--entity-person);
+  font-weight: 500;
+}
+
+.entity-palace {
+  color: var(--entity-palace);
+  font-weight: 500;
+}
+
+.entity-event {
+  color: var(--entity-event);
+  font-weight: 500;
+}
+
+.entity-figure {
+  color: var(--entity-figure);
+  font-weight: 500;
+}
+
+.entity-time {
+  color: var(--entity-time);
+  font-weight: 500;
+}
+
+.entity-title {
+  color: var(--entity-title);
+  font-weight: 500;
+}
+
+/* ── Achievements list ──────────────────────────────────────────── */
+
+.achievements {
+  list-style: none;
+  padding: 0;
+}
+
+.achievements li {
+  padding: 4px 0;
+  padding-left: 20px;
+  position: relative;
+}
+
+.achievements li::before {
+  content: "◆";
+  color: var(--gold);
+  position: absolute;
+  left: 0;
+  font-size: 12px;
+}
+
+/* ── Navigation ─────────────────────────────────────────────────── */
+
+.nav-bottom {
+  display: flex;
+  justify-content: space-between;
+  margin: 2rem 0;
+  padding-top: 1rem;
+  border-top: 1px solid var(--border);
+}
+
+.nav-bottom a {
+  color: var(--blue);
+  text-decoration: none;
+  padding: 8px 16px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  font-size: 14px;
+  transition: background 0.2s;
+}
+
+.nav-bottom a:hover {
+  background: var(--bg-secondary);
+  text-decoration: none;
+}
+
+/* ── Related entity list ────────────────────────────────────────── */
+
+.related-link {
+  display: inline-block;
+  margin: 4px 6px 4px 0;
+  padding: 4px 12px;
+  border: 1px solid var(--border);
+  border-radius: 4px;
+  font-size: 14px;
+  color: var(--blue);
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.related-link:hover {
+  background: var(--bg-tertiary);
+  border-color: var(--gold);
+  color: var(--gold);
+  text-decoration: none;
+}
+
+.related-link.type-palace { border-color: #27ae6044; }
+.related-link.type-palace:hover { border-color: #27ae60; color: #27ae60; }
+.related-link.type-emperor { border-color: #e67e2244; }
+.related-link.type-emperor:hover { border-color: #e67e22; color: #e67e22; }
+.related-link.type-figure { border-color: #3498db44; }
+.related-link.type-figure:hover { border-color: #3498db; color: #3498db; }
+.related-link.type-event { border-color: #c0392b44; }
+.related-link.type-event:hover { border-color: #c0392b; color: #c0392b; }
+
+/* ── Index page ─────────────────────────────────────────────────── */
+
+.search-box {
+  margin: 1.5rem 0;
+}
+
+.search-input {
+  width: 100%;
+  max-width: 500px;
+  padding: 12px 16px;
+  font-size: 16px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--text-primary);
+  outline: none;
+  transition: border-color 0.2s;
+}
+
+.search-input:focus {
+  border-color: var(--gold);
+}
+
+.search-input::placeholder {
+  color: var(--text-muted);
+}
+
+.search-results {
+  margin-top: 1rem;
+  max-height: 400px;
+  overflow-y: auto;
+}
+
+.search-result-item {
+  padding: 10px 14px;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  margin: 6px 0;
+  background: var(--bg-secondary);
+}
+
+.search-result-item a {
+  color: var(--blue);
+  text-decoration: none;
+  font-weight: 500;
+}
+
+.search-result-item a:hover { text-decoration: underline; }
+
+.search-result-item .result-type {
+  font-size: 12px;
+  color: var(--text-secondary);
+  margin-left: 8px;
+}
+
+.stats-section {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(150px, 1fr));
+  gap: 12px;
+  margin: 1.5rem 0;
+}
+
+.stat-card {
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  padding: 16px;
+  text-align: center;
+}
+
+.stat-card .stat-num {
+  font-size: 2rem;
+  font-weight: 700;
+  color: var(--gold);
+}
+
+.stat-card .stat-label {
+  font-size: 14px;
+  color: var(--text-secondary);
+  margin-top: 4px;
+}
+
+.app-links {
+  display: flex;
+  gap: 12px;
+  flex-wrap: wrap;
+  margin: 1.5rem 0;
+}
+
+.app-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 6px;
+  padding: 10px 18px;
+  background: var(--bg-secondary);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+  color: var(--text-primary);
+  text-decoration: none;
+  transition: all 0.2s;
+}
+
+.app-link:hover {
+  border-color: var(--gold);
+  color: var(--gold);
+}
+
+.category-nav {
+  display: flex;
+  gap: 1rem;
+  flex-wrap: wrap;
+  margin: 1.25rem 0;
+}
+
+.category-nav a {
+  color: var(--gold);
+  text-decoration: none;
+  font-weight: 500;
+  padding: 6px 14px;
+  border: 1px solid var(--gold);
+  border-radius: 6px;
+  transition: all 0.2s;
+}
+
+.category-nav a:hover {
+  background: var(--gold-dim);
+}
+
+.entity-list {
+  list-style: none;
+  padding: 0;
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(250px, 1fr));
+  gap: 6px 12px;
+}
+
+.entity-list li {
+  padding: 4px 0;
+}
+
+.entity-list li a {
+  color: var(--text-primary);
+  text-decoration: none;
+}
+
+.entity-list li a:hover {
+  color: var(--gold);
+  text-decoration: underline;
+}
+
+.entity-list .entity-alias {
+  color: var(--text-muted);
+  font-size: 13px;
+}
+
+/* ── Responsive ─────────────────────────────────────────────────── */
+
+@media (max-width: 600px) {
+  header { padding: 1rem; }
+  header h1 { font-size: 1.4rem; }
+  .container { padding: 0 1rem; }
+  .meta { grid-template-columns: 80px 1fr; font-size: 14px; }
+  .desc { font-size: 15px; }
+  li { font-size: 14px; }
+  .stats-section { grid-template-columns: repeat(2, 1fr); }
+  .entity-list { grid-template-columns: 1fr; }
+}

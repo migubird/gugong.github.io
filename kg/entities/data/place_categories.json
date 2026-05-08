@@ -1,0 +1,100 @@
+{
+  "外朝大殿": [
+    "taihe-dian",
+    "zhonghe-dian",
+    "baohe-dian",
+    "wenhua-dian",
+    "wuying-dian"
+  ],
+  "内廷后寝": [
+    "qianqing-gong",
+    "jiaotai-dian",
+    "kunning-gong",
+    "yangxindian"
+  ],
+  "东西六宫": [
+    "yanxi-gong",
+    "chuxiu-gong",
+    "jingren-gong",
+    "chengqian-gong",
+    "zhongcui-gong",
+    "yonghe-gong",
+    "yikun-gong",
+    "changchun-gong",
+    "xianfu-gong",
+    "yongshou-gong",
+    "taiji-dian"
+  ],
+  "附属建筑": [
+    "junji-chu",
+    "wenhuadian-ge",
+    "nansansuo",
+    "chunhua-dian",
+    "yangxing-zhai",
+    "ciqiku",
+    "hongyi-dian",
+    "tiyi-dian",
+    "cangku-fang",
+    "wenyuan-dian",
+    "zhushengfang",
+    "yifangzhai",
+    "daxue-shi"
+  ],
+  "前朝门禁": [
+    "taihe-men",
+    "wu-men",
+    "duan-men",
+    "zhaode-men",
+    "zhendu-men",
+    "xianhuamen",
+    "xiximen"
+  ],
+  "内廷门禁": [
+    "qianqing-men",
+    "duan-yi-men",
+    "jing-yun-men"
+  ],
+  "附属宫殿": [
+    "cining-gong",
+    "shoukang-gong",
+    "ning-shougong",
+    "fengxian-dian",
+    "chuanxindian",
+    "huangjidian",
+    "le-shoutang",
+    "yuyuan-dian"
+  ],
+  "园林建筑": [
+    "yu-huayuan",
+    "cining-huayuan",
+    "ningshou-huayuan",
+    "qianqiu-ting",
+    "wanchun-ting",
+    "qinan-dian"
+  ],
+  "外朝门禁": [
+    "shenwu-men",
+    "donghua-men",
+    "xihua-men"
+  ],
+  "服务": [
+    "nei-wu-fu",
+    "shang-shu-fang"
+  ],
+  "门禁": [
+    "zuoyi-men",
+    "youyi-men",
+    "wuying-men",
+    "wenhua-men",
+    "jingyun-men",
+    "longzong-men"
+  ],
+  "内廷": [
+    "ning-shou-gong",
+    "huang-ji-dian",
+    "ci-shou-gong"
+  ],
+  "祭祀": [
+    "ying-hua-dian"
+  ]
+}

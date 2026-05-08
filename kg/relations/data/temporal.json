@@ -1,0 +1,642 @@
+[
+  {
+    "from": "yongle",
+    "to": "taihe-dian",
+    "type": "执政于",
+    "period": "1420-1424",
+    "note": "太和殿建成后在此举行大典"
+  },
+  {
+    "from": "yongle",
+    "to": "qianqing-gong",
+    "type": "执政于",
+    "period": "1420-1424"
+  },
+  {
+    "from": "yongle",
+    "to": "gugong-construction",
+    "type": "参与事件"
+  },
+  {
+    "from": "yongle",
+    "to": "wancheng-dadian",
+    "type": "参与事件"
+  },
+  {
+    "from": "yongle",
+    "to": "zhenghe-voyages",
+    "type": "参与事件"
+  },
+  {
+    "from": "yongle",
+    "to": "jingnan-zhiyi",
+    "type": "参与事件"
+  },
+  {
+    "from": "jiajing",
+    "to": "yanxi-gong",
+    "type": "执政于",
+    "note": "后期在万寿宫修道"
+  },
+  {
+    "from": "chongzhen",
+    "to": "chongzhen-death",
+    "type": "参与事件"
+  },
+  {
+    "from": "eunuch-wang-cheng-en",
+    "to": "chongzhen-death",
+    "type": "参与事件"
+  },
+  {
+    "from": "kangxi",
+    "to": "yangxindian",
+    "type": "执政于",
+    "period": "1662-1722"
+  },
+  {
+    "from": "kangxi",
+    "to": "jiuzi-duodi",
+    "type": "参与事件"
+  },
+  {
+    "from": "yongzheng",
+    "to": "jiuzi-duodi",
+    "type": "参与事件"
+  },
+  {
+    "from": "yongzheng",
+    "to": "junji-chu",
+    "type": "执政于"
+  },
+  {
+    "from": "yongzheng",
+    "to": "junjichu-established",
+    "type": "参与事件"
+  },
+  {
+    "from": "zhangtingyu",
+    "to": "junjichu-established",
+    "type": "参与事件"
+  },
+  {
+    "from": "qianlong",
+    "to": "siku-quanshu",
+    "type": "参与事件"
+  },
+  {
+    "from": "he-shen",
+    "to": "heshen-corruption",
+    "type": "参与事件"
+  },
+  {
+    "from": "qianlong",
+    "to": "heshen-corruption",
+    "type": "参与事件"
+  },
+  {
+    "from": "lin-zexu",
+    "to": "opium-war",
+    "type": "参与事件"
+  },
+  {
+    "from": "daoguang",
+    "to": "opium-war",
+    "type": "参与事件"
+  },
+  {
+    "from": "guangxu",
+    "to": "wuxu-bianfa",
+    "type": "参与事件"
+  },
+  {
+    "from": "guangxu",
+    "to": "abdication",
+    "type": "参与事件"
+  },
+  {
+    "from": "kangyouwei",
+    "to": "wuxu-bianfa",
+    "type": "参与事件"
+  },
+  {
+    "from": "liangqichao",
+    "to": "wuxu-bianfa",
+    "type": "参与事件"
+  },
+  {
+    "from": "cixi",
+    "to": "wuxu-bianfa",
+    "type": "参与事件"
+  },
+  {
+    "from": "cixi",
+    "to": "zhenfei-death",
+    "type": "参与事件"
+  },
+  {
+    "from": "zhen-fei",
+    "to": "zhenfei-death",
+    "type": "参与事件"
+  },
+  {
+    "from": "xuantong",
+    "to": "abdication",
+    "type": "参与事件"
+  },
+  {
+    "from": "xuantong",
+    "to": "pu-yi-expelled",
+    "type": "参与事件"
+  },
+  {
+    "from": "longyu",
+    "to": "abdication",
+    "type": "参与事件"
+  },
+  {
+    "from": "yuan-shikai",
+    "to": "abdication",
+    "type": "参与事件"
+  },
+  {
+    "from": "yuan-shikai",
+    "to": "pu-yi-expelled",
+    "type": "参与事件"
+  },
+  {
+    "from": "cixi",
+    "to": "yangxindian",
+    "type": "执政于",
+    "period": "1861-1908",
+    "note": "垂帘听政"
+  },
+  {
+    "from": "ci-an",
+    "to": "yangxindian",
+    "type": "执政于",
+    "period": "1861-1881",
+    "note": "两宫垂帘"
+  },
+  {
+    "from": "dorgon",
+    "to": "qing-enter-beijing",
+    "type": "参与事件"
+  },
+  {
+    "from": "wu-sangui",
+    "to": "qing-enter-beijing",
+    "type": "参与事件"
+  },
+  {
+    "from": "sun-yatsen",
+    "to": "abdication",
+    "type": "参与事件",
+    "note": "辛亥革命推动清帝退位"
+  },
+  {
+    "from": "hongwu",
+    "to": "jianwen",
+    "type": "祖父"
+  },
+  {
+    "from": "daoguang",
+    "to": "xianfeng",
+    "type": "兄弟之子",
+    "note": "咸丰为道光之子，光绪为道光之孙"
+  },
+  {
+    "from": "hongxi",
+    "to": "taihe-dian",
+    "type": "执政于",
+    "period": "1424-1425"
+  },
+  {
+    "from": "xuande",
+    "to": "taihe-dian",
+    "type": "执政于",
+    "period": "1425-1435"
+  },
+  {
+    "from": "yao-guangxiao",
+    "to": "jingnan-zhiyi",
+    "type": "参与事件"
+  },
+  {
+    "from": "yongle",
+    "to": "jingnan-start",
+    "type": "参与事件"
+  },
+  {
+    "from": "xu-da",
+    "to": "nanjing-conquest",
+    "type": "参与事件"
+  },
+  {
+    "from": "yu-qian",
+    "to": "tumu-crisis",
+    "type": "参与事件"
+  },
+  {
+    "from": "yu-qian",
+    "to": "beijing-defense",
+    "type": "参与事件"
+  },
+  {
+    "from": "eunuch-wang-zhen",
+    "to": "tumu-crisis",
+    "type": "参与事件"
+  },
+  {
+    "from": "zhengtong",
+    "to": "tumu-crisis",
+    "type": "参与事件"
+  },
+  {
+    "from": "jingtai",
+    "to": "beijing-defense",
+    "type": "参与事件"
+  },
+  {
+    "from": "wu-sangui",
+    "to": "wu-sangu-rebellion",
+    "type": "参与事件"
+  },
+  {
+    "from": "kangxi",
+    "to": "wu-sangu-rebellion",
+    "type": "参与事件"
+  },
+  {
+    "from": "fu-kang-an",
+    "to": "lin-shuangwen",
+    "type": "参与事件"
+  },
+  {
+    "from": "zeng-guofan",
+    "to": "taiping-rebellion",
+    "type": "参与事件"
+  },
+  {
+    "from": "zeng-guoquan",
+    "to": "taiping-rebellion",
+    "type": "参与事件"
+  },
+  {
+    "from": "li-hongzhang",
+    "to": "jiawu-war",
+    "type": "参与事件"
+  },
+  {
+    "from": "ding-ruchang",
+    "to": "jiawu-war",
+    "type": "参与事件"
+  },
+  {
+    "from": "deng-shichang",
+    "to": "jiawu-war",
+    "type": "参与事件"
+  },
+  {
+    "from": "cixi",
+    "to": "boxer-war",
+    "type": "参与事件"
+  },
+  {
+    "from": "guangxu",
+    "to": "boxer-war",
+    "type": "参与事件"
+  },
+  {
+    "from": "cixi",
+    "to": "wuxu-coup",
+    "type": "参与事件"
+  },
+  {
+    "from": "rong-lu",
+    "to": "wuxu-coup",
+    "type": "参与事件"
+  },
+  {
+    "from": "cixi",
+    "to": "xinyou-coup",
+    "type": "参与事件"
+  },
+  {
+    "from": "gong-qinwang",
+    "to": "xinyou-coup",
+    "type": "参与事件"
+  },
+  {
+    "from": "sun-yatsen",
+    "to": "xinhai-revolution",
+    "type": "参与事件"
+  },
+  {
+    "from": "yuan-shikai",
+    "to": "xinhai-revolution",
+    "type": "参与事件"
+  },
+  {
+    "from": "shi-lang",
+    "to": "taiwan-conquest",
+    "type": "参与事件"
+  },
+  {
+    "from": "kangxi",
+    "to": "kangxi-southern-tour",
+    "type": "参与事件"
+  },
+  {
+    "from": "qianlong",
+    "to": "qianlong-southern-tour",
+    "type": "参与事件"
+  },
+  {
+    "from": "qianlong",
+    "to": "qianlong-abdication",
+    "type": "参与事件"
+  },
+  {
+    "from": "jiaqing",
+    "to": "heshen-fall",
+    "type": "参与事件"
+  },
+  {
+    "from": "wei-yuan",
+    "to": "opium-war",
+    "type": "参与事件"
+  },
+  {
+    "from": "guan-yue-qing",
+    "to": "opium-war",
+    "type": "参与事件"
+  },
+  {
+    "from": "li-hongzhang",
+    "to": "li-hongzhang-treaty",
+    "type": "参与事件"
+  },
+  {
+    "from": "li-hongzhang",
+    "to": "xinchou-treaty",
+    "type": "参与事件"
+  },
+  {
+    "from": "tan-sitong",
+    "to": "wuxu-bianfa",
+    "type": "参与事件"
+  },
+  {
+    "from": "yan-fu",
+    "to": "wuxu-bianfa",
+    "type": "参与事件"
+  },
+  {
+    "from": "zhang-zhidong",
+    "to": "taiping-rebellion",
+    "type": "参与事件"
+  },
+  {
+    "from": "qi-jiguang",
+    "to": "anti-wokou",
+    "type": "参与事件"
+  },
+  {
+    "from": "yu-dayou",
+    "to": "anti-wokou",
+    "type": "参与事件"
+  },
+  {
+    "from": "yuan-chonghuan",
+    "to": "ningyuan-battle",
+    "type": "参与事件"
+  },
+  {
+    "from": "shi-kefa",
+    "to": "yangzhou-defense",
+    "type": "参与事件"
+  },
+  {
+    "from": "zheng-chenggong",
+    "to": "taiwan-recovery",
+    "type": "参与事件"
+  },
+  {
+    "from": "wang-yangming",
+    "to": "ningwang-rebellion",
+    "type": "参与事件"
+  },
+  {
+    "from": "fang-xiaoru",
+    "to": "jingnan-zhiyi",
+    "type": "参与事件"
+  },
+  {
+    "from": "jianwen",
+    "to": "jingnan-zhiyi",
+    "type": "参与事件"
+  },
+  {
+    "from": "zhangju-zheng",
+    "to": "wenhua-dian",
+    "type": "执政于",
+    "note": "内阁办公"
+  },
+  {
+    "from": "yansong",
+    "to": "wenhua-dian",
+    "type": "执政于"
+  },
+  {
+    "from": "kuai-xiang",
+    "to": "gugong-construction",
+    "type": "参与事件"
+  },
+  {
+    "from": "lei-fada",
+    "to": "taihe-dian-rebuild-1695",
+    "type": "参与事件"
+  },
+  {
+    "from": "jingnan-zhiyi",
+    "to": "yongle",
+    "type": "导致"
+  },
+  {
+    "from": "tumu-crisis",
+    "to": "beijing-defense",
+    "type": "导致"
+  },
+  {
+    "from": "tumu-crisis",
+    "to": "duomen-zhi-bian",
+    "type": "间接导致"
+  },
+  {
+    "from": "jingnan-zhiyi",
+    "to": "fang-xiaoru",
+    "type": "导致"
+  },
+  {
+    "from": "wuxu-bianfa",
+    "to": "wuxu-coup",
+    "type": "导致"
+  },
+  {
+    "from": "wuxu-bianfa",
+    "to": "guangxu-imprison",
+    "type": "导致"
+  },
+  {
+    "from": "boxer-war",
+    "to": "xinchou-treaty",
+    "type": "导致"
+  },
+  {
+    "from": "jiawu-war",
+    "to": "li-hongzhang-treaty",
+    "type": "导致"
+  },
+  {
+    "from": "second-opium-war",
+    "to": "yuanmingyuan-fire",
+    "type": "导致"
+  },
+  {
+    "from": "xinhai-revolution",
+    "to": "abdication",
+    "type": "导致"
+  },
+  {
+    "from": "opium-war",
+    "to": "second-opium-war",
+    "type": "间接导致"
+  },
+  {
+    "from": "xianfeng-flee",
+    "to": "xinyou-coup",
+    "type": "导致"
+  },
+  {
+    "from": "gugong-construction",
+    "to": "taihe-dian-fire-1421",
+    "type": "时间顺序"
+  },
+  {
+    "from": "yang-shiqi",
+    "to": "yang-rong",
+    "type": "同时代"
+  },
+  {
+    "from": "yang-shiqi",
+    "to": "yang-pu",
+    "type": "同时代"
+  },
+  {
+    "from": "yang-rong",
+    "to": "yang-pu",
+    "type": "同时代"
+  },
+  {
+    "from": "zhangju-zheng",
+    "to": "hai-rui",
+    "type": "同时代"
+  },
+  {
+    "from": "zhangju-zheng",
+    "to": "qi-jiguang",
+    "type": "同时代"
+  },
+  {
+    "from": "qi-jiguang",
+    "to": "yu-dayou",
+    "type": "同时代"
+  },
+  {
+    "from": "zhangju-zheng",
+    "to": "wanli",
+    "type": "同时代"
+  },
+  {
+    "from": "zeng-guofan",
+    "to": "li-hongzhang",
+    "type": "同时代"
+  },
+  {
+    "from": "zeng-guofan",
+    "to": "zuo-zongtang",
+    "type": "同时代"
+  },
+  {
+    "from": "li-hongzhang",
+    "to": "zhang-zhidong",
+    "type": "同时代"
+  },
+  {
+    "from": "kangyouwei",
+    "to": "liangqichao",
+    "type": "同时代"
+  },
+  {
+    "from": "kangyouwei",
+    "to": "tan-sitong",
+    "type": "同时代"
+  },
+  {
+    "from": "cixi",
+    "to": "zeng-guofan",
+    "type": "同时代"
+  },
+  {
+    "from": "cixi",
+    "to": "li-hongzhang",
+    "type": "同时代"
+  },
+  {
+    "from": "cixi",
+    "to": "zhang-zhidong",
+    "type": "同时代"
+  },
+  {
+    "from": "yuan-shikai",
+    "to": "sun-yatsen",
+    "type": "同时代"
+  },
+  {
+    "from": "he-shen",
+    "to": "jixiaolan",
+    "type": "同时代"
+  },
+  {
+    "from": "he-shen",
+    "to": "liu-yong",
+    "type": "同时代"
+  },
+  {
+    "from": "qianlong",
+    "to": "he-shen",
+    "type": "同时代"
+  },
+  {
+    "from": "qianlong",
+    "to": "jixiaolan",
+    "type": "同时代"
+  },
+  {
+    "from": "qianlong",
+    "to": "fu-kang-an",
+    "type": "同时代"
+  },
+  {
+    "from": "kangxi",
+    "to": "nalan-xingde",
+    "type": "同时代"
+  },
+  {
+    "from": "kangxi",
+    "to": "caoxueqin",
+    "type": "时间重叠",
+    "note": "曹家在康熙朝兴盛"
+  }
+]

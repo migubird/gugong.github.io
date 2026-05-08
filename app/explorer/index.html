@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>知识图谱浏览器 — Gugong Knowledge Graph Explorer</title>
+  <link rel="stylesheet" href="explorer.css">
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+</head>
+<body>
+  <header>
+    <a href="../../index.html" class="back-link">← 返回首页</a>
+    <h1>🔗 知识图谱浏览器</h1>
+    <p>探索宫殿、皇帝、人物与事件之间的关联</p>
+  </header>
+
+  <div class="toolbar">
+    <div class="search-box">
+      <input type="text" id="search-input" placeholder="搜索实体名称...">
+      <button id="search-btn">搜索</button>
+      <button id="clear-btn">清除</button>
+    </div>
+    <div class="filter-panel">
+      <label class="filter-label"><input type="checkbox" data-type="palace" checked> 宫殿</label>
+      <label class="filter-label"><input type="checkbox" data-type="emperor" checked> 皇帝</label>
+      <label class="filter-label"><input type="checkbox" data-type="figure" checked> 人物</label>
+      <label class="filter-label"><input type="checkbox" data-type="event" checked> 事件</label>
+    </div>
+    <div class="controls">
+      <button id="reset-zoom" title="重置缩放">↺ 重置</button>
+      <button id="toggle-labels" title="显示/隐藏标签">🏷 标签</button>
+    </div>
+  </div>
+
+  <div class="graph-container" id="graph-container">
+    <svg id="graph-svg"></svg>
+  </div>
+
+  <div class="legend-panel" id="legend-panel">
+    <h4>图例</h4>
+    <div class="legend-item">
+      <span class="legend-dot" style="background:#27ae60"></span>
+      <span>宫殿</span>
+    </div>
+    <div class="legend-item">
+      <span class="legend-dot" style="background:#c0392b"></span>
+      <span>皇帝</span>
+    </div>
+    <div class="legend-item">
+      <span class="legend-dot" style="background:#3498db"></span>
+      <span>人物</span>
+    </div>
+    <div class="legend-item">
+      <span class="legend-dot" style="background:#e67e22"></span>
+      <span>事件</span>
+    </div>
+    <hr>
+    <h4>统计</h4>
+    <div id="graph-stats">加载中...</div>
+  </div>
+
+  <div class="node-detail" id="node-detail">
+    <button class="detail-close" id="detail-close">×</button>
+    <div id="detail-content"></div>
+  </div>
+
+  <div class="tooltip" id="tooltip"></div>
+
+  <footer>
+    <p>知识图谱浏览器 · 故宫知识图谱 Phase 3 · D3.js v7 · 2026</p>
+  </footer>
+
+  <script src="explorer.js"></script>
+</body>
+</html>

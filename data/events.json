@@ -1,0 +1,1211 @@
+{
+  "gugong-construction": {
+    "id": "gugong-construction",
+    "name": "修建紫禁城",
+    "category": "修建工程",
+    "start_year": 1406,
+    "end_year": 1420,
+    "locations": [
+      "taihe-dian",
+      "zhonghe-dian",
+      "baohe-dian",
+      "qianqing-gong",
+      "kunning-gong"
+    ],
+    "participants": [
+      "yongle"
+    ],
+    "description": "明成祖朱棣下令修建紫禁城，耗时14年，动用工匠10万、民夫100万。1420年建成，次年正式迁都北京。",
+    "outcome": "紫禁城建成，明朝正式迁都北京"
+  },
+  "jingnan-zhiyi": {
+    "id": "jingnan-zhiyi",
+    "name": "靖难之役",
+    "category": "政变",
+    "start_year": 1399,
+    "end_year": 1402,
+    "locations": [],
+    "participants": [
+      "yongle"
+    ],
+    "description": "燕王朱棣以'靖难'为名起兵反叛建文帝，历时四年攻入南京，夺取皇位。",
+    "outcome": "朱棣夺位成功，改元永乐"
+  },
+  "chongzhen-death": {
+    "id": "chongzhen-death",
+    "name": "崇祯帝自缢",
+    "category": "逝世葬礼",
+    "start_year": 1644,
+    "end_year": 1644,
+    "locations": [],
+    "participants": [
+      "chongzhen",
+      "eunuch-wang-cheng-en"
+    ],
+    "description": "李自成攻破北京，崇祯帝在煤山（今景山）自缢，太监王承恩随行。明朝灭亡。",
+    "outcome": "明朝灭亡"
+  },
+  "qing-enter-beijing": {
+    "id": "qing-enter-beijing",
+    "name": "清军入关定鼎北京",
+    "category": "战争",
+    "start_year": 1644,
+    "end_year": 1644,
+    "locations": [],
+    "participants": [
+      "dorgon",
+      "wu-sangui"
+    ],
+    "description": "吴三桂引清兵入关，多尔衮率军击败李自成，清军进入北京并定都于此，故宫成为清朝皇宫。",
+    "outcome": "清朝定都北京，故宫成为清皇宫"
+  },
+  "jiuzi-duodi": {
+    "id": "jiuzi-duodi",
+    "name": "九子夺嫡",
+    "category": "政变",
+    "start_year": 1708,
+    "end_year": 1722,
+    "locations": [
+      "qianqing-gong",
+      "yangxindian"
+    ],
+    "participants": [
+      "kangxi",
+      "yongzheng"
+    ],
+    "description": "康熙晚年诸皇子争夺储位，四阿哥胤禛（雍正）最终胜出即位。",
+    "outcome": "胤禛即位为雍正帝"
+  },
+  "junjichu-established": {
+    "id": "junjichu-established",
+    "name": "军机处设立",
+    "category": "朝会",
+    "start_year": 1729,
+    "end_year": 1729,
+    "locations": [
+      "junji-chu",
+      "yangxindian"
+    ],
+    "participants": [
+      "yongzheng",
+      "zhangtingyu"
+    ],
+    "description": "雍正七年设立军机处，成为清代中后期最高权力机关，取代议政王大臣会议。",
+    "outcome": "军机处成为清代实际最高决策机构"
+  },
+  "heshen-corruption": {
+    "id": "heshen-corruption",
+    "name": "和珅被抄家",
+    "category": "政变",
+    "start_year": 1799,
+    "end_year": 1799,
+    "locations": [],
+    "participants": [
+      "qianlong",
+      "he-shen",
+      "jixiaolan"
+    ],
+    "description": "乾隆驾崩后十五天，嘉庆帝宣布和珅二十大罪状，赐自尽。抄家所得相当于清政府十余年财政收入。",
+    "outcome": "和珅被赐死，家产抄没"
+  },
+  "opium-war": {
+    "id": "opium-war",
+    "name": "虎门销烟与鸦片战争",
+    "category": "战争",
+    "start_year": 1839,
+    "end_year": 1842,
+    "locations": [],
+    "participants": [
+      "daoguang",
+      "lin-zexu"
+    ],
+    "description": "林则徐虎门销烟后，英国发动鸦片战争。清军战败，签订南京条约，中国开始沦为半殖民地。",
+    "outcome": "签订南京条约，割让香港"
+  },
+  "wuxu-bianfa": {
+    "id": "wuxu-bianfa",
+    "name": "戊戌变法",
+    "category": "政变",
+    "start_year": 1898,
+    "end_year": 1898,
+    "locations": [],
+    "participants": [
+      "guangxu",
+      "kangyouwei",
+      "liangqichao",
+      "cixi"
+    ],
+    "description": "光绪帝支持康有为、梁启超发起维新变法，推行新政。慈禧太后发动戊戌政变，变法失败。",
+    "outcome": "变法失败，光绪被软禁"
+  },
+  "zhenfei-death": {
+    "id": "zhenfei-death",
+    "name": "珍妃之死",
+    "category": "逝世葬礼",
+    "start_year": 1900,
+    "end_year": 1900,
+    "locations": [],
+    "participants": [
+      "zhen-fei",
+      "cixi"
+    ],
+    "description": "八国联军攻入北京，慈禧太后仓皇出逃前，命太监将珍妃投入井中溺死。",
+    "outcome": "珍妃遇害"
+  },
+  "abdication": {
+    "id": "abdication",
+    "name": "清帝退位",
+    "category": "退位",
+    "start_year": 1912,
+    "end_year": 1912,
+    "locations": [
+      "yangxindian"
+    ],
+    "participants": [
+      "xuantong",
+      "longyu",
+      "yuan-shikai"
+    ],
+    "description": "隆裕太后在养心殿签署《清帝退位诏书》，溥仪退位。清朝灭亡，中国两千多年帝制终结。",
+    "outcome": "清帝退位，帝制终结"
+  },
+  "pu-yi-expelled": {
+    "id": "pu-yi-expelled",
+    "name": "溥仪被逐出宫",
+    "category": "政变",
+    "start_year": 1924,
+    "end_year": 1924,
+    "locations": [],
+    "participants": [
+      "xuantong"
+    ],
+    "description": "冯玉祥发动北京政变，派鹿钟麟率军进入故宫，限令溥仪三小时内离宫。溥仪从此告别紫禁城。",
+    "outcome": "溥仪永远离开故宫"
+  },
+  "wancheng-dadian": {
+    "id": "wancheng-dadian",
+    "name": "编纂永乐大典",
+    "category": "朝会",
+    "start_year": 1403,
+    "end_year": 1408,
+    "locations": [],
+    "participants": [
+      "yongle"
+    ],
+    "description": "永乐帝命解缙等编纂《永乐大典》，全书22937卷，是中国古代最大的类书。",
+    "outcome": "《永乐大典》编成"
+  },
+  "zhenghe-voyages": {
+    "id": "zhenghe-voyages",
+    "name": "郑和下西洋",
+    "category": "朝会",
+    "start_year": 1405,
+    "end_year": 1433,
+    "locations": [],
+    "participants": [
+      "yongle",
+      "zheng-he"
+    ],
+    "description": "郑和七次率庞大船队远航，到达东南亚、南亚、阿拉伯半岛和非洲东海岸。",
+    "outcome": "拓展海上丝绸之路，宣扬国威"
+  },
+  "siku-quanshu": {
+    "id": "siku-quanshu",
+    "name": "编纂四库全书",
+    "category": "朝会",
+    "start_year": 1773,
+    "end_year": 1782,
+    "locations": [],
+    "participants": [
+      "qianlong",
+      "jixiaolan"
+    ],
+    "description": "乾隆帝命纪昀等总纂《四库全书》，收录图书3503种，是中国古代最大的丛书。",
+    "outcome": "《四库全书》编成"
+  },
+  "taihe-dian-fire-1421": {
+    "id": "taihe-dian-fire-1421",
+    "name": "三大殿火灾(永乐)",
+    "category": "火灾重建",
+    "start_year": 1421,
+    "end_year": 1421,
+    "locations": [
+      "taihe-dian",
+      "zhonghe-dian",
+      "baohe-dian"
+    ],
+    "participants": [],
+    "description": "紫禁城建成后仅数月，三大殿遭雷击焚毁。",
+    "outcome": "三大殿焚毁，后重建"
+  },
+  "taihe-dian-fire-1557": {
+    "id": "taihe-dian-fire-1557",
+    "name": "三大殿火灾(嘉靖)",
+    "category": "火灾重建",
+    "start_year": 1557,
+    "end_year": 1557,
+    "locations": [
+      "taihe-dian",
+      "zhonghe-dian",
+      "baohe-dian"
+    ],
+    "participants": [
+      "jiajing"
+    ],
+    "description": "嘉靖三十六年三大殿遭雷击焚毁。",
+    "outcome": "三大殿焚毁"
+  },
+  "taihe-dian-fire-1597": {
+    "id": "taihe-dian-fire-1597",
+    "name": "三大殿火灾(万历)",
+    "category": "火灾重建",
+    "start_year": 1597,
+    "end_year": 1597,
+    "locations": [
+      "taihe-dian",
+      "zhonghe-dian",
+      "baohe-dian"
+    ],
+    "participants": [
+      "wanli"
+    ],
+    "description": "万历二十五年三大殿再次遭火灾。",
+    "outcome": "三大殿焚毁"
+  },
+  "qianqing-fire": {
+    "id": "qianqing-fire",
+    "name": "乾清宫火灾",
+    "category": "火灾重建",
+    "start_year": 1514,
+    "end_year": 1514,
+    "locations": [
+      "qianqing-gong"
+    ],
+    "participants": [
+      "zhengde"
+    ],
+    "description": "正德九年乾清宫发生火灾。",
+    "outcome": "乾清宫焚毁后重建"
+  },
+  "taihe-dian-rebuild-1695": {
+    "id": "taihe-dian-rebuild-1695",
+    "name": "太和殿重建(康熙)",
+    "category": "修建工程",
+    "start_year": 1695,
+    "end_year": 1695,
+    "locations": [
+      "taihe-dian"
+    ],
+    "participants": [
+      "kangxi"
+    ],
+    "description": "康熙三十四年重建太和殿，形成今日所见规模。",
+    "outcome": "现存太和殿建成"
+  },
+  "wuyingdian-rebuild": {
+    "id": "wuyingdian-rebuild",
+    "name": "武英殿修书",
+    "category": "修建工程",
+    "start_year": 1646,
+    "end_year": 1650,
+    "locations": [
+      "wuying-dian"
+    ],
+    "participants": [
+      "shunzhi"
+    ],
+    "description": "清初设修书处于武英殿，武英殿刻本由此闻名。",
+    "outcome": "武英殿刻书传统建立"
+  },
+  "yu-huayuan-build": {
+    "id": "yu-huayuan-build",
+    "name": "御花园修缮",
+    "category": "修建工程",
+    "start_year": 1740,
+    "end_year": 1745,
+    "locations": [
+      "yu-huayuan"
+    ],
+    "participants": [
+      "qianlong"
+    ],
+    "description": "乾隆年间对御花园进行大规模修缮和增建。",
+    "outcome": "御花园格局定型"
+  },
+  "ning-shougong-build": {
+    "id": "ning-shougong-build",
+    "name": "宁寿宫区修建",
+    "category": "修建工程",
+    "start_year": 1771,
+    "end_year": 1776,
+    "locations": [
+      "ning-shougong",
+      "huangjidian",
+      "le-shoutang",
+      "ningshou-huayuan"
+    ],
+    "participants": [
+      "qianlong"
+    ],
+    "description": "乾隆帝为自己退位后养老修建宁寿宫区。",
+    "outcome": "宁寿宫区建成"
+  },
+  "yongle-enthronement": {
+    "id": "yongle-enthronement",
+    "name": "永乐帝登基",
+    "category": "登基大典",
+    "start_year": 1402,
+    "end_year": 1402,
+    "locations": [],
+    "participants": [
+      "yongle"
+    ],
+    "description": "朱棣在南京登基，改元永乐。",
+    "outcome": "永乐朝开始"
+  },
+  "xuande-enthronement": {
+    "id": "xuande-enthronement",
+    "name": "宣德帝登基",
+    "category": "登基大典",
+    "start_year": 1425,
+    "end_year": 1425,
+    "locations": [
+      "taihe-dian"
+    ],
+    "participants": [
+      "xuande"
+    ],
+    "description": "宣宗即位大典。",
+    "outcome": "宣德朝开始"
+  },
+  "qianlong-enthronement": {
+    "id": "qianlong-enthronement",
+    "name": "乾隆帝登基",
+    "category": "登基大典",
+    "start_year": 1735,
+    "end_year": 1735,
+    "locations": [
+      "taihe-dian"
+    ],
+    "participants": [
+      "qianlong"
+    ],
+    "description": "高宗即位大典。",
+    "outcome": "乾隆朝开始"
+  },
+  "kangxi-enthronement": {
+    "id": "kangxi-enthronement",
+    "name": "康熙帝登基",
+    "category": "登基大典",
+    "start_year": 1661,
+    "end_year": 1661,
+    "locations": [
+      "taihe-dian"
+    ],
+    "participants": [
+      "kangxi"
+    ],
+    "description": "玄烨八岁即位。",
+    "outcome": "康熙朝开始"
+  },
+  "shunzhi-enthronement": {
+    "id": "shunzhi-enthronement",
+    "name": "顺治帝登基",
+    "category": "登基大典",
+    "start_year": 1643,
+    "end_year": 1643,
+    "locations": [],
+    "participants": [
+      "shunzhi",
+      "dorgon"
+    ],
+    "description": "福临六岁在沈阳即位，后入关在北京重新登基。",
+    "outcome": "顺治朝开始"
+  },
+  "kangxi-wedding": {
+    "id": "kangxi-wedding",
+    "name": "康熙大婚",
+    "category": "大婚",
+    "start_year": 1665,
+    "end_year": 1665,
+    "locations": [
+      "kunning-gong"
+    ],
+    "participants": [
+      "kangxi",
+      "xiaochengren"
+    ],
+    "description": "康熙帝与赫舍里氏大婚。",
+    "outcome": "册立皇后"
+  },
+  "guangxu-wedding": {
+    "id": "guangxu-wedding",
+    "name": "光绪大婚",
+    "category": "大婚",
+    "start_year": 1889,
+    "end_year": 1889,
+    "locations": [
+      "kunning-gong"
+    ],
+    "participants": [
+      "guangxu",
+      "longyu"
+    ],
+    "description": "光绪帝与叶赫那拉氏（隆裕）大婚。",
+    "outcome": "册立皇后"
+  },
+  "tongzhi-wedding": {
+    "id": "tongzhi-wedding",
+    "name": "同治大婚",
+    "category": "大婚",
+    "start_year": 1872,
+    "end_year": 1872,
+    "locations": [
+      "kunning-gong"
+    ],
+    "participants": [
+      "tongzhi"
+    ],
+    "description": "同治帝大婚。",
+    "outcome": "册立皇后"
+  },
+  "xuantong-wedding": {
+    "id": "xuantong-wedding",
+    "name": "宣统大婚",
+    "category": "大婚",
+    "start_year": 1922,
+    "end_year": 1922,
+    "locations": [
+      "kunning-gong"
+    ],
+    "participants": [
+      "xuantong",
+      "wanrong"
+    ],
+    "description": "溥仪与婉容大婚，此时已退位。",
+    "outcome": "末代皇帝大婚"
+  },
+  "new-year-ceremony": {
+    "id": "new-year-ceremony",
+    "name": "元旦朝贺",
+    "category": "朝会",
+    "start_year": 1420,
+    "end_year": 1911,
+    "locations": [
+      "taihe-dian"
+    ],
+    "participants": [],
+    "description": "每年元旦皇帝在太和殿接受百官朝贺。",
+    "outcome": "年度礼仪"
+  },
+  "wanshou-ceremony": {
+    "id": "wanshou-ceremony",
+    "name": "万寿节庆典",
+    "category": "朝会",
+    "start_year": 1420,
+    "end_year": 1911,
+    "locations": [
+      "taihe-dian"
+    ],
+    "participants": [],
+    "description": "皇帝生日（万寿节）在太和殿举行庆典。",
+    "outcome": "年度礼仪"
+  },
+  "dianshi": {
+    "id": "dianshi",
+    "name": "殿试",
+    "category": "朝会",
+    "start_year": 1420,
+    "end_year": 1904,
+    "locations": [
+      "baohe-dian"
+    ],
+    "participants": [],
+    "description": "清代在保和殿举行殿试，选拔进士。",
+    "outcome": "科举最高级别考试"
+  },
+  "jingyan": {
+    "id": "jingyan",
+    "name": "经筵讲学",
+    "category": "朝会",
+    "start_year": 1420,
+    "end_year": 1800,
+    "locations": [
+      "wenhua-dian"
+    ],
+    "participants": [],
+    "description": "皇帝在文华殿举行经筵讲学，讲解经史。",
+    "outcome": "学术讲论"
+  },
+  "duomen-zhi-bian": {
+    "id": "duomen-zhi-bian",
+    "name": "夺门之变",
+    "category": "政变",
+    "start_year": 1457,
+    "end_year": 1457,
+    "locations": [
+      "wu-men",
+      "qianqing-gong"
+    ],
+    "participants": [
+      "zhengtong",
+      "shi-hen",
+      "cao-qin",
+      "xu-youzhen"
+    ],
+    "description": "石亨、徐有贞等拥戴被囚禁的英宗复辟，废景泰帝。",
+    "outcome": "英宗复辟，改元天顺"
+  },
+  "renyin-gongbian": {
+    "id": "renyin-gongbian",
+    "name": "壬寅宫变",
+    "category": "政变",
+    "start_year": 1542,
+    "end_year": 1542,
+    "locations": [
+      "kunning-gong"
+    ],
+    "participants": [
+      "jiajing"
+    ],
+    "description": "嘉靖二十一年，宫女杨金英等企图勒死嘉靖帝，事败后被凌迟。",
+    "outcome": "宫女弑帝未遂"
+  },
+  "wu-sangu-rebellion": {
+    "id": "wu-sangu-rebellion",
+    "name": "三藩之乱",
+    "category": "战争",
+    "start_year": 1673,
+    "end_year": 1681,
+    "locations": [],
+    "participants": [
+      "kangxi",
+      "wu-sangui"
+    ],
+    "description": "吴三桂等三藩王反清，历时八年被康熙平定。",
+    "outcome": "三藩平定，中央集权加强"
+  },
+  "lin-shuangwen": {
+    "id": "lin-shuangwen",
+    "name": "林爽文起义",
+    "category": "战争",
+    "start_year": 1786,
+    "end_year": 1788,
+    "locations": [],
+    "participants": [
+      "qianlong",
+      "fu-kang-an"
+    ],
+    "description": "台湾林爽文起义，福康安率军平定。",
+    "outcome": "台湾起义平定"
+  },
+  "baixianjiao": {
+    "id": "baixianjiao",
+    "name": "白莲教起义",
+    "category": "战争",
+    "start_year": 1796,
+    "end_year": 1804,
+    "locations": [],
+    "participants": [
+      "qianlong",
+      "jiaqing"
+    ],
+    "description": "川楚白莲教大起义，耗费清朝大量财力。",
+    "outcome": "起义平定，清朝衰落加速"
+  },
+  "taiping-rebellion": {
+    "id": "taiping-rebellion",
+    "name": "太平天国运动",
+    "category": "战争",
+    "start_year": 1851,
+    "end_year": 1864,
+    "locations": [],
+    "participants": [
+      "xianfeng",
+      "tongzhi",
+      "zeng-guofan"
+    ],
+    "description": "洪秀全领导太平天国运动，攻占南京。最终被湘军平定。",
+    "outcome": "太平天国覆灭"
+  },
+  "nian-rebellion": {
+    "id": "nian-rebellion",
+    "name": "捻军起义",
+    "category": "战争",
+    "start_year": 1853,
+    "end_year": 1868,
+    "locations": [],
+    "participants": [
+      "xianfeng",
+      "tongzhi"
+    ],
+    "description": "捻军在北方起义，后被李鸿章等平定。",
+    "outcome": "捻军平定"
+  },
+  "second-opium-war": {
+    "id": "second-opium-war",
+    "name": "第二次鸦片战争",
+    "category": "战争",
+    "start_year": 1856,
+    "end_year": 1860,
+    "locations": [],
+    "participants": [
+      "xianfeng"
+    ],
+    "description": "英法联军攻入北京，火烧圆明园。咸丰帝逃往热河。",
+    "outcome": "火烧圆明园，签订天津条约、北京条约"
+  },
+  "yuanmingyuan-fire": {
+    "id": "yuanmingyuan-fire",
+    "name": "火烧圆明园",
+    "category": "战争",
+    "start_year": 1860,
+    "end_year": 1860,
+    "locations": [],
+    "participants": [
+      "xianfeng"
+    ],
+    "description": "英法联军洗劫并焚毁圆明园。",
+    "outcome": "圆明园被毁"
+  },
+  "jiawu-war": {
+    "id": "jiawu-war",
+    "name": "甲午战争",
+    "category": "战争",
+    "start_year": 1894,
+    "end_year": 1895,
+    "locations": [],
+    "participants": [
+      "guangxu",
+      "li-hongzhang",
+      "ding-ruchang"
+    ],
+    "description": "中日甲午战争，北洋水师全军覆没。",
+    "outcome": "签订马关条约，割让台湾"
+  },
+  "boxer-war": {
+    "id": "boxer-war",
+    "name": "八国联军侵华",
+    "category": "战争",
+    "start_year": 1900,
+    "end_year": 1901,
+    "locations": [
+      "shenwu-men",
+      "wu-men"
+    ],
+    "participants": [
+      "guangxu",
+      "cixi"
+    ],
+    "description": "八国联军攻入北京，慈禧携光绪西逃。",
+    "outcome": "签订辛丑条约"
+  },
+  "wuxu-coup": {
+    "id": "wuxu-coup",
+    "name": "戊戌政变",
+    "category": "政变",
+    "start_year": 1898,
+    "end_year": 1898,
+    "locations": [
+      "zhongnanhai"
+    ],
+    "participants": [
+      "cixi",
+      "guangxu",
+      "rong-lu"
+    ],
+    "description": "慈禧太后发动政变，囚禁光绪帝，捕杀戊戌六君子。",
+    "outcome": "戊戌变法失败"
+  },
+  "xinhai-revolution": {
+    "id": "xinhai-revolution",
+    "name": "辛亥革命",
+    "category": "战争",
+    "start_year": 1911,
+    "end_year": 1912,
+    "locations": [],
+    "participants": [
+      "sun-yatsen",
+      "yuan-shikai"
+    ],
+    "description": "武昌起义后各省纷纷独立，最终导致清帝退位。",
+    "outcome": "清朝灭亡"
+  },
+  "jingnan-start": {
+    "id": "jingnan-start",
+    "name": "靖难起兵",
+    "category": "战争",
+    "start_year": 1399,
+    "end_year": 1399,
+    "locations": [],
+    "participants": [
+      "yongle"
+    ],
+    "description": "朱棣以北平为基地起兵反建文帝。",
+    "outcome": "靖难之役开始"
+  },
+  "hongwu-death": {
+    "id": "hongwu-death",
+    "name": "朱元璋驾崩",
+    "category": "逝世葬礼",
+    "start_year": 1398,
+    "end_year": 1398,
+    "locations": [],
+    "participants": [
+      "hongwu"
+    ],
+    "description": "明太祖朱元璋驾崩，皇太孙朱允炆即位。",
+    "outcome": "建文帝即位"
+  },
+  "yongle-death": {
+    "id": "yongle-death",
+    "name": "永乐帝驾崩",
+    "category": "逝世葬礼",
+    "start_year": 1424,
+    "end_year": 1424,
+    "locations": [],
+    "participants": [
+      "yongle"
+    ],
+    "description": "永乐帝在北征途中驾崩于榆木川。",
+    "outcome": "洪熙帝即位"
+  },
+  "tumu-crisis": {
+    "id": "tumu-crisis",
+    "name": "土木堡之变",
+    "category": "战争",
+    "start_year": 1449,
+    "end_year": 1449,
+    "locations": [],
+    "participants": [
+      "zhengtong",
+      "eunuch-wang-zhen"
+    ],
+    "description": "明英宗在王振怂恿下亲征瓦剌，在土木堡被俘，五十万大军覆没。",
+    "outcome": "英宗被俘，明朝精锐尽失"
+  },
+  "beijing-defense": {
+    "id": "beijing-defense",
+    "name": "北京保卫战",
+    "category": "战争",
+    "start_year": 1449,
+    "end_year": 1449,
+    "locations": [
+      "wu-men",
+      "de-sheng-men"
+    ],
+    "participants": [
+      "jingtai",
+      "yu-qian"
+    ],
+    "description": "于谦组织北京保卫战，击退瓦剌军队，保卫京师。",
+    "outcome": "北京保卫成功"
+  },
+  "hongxi-reforms": {
+    "id": "hongxi-reforms",
+    "name": "洪熙仁政",
+    "category": "朝会",
+    "start_year": 1424,
+    "end_year": 1425,
+    "locations": [],
+    "participants": [
+      "hongxi"
+    ],
+    "description": "仁宗即位后废除永乐朝苛政，释放建文旧臣家属。",
+    "outcome": "废除苛政"
+  },
+  "renxuan-zhizhi": {
+    "id": "renxuan-zhizhi",
+    "name": "仁宣之治",
+    "category": "朝会",
+    "start_year": 1425,
+    "end_year": 1435,
+    "locations": [],
+    "participants": [
+      "xuande"
+    ],
+    "description": "仁宗、宣宗时期，明朝政治清明、经济繁荣的黄金时代。",
+    "outcome": "明朝黄金时代"
+  },
+  "tingzhang": {
+    "id": "tingzhang",
+    "name": "廷杖制度",
+    "category": "朝会",
+    "start_year": 1500,
+    "end_year": 1600,
+    "locations": [
+      "taihe-dian"
+    ],
+    "participants": [],
+    "description": "明代在朝堂上杖打大臣的制度，嘉靖朝尤甚。",
+    "outcome": "廷杖制度盛行"
+  },
+  "guozi-jian": {
+    "id": "guozi-jian",
+    "name": "国子监",
+    "category": "朝会",
+    "start_year": 1420,
+    "end_year": 1900,
+    "locations": [],
+    "participants": [],
+    "description": "明清最高学府和教育管理机构。",
+    "outcome": "国家最高学府"
+  },
+  "dorgon-death": {
+    "id": "dorgon-death",
+    "name": "多尔衮去世",
+    "category": "逝世葬礼",
+    "start_year": 1650,
+    "end_year": 1650,
+    "locations": [],
+    "participants": [
+      "dorgon",
+      "shunzhi"
+    ],
+    "description": "多尔衮去世后被追封为皇帝，后又被顺治追罪。",
+    "outcome": "多尔衮身后被追罪"
+  },
+  "kangxi-southern-tour": {
+    "id": "kangxi-southern-tour",
+    "name": "康熙南巡",
+    "category": "朝会",
+    "start_year": 1684,
+    "end_year": 1707,
+    "locations": [],
+    "participants": [
+      "kangxi"
+    ],
+    "description": "康熙帝六次南巡，视察河工，体察民情。",
+    "outcome": "六次南巡"
+  },
+  "qianlong-southern-tour": {
+    "id": "qianlong-southern-tour",
+    "name": "乾隆南巡",
+    "category": "朝会",
+    "start_year": 1751,
+    "end_year": 1784,
+    "locations": [],
+    "participants": [
+      "qianlong"
+    ],
+    "description": "乾隆帝六次南巡，耗费巨大。",
+    "outcome": "六次南巡"
+  },
+  "heshen-fall": {
+    "id": "heshen-fall",
+    "name": "和珅倒台",
+    "category": "政变",
+    "start_year": 1799,
+    "end_year": 1799,
+    "locations": [],
+    "participants": [
+      "jiaqing",
+      "he-shen"
+    ],
+    "description": "嘉庆帝在乾隆驾崩后立即逮捕和珅，赐其自尽。",
+    "outcome": "和珅被赐死"
+  },
+  "qianlong-abdication": {
+    "id": "qianlong-abdication",
+    "name": "乾隆禅位",
+    "category": "退位",
+    "start_year": 1795,
+    "end_year": 1795,
+    "locations": [
+      "taihe-dian"
+    ],
+    "participants": [
+      "qianlong",
+      "jiaqing"
+    ],
+    "description": "乾隆帝禅位于嘉庆帝，但实际仍掌权至驾崩。",
+    "outcome": "嘉庆即位"
+  },
+  "xianfeng-flee": {
+    "id": "xianfeng-flee",
+    "name": "咸丰帝逃往热河",
+    "category": "政变",
+    "start_year": 1860,
+    "end_year": 1860,
+    "locations": [],
+    "participants": [
+      "xianfeng"
+    ],
+    "description": "英法联军逼近北京，咸丰帝逃往热河避暑山庄。",
+    "outcome": "皇帝出逃"
+  },
+  "xinyou-coup": {
+    "id": "xinyou-coup",
+    "name": "辛酉政变",
+    "category": "政变",
+    "start_year": 1861,
+    "end_year": 1861,
+    "locations": [],
+    "participants": [
+      "cixi",
+      "ci-an",
+      "gong-qinwang"
+    ],
+    "description": "慈禧太后联合恭亲王奕訢发动政变，铲除八大臣，开始垂帘听政。",
+    "outcome": "两宫垂帘听政开始"
+  },
+  "tongzhi-death": {
+    "id": "tongzhi-death",
+    "name": "同治帝驾崩",
+    "category": "逝世葬礼",
+    "start_year": 1875,
+    "end_year": 1875,
+    "locations": [
+      "yangxindian"
+    ],
+    "participants": [
+      "tongzhi"
+    ],
+    "description": "同治帝十九岁驾崩，无子。慈禧立光绪帝。",
+    "outcome": "光绪即位"
+  },
+  "guangxu-death": {
+    "id": "guangxu-death",
+    "name": "光绪帝驾崩",
+    "category": "逝世葬礼",
+    "start_year": 1908,
+    "end_year": 1908,
+    "locations": [
+      "zhongnanhai"
+    ],
+    "participants": [
+      "guangxu"
+    ],
+    "description": "光绪帝在瀛台驾崩，次日慈禧亦崩。",
+    "outcome": "光绪、慈禧相继驾崩"
+  },
+  "cixi-death": {
+    "id": "cixi-death",
+    "name": "慈禧太后驾崩",
+    "category": "逝世葬礼",
+    "start_year": 1908,
+    "end_year": 1908,
+    "locations": [
+      "zhongnanhai"
+    ],
+    "participants": [
+      "cixi"
+    ],
+    "description": "慈禧太后在仪鸾殿驾崩，享年74岁。",
+    "outcome": "慈禧驾崩"
+  },
+  "guangxu-imprison": {
+    "id": "guangxu-imprison",
+    "name": "光绪被囚瀛台",
+    "category": "政变",
+    "start_year": 1898,
+    "end_year": 1908,
+    "locations": [],
+    "participants": [
+      "guangxu",
+      "cixi"
+    ],
+    "description": "戊戌政变后光绪帝被软禁于中南海瀛台长达十年。",
+    "outcome": "光绪失去自由"
+  },
+  "li-hongzhang-treaty": {
+    "id": "li-hongzhang-treaty",
+    "name": "签订马关条约",
+    "category": "政变",
+    "start_year": 1895,
+    "end_year": 1895,
+    "locations": [],
+    "participants": [
+      "guangxu",
+      "li-hongzhang"
+    ],
+    "description": "李鸿章代表清政府签订马关条约，割让台湾。",
+    "outcome": "割让台湾"
+  },
+  "xinchou-treaty": {
+    "id": "xinchou-treaty",
+    "name": "签订辛丑条约",
+    "category": "政变",
+    "start_year": 1901,
+    "end_year": 1901,
+    "locations": [],
+    "participants": [
+      "guangxu",
+      "cixi",
+      "li-hongzhang"
+    ],
+    "description": "清政府与十一国签订辛丑条约，赔款四亿五千万两白银。",
+    "outcome": "巨额赔款"
+  },
+  "cao-shi-coup": {
+    "id": "cao-shi-coup",
+    "name": "曹石之变",
+    "category": "政变",
+    "start_year": 1457,
+    "end_year": 1457,
+    "locations": [
+      "dong-an"
+    ],
+    "participants": [
+      "shi-heng",
+      "cao-qin"
+    ],
+    "description": "武将石亨、曹钦发动的未遂政变",
+    "outcome": "失败，参与者被诛杀"
+  },
+  "tingji-case": {
+    "id": "tingji-case",
+    "name": "梃击案",
+    "category": "政变",
+    "start_year": 1615,
+    "end_year": 1615,
+    "locations": [
+      "cining-gong"
+    ],
+    "participants": [
+      "wang-zhi"
+    ],
+    "description": "张差持木棍闯入太子居所的神秘事件",
+    "outcome": "疑为郑贵妃谋害太子，未查明真相"
+  },
+  "hongwan-case": {
+    "id": "hongwan-case",
+    "name": "红丸案",
+    "category": "宫廷",
+    "start_year": 1620,
+    "end_year": 1620,
+    "locations": [
+      "qianqing-gong"
+    ],
+    "participants": [
+      "taichang",
+      "cui-wensheng"
+    ],
+    "description": "泰昌帝服红丸后暴毙的宫廷疑案",
+    "outcome": "泰昌帝在位仅一月即驾崩"
+  },
+  "xi-chang": {
+    "id": "xi-chang",
+    "name": "西厂设立",
+    "category": "政治",
+    "start_year": 1477,
+    "end_year": 1477,
+    "locations": [
+      "gugong"
+    ],
+    "participants": [
+      "chenghua",
+      "wang-zhi"
+    ],
+    "description": "成化帝设立西厂，由汪直提督",
+    "outcome": "特务机构，权力在东厂之上"
+  },
+  "sanfan-rebellion": {
+    "id": "sanfan-rebellion",
+    "name": "三藩之乱",
+    "category": "战争",
+    "start_year": 1673,
+    "end_year": 1681,
+    "locations": [
+      "beijing"
+    ],
+    "participants": [
+      "kangxi",
+      "wu-sangui"
+    ],
+    "description": "吴三桂等三藩发动的反清战争",
+    "outcome": "康熙帝历时八年平定"
+  },
+  "jinchuan-campaign": {
+    "id": "jinchuan-campaign",
+    "name": "大小金川之役",
+    "category": "战争",
+    "start_year": 1747,
+    "end_year": 1776,
+    "locations": [
+      "beijing"
+    ],
+    "participants": [
+      "qianlong"
+    ],
+    "description": "乾隆帝两次平定大小金川土司叛乱",
+    "outcome": "巩固西南边疆"
+  },
+  "taipai-treaty": {
+    "id": "taipai-treaty",
+    "name": "签订南京条约",
+    "category": "外交",
+    "start_year": 1842,
+    "end_year": 1842,
+    "locations": [
+      "nanjing"
+    ],
+    "participants": [
+      "daoguang"
+    ],
+    "description": "中英签订中国近代第一个不平等条约",
+    "outcome": "割让香港，开放五口通商"
+  },
+  "wuxu-reform": {
+    "id": "wuxu-reform",
+    "name": "戊戌变法",
+    "category": "改革",
+    "start_year": 1898,
+    "end_year": 1898,
+    "locations": [
+      "beijing"
+    ],
+    "participants": [
+      "guangxu",
+      "kang-youwei",
+      "liang-qichao"
+    ],
+    "description": "光绪帝在康有为等人推动下进行的维新变法",
+    "outcome": "历时103天被慈禧太后镇压"
+  },
+  "yongle-encyclopedia": {
+    "id": "yongle-encyclopedia",
+    "name": "编纂永乐大典",
+    "category": "文化",
+    "start_year": 1403,
+    "end_year": 1408,
+    "locations": [
+      "wenhua-dian"
+    ],
+    "participants": [
+      "yongle",
+      "xie-jin"
+    ],
+    "description": "解缙等主持编纂的百科全书",
+    "outcome": "中国最大的百科全书"
+  },
+  "qianlong-siku": {
+    "id": "qianlong-siku",
+    "name": "编纂四库全书",
+    "category": "文化",
+    "start_year": 1773,
+    "end_year": 1782,
+    "locations": [
+      "wuying-dian"
+    ],
+    "participants": [
+      "qianlong",
+      "ji-xiaolan"
+    ],
+    "description": "纪晓岚等编纂的中国最大丛书",
+    "outcome": "收录3461种图书"
+  },
+  "gugong-becomes-museum": {
+    "id": "gugong-becomes-museum",
+    "name": "故宫博物院成立",
+    "category": "政治",
+    "start_year": 1925,
+    "end_year": 1925,
+    "locations": [
+      "gugong"
+    ],
+    "participants": [],
+    "description": "紫禁城正式改为故宫博物院",
+    "outcome": "向公众开放"
+  }
+}

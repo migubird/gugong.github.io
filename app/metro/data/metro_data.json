@@ -1,0 +1,930 @@
+{
+  "ming_emperors": [
+    {
+      "id": "hongwu",
+      "name": "明太祖朱元璋",
+      "era_name": "洪武",
+      "reign_start": 1368,
+      "reign_end": 1398,
+      "description": "明朝开国皇帝。推翻元朝建立明朝，定都南京。废除丞相制度，加强皇权。实行严刑峻法。",
+      "achievements": [
+        "建立明朝",
+        "废除丞相",
+        "编纂大明律"
+      ]
+    },
+    {
+      "id": "jianwen",
+      "name": "明惠帝朱允炆",
+      "era_name": "建文",
+      "reign_start": 1398,
+      "reign_end": 1402,
+      "description": "朱元璋之孙，太子朱标之子。即位后削藩引发靖难之役，南京城破后下落不明。",
+      "achievements": [
+        "削藩政策"
+      ]
+    },
+    {
+      "id": "yongle",
+      "name": "明成祖朱棣",
+      "era_name": "永乐",
+      "reign_start": 1402,
+      "reign_end": 1424,
+      "description": "明成祖，朱元璋第四子。通过靖难之役夺取皇位，迁都北京，修建紫禁城（1406-1420），派郑和下西洋，编《永乐大典》。",
+      "achievements": [
+        "修建故宫",
+        "迁都北京",
+        "郑和下西洋",
+        "编纂永乐大典"
+      ]
+    },
+    {
+      "id": "hongxi",
+      "name": "明仁宗朱高炽",
+      "era_name": "洪熙",
+      "reign_start": 1424,
+      "reign_end": 1425,
+      "description": "永乐帝长子。在位仅十个月，但废除苛政，为仁宣之治奠基。",
+      "achievements": [
+        "废除苛政",
+        "仁宣之治奠基"
+      ]
+    },
+    {
+      "id": "xuande",
+      "name": "明宣宗朱瞻基",
+      "era_name": "宣德",
+      "reign_start": 1425,
+      "reign_end": 1435,
+      "description": "与仁宗合称'仁宣之治'，明朝黄金时代。停止郑和下西洋，设内书堂教太监读书。",
+      "achievements": [
+        "仁宣之治",
+        "停止下西洋"
+      ]
+    },
+    {
+      "id": "zhengtong",
+      "name": "明英宗朱祁镇",
+      "era_name": "正统",
+      "reign_start": 1435,
+      "reign_end": 1449,
+      "description": "幼年即位，宠信王振。土木堡之变被瓦剌俘虏。后通过夺门之变复辟，改元天顺。",
+      "achievements": [
+        "土木堡之变",
+        "夺门之变"
+      ]
+    },
+    {
+      "id": "jingtai",
+      "name": "明代宗朱祁钰",
+      "era_name": "景泰",
+      "reign_start": 1449,
+      "reign_end": 1457,
+      "description": "英宗被俘后由大臣拥立即位，用于谦保卫北京。英宗复辟后被废为郕王。",
+      "achievements": [
+        "北京保卫战",
+        "用于谦"
+      ]
+    },
+    {
+      "id": "chenghua",
+      "name": "明宪宗朱见深",
+      "era_name": "成化",
+      "reign_start": 1464,
+      "reign_end": 1487,
+      "description": "英宗长子。早期励精图治，后期宠信万贵妃和宦官汪直。设立西厂。",
+      "achievements": [
+        "设立西厂"
+      ]
+    },
+    {
+      "id": "hongzhi",
+      "name": "明孝宗朱祐樘",
+      "era_name": "弘治",
+      "reign_start": 1487,
+      "reign_end": 1505,
+      "description": "勤政爱民，驱逐奸佞，史称'弘治中兴'。一夫一妻制，仅张皇后一位配偶。",
+      "achievements": [
+        "弘治中兴"
+      ]
+    },
+    {
+      "id": "zhengde",
+      "name": "明武宗朱厚照",
+      "era_name": "正德",
+      "reign_start": 1505,
+      "reign_end": 1521,
+      "description": "荒嬉无度，宠信宦官刘瑾（八虎）。自封威武大将军，豹房享乐。落水后病死无子。",
+      "achievements": [
+        "刘瑾专权",
+        "应州大捷"
+      ]
+    },
+    {
+      "id": "jiajing",
+      "name": "明世宗朱厚熜",
+      "era_name": "嘉靖",
+      "reign_start": 1521,
+      "reign_end": 1566,
+      "description": "明世宗，以藩王身份入继大统。前期励精图治，后期崇信道教，长期不上朝。严嵩专权，海瑞上疏。",
+      "achievements": [
+        "前期改革",
+        "崇道修玄"
+      ]
+    },
+    {
+      "id": "longqing",
+      "name": "明穆宗朱载坖",
+      "era_name": "隆庆",
+      "reign_start": 1521,
+      "reign_end": 1567,
+      "description": "嘉靖帝第三子。在位六年，任用高拱、张居正等，开启隆万大改革。",
+      "achievements": [
+        "隆万大改革",
+        "俺答封贡"
+      ]
+    },
+    {
+      "id": "wanli",
+      "name": "明神宗朱翊钧",
+      "era_name": "万历",
+      "reign_start": 1572,
+      "reign_end": 1620,
+      "description": "明神宗，张居正辅政前十余年励精图治，张居正死后长期怠政，二十八年不上朝。",
+      "achievements": [
+        "万历三大征",
+        "张居正改革(前期)"
+      ]
+    },
+    {
+      "id": "taichang",
+      "name": "明光宗朱常洛",
+      "era_name": "泰昌",
+      "reign_start": 1620,
+      "reign_end": 1620,
+      "description": "万历帝长子。在位仅一月，因红丸案暴亡。",
+      "achievements": [
+        "红丸案"
+      ]
+    },
+    {
+      "id": "tianqi",
+      "name": "明熹宗朱由校",
+      "era_name": "天启",
+      "reign_start": 1620,
+      "reign_end": 1627,
+      "description": "光宗长子，木匠皇帝。宠信魏忠贤，阉党专权，东林党人遭迫害。",
+      "achievements": [
+        "魏忠贤专权",
+        "东林党争"
+      ]
+    },
+    {
+      "id": "chongzhen",
+      "name": "明思宗朱由检",
+      "era_name": "崇祯",
+      "reign_start": 1627,
+      "reign_end": 1644,
+      "description": "明朝最后一位皇帝。即位后铲除魏忠贤，但内忧外患不断，李自成攻破北京后自缢于煤山（景山）。",
+      "achievements": [
+        "铲除阉党"
+      ]
+    }
+  ],
+  "qing_emperors": [
+    {
+      "id": "shunzhi",
+      "name": "清世祖福临",
+      "era_name": "顺治",
+      "reign_start": 1643,
+      "reign_end": 1661,
+      "description": "清朝入关后第一位皇帝，六岁即位。多尔衮摄政。亲政后推行剃发易服。",
+      "achievements": [
+        "入关定鼎",
+        "剃发易服"
+      ]
+    },
+    {
+      "id": "kangxi",
+      "name": "清圣祖玄烨",
+      "era_name": "康熙",
+      "reign_start": 1661,
+      "reign_end": 1722,
+      "description": "清圣祖，中国历史上在位时间最长的皇帝（61年）。平定三藩、收复台湾、亲征噶尔丹、与沙俄签订尼布楚条约。晚年九子夺嫡。",
+      "achievements": [
+        "在位61年",
+        "平定三藩",
+        "收复台湾",
+        "编康熙字典"
+      ]
+    },
+    {
+      "id": "yongzheng",
+      "name": "清世宗胤禛",
+      "era_name": "雍正",
+      "reign_start": 1722,
+      "reign_end": 1735,
+      "description": "清世宗，康熙第四子，九子夺嫡胜出。设立军机处，推行摊丁入亩、火耗归公等改革，勤政著称。",
+      "achievements": [
+        "设立军机处",
+        "摊丁入亩",
+        "火耗归公"
+      ]
+    },
+    {
+      "id": "qianlong",
+      "name": "清高宗弘历",
+      "era_name": "乾隆",
+      "reign_start": 1735,
+      "reign_end": 1795,
+      "description": "清高宗，中国历史上实际掌权时间最长的皇帝（63年）。前期十全武功，后期宠信和珅，闭关锁国。禅位后仍实际掌权。",
+      "achievements": [
+        "十全武功",
+        "编四库全书",
+        "在位60年(实际63年)"
+      ]
+    },
+    {
+      "id": "jiaqing",
+      "name": "颙琰",
+      "era_name": "嘉庆",
+      "reign_start": 1796,
+      "reign_end": 1820,
+      "description": "清朝第七位皇帝，乾隆帝第十五子。在位期间惩治和珅，整顿吏治，但白莲教起义耗费国力。",
+      "achievements": [
+        "诛杀和珅",
+        "整顿吏治",
+        "平定白莲教起义"
+      ]
+    },
+    {
+      "id": "daoguang",
+      "name": "清宣宗旻宁",
+      "era_name": "道光",
+      "reign_start": 1820,
+      "reign_end": 1850,
+      "description": "清宣宗，节俭著称。鸦片战争爆发，中国开始沦为半殖民地半封建社会。",
+      "achievements": [
+        "节俭治国"
+      ]
+    },
+    {
+      "id": "xianfeng",
+      "name": "清文宗奕詝",
+      "era_name": "咸丰",
+      "reign_start": 1850,
+      "reign_end": 1861,
+      "description": "道光帝第四子。在位期间太平天国运动爆发，英法联军攻入北京火烧圆明园。",
+      "achievements": [
+        "太平天国",
+        "英法联军"
+      ]
+    },
+    {
+      "id": "tongzhi",
+      "name": "清穆宗载淳",
+      "era_name": "同治",
+      "reign_start": 1861,
+      "reign_end": 1875,
+      "description": "咸丰帝独子，六岁即位。两宫太后垂帘听政，平定太平天国，开启洋务运动。",
+      "achievements": [
+        "同治中兴",
+        "垂帘听政"
+      ]
+    },
+    {
+      "id": "guangxu",
+      "name": "清德宗载湉",
+      "era_name": "光绪",
+      "reign_start": 1875,
+      "reign_end": 1908,
+      "description": "清德宗，四岁登基，慈禧太后垂帘听政。亲政后发动戊戌变法，被慈禧镇压后遭软禁于瀛台。",
+      "achievements": [
+        "戊戌变法"
+      ]
+    },
+    {
+      "id": "xuantong",
+      "name": "清逊帝溥仪",
+      "era_name": "宣统",
+      "reign_start": 1908,
+      "reign_end": 1912,
+      "description": "清朝末代皇帝，三岁登基，六岁退位。中国历史上最后一位皇帝。退位后仍居内廷至1924年被冯玉祥驱逐出宫。",
+      "achievements": []
+    }
+  ],
+  "timeline_events": [
+    {
+      "id": "hongwu-death",
+      "name": "朱元璋驾崩",
+      "year": 1398,
+      "category": "逝世葬礼",
+      "emperor_ids": [
+        "hongwu"
+      ]
+    },
+    {
+      "id": "jingnan-zhiyi",
+      "name": "靖难之役",
+      "year": 1399,
+      "category": "政变",
+      "emperor_ids": [
+        "yongle"
+      ]
+    },
+    {
+      "id": "jingnan-start",
+      "name": "靖难起兵",
+      "year": 1399,
+      "category": "战争",
+      "emperor_ids": [
+        "yongle"
+      ]
+    },
+    {
+      "id": "yongle-enthronement",
+      "name": "永乐帝登基",
+      "year": 1402,
+      "category": "登基大典",
+      "emperor_ids": [
+        "yongle"
+      ]
+    },
+    {
+      "id": "wancheng-dadian",
+      "name": "编纂永乐大典",
+      "year": 1403,
+      "category": "朝会",
+      "emperor_ids": [
+        "yongle"
+      ]
+    },
+    {
+      "id": "yongle-encyclopedia",
+      "name": "编纂永乐大典",
+      "year": 1403,
+      "category": "文化",
+      "emperor_ids": [
+        "yongle"
+      ]
+    },
+    {
+      "id": "zhenghe-voyages",
+      "name": "郑和下西洋",
+      "year": 1405,
+      "category": "朝会",
+      "emperor_ids": [
+        "yongle"
+      ]
+    },
+    {
+      "id": "gugong-construction",
+      "name": "修建紫禁城",
+      "year": 1406,
+      "category": "修建工程",
+      "emperor_ids": [
+        "yongle"
+      ]
+    },
+    {
+      "id": "yongle-death",
+      "name": "永乐帝驾崩",
+      "year": 1424,
+      "category": "逝世葬礼",
+      "emperor_ids": [
+        "yongle"
+      ]
+    },
+    {
+      "id": "hongxi-reforms",
+      "name": "洪熙仁政",
+      "year": 1424,
+      "category": "朝会",
+      "emperor_ids": [
+        "hongxi"
+      ]
+    },
+    {
+      "id": "xuande-enthronement",
+      "name": "宣德帝登基",
+      "year": 1425,
+      "category": "登基大典",
+      "emperor_ids": [
+        "xuande"
+      ]
+    },
+    {
+      "id": "renxuan-zhizhi",
+      "name": "仁宣之治",
+      "year": 1425,
+      "category": "朝会",
+      "emperor_ids": [
+        "xuande"
+      ]
+    },
+    {
+      "id": "tumu-crisis",
+      "name": "土木堡之变",
+      "year": 1449,
+      "category": "战争",
+      "emperor_ids": [
+        "zhengtong"
+      ]
+    },
+    {
+      "id": "beijing-defense",
+      "name": "北京保卫战",
+      "year": 1449,
+      "category": "战争",
+      "emperor_ids": [
+        "jingtai"
+      ]
+    },
+    {
+      "id": "duomen-zhi-bian",
+      "name": "夺门之变",
+      "year": 1457,
+      "category": "政变",
+      "emperor_ids": [
+        "zhengtong"
+      ]
+    },
+    {
+      "id": "xi-chang",
+      "name": "西厂设立",
+      "year": 1477,
+      "category": "政治",
+      "emperor_ids": [
+        "chenghua"
+      ]
+    },
+    {
+      "id": "qianqing-fire",
+      "name": "乾清宫火灾",
+      "year": 1514,
+      "category": "火灾重建",
+      "emperor_ids": [
+        "zhengde"
+      ]
+    },
+    {
+      "id": "renyin-gongbian",
+      "name": "壬寅宫变",
+      "year": 1542,
+      "category": "政变",
+      "emperor_ids": [
+        "jiajing"
+      ]
+    },
+    {
+      "id": "taihe-dian-fire-1557",
+      "name": "三大殿火灾(嘉靖)",
+      "year": 1557,
+      "category": "火灾重建",
+      "emperor_ids": [
+        "jiajing"
+      ]
+    },
+    {
+      "id": "taihe-dian-fire-1597",
+      "name": "三大殿火灾(万历)",
+      "year": 1597,
+      "category": "火灾重建",
+      "emperor_ids": [
+        "wanli"
+      ]
+    },
+    {
+      "id": "hongwan-case",
+      "name": "红丸案",
+      "year": 1620,
+      "category": "宫廷",
+      "emperor_ids": [
+        "taichang"
+      ]
+    },
+    {
+      "id": "shunzhi-enthronement",
+      "name": "顺治帝登基",
+      "year": 1643,
+      "category": "登基大典",
+      "emperor_ids": [
+        "shunzhi"
+      ]
+    },
+    {
+      "id": "chongzhen-death",
+      "name": "崇祯帝自缢",
+      "year": 1644,
+      "category": "逝世葬礼",
+      "emperor_ids": [
+        "chongzhen"
+      ]
+    },
+    {
+      "id": "wuyingdian-rebuild",
+      "name": "武英殿修书",
+      "year": 1646,
+      "category": "修建工程",
+      "emperor_ids": [
+        "shunzhi"
+      ]
+    },
+    {
+      "id": "dorgon-death",
+      "name": "多尔衮去世",
+      "year": 1650,
+      "category": "逝世葬礼",
+      "emperor_ids": [
+        "shunzhi"
+      ]
+    },
+    {
+      "id": "kangxi-enthronement",
+      "name": "康熙帝登基",
+      "year": 1661,
+      "category": "登基大典",
+      "emperor_ids": [
+        "kangxi"
+      ]
+    },
+    {
+      "id": "kangxi-wedding",
+      "name": "康熙大婚",
+      "year": 1665,
+      "category": "大婚",
+      "emperor_ids": [
+        "kangxi"
+      ]
+    },
+    {
+      "id": "wu-sangu-rebellion",
+      "name": "三藩之乱",
+      "year": 1673,
+      "category": "战争",
+      "emperor_ids": [
+        "kangxi"
+      ]
+    },
+    {
+      "id": "sanfan-rebellion",
+      "name": "三藩之乱",
+      "year": 1673,
+      "category": "战争",
+      "emperor_ids": [
+        "kangxi"
+      ]
+    },
+    {
+      "id": "kangxi-southern-tour",
+      "name": "康熙南巡",
+      "year": 1684,
+      "category": "朝会",
+      "emperor_ids": [
+        "kangxi"
+      ]
+    },
+    {
+      "id": "taihe-dian-rebuild-1695",
+      "name": "太和殿重建(康熙)",
+      "year": 1695,
+      "category": "修建工程",
+      "emperor_ids": [
+        "kangxi"
+      ]
+    },
+    {
+      "id": "jiuzi-duodi",
+      "name": "九子夺嫡",
+      "year": 1708,
+      "category": "政变",
+      "emperor_ids": [
+        "kangxi",
+        "yongzheng"
+      ]
+    },
+    {
+      "id": "junjichu-established",
+      "name": "军机处设立",
+      "year": 1729,
+      "category": "朝会",
+      "emperor_ids": [
+        "yongzheng"
+      ]
+    },
+    {
+      "id": "qianlong-enthronement",
+      "name": "乾隆帝登基",
+      "year": 1735,
+      "category": "登基大典",
+      "emperor_ids": [
+        "qianlong"
+      ]
+    },
+    {
+      "id": "yu-huayuan-build",
+      "name": "御花园修缮",
+      "year": 1740,
+      "category": "修建工程",
+      "emperor_ids": [
+        "qianlong"
+      ]
+    },
+    {
+      "id": "jinchuan-campaign",
+      "name": "大小金川之役",
+      "year": 1747,
+      "category": "战争",
+      "emperor_ids": [
+        "qianlong"
+      ]
+    },
+    {
+      "id": "qianlong-southern-tour",
+      "name": "乾隆南巡",
+      "year": 1751,
+      "category": "朝会",
+      "emperor_ids": [
+        "qianlong"
+      ]
+    },
+    {
+      "id": "ning-shougong-build",
+      "name": "宁寿宫区修建",
+      "year": 1771,
+      "category": "修建工程",
+      "emperor_ids": [
+        "qianlong"
+      ]
+    },
+    {
+      "id": "siku-quanshu",
+      "name": "编纂四库全书",
+      "year": 1773,
+      "category": "朝会",
+      "emperor_ids": [
+        "qianlong"
+      ]
+    },
+    {
+      "id": "qianlong-siku",
+      "name": "编纂四库全书",
+      "year": 1773,
+      "category": "文化",
+      "emperor_ids": [
+        "qianlong"
+      ]
+    },
+    {
+      "id": "lin-shuangwen",
+      "name": "林爽文起义",
+      "year": 1786,
+      "category": "战争",
+      "emperor_ids": [
+        "qianlong"
+      ]
+    },
+    {
+      "id": "qianlong-abdication",
+      "name": "乾隆禅位",
+      "year": 1795,
+      "category": "退位",
+      "emperor_ids": [
+        "qianlong",
+        "jiaqing"
+      ]
+    },
+    {
+      "id": "baixianjiao",
+      "name": "白莲教起义",
+      "year": 1796,
+      "category": "战争",
+      "emperor_ids": [
+        "qianlong",
+        "jiaqing"
+      ]
+    },
+    {
+      "id": "heshen-corruption",
+      "name": "和珅被抄家",
+      "year": 1799,
+      "category": "政变",
+      "emperor_ids": [
+        "qianlong"
+      ]
+    },
+    {
+      "id": "heshen-fall",
+      "name": "和珅倒台",
+      "year": 1799,
+      "category": "政变",
+      "emperor_ids": [
+        "jiaqing"
+      ]
+    },
+    {
+      "id": "opium-war",
+      "name": "虎门销烟与鸦片战争",
+      "year": 1839,
+      "category": "战争",
+      "emperor_ids": [
+        "daoguang"
+      ]
+    },
+    {
+      "id": "taipai-treaty",
+      "name": "签订南京条约",
+      "year": 1842,
+      "category": "外交",
+      "emperor_ids": [
+        "daoguang"
+      ]
+    },
+    {
+      "id": "taiping-rebellion",
+      "name": "太平天国运动",
+      "year": 1851,
+      "category": "战争",
+      "emperor_ids": [
+        "xianfeng",
+        "tongzhi"
+      ]
+    },
+    {
+      "id": "nian-rebellion",
+      "name": "捻军起义",
+      "year": 1853,
+      "category": "战争",
+      "emperor_ids": [
+        "xianfeng",
+        "tongzhi"
+      ]
+    },
+    {
+      "id": "second-opium-war",
+      "name": "第二次鸦片战争",
+      "year": 1856,
+      "category": "战争",
+      "emperor_ids": [
+        "xianfeng"
+      ]
+    },
+    {
+      "id": "yuanmingyuan-fire",
+      "name": "火烧圆明园",
+      "year": 1860,
+      "category": "战争",
+      "emperor_ids": [
+        "xianfeng"
+      ]
+    },
+    {
+      "id": "xianfeng-flee",
+      "name": "咸丰帝逃往热河",
+      "year": 1860,
+      "category": "政变",
+      "emperor_ids": [
+        "xianfeng"
+      ]
+    },
+    {
+      "id": "tongzhi-wedding",
+      "name": "同治大婚",
+      "year": 1872,
+      "category": "大婚",
+      "emperor_ids": [
+        "tongzhi"
+      ]
+    },
+    {
+      "id": "tongzhi-death",
+      "name": "同治帝驾崩",
+      "year": 1875,
+      "category": "逝世葬礼",
+      "emperor_ids": [
+        "tongzhi"
+      ]
+    },
+    {
+      "id": "guangxu-wedding",
+      "name": "光绪大婚",
+      "year": 1889,
+      "category": "大婚",
+      "emperor_ids": [
+        "guangxu"
+      ]
+    },
+    {
+      "id": "jiawu-war",
+      "name": "甲午战争",
+      "year": 1894,
+      "category": "战争",
+      "emperor_ids": [
+        "guangxu"
+      ]
+    },
+    {
+      "id": "li-hongzhang-treaty",
+      "name": "签订马关条约",
+      "year": 1895,
+      "category": "政变",
+      "emperor_ids": [
+        "guangxu"
+      ]
+    },
+    {
+      "id": "wuxu-bianfa",
+      "name": "戊戌变法",
+      "year": 1898,
+      "category": "政变",
+      "emperor_ids": [
+        "guangxu"
+      ]
+    },
+    {
+      "id": "wuxu-coup",
+      "name": "戊戌政变",
+      "year": 1898,
+      "category": "政变",
+      "emperor_ids": [
+        "guangxu"
+      ]
+    },
+    {
+      "id": "guangxu-imprison",
+      "name": "光绪被囚瀛台",
+      "year": 1898,
+      "category": "政变",
+      "emperor_ids": [
+        "guangxu"
+      ]
+    },
+    {
+      "id": "wuxu-reform",
+      "name": "戊戌变法",
+      "year": 1898,
+      "category": "改革",
+      "emperor_ids": [
+        "guangxu"
+      ]
+    },
+    {
+      "id": "boxer-war",
+      "name": "八国联军侵华",
+      "year": 1900,
+      "category": "战争",
+      "emperor_ids": [
+        "guangxu"
+      ]
+    },
+    {
+      "id": "xinchou-treaty",
+      "name": "签订辛丑条约",
+      "year": 1901,
+      "category": "政变",
+      "emperor_ids": [
+        "guangxu"
+      ]
+    },
+    {
+      "id": "guangxu-death",
+      "name": "光绪帝驾崩",
+      "year": 1908,
+      "category": "逝世葬礼",
+      "emperor_ids": [
+        "guangxu"
+      ]
+    },
+    {
+      "id": "abdication",
+      "name": "清帝退位",
+      "year": 1912,
+      "category": "退位",
+      "emperor_ids": [
+        "xuantong"
+      ]
+    },
+    {
+      "id": "xuantong-wedding",
+      "name": "宣统大婚",
+      "year": 1922,
+      "category": "大婚",
+      "emperor_ids": [
+        "xuantong"
+      ]
+    },
+    {
+      "id": "pu-yi-expelled",
+      "name": "溥仪被逐出宫",
+      "year": 1924,
+      "category": "政变",
+      "emperor_ids": [
+        "xuantong"
+      ]
+    }
+  ],
+  "year_range": {
+    "min": 1368,
+    "max": 1912
+  }
+}

@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>故宫知识图谱 Wiki - 故宫知识图谱</title>
+  <style>
+    * {{ margin: 0; padding: 0; box-sizing: border-box; }}
+    body {{ font-family: "PingFang SC", "Microsoft YaHei", sans-serif; background: #0d1117; color: #e6edf3; min-height: 100vh; font-size: 16px; }}
+    header {{ background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 1.5rem 2rem; border-bottom: 2px solid #c9a227; }}
+    header a {{ color: #58a6ff; text-decoration: none; }}
+    header a:hover {{ text-decoration: underline; }}
+    .nav {{ display: flex; align-items: center; gap: 1rem; margin-bottom: 0.5rem; flex-wrap: wrap; }}
+    h1 {{ color: #c9a227; font-size: 1.8rem; }}
+    .container {{ max-width: 900px; margin: 2rem auto; padding: 0 1.5rem; }}
+    .meta {{ display: grid; grid-template-columns: 100px 1fr; gap: 6px 12px; font-size: 15px; margin: 1rem 0; }}
+    .meta-label {{ color: #8b949e; }}
+    .meta-value {{ color: #e6edf3; }}
+    .desc {{ font-size: 17px; line-height: 1.8; color: #ccc; margin: 1rem 0; }}
+    h2 {{ color: #c9a227; font-size: 1.3rem; margin: 1.5rem 0 0.8rem; padding-bottom: 6px; border-bottom: 1px solid #30363d; }}
+    ul {{ padding-left: 1.5rem; }}
+    li {{ margin: 0.5rem 0; line-height: 1.6; font-size: 15px; }}
+    strong {{ color: #e6edf3; }}
+    .badge {{ display: inline-block; background: #c9a01733; color: #c9a017; padding: 2px 8px; border-radius: 4px; font-size: 13px; margin-right: 6px; }}
+    .note {{ color: #8b949e; font-size: 14px; }}
+    .event-card {{ background: #161b22; border: 1px solid #30363d; border-radius: 6px; padding: 12px; margin: 8px 0; }}
+    .event-card .ename {{ color: #e74c3c; font-weight: bold; font-size: 16px; }}
+    .event-card .edesc {{ color: #aaa; line-height: 1.5; }}
+    .event-card .eyear {{ color: #8b949e; font-size: 13px; margin-top: 4px; }}
+    .link-list a {{ color: #58a6ff; text-decoration: none; }}
+    .link-list a:hover {{ text-decoration: underline; }}
+    @media (max-width: 600px) {{
+      h1 {{ font-size: 1.4rem; }}
+      .container {{ padding: 0 1rem; }}
+      .meta {{ grid-template-columns: 80px 1fr; font-size: 14px; }}
+      .desc {{ font-size: 15px; }}
+      li {{ font-size: 14px; }}
+    }}
+  </style>
+</head>
+<body>
+<header>
+  <div class="nav">
+    <a href="../../">&#8592; 返回主页</a>
+    <span><a href="../app/map/">平面图</a></span>
+  </div>
+  <h1>故宫知识图谱 Wiki</h1>
+</header>
+<div class="container">
+<div class="desc">用AI将故宫600年历史转化为可交互的空间-人物-事件知识图谱</div><p style="color:#8b949e;margin:1rem 0;"><strong>数据规模</strong>：10座宫殿、10位皇帝、30位人物、15个事件 | <strong>最后更新</strong>：2026-05-05</p><h2>宫殿</h2><ul class="link-list"><li><a href="palaces/taihe-dian.html">太和殿</a>（金銮殿、奉天殿） — 外朝大殿，1420年建</li><li><a href="palaces/zhonghe-dian.html">中和殿</a>（华盖殿） — 外朝大殿，1420年建</li><li><a href="palaces/baohe-dian.html">保和殿</a>（谨身殿） — 外朝大殿，1420年建</li><li><a href="palaces/qianqing-gong.html">乾清宫</a> — 内廷后寝，1420年建</li><li><a href="palaces/jiaotai-dian.html">交泰殿</a> — 内廷后寝，1420年建</li><li><a href="palaces/kunning-gong.html">坤宁宫</a> — 内廷后寝，1420年建</li><li><a href="palaces/yanxi-gong.html">延禧宫</a>（水晶宫） — 东西六宫，1420年建</li><li><a href="palaces/chuxiu-gong.html">储秀宫</a> — 东西六宫，1420年建</li><li><a href="palaces/yangxindian.html">养心殿</a> — 内廷后寝，1723年建</li><li><a href="palaces/junji-chu.html">军机处</a> — 附属建筑，1729年建</li></ul><h2>皇帝</h2><ul class="link-list"><li><a href="emperors/yongle.html">明成祖朱棣</a>（永乐）— 明，1402-1424年在位</li><li><a href="emperors/jiajing.html">明世宗朱厚熜</a>（嘉靖）— 明，1521-1566年在位</li><li><a href="emperors/wanli.html">明神宗朱翊钧</a>（万历）— 明，1572-1620年在位</li><li><a href="emperors/chongzhen.html">明思宗朱由检</a>（崇祯）— 明，1627-1644年在位</li><li><a href="emperors/kangxi.html">清圣祖玄烨</a>（康熙）— 清，1661-1722年在位</li><li><a href="emperors/yongzheng.html">清世宗胤禛</a>（雍正）— 清，1722-1735年在位</li><li><a href="emperors/qianlong.html">清高宗弘历</a>（乾隆）— 清，1735-1795年在位</li><li><a href="emperors/daoguang.html">清宣宗旻宁</a>（道光）— 清，1820-1850年在位</li><li><a href="emperors/guangxu.html">清德宗载湉</a>（光绪）— 清，1875-1908年在位</li><li><a href="emperors/xuantong.html">清逊帝溥仪</a>（宣统）— 清，1908-1912年在位</li></ul><h2>人物</h2><ul class="link-list"><li><strong>张居正</strong>（大学士，1525-1582）</li><li><strong>严嵩</strong>（大学士，1480-1567）</li><li><strong>海瑞</strong>（尚书侍郎，1514-1587）</li><li><strong>魏忠贤</strong>（太监，1568-1627）</li><li><strong>郑和</strong>（太监，1371-1433）</li><li><strong>于谦</strong>（尚书侍郎，1398-1457）</li><li><strong>张廷玉</strong>（大学士，1672-1755）</li><li><strong>和珅</strong>（大学士，1750-1799）</li><li><strong>纪昀（纪晓岚）</strong>（大学士，1724-1805）</li><li><strong>林则徐</strong>（尚书侍郎，1785-1850）</li><li><strong>左宗棠</strong>（将军，1812-1885）</li><li><strong>李鸿章</strong>（大学士，1823-1901）</li><li><strong>慈禧太后</strong>（皇后，1835-1908）</li><li><strong>隆裕太后</strong>（皇后，1868-1913）</li><li><strong>婉容</strong>（皇后，1906-1946）</li><li><strong>珍妃</strong>（妃嫔，1876-1900）</li><li><strong>慈安太后</strong>（皇后，1837-1881）</li><li><strong>李莲英</strong>（太监，1848-1911）</li><li><strong>吴三桂</strong>（将军，1612-1678）</li><li><strong>纳兰性德</strong>（大学士，1655-1685）</li><li><strong>曹雪芹</strong>（大学士，1715-1763）</li><li><strong>曾国藩</strong>（将军，1811-1872）</li><li><strong>康有为</strong>（大学士，1858-1927）</li><li><strong>梁启超</strong>（大学士，1873-1929）</li><li><strong>袁世凯</strong>（将军，1859-1916）</li><li><strong>孙中山</strong>（将军，1866-1925）</li><li><strong>多尔衮</strong>（大学士，1612-1650）</li><li><strong>王承恩</strong>（太监，None-1644）</li><li><strong>高拱</strong>（大学士，1513-1578）</li><li><strong>杨涟</strong>（尚书侍郎，1572-1625）</li></ul><h2>事件</h2><ul class="link-list"><li><strong>修建紫禁城</strong>（1406年）— 修建工程</li><li><strong>靖难之役</strong>（1399年）— 政变</li><li><strong>崇祯帝自缢</strong>（1644年）— 逝世葬礼</li><li><strong>清军入关定鼎北京</strong>（1644年）— 战争</li><li><strong>九子夺嫡</strong>（1708年）— 政变</li><li><strong>军机处设立</strong>（1729年）— 朝会</li><li><strong>和珅被抄家</strong>（1799年）— 政变</li><li><strong>虎门销烟与鸦片战争</strong>（1839年）— 战争</li><li><strong>戊戌变法</strong>（1898年）— 政变</li><li><strong>珍妃之死</strong>（1900年）— 逝世葬礼</li><li><strong>清帝退位</strong>（1912年）— 退位</li><li><strong>溥仪被逐出宫</strong>（1924年）— 政变</li><li><strong>编纂永乐大典</strong>（1403年）— 朝会</li><li><strong>郑和下西洋</strong>（1405年）— 朝会</li><li><strong>编纂四库全书</strong>（1773年）— 朝会</li></ul>
+</div>
+</body>
+</html>

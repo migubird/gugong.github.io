@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>故宫知识图谱 - 交互式平面图</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+<div id="app">
+  <header>
+    <div class="header-top">
+      <a href="../../" class="back-btn">&#8592; 返回主页</a>
+      <h1>故宫知识图谱</h1>
+    </div>
+    <p class="subtitle">点击宫殿，探索600年历史中的人物与事件</p>
+  </header>
+
+  <main>
+    <div id="map-container">
+      <svg id="palace-map" viewBox="0 0 1000 800" xmlns="http://www.w3.org/2000/svg">
+        <!-- 背景 -->
+        <rect x="0" y="0" width="1000" height="800" fill="#1a1a2e"/>
+
+        <!-- 宫墙 -->
+        <rect x="100" y="50" width="800" height="700" fill="none" stroke="#c41e3a" stroke-width="4" rx="5"/>
+
+        <!-- 午门（南） -->
+        <rect x="400" y="730" width="200" height="20" fill="#c41e3a" rx="2"/>
+        <text x="500" y="745" text-anchor="middle" fill="#fff" font-size="14">午门</text>
+
+        <!-- 神武门（北） -->
+        <rect x="400" y="45" width="200" height="15" fill="#c41e3a" rx="2"/>
+        <text x="500" y="57" text-anchor="middle" fill="#fff" font-size="12">神武门</text>
+
+        <!-- 中轴线 -->
+        <line x1="500" y1="60" x2="500" y2="750" stroke="#d4a01733" stroke-width="2" stroke-dasharray="5,5"/>
+
+        <!-- 外朝区域标签 -->
+        <text x="500" y="640" text-anchor="middle" fill="#d4a017" font-size="18" font-weight="bold" opacity="0.5">外 朝</text>
+        <!-- 内廷区域标签 -->
+        <text x="500" y="270" text-anchor="middle" fill="#c0392b" font-size="18" font-weight="bold" opacity="0.5">内 廷</text>
+
+        <!-- 宫殿将通过JS动态生成 -->
+        <g id="palace-layer"></g>
+        <g id="label-layer"></g>
+      </svg>
+    </div>
+
+    <aside id="sidebar">
+      <div id="sidebar-content">
+        <div class="placeholder">
+          <div class="icon">&#127963;</div>
+          <h2>点击左侧地图上的宫殿</h2>
+          <p>查看与该宫殿相关的皇帝、人物和事件</p>
+        </div>
+      </div>
+    </aside>
+  </main>
+
+  <div id="timeline-bar">
+    <label>时间滑块：</label>
+    <input type="range" id="year-slider" min="1400" max="1930" value="1420" step="1">
+    <span id="year-display">1420年</span>
+    <span id="dynasty-display">（明·永乐）</span>
+  </div>
+</div>
+
+<script src="map-data.js"></script>
+<script src="app.js"></script>
+</body>
+</html>

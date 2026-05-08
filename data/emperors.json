@@ -1,0 +1,494 @@
+{
+  "yongle": {
+    "id": "yongle",
+    "name": "明成祖朱棣",
+    "era_name": "永乐",
+    "dynasty": "明",
+    "reign_start": 1402,
+    "reign_end": 1424,
+    "birth_year": 1360,
+    "death_year": 1424,
+    "father": "hongwu",
+    "successor": "hongxi",
+    "consort": "xurenhuanghou",
+    "description": "明成祖，朱元璋第四子。通过靖难之役夺取皇位，迁都北京，修建紫禁城（1406-1420），派郑和下西洋，编《永乐大典》。",
+    "achievements": [
+      "修建故宫",
+      "迁都北京",
+      "郑和下西洋",
+      "编纂永乐大典"
+    ],
+    "color": "#e67e22"
+  },
+  "jiajing": {
+    "id": "jiajing",
+    "name": "明世宗朱厚熜",
+    "era_name": "嘉靖",
+    "dynasty": "明",
+    "reign_start": 1521,
+    "reign_end": 1566,
+    "birth_year": 1507,
+    "death_year": 1566,
+    "father": "xingxianwang",
+    "successor": "longqing",
+    "consort": "xiaojiehuan",
+    "description": "明世宗，以藩王身份入继大统。前期励精图治，后期崇信道教，长期不上朝。严嵩专权，海瑞上疏。",
+    "achievements": [
+      "前期改革",
+      "崇道修玄"
+    ],
+    "color": "#e67e22"
+  },
+  "wanli": {
+    "id": "wanli",
+    "name": "明神宗朱翊钧",
+    "era_name": "万历",
+    "dynasty": "明",
+    "reign_start": 1572,
+    "reign_end": 1620,
+    "birth_year": 1563,
+    "death_year": 1620,
+    "father": "longqing",
+    "successor": "taichang",
+    "consort": "xiaoduanxian",
+    "description": "明神宗，张居正辅政前十余年励精图治，张居正死后长期怠政，二十八年不上朝。",
+    "achievements": [
+      "万历三大征",
+      "张居正改革(前期)"
+    ],
+    "color": "#e67e22"
+  },
+  "chongzhen": {
+    "id": "chongzhen",
+    "name": "明思宗朱由检",
+    "era_name": "崇祯",
+    "dynasty": "明",
+    "reign_start": 1627,
+    "reign_end": 1644,
+    "birth_year": 1611,
+    "death_year": 1644,
+    "father": "taichang",
+    "successor": null,
+    "consort": "xiaojielie",
+    "description": "明朝最后一位皇帝。即位后铲除魏忠贤，但内忧外患不断，李自成攻破北京后自缢于煤山（景山）。",
+    "achievements": [
+      "铲除阉党"
+    ],
+    "color": "#e67e22"
+  },
+  "kangxi": {
+    "id": "kangxi",
+    "name": "清圣祖玄烨",
+    "era_name": "康熙",
+    "dynasty": "清",
+    "reign_start": 1661,
+    "reign_end": 1722,
+    "birth_year": 1654,
+    "death_year": 1722,
+    "father": "shunzhi",
+    "successor": "yongzheng",
+    "consort": "xiaochengren",
+    "description": "清圣祖，中国历史上在位时间最长的皇帝（61年）。平定三藩、收复台湾、亲征噶尔丹、与沙俄签订尼布楚条约。晚年九子夺嫡。",
+    "achievements": [
+      "在位61年",
+      "平定三藩",
+      "收复台湾",
+      "编康熙字典"
+    ],
+    "color": "#2980b9"
+  },
+  "yongzheng": {
+    "id": "yongzheng",
+    "name": "清世宗胤禛",
+    "era_name": "雍正",
+    "dynasty": "清",
+    "reign_start": 1722,
+    "reign_end": 1735,
+    "birth_year": 1678,
+    "death_year": 1735,
+    "father": "kangxi",
+    "successor": "qianlong",
+    "consort": "xiaojingxian",
+    "description": "清世宗，康熙第四子，九子夺嫡胜出。设立军机处，推行摊丁入亩、火耗归公等改革，勤政著称。",
+    "achievements": [
+      "设立军机处",
+      "摊丁入亩",
+      "火耗归公"
+    ],
+    "color": "#2980b9"
+  },
+  "qianlong": {
+    "id": "qianlong",
+    "name": "清高宗弘历",
+    "era_name": "乾隆",
+    "dynasty": "清",
+    "reign_start": 1735,
+    "reign_end": 1795,
+    "birth_year": 1711,
+    "death_year": 1799,
+    "father": "yongzheng",
+    "successor": "jiaqing",
+    "consort": "xiaoxianchun",
+    "description": "清高宗，中国历史上实际掌权时间最长的皇帝（63年）。前期十全武功，后期宠信和珅，闭关锁国。禅位后仍实际掌权。",
+    "achievements": [
+      "十全武功",
+      "编四库全书",
+      "在位60年(实际63年)"
+    ],
+    "color": "#2980b9"
+  },
+  "daoguang": {
+    "id": "daoguang",
+    "name": "清宣宗旻宁",
+    "era_name": "道光",
+    "dynasty": "清",
+    "reign_start": 1820,
+    "reign_end": 1850,
+    "birth_year": 1782,
+    "death_year": 1850,
+    "father": "jiaqing",
+    "successor": "xianfeng",
+    "consort": "xiaoherui",
+    "description": "清宣宗，节俭著称。鸦片战争爆发，中国开始沦为半殖民地半封建社会。",
+    "achievements": [
+      "节俭治国"
+    ],
+    "color": "#2980b9"
+  },
+  "guangxu": {
+    "id": "guangxu",
+    "name": "清德宗载湉",
+    "era_name": "光绪",
+    "dynasty": "清",
+    "reign_start": 1875,
+    "reign_end": 1908,
+    "birth_year": 1871,
+    "death_year": 1908,
+    "father": "yixuan",
+    "successor": "xuantong",
+    "consort": "longyu",
+    "description": "清德宗，四岁登基，慈禧太后垂帘听政。亲政后发动戊戌变法，被慈禧镇压后遭软禁于瀛台。",
+    "achievements": [
+      "戊戌变法"
+    ],
+    "color": "#2980b9"
+  },
+  "xuantong": {
+    "id": "xuantong",
+    "name": "清逊帝溥仪",
+    "era_name": "宣统",
+    "dynasty": "清",
+    "reign_start": 1908,
+    "reign_end": 1912,
+    "birth_year": 1906,
+    "death_year": 1967,
+    "father": "zaifeng",
+    "successor": null,
+    "consort": "wanrong",
+    "description": "清朝末代皇帝，三岁登基，六岁退位。中国历史上最后一位皇帝。退位后仍居内廷至1924年被冯玉祥驱逐出宫。",
+    "achievements": [],
+    "color": "#2980b9"
+  },
+  "hongwu": {
+    "id": "hongwu",
+    "name": "明太祖朱元璋",
+    "era_name": "洪武",
+    "dynasty": "明",
+    "reign_start": 1368,
+    "reign_end": 1398,
+    "birth_year": 1328,
+    "death_year": 1398,
+    "father": null,
+    "successor": "hongwu",
+    "consort": null,
+    "description": "明朝开国皇帝。推翻元朝建立明朝，定都南京。废除丞相制度，加强皇权。实行严刑峻法。",
+    "achievements": [
+      "建立明朝",
+      "废除丞相",
+      "编纂大明律"
+    ],
+    "color": "#e67e22"
+  },
+  "jianwen": {
+    "id": "jianwen",
+    "name": "明惠帝朱允炆",
+    "era_name": "建文",
+    "dynasty": "明",
+    "reign_start": 1398,
+    "reign_end": 1402,
+    "birth_year": 1377,
+    "death_year": null,
+    "father": "hongwu",
+    "successor": "jianwen",
+    "consort": null,
+    "description": "朱元璋之孙，太子朱标之子。即位后削藩引发靖难之役，南京城破后下落不明。",
+    "achievements": [
+      "削藩政策"
+    ],
+    "color": "#e67e22"
+  },
+  "hongxi": {
+    "id": "hongxi",
+    "name": "明仁宗朱高炽",
+    "era_name": "洪熙",
+    "dynasty": "明",
+    "reign_start": 1424,
+    "reign_end": 1425,
+    "birth_year": 1378,
+    "death_year": 1425,
+    "father": "yongle",
+    "successor": "xuande",
+    "consort": null,
+    "description": "永乐帝长子。在位仅十个月，但废除苛政，为仁宣之治奠基。",
+    "achievements": [
+      "废除苛政",
+      "仁宣之治奠基"
+    ],
+    "color": "#e67e22"
+  },
+  "xuande": {
+    "id": "xuande",
+    "name": "明宣宗朱瞻基",
+    "era_name": "宣德",
+    "dynasty": "明",
+    "reign_start": 1425,
+    "reign_end": 1435,
+    "birth_year": 1399,
+    "death_year": 1435,
+    "father": "hongxi",
+    "successor": "zhengtong",
+    "consort": null,
+    "description": "与仁宗合称'仁宣之治'，明朝黄金时代。停止郑和下西洋，设内书堂教太监读书。",
+    "achievements": [
+      "仁宣之治",
+      "停止下西洋"
+    ],
+    "color": "#e67e22"
+  },
+  "zhengtong": {
+    "id": "zhengtong",
+    "name": "明英宗朱祁镇",
+    "era_name": "正统",
+    "dynasty": "明",
+    "reign_start": 1435,
+    "reign_end": 1449,
+    "birth_year": 1427,
+    "death_year": 1464,
+    "father": "xuande",
+    "successor": "jingtai",
+    "consort": null,
+    "description": "幼年即位，宠信王振。土木堡之变被瓦剌俘虏。后通过夺门之变复辟，改元天顺。",
+    "achievements": [
+      "土木堡之变",
+      "夺门之变"
+    ],
+    "color": "#e67e22"
+  },
+  "jingtai": {
+    "id": "jingtai",
+    "name": "明代宗朱祁钰",
+    "era_name": "景泰",
+    "dynasty": "明",
+    "reign_start": 1449,
+    "reign_end": 1457,
+    "birth_year": 1428,
+    "death_year": 1457,
+    "father": "xuande",
+    "successor": "zhengtong",
+    "consort": null,
+    "description": "英宗被俘后由大臣拥立即位，用于谦保卫北京。英宗复辟后被废为郕王。",
+    "achievements": [
+      "北京保卫战",
+      "用于谦"
+    ],
+    "color": "#e67e22"
+  },
+  "chenghua": {
+    "id": "chenghua",
+    "name": "明宪宗朱见深",
+    "era_name": "成化",
+    "dynasty": "明",
+    "reign_start": 1464,
+    "reign_end": 1487,
+    "birth_year": 1447,
+    "death_year": 1487,
+    "father": "zhengtong",
+    "successor": "hongzhi",
+    "consort": null,
+    "description": "英宗长子。早期励精图治，后期宠信万贵妃和宦官汪直。设立西厂。",
+    "achievements": [
+      "设立西厂"
+    ],
+    "color": "#e67e22"
+  },
+  "hongzhi": {
+    "id": "hongzhi",
+    "name": "明孝宗朱祐樘",
+    "era_name": "弘治",
+    "dynasty": "明",
+    "reign_start": 1487,
+    "reign_end": 1505,
+    "birth_year": 1470,
+    "death_year": 1505,
+    "father": "chenghua",
+    "successor": "zhengde",
+    "consort": null,
+    "description": "勤政爱民，驱逐奸佞，史称'弘治中兴'。一夫一妻制，仅张皇后一位配偶。",
+    "achievements": [
+      "弘治中兴"
+    ],
+    "color": "#e67e22"
+  },
+  "zhengde": {
+    "id": "zhengde",
+    "name": "明武宗朱厚照",
+    "era_name": "正德",
+    "dynasty": "明",
+    "reign_start": 1505,
+    "reign_end": 1521,
+    "birth_year": 1491,
+    "death_year": 1521,
+    "father": "hongzhi",
+    "successor": "jiajing",
+    "consort": null,
+    "description": "荒嬉无度，宠信宦官刘瑾（八虎）。自封威武大将军，豹房享乐。落水后病死无子。",
+    "achievements": [
+      "刘瑾专权",
+      "应州大捷"
+    ],
+    "color": "#e67e22"
+  },
+  "longqing": {
+    "id": "longqing",
+    "name": "明穆宗朱载坖",
+    "era_name": "隆庆",
+    "dynasty": "明",
+    "reign_start": 1521,
+    "reign_end": 1567,
+    "birth_year": 1537,
+    "death_year": 1567,
+    "father": "jiajing",
+    "successor": "wanli",
+    "consort": null,
+    "description": "嘉靖帝第三子。在位六年，任用高拱、张居正等，开启隆万大改革。",
+    "achievements": [
+      "隆万大改革",
+      "俺答封贡"
+    ],
+    "color": "#e67e22"
+  },
+  "taichang": {
+    "id": "taichang",
+    "name": "明光宗朱常洛",
+    "era_name": "泰昌",
+    "dynasty": "明",
+    "reign_start": 1620,
+    "reign_end": 1620,
+    "birth_year": 1582,
+    "death_year": 1620,
+    "father": "wanli",
+    "successor": "tianqi",
+    "consort": null,
+    "description": "万历帝长子。在位仅一月，因红丸案暴亡。",
+    "achievements": [
+      "红丸案"
+    ],
+    "color": "#e67e22"
+  },
+  "tianqi": {
+    "id": "tianqi",
+    "name": "明熹宗朱由校",
+    "era_name": "天启",
+    "dynasty": "明",
+    "reign_start": 1620,
+    "reign_end": 1627,
+    "birth_year": 1605,
+    "death_year": 1627,
+    "father": "taichang",
+    "successor": "chongzhen",
+    "consort": null,
+    "description": "光宗长子，木匠皇帝。宠信魏忠贤，阉党专权，东林党人遭迫害。",
+    "achievements": [
+      "魏忠贤专权",
+      "东林党争"
+    ],
+    "color": "#e67e22"
+  },
+  "shunzhi": {
+    "id": "shunzhi",
+    "name": "清世祖福临",
+    "era_name": "顺治",
+    "dynasty": "清",
+    "reign_start": 1643,
+    "reign_end": 1661,
+    "birth_year": 1638,
+    "death_year": 1661,
+    "father": "huangtaiji",
+    "successor": "kangxi",
+    "consort": null,
+    "description": "清朝入关后第一位皇帝，六岁即位。多尔衮摄政。亲政后推行剃发易服。",
+    "achievements": [
+      "入关定鼎",
+      "剃发易服"
+    ],
+    "color": "#2980b9"
+  },
+  "xianfeng": {
+    "id": "xianfeng",
+    "name": "清文宗奕詝",
+    "era_name": "咸丰",
+    "dynasty": "清",
+    "reign_start": 1850,
+    "reign_end": 1861,
+    "birth_year": 1831,
+    "death_year": 1861,
+    "father": "daoguang",
+    "successor": "tongzhi",
+    "consort": null,
+    "description": "道光帝第四子。在位期间太平天国运动爆发，英法联军攻入北京火烧圆明园。",
+    "achievements": [
+      "太平天国",
+      "英法联军"
+    ],
+    "color": "#2980b9"
+  },
+  "tongzhi": {
+    "id": "tongzhi",
+    "name": "清穆宗载淳",
+    "era_name": "同治",
+    "dynasty": "清",
+    "reign_start": 1861,
+    "reign_end": 1875,
+    "birth_year": 1856,
+    "death_year": 1875,
+    "father": "xianfeng",
+    "successor": "guangxu",
+    "consort": null,
+    "description": "咸丰帝独子，六岁即位。两宫太后垂帘听政，平定太平天国，开启洋务运动。",
+    "achievements": [
+      "同治中兴",
+      "垂帘听政"
+    ],
+    "color": "#2980b9"
+  },
+  "jiaqing": {
+    "id": "jiaqing",
+    "name": "颙琰",
+    "era_name": "嘉庆",
+    "dynasty": "清",
+    "reign_start": 1796,
+    "reign_end": 1820,
+    "birth_year": 1760,
+    "death_year": 1820,
+    "father": "qianlong",
+    "successor": "daoguang",
+    "consort": "孝淑睿皇后",
+    "description": "清朝第七位皇帝，乾隆帝第十五子。在位期间惩治和珅，整顿吏治，但白莲教起义耗费国力。",
+    "achievements": [
+      "诛杀和珅",
+      "整顿吏治",
+      "平定白莲教起义"
+    ],
+    "color": "#c0392b"
+  }
+}

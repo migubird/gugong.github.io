@@ -1,0 +1,3083 @@
+{
+  "zhangju-zheng": {
+    "id": "zhangju-zheng",
+    "name": "张居正",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1525,
+    "death_year": 1582,
+    "served_emperors": [
+      "jiajing",
+      "longqing",
+      "wanli"
+    ],
+    "description": "明代政治家，万历初年内阁首辅。推行一条鞭法等改革，使明朝国力一度中兴。死后被万历清算。",
+    "significance": "万历前期实际执政者，明代最重要改革家之一"
+  },
+  "yansong": {
+    "id": "yansong",
+    "name": "严嵩",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1480,
+    "death_year": 1567,
+    "served_emperors": [
+      "jiajing"
+    ],
+    "description": "嘉靖朝内阁首辅，专权二十余年，贪腐严重。最终被弹劾罢官，家产抄没。",
+    "significance": "明代最大贪官之一"
+  },
+  "hai-rui": {
+    "id": "hai-rui",
+    "name": "海瑞",
+    "category": "尚书侍郎",
+    "dynasty": "明",
+    "birth_year": 1514,
+    "death_year": 1587,
+    "served_emperors": [
+      "jiajing",
+      "longqing",
+      "wanli"
+    ],
+    "description": "明代著名清官，以直言敢谏著称。上《治安疏》痛骂嘉靖帝，被誉为海青天。",
+    "significance": "明代清廉典范"
+  },
+  "wei-zhongxian": {
+    "id": "wei-zhongxian",
+    "name": "魏忠贤",
+    "category": "太监",
+    "dynasty": "明",
+    "birth_year": 1568,
+    "death_year": 1627,
+    "served_emperors": [
+      "taichang",
+      "chongzhen"
+    ],
+    "description": "明末大太监，天启朝专权，号称九千岁。崇祯即位后被铲除。",
+    "significance": "明末最大权阉"
+  },
+  "zheng-he": {
+    "id": "zheng-he",
+    "name": "郑和",
+    "category": "太监",
+    "dynasty": "明",
+    "birth_year": 1371,
+    "death_year": 1433,
+    "served_emperors": [
+      "yongle"
+    ],
+    "description": "明代航海家，七下西洋，最远到达非洲东海岸。中国历史上最伟大的航海家。",
+    "significance": "七下西洋，世界航海史先驱"
+  },
+  "yu-qian": {
+    "id": "yu-qian",
+    "name": "于谦",
+    "category": "尚书侍郎",
+    "dynasty": "明",
+    "birth_year": 1398,
+    "death_year": 1457,
+    "served_emperors": [
+      "zhengtong",
+      "jingtai"
+    ],
+    "description": "明代名臣，土木堡之变后力主守京师，拥立景泰帝，保全明朝。后被英宗复辟杀害。",
+    "significance": "北京保卫战功臣"
+  },
+  "zhangtingyu": {
+    "id": "zhangtingyu",
+    "name": "张廷玉",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1672,
+    "death_year": 1755,
+    "served_emperors": [
+      "kangxi",
+      "yongzheng",
+      "qianlong"
+    ],
+    "description": "清代名臣，历事三朝，官至保和殿大学士。协助雍正创立军机处制度。",
+    "significance": "清代三朝元老"
+  },
+  "he-shen": {
+    "id": "he-shen",
+    "name": "和珅",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1750,
+    "death_year": 1799,
+    "served_emperors": [
+      "qianlong"
+    ],
+    "description": "乾隆朝宠臣，中国历史上最大贪官。嘉庆即位后赐死，抄家所得相当于清政府十余年财政收入。",
+    "significance": "中国历史最大贪官"
+  },
+  "jixiaolan": {
+    "id": "jixiaolan",
+    "name": "纪昀（纪晓岚）",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1724,
+    "death_year": 1805,
+    "served_emperors": [
+      "qianlong",
+      "jiaqing"
+    ],
+    "description": "清代学者、文学家，总纂《四库全书》。以幽默机智著称，民间传说丰富。",
+    "significance": "四库全书总纂官"
+  },
+  "lin-zexu": {
+    "id": "lin-zexu",
+    "name": "林则徐",
+    "category": "尚书侍郎",
+    "dynasty": "清",
+    "birth_year": 1785,
+    "death_year": 1850,
+    "served_emperors": [
+      "daoguang"
+    ],
+    "description": "清代名臣，主持虎门销烟，鸦片战争中被革职流放。近代中国开眼看世界第一人。",
+    "significance": "虎门销烟，民族英雄"
+  },
+  "zuo-zongtang": {
+    "id": "zuo-zongtang",
+    "name": "左宗棠",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1812,
+    "death_year": 1885,
+    "served_emperors": [
+      "daoguang",
+      "xianfeng",
+      "tongzhi",
+      "guangxu"
+    ],
+    "description": "晚清名臣，收复新疆，洋务运动重要人物。",
+    "significance": "收复新疆"
+  },
+  "li-hongzhang": {
+    "id": "li-hongzhang",
+    "name": "李鸿章",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1823,
+    "death_year": 1901,
+    "served_emperors": [
+      "daoguang",
+      "xianfeng",
+      "tongzhi",
+      "guangxu"
+    ],
+    "description": "晚清重臣，洋务运动领袖。代表清政府签订多个不平等条约，毁誉参半。",
+    "significance": "洋务运动核心人物"
+  },
+  "cixi": {
+    "id": "cixi",
+    "name": "慈禧太后",
+    "category": "皇后",
+    "dynasty": "清",
+    "birth_year": 1835,
+    "death_year": 1908,
+    "served_emperors": [
+      "xianfeng",
+      "tongzhi",
+      "guangxu",
+      "xuantong"
+    ],
+    "description": "咸丰帝懿贵妃，同治、光绪两朝实际最高统治者。垂帘听政近半个世纪，镇压戊戌变法。",
+    "significance": "晚清实际统治者",
+    "consort_of": "xianfeng"
+  },
+  "longyu": {
+    "id": "longyu",
+    "name": "隆裕太后",
+    "category": "皇后",
+    "dynasty": "清",
+    "birth_year": 1868,
+    "death_year": 1913,
+    "served_emperors": [
+      "guangxu",
+      "xuantong"
+    ],
+    "description": "光绪帝皇后。宣统退位诏书的签署者，中国最后一位太后。",
+    "significance": "签署清帝退位诏书",
+    "consort_of": "guangxu"
+  },
+  "wanrong": {
+    "id": "wanrong",
+    "name": "婉容",
+    "category": "皇后",
+    "dynasty": "清",
+    "birth_year": 1906,
+    "death_year": 1946,
+    "served_emperors": [
+      "xuantong"
+    ],
+    "description": "溥仪皇后，中国最后一位皇后。命运悲惨，最终死于狱中。",
+    "significance": "中国末代皇后",
+    "consort_of": "xuantong"
+  },
+  "zhen-fei": {
+    "id": "zhen-fei",
+    "name": "珍妃",
+    "category": "妃嫔",
+    "dynasty": "清",
+    "birth_year": 1876,
+    "death_year": 1900,
+    "served_emperors": [
+      "guangxu"
+    ],
+    "description": "光绪帝宠妃，支持戊戌变法。八国联军攻入北京时被慈禧投入井中溺死。",
+    "significance": "支持变法，被害殉难",
+    "consort_of": "guangxu"
+  },
+  "ci-an": {
+    "id": "ci-an",
+    "name": "慈安太后",
+    "category": "皇后",
+    "dynasty": "清",
+    "birth_year": 1837,
+    "death_year": 1881,
+    "served_emperors": [
+      "xianfeng",
+      "tongzhi",
+      "guangxu"
+    ],
+    "description": "咸丰帝皇后，与慈禧共同垂帘听政。性情温和，后暴卒死因成谜。",
+    "significance": "两宫垂帘之一",
+    "consort_of": "xianfeng"
+  },
+  "eunuch-li-lianying": {
+    "id": "eunuch-li-lianying",
+    "name": "李莲英",
+    "category": "太监",
+    "dynasty": "清",
+    "birth_year": 1848,
+    "death_year": 1911,
+    "served_emperors": [
+      "xianfeng",
+      "tongzhi",
+      "guangxu",
+      "xuantong"
+    ],
+    "description": "慈禧太后最信任的太监总管，侍奉慈禧近50年。清朝最有权势的太监之一。",
+    "significance": "慈禧贴身太监"
+  },
+  "wu-sangui": {
+    "id": "wu-sangui",
+    "name": "吴三桂",
+    "category": "将军",
+    "dynasty": "明清",
+    "birth_year": 1612,
+    "death_year": 1678,
+    "served_emperors": [
+      "chongzhen",
+      "kangxi"
+    ],
+    "description": "明末清初将领，引清兵入关。后反清发动三藩之乱，被康熙平定。",
+    "significance": "引清入关，三藩之乱"
+  },
+  "nalan-xingde": {
+    "id": "nalan-xingde",
+    "name": "纳兰性德",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1655,
+    "death_year": 1685,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "清代最著名词人之一，康熙御前侍卫。词风清新婉约，有'清代第一词人'之称。",
+    "significance": "清代第一词人"
+  },
+  "caoxueqin": {
+    "id": "caoxueqin",
+    "name": "曹雪芹",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1715,
+    "death_year": 1763,
+    "served_emperors": [
+      "kangxi",
+      "yongzheng",
+      "qianlong"
+    ],
+    "description": "《红楼梦》作者。曹家为江宁织造，雍正朝被抄家后家道中落。",
+    "significance": "红楼梦作者"
+  },
+  "zeng-guofan": {
+    "id": "zeng-guofan",
+    "name": "曾国藩",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1811,
+    "death_year": 1872,
+    "served_emperors": [
+      "daoguang",
+      "xianfeng",
+      "tongzhi"
+    ],
+    "description": "晚清名臣，创建湘军镇压太平天国，洋务运动发起人之一。",
+    "significance": "湘军统帅，洋务运动发起者"
+  },
+  "kangyouwei": {
+    "id": "kangyouwei",
+    "name": "康有为",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1858,
+    "death_year": 1927,
+    "served_emperors": [
+      "guangxu"
+    ],
+    "description": "戊戌变法领导人，联合公车上书，推动维新运动。变法失败后流亡海外。",
+    "significance": "戊戌变法领导者"
+  },
+  "liangqichao": {
+    "id": "liangqichao",
+    "name": "梁启超",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1873,
+    "death_year": 1929,
+    "served_emperors": [
+      "guangxu"
+    ],
+    "description": "戊戌变法重要人物，康有为学生。中国近代启蒙思想家，新文化运动先驱。",
+    "significance": "近代启蒙思想家"
+  },
+  "yuan-shikai": {
+    "id": "yuan-shikai",
+    "name": "袁世凯",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1859,
+    "death_year": 1916,
+    "served_emperors": [
+      "guangxu",
+      "xuantong"
+    ],
+    "description": "晚清重臣，北洋新军创建者。逼迫溥仪退位后成为中华民国临时大总统，后称帝失败。",
+    "significance": "逼迫清帝退位"
+  },
+  "sun-yatsen": {
+    "id": "sun-yatsen",
+    "name": "孙中山",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1866,
+    "death_year": 1925,
+    "served_emperors": [],
+    "description": "辛亥革命领导人，中华民国国父。虽然未曾在故宫任职，但其领导的革命终结了清朝在故宫的统治。",
+    "significance": "辛亥革命领导人"
+  },
+  "dorgon": {
+    "id": "dorgon",
+    "name": "多尔衮",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1612,
+    "death_year": 1650,
+    "served_emperors": [
+      "shunzhi"
+    ],
+    "description": "清初摄政王，率清军入关定鼎北京。顺治初年实际掌权者。",
+    "significance": "清军入关实际指挥者"
+  },
+  "eunuch-wang-cheng-en": {
+    "id": "eunuch-wang-cheng-en",
+    "name": "王承恩",
+    "category": "太监",
+    "dynasty": "明",
+    "birth_year": null,
+    "death_year": 1644,
+    "served_emperors": [
+      "chongzhen"
+    ],
+    "description": "崇祯帝最信任的太监。李自成攻入北京时随崇祯帝自缢于煤山。",
+    "significance": "随崇祯殉国"
+  },
+  "zhangju-zheng-rival": {
+    "id": "gao-gong",
+    "name": "高拱",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1513,
+    "death_year": 1578,
+    "served_emperors": [
+      "jiajing",
+      "longqing",
+      "wanli"
+    ],
+    "description": "隆庆朝内阁首辅，万历初年被张居正排挤出局。",
+    "significance": "张居正政敌"
+  },
+  "eunuch-wei-zhongxian-rival": {
+    "id": "yang-lian",
+    "name": "杨涟",
+    "category": "尚书侍郎",
+    "dynasty": "明",
+    "birth_year": 1572,
+    "death_year": 1625,
+    "served_emperors": [
+      "wanli",
+      "taichang",
+      "tianqi"
+    ],
+    "description": "东林党领袖，上疏弹劾魏忠贤二十四大罪，被魏忠贤杀害。",
+    "significance": "东林党领袖，反魏忠贤"
+  },
+  "liu-ji": {
+    "id": "liu-ji",
+    "name": "刘基（刘伯温）",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1311,
+    "death_year": 1375,
+    "served_emperors": [
+      "hongwu"
+    ],
+    "description": "明朝开国元勋，与宋濂并称'一代之宗'。神机妙算，辅佐朱元璋建立明朝。",
+    "significance": "明朝开国功臣，神机军师"
+  },
+  "li-shanchang": {
+    "id": "li-shanchang",
+    "name": "李善长",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1314,
+    "death_year": 1390,
+    "served_emperors": [
+      "hongwu"
+    ],
+    "description": "明朝开国第一文臣，任左丞相。后卷入胡惟庸案被杀。",
+    "significance": "明朝开国第一文臣"
+  },
+  "xu-da": {
+    "id": "xu-da",
+    "name": "徐达",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1332,
+    "death_year": 1385,
+    "served_emperors": [
+      "hongwu"
+    ],
+    "description": "明朝开国第一武将，率军北伐灭元，攻克大都。封魏国公。",
+    "significance": "明朝开国第一武将"
+  },
+  "chang-yuchun": {
+    "id": "chang-yuchun",
+    "name": "常遇春",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1330,
+    "death_year": 1369,
+    "served_emperors": [
+      "hongwu"
+    ],
+    "description": "明朝开国猛将，自称能以十万众横行天下。北伐途中暴卒。",
+    "significance": "明朝开国猛将"
+  },
+  "yao-guangxiao": {
+    "id": "yao-guangxiao",
+    "name": "姚广孝",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1335,
+    "death_year": 1418,
+    "served_emperors": [
+      "yongle"
+    ],
+    "description": "僧人出身，靖难之役主要策划者。后主持重修《太祖实录》。",
+    "significance": "靖难之役第一谋士"
+  },
+  "xie-jin": {
+    "id": "xie-jin",
+    "name": "解缙",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1369,
+    "death_year": 1415,
+    "served_emperors": [
+      "yongle"
+    ],
+    "description": "明代才子，主持编纂《永乐大典》。后因太子事被下狱处死。",
+    "significance": "永乐大典主要编纂者"
+  },
+  "yang-shiqi": {
+    "id": "yang-shiqi",
+    "name": "杨士奇",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1366,
+    "death_year": 1444,
+    "served_emperors": [
+      "yongle",
+      "hongxi",
+      "xuande",
+      "zhengtong"
+    ],
+    "description": "'三杨'之一，历事四朝，为仁宣之治的核心人物。",
+    "significance": "三杨之首，仁宣之治"
+  },
+  "yang-rong": {
+    "id": "yang-rong",
+    "name": "杨荣",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1371,
+    "death_year": 1440,
+    "served_emperors": [
+      "yongle",
+      "hongxi",
+      "xuande",
+      "zhengtong"
+    ],
+    "description": "'三杨'之一，擅长军事谋略，多次随永乐帝北征。",
+    "significance": "三杨之一，军事谋臣"
+  },
+  "yang-pu": {
+    "id": "yang-pu",
+    "name": "杨溥",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1372,
+    "death_year": 1446,
+    "served_emperors": [
+      "yongle",
+      "hongxi",
+      "xuande",
+      "zhengtong"
+    ],
+    "description": "'三杨'之一，以清廉谨慎著称。",
+    "significance": "三杨之一，清廉名臣"
+  },
+  "li-dongyang": {
+    "id": "li-dongyang",
+    "name": "李东阳",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1447,
+    "death_year": 1516,
+    "served_emperors": [
+      "chenghua",
+      "hongzhi",
+      "zhengde"
+    ],
+    "description": "茶陵诗派创始人，正德朝内阁首辅。以文学和政治才能著称。",
+    "significance": "茶陵诗派创始人"
+  },
+  "shang-lu": {
+    "id": "shang-lu",
+    "name": "商辂",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1414,
+    "death_year": 1486,
+    "served_emperors": [
+      "zhengtong",
+      "jingtai",
+      "chenghua"
+    ],
+    "description": "明代唯一连中三元（解元、会元、状元）的大臣。",
+    "significance": "连中三元第一人"
+  },
+  "xu-jie": {
+    "id": "xu-jie",
+    "name": "徐阶",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1503,
+    "death_year": 1583,
+    "served_emperors": [
+      "jiajing",
+      "longqing"
+    ],
+    "description": "嘉靖末年内阁首辅，设计铲除严嵩。隆庆初年辅政。",
+    "significance": "铲除严嵩的首辅"
+  },
+  "yan-shifan": {
+    "id": "yan-shifan",
+    "name": "严世蕃",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1513,
+    "death_year": 1565,
+    "served_emperors": [
+      "jiajing"
+    ],
+    "description": "严嵩之子，实际操纵朝政。被劾后处斩。",
+    "significance": "严嵩之子，实际执政者"
+  },
+  "qi-jiguang": {
+    "id": "qi-jiguang",
+    "name": "戚继光",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1528,
+    "death_year": 1588,
+    "served_emperors": [
+      "jiajing",
+      "longqing",
+      "wanli"
+    ],
+    "description": "明代抗倭名将，创建戚家军，发明鸳鸯阵。后镇守蓟州防御蒙古。",
+    "significance": "抗倭名将，民族英雄"
+  },
+  "li-rusong": {
+    "id": "li-rusong",
+    "name": "李如松",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1549,
+    "death_year": 1598,
+    "served_emperors": [
+      "wanli"
+    ],
+    "description": "万历朝鲜之役明军统帅，收复平壤。后战死沙场。",
+    "significance": "万历三大征统帅"
+  },
+  "shi-kefa": {
+    "id": "shi-kefa",
+    "name": "史可法",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1601,
+    "death_year": 1645,
+    "served_emperors": [
+      "chongzhen"
+    ],
+    "description": "南明兵部尚书，死守扬州抗清，城破后不屈就义。",
+    "significance": "扬州抗清殉国"
+  },
+  "zheng-chenggong": {
+    "id": "zheng-chenggong",
+    "name": "郑成功",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1624,
+    "death_year": 1662,
+    "served_emperors": [
+      "chongzhen"
+    ],
+    "description": "收复台湾的民族英雄，以厦门、金门为基地抗清。1661年收复台湾。",
+    "significance": "收复台湾"
+  },
+  "yu-dayou": {
+    "id": "yu-dayou",
+    "name": "俞大猷",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1503,
+    "death_year": 1579,
+    "served_emperors": [
+      "jiajing"
+    ],
+    "description": "与戚继光并称'俞龙戚虎'，抗倭名将。",
+    "significance": "抗倭名将"
+  },
+  "yuan-chonghuan": {
+    "id": "yuan-chonghuan",
+    "name": "袁崇焕",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1584,
+    "death_year": 1630,
+    "served_emperors": [
+      "tianqi",
+      "chongzhen"
+    ],
+    "description": "明末辽东名将，宁远大捷击伤努尔哈赤。后被崇祯帝凌迟处死。",
+    "significance": "宁远大捷，冤死"
+  },
+  "sun-chuanting": {
+    "id": "sun-chuanting",
+    "name": "孙传庭",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1593,
+    "death_year": 1643,
+    "served_emperors": [
+      "chongzhen"
+    ],
+    "description": "明末镇压农民起义的主要将领，战死于潼关。",
+    "significance": "明末名将"
+  },
+  "lu-xiangsheng": {
+    "id": "lu-xiangsheng",
+    "name": "卢象升",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1600,
+    "death_year": 1639,
+    "served_emperors": [
+      "chongzhen"
+    ],
+    "description": "明末名将，率天雄军对抗清军，战死钜鹿。",
+    "significance": "抗清名将"
+  },
+  "eunuch-liu-jin": {
+    "id": "eunuch-liu-jin",
+    "name": "刘瑾",
+    "category": "太监",
+    "dynasty": "明",
+    "birth_year": null,
+    "death_year": 1510,
+    "served_emperors": [
+      "zhengde"
+    ],
+    "description": "正德朝'八虎'之首，专权乱政，号称'立皇帝'。被凌迟处死。",
+    "significance": "正德朝权阉"
+  },
+  "eunuch-wang-zhen": {
+    "id": "eunuch-wang-zhen",
+    "name": "王振",
+    "category": "太监",
+    "dynasty": "明",
+    "birth_year": null,
+    "death_year": 1449,
+    "served_emperors": [
+      "zhengtong"
+    ],
+    "description": "英宗朝权阉，怂恿英宗亲征导致土木堡之变。死于乱军之中。",
+    "significance": "导致土木堡之变"
+  },
+  "eunuch-wang-zhi": {
+    "id": "eunuch-wang-zhi",
+    "name": "汪直",
+    "category": "太监",
+    "dynasty": "明",
+    "birth_year": null,
+    "death_year": null,
+    "served_emperors": [
+      "chenghua"
+    ],
+    "description": "宪宗朝权阉，设立西厂，权势熏天。后被贬。",
+    "significance": "设立西厂"
+  },
+  "eunuch-feng-bao": {
+    "id": "eunuch-feng-bao",
+    "name": "冯保",
+    "category": "太监",
+    "dynasty": "明",
+    "birth_year": null,
+    "death_year": 1583,
+    "served_emperors": [
+      "longqing",
+      "wanli"
+    ],
+    "description": "万历初年司礼监掌印太监，与张居正合作推行改革。",
+    "significance": "与张居正合作"
+  },
+  "ma-huanghou": {
+    "id": "ma-huanghou",
+    "name": "马皇后",
+    "category": "皇后",
+    "dynasty": "明",
+    "birth_year": 1332,
+    "death_year": 1382,
+    "served_emperors": [
+      "hongwu"
+    ],
+    "description": "朱元璋结发妻子，贤德著称。常劝谏朱元璋宽刑省罚。",
+    "significance": "明太祖贤后",
+    "consort_of": "hongwu"
+  },
+  "xu-huanghou": {
+    "id": "xu-huanghou",
+    "name": "徐皇后",
+    "category": "皇后",
+    "dynasty": "明",
+    "birth_year": 1362,
+    "death_year": 1407,
+    "served_emperors": [
+      "yongle"
+    ],
+    "description": "徐达之女，朱棣正妻。靖难之变中坚守北平城。编《内训》。",
+    "significance": "永乐帝贤后",
+    "consort_of": "yongle"
+  },
+  "zhang-huanghou": {
+    "id": "zhang-huanghou",
+    "name": "张皇后",
+    "category": "皇后",
+    "dynasty": "明",
+    "birth_year": 1401,
+    "death_year": 1442,
+    "served_emperors": [
+      "yongle",
+      "hongxi",
+      "xuande"
+    ],
+    "description": "仁宗皇后，宣宗生母。宣德年间尊为太后，辅佐朝政。",
+    "significance": "仁宣时期太后",
+    "consort_of": "hongxi"
+  },
+  "sun-huanghou": {
+    "id": "sun-huanghou",
+    "name": "孙皇后",
+    "category": "皇后",
+    "dynasty": "明",
+    "birth_year": 1399,
+    "death_year": 1462,
+    "served_emperors": [
+      "xuande",
+      "zhengtong"
+    ],
+    "description": "宣宗皇后，英宗生母。土木堡之变后支持于谦保卫北京。",
+    "significance": "英宗生母",
+    "consort_of": "xuande"
+  },
+  "wan-guifei": {
+    "id": "wan-guifei",
+    "name": "万贵妃",
+    "category": "妃嫔",
+    "dynasty": "明",
+    "birth_year": 1428,
+    "death_year": 1487,
+    "served_emperors": [
+      "chenghua"
+    ],
+    "description": "宪宗宠妃，比宪宗大17岁。专宠后宫，迫害其他妃嫔皇子。",
+    "significance": "宪宗专宠贵妃"
+  },
+  "xiaozhuang": {
+    "id": "xiaozhuang",
+    "name": "孝庄太后",
+    "category": "皇后",
+    "dynasty": "清",
+    "birth_year": 1613,
+    "death_year": 1688,
+    "served_emperors": [
+      "huangtaiji",
+      "shunzhi",
+      "kangxi"
+    ],
+    "description": "皇太极妃，顺治帝生母，康熙帝祖母。清初杰出女政治家。",
+    "significance": "清初杰出女政治家",
+    "consort_of": "huangtaiji"
+  },
+  "xiang-fei": {
+    "id": "xiang-fei",
+    "name": "香妃",
+    "category": "妃嫔",
+    "dynasty": "清",
+    "birth_year": 1734,
+    "death_year": 1788,
+    "served_emperors": [
+      "qianlong"
+    ],
+    "description": "乾隆帝维吾尔族妃子，传说中的'香妃'。原型为容妃。",
+    "significance": "传说中的香妃"
+  },
+  "xiaoxianchun": {
+    "id": "xiaoxianchun",
+    "name": "孝贤纯皇后",
+    "category": "皇后",
+    "dynasty": "清",
+    "birth_year": 1711,
+    "death_year": 1748,
+    "served_emperors": [
+      "qianlong"
+    ],
+    "description": "乾隆帝原配皇后，富察氏。深得乾隆宠爱，死后乾隆极度悲痛。",
+    "significance": "乾隆挚爱皇后",
+    "consort_of": "qianlong"
+  },
+  "xiaochengren": {
+    "id": "xiaochengren",
+    "name": "孝诚仁皇后",
+    "category": "皇后",
+    "dynasty": "清",
+    "birth_year": 1654,
+    "death_year": 1674,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "康熙帝原配皇后，赫舍里氏。生皇二子胤礽时难产而死。",
+    "significance": "康熙原配皇后",
+    "consort_of": "kangxi"
+  },
+  "xiaojingxian": {
+    "id": "xiaojingxian",
+    "name": "孝敬宪皇后",
+    "category": "皇后",
+    "dynasty": "清",
+    "birth_year": 1681,
+    "death_year": 1731,
+    "served_emperors": [
+      "yongzheng"
+    ],
+    "description": "雍正帝皇后，乌拉那拉氏。雍正元年册立，雍正九年崩。",
+    "significance": "雍正帝皇后",
+    "consort_of": "yongzheng"
+  },
+  "xiaoquanchun": {
+    "id": "xiaoquanchun",
+    "name": "孝全成皇后",
+    "category": "皇后",
+    "dynasty": "清",
+    "birth_year": 1808,
+    "death_year": 1840,
+    "served_emperors": [
+      "daoguang"
+    ],
+    "description": "道光帝皇后，咸丰帝生母。",
+    "significance": "咸丰帝生母",
+    "consort_of": "daoguang"
+  },
+  "xiaoqinxian": {
+    "id": "xiaoqinxian",
+    "name": "孝钦显皇后",
+    "category": "皇后",
+    "dynasty": "清",
+    "birth_year": 1835,
+    "death_year": 1908,
+    "served_emperors": [
+      "xianfeng"
+    ],
+    "description": "即慈禧太后。以皇后条目另列。",
+    "significance": "慈禧太后",
+    "consort_of": "xianfeng"
+  },
+  "e-zhongyi": {
+    "id": "e-zhongyi",
+    "name": "遏必隆",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1612,
+    "death_year": 1674,
+    "served_emperors": [
+      "shunzhi",
+      "kangxi"
+    ],
+    "description": "清初四大辅政大臣之一。",
+    "significance": "辅政大臣"
+  },
+  "sonin": {
+    "id": "sonin",
+    "name": "索尼",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1601,
+    "death_year": 1667,
+    "served_emperors": [
+      "shunzhi",
+      "kangxi"
+    ],
+    "description": "清初四大辅政大臣之首。",
+    "significance": "辅政大臣之首"
+  },
+  "suksaha": {
+    "id": "suksaha",
+    "name": "苏克萨哈",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": null,
+    "death_year": 1667,
+    "served_emperors": [
+      "shunzhi",
+      "kangxi"
+    ],
+    "description": "清初四大辅政大臣之一，被鳌拜矫诏处死。",
+    "significance": "辅政大臣"
+  },
+  "aobai": {
+    "id": "aobai",
+    "name": "鳌拜",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": null,
+    "death_year": 1669,
+    "served_emperors": [
+      "shunzhi",
+      "kangxi"
+    ],
+    "description": "清初四大辅政大臣之一，专横跋扈。康熙帝智擒鳌拜。",
+    "significance": "康熙智擒鳌拜"
+  },
+  "mingju": {
+    "id": "mingju",
+    "name": "明珠",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1635,
+    "death_year": 1708,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "康熙朝权臣，后遭弹劾罢黜。纳兰性德之父。",
+    "significance": "康熙朝权臣"
+  },
+  "li-guangdi": {
+    "id": "li-guangdi",
+    "name": "李光地",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1642,
+    "death_year": 1718,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "康熙朝理学名臣，参与平定三藩之乱。",
+    "significance": "理学名臣"
+  },
+  "chen-tingjing": {
+    "id": "chen-tingjing",
+    "name": "陈廷敬",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1638,
+    "death_year": 1712,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "康熙朝名臣，《康熙字典》总阅官。为官清廉。",
+    "significance": "康熙字典总阅官"
+  },
+  "liu-yong": {
+    "id": "liu-yong",
+    "name": "刘墉",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1719,
+    "death_year": 1804,
+    "served_emperors": [
+      "qianlong",
+      "jiaqing"
+    ],
+    "description": "乾隆朝名臣，民间称'刘罗锅'。以清廉著称。",
+    "significance": "刘罗锅，清廉名臣"
+  },
+  "wang-jie": {
+    "id": "wang-jie",
+    "name": "王杰",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1725,
+    "death_year": 1805,
+    "served_emperors": [
+      "qianlong",
+      "jiaqing"
+    ],
+    "description": "乾隆朝状元，敢与和珅抗争。",
+    "significance": "敢抗争和珅的状元"
+  },
+  "ji-huang": {
+    "id": "ji-huang",
+    "name": "纪昀",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1724,
+    "death_year": 1805,
+    "served_emperors": [
+      "qianlong",
+      "jiaqing"
+    ],
+    "description": "即纪晓岚，《四库全书》总纂官。",
+    "significance": "四库全书总纂官"
+  },
+  "fu-kang-an": {
+    "id": "fu-kang-an",
+    "name": "福康安",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1754,
+    "death_year": 1796,
+    "served_emperors": [
+      "qianlong"
+    ],
+    "description": "乾隆朝名将，傅恒之子。参与平定大小金川、台湾林爽文起义等。",
+    "significance": "乾隆朝名将"
+  },
+  "heshen-rival": {
+    "id": "heshen-rival",
+    "name": "阿桂",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1717,
+    "death_year": 1797,
+    "served_emperors": [
+      "qianlong",
+      "jiaqing"
+    ],
+    "description": "乾隆朝名将，与和珅不和。平定大小金川、镇压白莲教。",
+    "significance": "与和珅对立的功臣"
+  },
+  "lin-ze-xu": {
+    "id": "lin-ze-xu",
+    "name": "林则徐",
+    "category": "尚书侍郎",
+    "dynasty": "清",
+    "birth_year": 1785,
+    "death_year": 1850,
+    "served_emperors": [
+      "daoguang"
+    ],
+    "description": "虎门销烟主持人，近代中国开眼看世界第一人。",
+    "significance": "虎门销烟"
+  },
+  "wei-yuan": {
+    "id": "wei-yuan",
+    "name": "魏源",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1794,
+    "death_year": 1857,
+    "served_emperors": [
+      "daoguang",
+      "xianfeng"
+    ],
+    "description": "编《海国图志》，提出'师夷长技以制夷'。",
+    "significance": "海国图志作者"
+  },
+  "gong-qinwang": {
+    "id": "gong-qinwang",
+    "name": "恭亲王奕訢",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1833,
+    "death_year": 1898,
+    "served_emperors": [
+      "daoguang",
+      "xianfeng",
+      "tongzhi",
+      "guangxu"
+    ],
+    "description": "道光帝第六子，洋务运动中央支持者。总理各国事务衙门首席大臣。",
+    "significance": "洋务运动核心亲王"
+  },
+  "zeng-guoquan": {
+    "id": "zeng-guoquan",
+    "name": "曾国荃",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1824,
+    "death_year": 1890,
+    "served_emperors": [
+      "daoguang",
+      "xianfeng",
+      "tongzhi"
+    ],
+    "description": "曾国藩之弟，湘军将领，攻陷天京（南京）。",
+    "significance": "攻陷天京"
+  },
+  "liu-kun-yi": {
+    "id": "liu-kun-yi",
+    "name": "刘坤一",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1830,
+    "death_year": 1902,
+    "served_emperors": [
+      "daoguang",
+      "xianfeng",
+      "tongzhi",
+      "guangxu"
+    ],
+    "description": "晚清名臣，两江总督。东南互保主要人物之一。",
+    "significance": "东南互保"
+  },
+  "zhang-zhidong": {
+    "id": "zhang-zhidong",
+    "name": "张之洞",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1837,
+    "death_year": 1909,
+    "served_emperors": [
+      "daoguang",
+      "xianfeng",
+      "tongzhi",
+      "guangxu"
+    ],
+    "description": "晚清洋务派代表，提出'中学为体，西学为用'。创办汉阳铁厂。",
+    "significance": "洋务派重臣"
+  },
+  "tan-sitong": {
+    "id": "tan-sitong",
+    "name": "谭嗣同",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1865,
+    "death_year": 1898,
+    "served_emperors": [
+      "guangxu"
+    ],
+    "description": "戊戌六君子之一，变法失败后从容就义。'我自横刀向天笑'。",
+    "significance": "戊戌六君子"
+  },
+  "yan-fu": {
+    "id": "yan-fu",
+    "name": "严复",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1854,
+    "death_year": 1921,
+    "served_emperors": [
+      "guangxu"
+    ],
+    "description": "翻译《天演论》，传播进化论思想。近代启蒙思想家。",
+    "significance": "天演论译者"
+  },
+  "zhang-binglin": {
+    "id": "zhang-binglin",
+    "name": "章太炎",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1869,
+    "death_year": 1936,
+    "served_emperors": [
+      "guangxu"
+    ],
+    "description": "近代革命家、学者。反清革命宣传家。",
+    "significance": "革命宣传家"
+  },
+  "eunuch-an-dehai": {
+    "id": "eunuch-an-dehai",
+    "name": "安德海",
+    "category": "太监",
+    "dynasty": "清",
+    "birth_year": 1844,
+    "death_year": 1869,
+    "served_emperors": [
+      "tongzhi"
+    ],
+    "description": "慈禧太后宠信太监，出宫办事被山东巡抚丁宝桢处斩。",
+    "significance": "被丁宝桢处斩"
+  },
+  "eunuch-xiao-dehai": {
+    "id": "eunuch-xiao-dehai",
+    "name": "小德张",
+    "category": "太监",
+    "dynasty": "清",
+    "birth_year": 1876,
+    "death_year": 1957,
+    "served_emperors": [
+      "guangxu",
+      "xuantong"
+    ],
+    "description": "清末太监总管，宣统朝得势。清帝退位后出宫。",
+    "significance": "清末太监总管"
+  },
+  "eunuch-lian-ying": {
+    "id": "eunuch-lian-ying",
+    "name": "寇连材",
+    "category": "太监",
+    "dynasty": "清",
+    "birth_year": 1874,
+    "death_year": 1896,
+    "served_emperors": [
+      "guangxu"
+    ],
+    "description": "因上书慈禧劝其归政光绪而被处死。",
+    "significance": "因直谏被杀"
+  },
+  "kuai-xiang": {
+    "id": "kuai-xiang",
+    "name": "蒯祥",
+    "category": "匠师",
+    "dynasty": "明",
+    "birth_year": 1398,
+    "death_year": 1481,
+    "served_emperors": [
+      "yongle",
+      "xuande",
+      "zhengtong"
+    ],
+    "description": "明代建筑大师，紫禁城主要设计者之一。官至工部左侍郎。",
+    "significance": "紫禁城主要设计者"
+  },
+  "lei-fada": {
+    "id": "lei-fada",
+    "name": "雷发达",
+    "category": "匠师",
+    "dynasty": "清",
+    "birth_year": 1619,
+    "death_year": 1693,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "'样式雷'家族第一代。主持修建太和殿等。",
+    "significance": "样式雷始祖"
+  },
+  "lei-jinxi": {
+    "id": "lei-jinxi",
+    "name": "雷金兆",
+    "category": "匠师",
+    "dynasty": "清",
+    "birth_year": 1707,
+    "death_year": 1763,
+    "served_emperors": [
+      "yongzheng",
+      "qianlong"
+    ],
+    "description": "'样式雷'第二代，主持圆明园等皇家工程。",
+    "significance": "样式雷第二代"
+  },
+  "lei-jiayu": {
+    "id": "lei-jiayu",
+    "name": "雷家玺",
+    "category": "匠师",
+    "dynasty": "清",
+    "birth_year": 1744,
+    "death_year": 1810,
+    "served_emperors": [
+      "qianlong",
+      "jiaqing"
+    ],
+    "description": "'样式雷'第三代，主持清漪园（颐和园）等工程。",
+    "significance": "样式雷第三代"
+  },
+  "wang-yangming": {
+    "id": "wang-yangming",
+    "name": "王阳明",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1472,
+    "death_year": 1529,
+    "served_emperors": [
+      "hongzhi",
+      "zhengde",
+      "jiajing"
+    ],
+    "description": "心学集大成者，创立'致良知'学说。同时是杰出军事家，平定宁王之乱。",
+    "significance": "心学大师"
+  },
+  "li-zhi": {
+    "id": "li-zhi",
+    "name": "李贽",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1527,
+    "death_year": 1602,
+    "served_emperors": [
+      "jiajing",
+      "longqing",
+      "wanli"
+    ],
+    "description": "明代异端思想家，批判程朱理学。被诬下狱后自刎。",
+    "significance": "异端思想家"
+  },
+  "huang-zongxi": {
+    "id": "huang-zongxi",
+    "name": "黄宗羲",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1610,
+    "death_year": 1695,
+    "served_emperors": [
+      "chongzhen"
+    ],
+    "description": "明末清初思想家，《明夷待访录》作者，批判君主专制。",
+    "significance": "明末思想家"
+  },
+  "gu-yanwu": {
+    "id": "gu-yanwu",
+    "name": "顾炎武",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1613,
+    "death_year": 1682,
+    "served_emperors": [
+      "chongzhen"
+    ],
+    "description": "明末清初思想家，'天下兴亡匹夫有责'出处。",
+    "significance": "天下兴亡匹夫有责"
+  },
+  "wang-fuzhi": {
+    "id": "wang-fuzhi",
+    "name": "王夫之",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1619,
+    "death_year": 1692,
+    "served_emperors": [
+      "chongzhen"
+    ],
+    "description": "明末清初思想家，隐居著述，中国古代哲学集大成者。",
+    "significance": "明末哲学家"
+  },
+  "hu-weiyong": {
+    "id": "hu-weiyong",
+    "name": "胡惟庸",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": null,
+    "death_year": 1380,
+    "served_emperors": [
+      "hongwu"
+    ],
+    "description": "明朝最后一任丞相，因谋反罪被杀，朱元璋借此废除丞相制度。",
+    "significance": "最后一任丞相"
+  },
+  "fang-xiaoru": {
+    "id": "fang-xiaoru",
+    "name": "方孝孺",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1357,
+    "death_year": 1402,
+    "served_emperors": [
+      "jianwen"
+    ],
+    "description": "建文帝重臣，拒绝为朱棣起草即位诏书，被诛十族。",
+    "significance": "诛十族忠臣"
+  },
+  "yu-qian-ally": {
+    "id": "yu-qian-ally",
+    "name": "石亨",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": null,
+    "death_year": 1460,
+    "served_emperors": [
+      "zhengtong",
+      "jingtai"
+    ],
+    "description": "北京保卫战将领，后发动夺门之变拥英宗复辟。",
+    "significance": "夺门之变"
+  },
+  "cao-qin": {
+    "id": "cao-qin",
+    "name": "曹吉祥",
+    "category": "太监",
+    "dynasty": "明",
+    "birth_year": null,
+    "death_year": 1461,
+    "served_emperors": [
+      "zhengtong",
+      "jingtai"
+    ],
+    "description": "参与夺门之变的权阉，后谋反被杀。",
+    "significance": "夺门之变权阉"
+  },
+  "liu-jin-8tiger": {
+    "id": "liu-jin-8tiger",
+    "name": "马永成",
+    "category": "太监",
+    "dynasty": "明",
+    "birth_year": null,
+    "death_year": null,
+    "served_emperors": [
+      "zhengde"
+    ],
+    "description": "'八虎'之一，正德朝权阉。",
+    "significance": "八虎之一"
+  },
+  "dong-xian": {
+    "id": "dong-xian",
+    "name": "董贤",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1619,
+    "death_year": 1657,
+    "served_emperors": [
+      "chongzhen"
+    ],
+    "description": "董鄂妃之父，降清后封侯。",
+    "significance": "董鄂妃之父"
+  },
+  "sun-chengzong": {
+    "id": "sun-chengzong",
+    "name": "孙承宗",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1563,
+    "death_year": 1638,
+    "served_emperors": [
+      "wanli",
+      "tianqi",
+      "chongzhen"
+    ],
+    "description": "明末兵部尚书，主持辽东防务。城破后自缢。",
+    "significance": "辽东防务"
+  },
+  "xiong-tingbi": {
+    "id": "xiong-tingbi",
+    "name": "熊廷弼",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1569,
+    "death_year": 1625,
+    "served_emperors": [
+      "wanli",
+      "tianqi"
+    ],
+    "description": "明末辽东经略，被魏忠贤杀害。",
+    "significance": "辽东经略"
+  },
+  "ma-shuai": {
+    "id": "ma-shuai",
+    "name": "麻贵",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1538,
+    "death_year": 1606,
+    "served_emperors": [
+      "longqing",
+      "wanli"
+    ],
+    "description": "万历朝鲜之役将领。",
+    "significance": "援朝将领"
+  },
+  "chen-lin": {
+    "id": "chen-lin",
+    "name": "陈璘",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1532,
+    "death_year": 1607,
+    "served_emperors": [
+      "jiajing",
+      "longqing",
+      "wanli"
+    ],
+    "description": "万历朝鲜之役水师将领。",
+    "significance": "援朝水师将领"
+  },
+  "shi-lang": {
+    "id": "shi-lang",
+    "name": "施琅",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1621,
+    "death_year": 1696,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "原郑成功部下，后降清。率军攻取台湾。",
+    "significance": "攻取台湾"
+  },
+  "pengchun": {
+    "id": "pengchun",
+    "name": "彭春",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": null,
+    "death_year": null,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "参与雅克萨之战。",
+    "significance": "雅克萨之战"
+  },
+  "fei-yang-gu": {
+    "id": "fei-yang-gu",
+    "name": "费扬古",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1645,
+    "death_year": 1701,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "参与征噶尔丹之战。",
+    "significance": "征噶尔丹"
+  },
+  "yin-reng": {
+    "id": "yin-reng",
+    "name": "胤礽",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1674,
+    "death_year": 1725,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "康熙帝嫡子，两立两废的太子。",
+    "significance": "两废太子"
+  },
+  "yinsi": {
+    "id": "yinsi",
+    "name": "胤禩",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1681,
+    "death_year": 1726,
+    "served_emperors": [
+      "kangxi",
+      "yongzheng"
+    ],
+    "description": "八阿哥，九子夺嫡核心人物。",
+    "significance": "八阿哥"
+  },
+  "yinzhen-rival": {
+    "id": "yinzhen-rival",
+    "name": "胤禵",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1688,
+    "death_year": 1755,
+    "served_emperors": [
+      "kangxi",
+      "yongzheng"
+    ],
+    "description": "十四阿哥，九子夺嫡竞争者。",
+    "significance": "十四阿哥"
+  },
+  "nian-gengyao": {
+    "id": "nian-gengyao",
+    "name": "年羹尧",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1679,
+    "death_year": 1726,
+    "served_emperors": [
+      "kangxi",
+      "yongzheng"
+    ],
+    "description": "雍正初年权臣，平定青海。后被赐死。",
+    "significance": "平定青海，被赐死"
+  },
+  "longkodo": {
+    "id": "longkodo",
+    "name": "隆科多",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1663,
+    "death_year": 1728,
+    "served_emperors": [
+      "kangxi",
+      "yongzheng"
+    ],
+    "description": "雍正即位关键人物，后被囚死。",
+    "significance": "拥立雍正"
+  },
+  "liu-tong-xun": {
+    "id": "liu-tong-xun",
+    "name": "刘统勋",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1700,
+    "death_year": 1773,
+    "served_emperors": [
+      "yongzheng",
+      "qianlong"
+    ],
+    "description": "乾隆朝名臣，刘墉之父。以敢谏著称。",
+    "significance": "敢谏名臣"
+  },
+  "he-shen-fu": {
+    "id": "he-shen-fu",
+    "name": "福长安",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1759,
+    "death_year": 1814,
+    "served_emperors": [
+      "qianlong",
+      "jiaqing"
+    ],
+    "description": "和珅党羽，嘉庆初年被治罪。",
+    "significance": "和珅党羽"
+  },
+  "shao-yong": {
+    "id": "shao-yong",
+    "name": "邵雍",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": null,
+    "death_year": null,
+    "served_emperors": [],
+    "description": "此处为占位",
+    "significance": "占位"
+  },
+  "ding-ruchang": {
+    "id": "ding-ruchang",
+    "name": "丁汝昌",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1836,
+    "death_year": 1895,
+    "served_emperors": [
+      "daoguang",
+      "xianfeng",
+      "tongzhi",
+      "guangxu"
+    ],
+    "description": "北洋水师提督，甲午战争中战败后自杀。",
+    "significance": "北洋水师提督"
+  },
+  "deng-shichang": {
+    "id": "deng-shichang",
+    "name": "邓世昌",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1849,
+    "death_year": 1894,
+    "served_emperors": [
+      "daoguang",
+      "xianfeng",
+      "tongzhi",
+      "guangxu"
+    ],
+    "description": "致远舰管带，黄海海战中壮烈殉国。",
+    "significance": "黄海海战殉国"
+  },
+  "guan-yue-qing": {
+    "id": "guan-yue-qing",
+    "name": "关天培",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1781,
+    "death_year": 1841,
+    "served_emperors": [
+      "daoguang"
+    ],
+    "description": "鸦片战争中守卫虎门炮台，战死。",
+    "significance": "虎门殉国"
+  },
+  "se-leng-e": {
+    "id": "se-leng-e",
+    "name": "僧格林沁",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1811,
+    "death_year": 1865,
+    "served_emperors": [
+      "daoguang",
+      "xianfeng",
+      "tongzhi"
+    ],
+    "description": "蒙古亲王，参与镇压太平天国和捻军。",
+    "significance": "蒙古亲王"
+  },
+  "rong-lu": {
+    "id": "rong-lu",
+    "name": "荣禄",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1836,
+    "death_year": 1903,
+    "served_emperors": [
+      "daoguang",
+      "xianfeng",
+      "tongzhi",
+      "guangxu"
+    ],
+    "description": "慈禧太后亲信，戊戌政变后掌兵权。",
+    "significance": "慈禧亲信"
+  },
+  "gang-yi": {
+    "id": "gang-yi",
+    "name": "刚毅",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1837,
+    "death_year": 1900,
+    "served_emperors": [
+      "daoguang",
+      "xianfeng",
+      "tongzhi",
+      "guangxu"
+    ],
+    "description": "保守派大臣，支持义和团。",
+    "significance": "保守派大臣"
+  },
+  "zai-yi": {
+    "id": "zai-yi",
+    "name": "载漪",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1856,
+    "death_year": 1922,
+    "served_emperors": [
+      "daoguang",
+      "xianfeng",
+      "tongzhi",
+      "guangxu"
+    ],
+    "description": "端郡王，支持义和团。八国联军后被流放。",
+    "significance": "端郡王"
+  },
+  "pu-jun": {
+    "id": "pu-jun",
+    "name": "溥俊",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1885,
+    "death_year": 1942,
+    "served_emperors": [
+      "guangxu"
+    ],
+    "description": "大阿哥，曾被立为同治嗣子。",
+    "significance": "大阿哥"
+  },
+  "zai-feng": {
+    "id": "zai-feng",
+    "name": "载沣",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1883,
+    "death_year": 1951,
+    "served_emperors": [
+      "guangxu",
+      "xuantong"
+    ],
+    "description": "醇亲王，溥仪生父。宣统朝摄政王。",
+    "significance": "溥仪生父"
+  },
+  "yuan-shikai-son": {
+    "id": "yuan-shikai-son",
+    "name": "袁克定",
+    "category": "将军",
+    "dynasty": "清",
+    "birth_year": 1878,
+    "death_year": 1955,
+    "served_emperors": [
+      "guangxu",
+      "xuantong"
+    ],
+    "description": "袁世凯长子。",
+    "significance": "袁世凯长子"
+  },
+  "pu-songling": {
+    "id": "pu-songling",
+    "name": "蒲松龄",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1640,
+    "death_year": 1715,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "《聊斋志异》作者。",
+    "significance": "聊斋志异作者"
+  },
+  "wu-jingzi": {
+    "id": "wu-jingzi",
+    "name": "吴敬梓",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1701,
+    "death_year": 1754,
+    "served_emperors": [
+      "yongzheng",
+      "qianlong"
+    ],
+    "description": "《儒林外史》作者。",
+    "significance": "儒林外史作者"
+  },
+  "kong-shangren": {
+    "id": "kong-shangren",
+    "name": "孔尚任",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1648,
+    "death_year": 1718,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "《桃花扇》作者。",
+    "significance": "桃花扇作者"
+  },
+  "hong-sheng": {
+    "id": "hong-sheng",
+    "name": "洪昇",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1645,
+    "death_year": 1704,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "《长生殿》作者。",
+    "significance": "长生殿作者"
+  },
+  "ning-wang": {
+    "id": "ning-wang",
+    "name": "朱宸濠",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1479,
+    "death_year": 1521,
+    "served_emperors": [
+      "hongzhi",
+      "zhengde"
+    ],
+    "description": "宁王，发动叛乱被王阳明平定。",
+    "significance": "宁王之乱"
+  },
+  "wei-zhongxian-ally": {
+    "id": "wei-zhongxian-ally",
+    "name": "崔呈秀",
+    "category": "大学士",
+    "dynasty": "明",
+    "birth_year": 1566,
+    "death_year": 1627,
+    "served_emperors": [
+      "tianqi"
+    ],
+    "description": "魏忠贤阉党核心人物。",
+    "significance": "阉党核心"
+  },
+  "donglin-1": {
+    "id": "donglin-1",
+    "name": "左光斗",
+    "category": "尚书侍郎",
+    "dynasty": "明",
+    "birth_year": 1575,
+    "death_year": 1625,
+    "served_emperors": [
+      "wanli",
+      "tianqi"
+    ],
+    "description": "东林党领袖，被魏忠贤杀害。",
+    "significance": "东林党六君子"
+  },
+  "donglin-2": {
+    "id": "donglin-2",
+    "name": "魏大中",
+    "category": "尚书侍郎",
+    "dynasty": "明",
+    "birth_year": 1575,
+    "death_year": 1625,
+    "served_emperors": [
+      "wanli",
+      "tianqi"
+    ],
+    "description": "东林党人，被魏忠贤杀害。",
+    "significance": "东林党六君子"
+  },
+  "tian-wenqi": {
+    "id": "tian-wenqi",
+    "name": "田文镜",
+    "category": "大学士",
+    "dynasty": "清",
+    "birth_year": 1662,
+    "death_year": 1733,
+    "served_emperors": [
+      "kangxi",
+      "yongzheng"
+    ],
+    "description": "雍正朝酷吏型官员。",
+    "significance": "雍正酷吏"
+  },
+  "li-wei": {
+    "id": "li-wei",
+    "name": "李卫",
+    "category": "尚书侍郎",
+    "dynasty": "清",
+    "birth_year": 1687,
+    "death_year": 1738,
+    "served_emperors": [
+      "kangxi",
+      "yongzheng"
+    ],
+    "description": "雍正朝名臣，以善于缉盗著称。",
+    "significance": "善于缉盗"
+  },
+  "li-zicheng": {
+    "id": "li-zicheng",
+    "name": "李自成",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1606,
+    "death_year": 1645,
+    "served_emperors": [
+      "chongzhen"
+    ],
+    "description": "闯王，推翻明朝统治的农民起义领袖",
+    "significance": "建立大顺政权"
+  },
+  "gongqinwang-yixin": {
+    "id": "gongqinwang-yixin",
+    "name": "奕訢",
+    "category": "大臣",
+    "dynasty": "清",
+    "birth_year": 1833,
+    "death_year": 1898,
+    "served_emperors": [
+      "daoguang",
+      "xianfeng",
+      "tongzhi",
+      "guangxu"
+    ],
+    "description": "恭亲王，洋务运动领导人之一",
+    "significance": "总理衙门大臣"
+  },
+  "ji-xiaolan": {
+    "id": "ji-xiaolan",
+    "name": "纪昀",
+    "category": "文人",
+    "dynasty": "清",
+    "birth_year": 1724,
+    "death_year": 1805,
+    "served_emperors": [
+      "qianlong",
+      "jiaqing"
+    ],
+    "description": "四库全书总纂官，字晓岚",
+    "significance": "大学者"
+  },
+  "zhang-tingyu": {
+    "id": "zhang-tingyu",
+    "name": "张廷玉",
+    "category": "大臣",
+    "dynasty": "清",
+    "birth_year": 1672,
+    "death_year": 1755,
+    "served_emperors": [
+      "kangxi",
+      "yongzheng",
+      "qianlong"
+    ],
+    "description": "康雍乾三朝元老",
+    "significance": "配享太庙"
+  },
+  "li-lian-ying": {
+    "id": "li-lian-ying",
+    "name": "李莲英",
+    "category": "太监",
+    "dynasty": "清",
+    "birth_year": 1848,
+    "death_year": 1911,
+    "served_emperors": [
+      "xianfeng",
+      "tongzhi",
+      "guangxu",
+      "xuantong"
+    ],
+    "description": "慈禧太后最信任的太监，大总管",
+    "significance": "权倾一时"
+  },
+  "ci-xi": {
+    "id": "ci-xi",
+    "name": "慈禧太后",
+    "category": "后妃",
+    "dynasty": "清",
+    "birth_year": 1835,
+    "death_year": 1908,
+    "served_emperors": [
+      "xianfeng",
+      "tongzhi",
+      "guangxu",
+      "xuantong"
+    ],
+    "description": "同治光绪两朝实际统治者",
+    "significance": "垂帘听政48年"
+  },
+  "sun-yat-sen": {
+    "id": "sun-yat-sen",
+    "name": "孙中山",
+    "category": "文人",
+    "dynasty": "清",
+    "birth_year": 1866,
+    "death_year": 1925,
+    "served_emperors": [
+      "guangxu",
+      "xuantong"
+    ],
+    "description": "中国民主革命先行者，中华民国国父",
+    "significance": "推翻帝制"
+  },
+  "kang-youwei": {
+    "id": "kang-youwei",
+    "name": "康有为",
+    "category": "文人",
+    "dynasty": "清",
+    "birth_year": 1858,
+    "death_year": 1927,
+    "served_emperors": [
+      "guangxu",
+      "xuantong"
+    ],
+    "description": "戊戌变法领导人，今文经学家",
+    "significance": "维新派领袖"
+  },
+  "liang-qichao": {
+    "id": "liang-qichao",
+    "name": "梁启超",
+    "category": "文人",
+    "dynasty": "清",
+    "birth_year": 1873,
+    "death_year": 1929,
+    "served_emperors": [
+      "guangxu",
+      "xuantong"
+    ],
+    "description": "戊戌变法参与者，近代思想家",
+    "significance": "新史学开创者"
+  },
+  "an-de-hai": {
+    "id": "an-de-hai",
+    "name": "安德海",
+    "category": "太监",
+    "dynasty": "清",
+    "birth_year": 1844,
+    "death_year": 1869,
+    "served_emperors": [
+      "xianfeng",
+      "tongzhi"
+    ],
+    "description": "慈禧太后宠信太监",
+    "significance": "被山东巡抚丁宝桢处死"
+  },
+  "lei-fa-da": {
+    "id": "lei-fa-da",
+    "name": "雷发达",
+    "category": "工匠",
+    "dynasty": "清",
+    "birth_year": 1619,
+    "death_year": 1693,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "样式雷创始人，清代皇家建筑设计师",
+    "significance": "样式雷家族始祖"
+  },
+  "qi-ji-guang": {
+    "id": "qi-ji-guang",
+    "name": "戚继光",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1528,
+    "death_year": 1588,
+    "served_emperors": [
+      "jiajing",
+      "longqing",
+      "wanli"
+    ],
+    "description": "抗倭名将，创建戚家军",
+    "significance": "民族英雄"
+  },
+  "li-ru-song": {
+    "id": "li-ru-song",
+    "name": "李如松",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1549,
+    "death_year": 1598,
+    "served_emperors": [
+      "wanli"
+    ],
+    "description": "万历朝鲜之役明军统帅",
+    "significance": "平壤大捷"
+  },
+  "shi-ke-fa": {
+    "id": "shi-ke-fa",
+    "name": "史可法",
+    "category": "大臣",
+    "dynasty": "明",
+    "birth_year": 1601,
+    "death_year": 1645,
+    "served_emperors": [
+      "chongzhen"
+    ],
+    "description": "南明抗清名臣，扬州保卫战殉国",
+    "significance": "民族英雄"
+  },
+  "duo-er-gun": {
+    "id": "duo-er-gun",
+    "name": "多尔衮",
+    "category": "大臣",
+    "dynasty": "清",
+    "birth_year": 1612,
+    "death_year": 1650,
+    "served_emperors": [
+      "shunzhi"
+    ],
+    "description": "睿亲王，清初摄政王",
+    "significance": "入关统帅"
+  },
+  "xiao-zhuang": {
+    "id": "xiao-zhuang",
+    "name": "孝庄太后",
+    "category": "后妃",
+    "dynasty": "清",
+    "birth_year": 1613,
+    "death_year": 1688,
+    "served_emperors": [
+      "shunzhi",
+      "kangxi"
+    ],
+    "description": "皇太极妃，顺治生母，康熙祖母",
+    "significance": "清初重要政治人物"
+  },
+  "yan-shi-fan": {
+    "id": "yan-shi-fan",
+    "name": "严世蕃",
+    "category": "大臣",
+    "dynasty": "明",
+    "birth_year": 1513,
+    "death_year": 1565,
+    "served_emperors": [
+      "jiajing"
+    ],
+    "description": "严嵩之子，父子专权",
+    "significance": "被抄家处死"
+  },
+  "gu-xian-cheng": {
+    "id": "gu-xian-cheng",
+    "name": "顾宪成",
+    "category": "文人",
+    "dynasty": "明",
+    "birth_year": 1550,
+    "death_year": 1612,
+    "served_emperors": [
+      "wanli"
+    ],
+    "description": "东林书院创始人",
+    "significance": "东林党领袖"
+  },
+  "lu-xiang-sheng": {
+    "id": "lu-xiang-sheng",
+    "name": "卢象升",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1600,
+    "death_year": 1639,
+    "served_emperors": [
+      "chongzhen"
+    ],
+    "description": "明末抗清名将",
+    "significance": "巨鹿战死"
+  },
+  "chen-yuan-long": {
+    "id": "chen-yuan-long",
+    "name": "陈元龙",
+    "category": "大臣",
+    "dynasty": "清",
+    "birth_year": 1652,
+    "death_year": 1736,
+    "served_emperors": [
+      "kangxi",
+      "yongzheng"
+    ],
+    "description": "康熙朝名臣",
+    "significance": "文渊阁大学士"
+  },
+  "liang-shi-cheng": {
+    "id": "liang-shi-cheng",
+    "name": "梁诗正",
+    "category": "大臣",
+    "dynasty": "清",
+    "birth_year": 1696,
+    "death_year": 1763,
+    "served_emperors": [
+      "yongzheng",
+      "qianlong"
+    ],
+    "description": "乾隆朝名臣，书法家",
+    "significance": "东阁大学士"
+  },
+  "lei-jin-wei": {
+    "id": "lei-jin-wei",
+    "name": "雷金徽",
+    "category": "工匠",
+    "dynasty": "清",
+    "birth_year": 1730,
+    "death_year": 1790,
+    "served_emperors": [
+      "qianlong"
+    ],
+    "description": "样式雷第三代传人",
+    "significance": "皇家建筑师"
+  },
+  "lei-jing-chang": {
+    "id": "lei-jing-chang",
+    "name": "雷景昌",
+    "category": "工匠",
+    "dynasty": "清",
+    "birth_year": 1750,
+    "death_year": 1810,
+    "served_emperors": [
+      "qianlong",
+      "jiaqing"
+    ],
+    "description": "样式雷第四代传人",
+    "significance": "皇家建筑师"
+  },
+  "gao-shi-qi": {
+    "id": "gao-shi-qi",
+    "name": "高士奇",
+    "category": "文人",
+    "dynasty": "清",
+    "birth_year": 1645,
+    "death_year": 1704,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "康熙朝文学侍从",
+    "significance": "南书房行走"
+  },
+  "tang-ying": {
+    "id": "tang-ying",
+    "name": "唐英",
+    "category": "工匠",
+    "dynasty": "清",
+    "birth_year": 1682,
+    "death_year": 1756,
+    "served_emperors": [
+      "yongzheng",
+      "qianlong"
+    ],
+    "description": "景德镇御窑督陶官",
+    "significance": "陶瓷大师"
+  },
+  "lang-shi-ning": {
+    "id": "lang-shi-ning",
+    "name": "郎世宁",
+    "category": "工匠",
+    "dynasty": "清",
+    "birth_year": 1688,
+    "death_year": 1766,
+    "served_emperors": [
+      "kangxi",
+      "yongzheng",
+      "qianlong"
+    ],
+    "description": "意大利传教士，宫廷画师",
+    "significance": "中西合璧画风"
+  },
+  "ning-qi": {
+    "id": "ning-qi",
+    "name": "宁悫妃",
+    "category": "后妃",
+    "dynasty": "清",
+    "birth_year": 1638,
+    "death_year": 1695,
+    "served_emperors": [
+      "shunzhi"
+    ],
+    "description": "顺治帝妃子",
+    "significance": "后宫"
+  },
+  "hesheli": {
+    "id": "hesheli",
+    "name": "赫舍里氏",
+    "category": "后妃",
+    "dynasty": "清",
+    "birth_year": 1653,
+    "death_year": 1674,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "康熙帝孝诚仁皇后",
+    "significance": "索尼孙女"
+  },
+  "niu-hulu": {
+    "id": "niu-hulu",
+    "name": "钮祜禄氏",
+    "category": "后妃",
+    "dynasty": "清",
+    "birth_year": 1692,
+    "death_year": 1777,
+    "served_emperors": [
+      "yongzheng",
+      "qianlong"
+    ],
+    "description": "雍正帝孝圣宪皇后，乾隆生母",
+    "significance": "圣母皇太后"
+  },
+  "na-la-shi": {
+    "id": "na-la-shi",
+    "name": "那拉氏",
+    "category": "后妃",
+    "dynasty": "清",
+    "birth_year": 1718,
+    "death_year": 1766,
+    "served_emperors": [
+      "yongzheng",
+      "qianlong"
+    ],
+    "description": "乾隆帝继皇后",
+    "significance": "断发风波"
+  },
+  "hui-fa": {
+    "id": "hui-fa",
+    "name": "辉发那拉氏",
+    "category": "后妃",
+    "dynasty": "清",
+    "birth_year": 1730,
+    "death_year": 1800,
+    "served_emperors": [
+      "qianlong"
+    ],
+    "description": "乾隆帝令贵妃",
+    "significance": "嘉庆生母"
+  },
+  "tong-jia-shi": {
+    "id": "tong-jia-shi",
+    "name": "佟佳氏",
+    "category": "后妃",
+    "dynasty": "清",
+    "birth_year": 1658,
+    "death_year": 1715,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "康熙帝孝懿仁皇后",
+    "significance": "一等公佟国维之女"
+  },
+  "li-shan-chang": {
+    "id": "li-shan-chang",
+    "name": "李善长",
+    "category": "大臣",
+    "dynasty": "明",
+    "birth_year": 1314,
+    "death_year": 1390,
+    "served_emperors": [
+      "hongwu"
+    ],
+    "description": "明朝开国丞相",
+    "significance": "开国第一功臣"
+  },
+  "chang-yu-chun": {
+    "id": "chang-yu-chun",
+    "name": "常遇春",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1330,
+    "death_year": 1369,
+    "served_emperors": [
+      "hongwu"
+    ],
+    "description": "明朝开国名将",
+    "significance": "勇冠三军"
+  },
+  "deng-yu": {
+    "id": "deng-yu",
+    "name": "邓愈",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1337,
+    "death_year": 1377,
+    "served_emperors": [
+      "hongwu"
+    ],
+    "description": "明朝开国将领",
+    "significance": "战功卓著"
+  },
+  "tang-he": {
+    "id": "tang-he",
+    "name": "汤和",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1326,
+    "death_year": 1395,
+    "served_emperors": [
+      "hongwu"
+    ],
+    "description": "明朝开国名将",
+    "significance": "谨慎善终"
+  },
+  "fu-you-de": {
+    "id": "fu-you-de",
+    "name": "傅友德",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1325,
+    "death_year": 1394,
+    "served_emperors": [
+      "hongwu"
+    ],
+    "description": "明朝开国名将",
+    "significance": "平定云南"
+  },
+  "lan-yu": {
+    "id": "lan-yu",
+    "name": "蓝玉",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1331,
+    "death_year": 1393,
+    "served_emperors": [
+      "hongwu"
+    ],
+    "description": "明朝开国名将",
+    "significance": "捕鱼儿海大捷"
+  },
+  "wang-meng": {
+    "id": "wang-meng",
+    "name": "汪广洋",
+    "category": "大臣",
+    "dynasty": "明",
+    "birth_year": 1320,
+    "death_year": 1379,
+    "served_emperors": [
+      "hongwu"
+    ],
+    "description": "明朝丞相",
+    "significance": "被胡惟庸案牵连"
+  },
+  "hu-wei-yong": {
+    "id": "hu-wei-yong",
+    "name": "胡惟庸",
+    "category": "大臣",
+    "dynasty": "明",
+    "birth_year": 1330,
+    "death_year": 1380,
+    "served_emperors": [
+      "hongwu"
+    ],
+    "description": "明朝丞相，胡惟庸案主犯",
+    "significance": "被诛"
+  },
+  "fang-guo-zhen": {
+    "id": "fang-guo-zhen",
+    "name": "方国珍",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1300,
+    "death_year": 1374,
+    "served_emperors": [
+      "hongwu"
+    ],
+    "description": "元末割据浙东势力",
+    "significance": "降明"
+  },
+  "zhu-wen-zheng": {
+    "id": "zhu-wen-zheng",
+    "name": "朱文正",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1336,
+    "death_year": 1365,
+    "served_emperors": [
+      "hongwu"
+    ],
+    "description": "朱元璋侄子，洪都保卫战",
+    "significance": "后获罪死"
+  },
+  "li-jinglong": {
+    "id": "li-jinglong",
+    "name": "李景隆",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1366,
+    "death_year": 1425,
+    "served_emperors": [
+      "hongwu",
+      "jianwen",
+      "yongle"
+    ],
+    "description": "李文忠之子，靖难之役将领",
+    "significance": "投降朱棣"
+  },
+  "tie-xuan": {
+    "id": "tie-xuan",
+    "name": "铁铉",
+    "category": "大臣",
+    "dynasty": "明",
+    "birth_year": 1362,
+    "death_year": 1402,
+    "served_emperors": [
+      "jianwen"
+    ],
+    "description": "建文朝忠臣，坚守济南",
+    "significance": "被朱棣所杀"
+  },
+  "sheng-yong": {
+    "id": "sheng-yong",
+    "name": "盛庸",
+    "category": "将军",
+    "dynasty": "明",
+    "birth_year": 1350,
+    "death_year": 1403,
+    "served_emperors": [
+      "jianwen"
+    ],
+    "description": "建文朝将领，多次击败朱棣",
+    "significance": "降朱棣后自杀"
+  },
+  "jing-nan": {
+    "id": "jing-nan",
+    "name": "景清",
+    "category": "大臣",
+    "dynasty": "明",
+    "birth_year": 1360,
+    "death_year": 1402,
+    "served_emperors": [
+      "jianwen"
+    ],
+    "description": "建文朝御史大夫",
+    "significance": "刺杀朱棣未遂被杀"
+  },
+  "xia-yuan-ji": {
+    "id": "xia-yuan-ji",
+    "name": "夏原吉",
+    "category": "大臣",
+    "dynasty": "明",
+    "birth_year": 1366,
+    "death_year": 1430,
+    "served_emperors": [
+      "yongle",
+      "hongxi",
+      "xuande"
+    ],
+    "description": "永乐朝户部尚书",
+    "significance": "理财名臣"
+  },
+  "yi-ya-tu": {
+    "id": "yi-ya-tu",
+    "name": "亦失哈",
+    "category": "太监",
+    "dynasty": "明",
+    "birth_year": 1380,
+    "death_year": 1450,
+    "served_emperors": [
+      "yongle",
+      "xuande"
+    ],
+    "description": "女真族太监，经营东北",
+    "significance": "设立奴儿干都司"
+  },
+  "chen-cheng": {
+    "id": "chen-cheng",
+    "name": "陈诚",
+    "category": "大臣",
+    "dynasty": "明",
+    "birth_year": 1365,
+    "death_year": 1457,
+    "served_emperors": [
+      "yongle",
+      "xuande"
+    ],
+    "description": "出使西域的外交使节",
+    "significance": "五次出使哈密"
+  },
+  "jin-you-zi": {
+    "id": "jin-you-zi",
+    "name": "金幼孜",
+    "category": "文人",
+    "dynasty": "明",
+    "birth_year": 1368,
+    "death_year": 1431,
+    "served_emperors": [
+      "yongle",
+      "hongxi",
+      "xuande"
+    ],
+    "description": "永乐朝文学侍从",
+    "significance": "随朱棣北征"
+  },
+  "hu-guang": {
+    "id": "hu-guang",
+    "name": "胡广",
+    "category": "文人",
+    "dynasty": "明",
+    "birth_year": 1369,
+    "death_year": 1418,
+    "served_emperors": [
+      "yongle"
+    ],
+    "description": "永乐大典编纂者之一",
+    "significance": "状元"
+  },
+  "zhou-xin": {
+    "id": "zhou-xin",
+    "name": "周新",
+    "category": "大臣",
+    "dynasty": "明",
+    "birth_year": 1356,
+    "death_year": 1410,
+    "served_emperors": [
+      "yongle"
+    ],
+    "description": "清廉御史",
+    "significance": "冷面寒铁"
+  },
+  "gao-gong": {
+    "id": "gao-gong",
+    "name": "高拱",
+    "category": "大臣",
+    "dynasty": "明",
+    "birth_year": 1512,
+    "death_year": 1578,
+    "served_emperors": [
+      "jiajing",
+      "longqing",
+      "wanli"
+    ],
+    "description": "隆庆朝内阁首辅",
+    "significance": "被张居正取代"
+  },
+  "yan-song": {
+    "id": "yan-song",
+    "name": "严嵩",
+    "category": "大臣",
+    "dynasty": "明",
+    "birth_year": 1480,
+    "death_year": 1567,
+    "served_emperors": [
+      "jiajing"
+    ],
+    "description": "嘉靖朝权臣，把持朝政二十年",
+    "significance": "中国历史著名奸臣"
+  },
+  "qiu-jun": {
+    "id": "qiu-jun",
+    "name": "丘濬",
+    "category": "文人",
+    "dynasty": "明",
+    "birth_year": 1420,
+    "death_year": 1495,
+    "served_emperors": [
+      "chenghua",
+      "hongzhi"
+    ],
+    "description": "海南籍大学者",
+    "significance": "大学衍义补作者"
+  },
+  "li-dong-yang": {
+    "id": "li-dong-yang",
+    "name": "李东阳",
+    "category": "文人",
+    "dynasty": "明",
+    "birth_year": 1447,
+    "death_year": 1516,
+    "served_emperors": [
+      "chenghua",
+      "hongzhi",
+      "zhengde"
+    ],
+    "description": "茶陵诗派创始人",
+    "significance": "内阁大学士"
+  },
+  "tang-yin": {
+    "id": "tang-yin",
+    "name": "唐寅",
+    "category": "文人",
+    "dynasty": "明",
+    "birth_year": 1470,
+    "death_year": 1524,
+    "served_emperors": [
+      "hongzhi",
+      "zhengde"
+    ],
+    "description": "唐伯虎，江南四大才子之一",
+    "significance": "画家诗人"
+  },
+  "wen-zheng-ming": {
+    "id": "wen-zheng-ming",
+    "name": "文徵明",
+    "category": "文人",
+    "dynasty": "明",
+    "birth_year": 1470,
+    "death_year": 1559,
+    "served_emperors": [
+      "hongzhi",
+      "zhengde",
+      "jiajing"
+    ],
+    "description": "吴门四家之一",
+    "significance": "书画大家"
+  },
+  "shen-zhou": {
+    "id": "shen-zhou",
+    "name": "沈周",
+    "category": "文人",
+    "dynasty": "明",
+    "birth_year": 1427,
+    "death_year": 1509,
+    "served_emperors": [
+      "chenghua",
+      "hongzhi",
+      "zhengde"
+    ],
+    "description": "吴门画派创始人",
+    "significance": "文人画大师"
+  },
+  "wang-shi-zhen": {
+    "id": "wang-shi-zhen",
+    "name": "王世贞",
+    "category": "文人",
+    "dynasty": "明",
+    "birth_year": 1526,
+    "death_year": 1590,
+    "served_emperors": [
+      "jiajing",
+      "longqing",
+      "wanli"
+    ],
+    "description": "后七子领袖",
+    "significance": "文坛领袖"
+  },
+  "gui-you-guang": {
+    "id": "gui-you-guang",
+    "name": "归有光",
+    "category": "文人",
+    "dynasty": "明",
+    "birth_year": 1507,
+    "death_year": 1571,
+    "served_emperors": [
+      "jiajing"
+    ],
+    "description": "唐宋派散文家",
+    "significance": "项脊轩志作者"
+  },
+  "xu-xia-ke": {
+    "id": "xu-xia-ke",
+    "name": "徐霞客",
+    "category": "文人",
+    "dynasty": "明",
+    "birth_year": 1587,
+    "death_year": 1641,
+    "served_emperors": [
+      "wanli",
+      "tianqi",
+      "chongzhen"
+    ],
+    "description": "地理学家、旅行家",
+    "significance": "徐霞客游记"
+  },
+  "song-ying-xing": {
+    "id": "song-ying-xing",
+    "name": "宋应星",
+    "category": "工匠",
+    "dynasty": "明",
+    "birth_year": 1587,
+    "death_year": 1666,
+    "served_emperors": [
+      "wanli",
+      "chongzhen"
+    ],
+    "description": "天工开物作者",
+    "significance": "科技百科全书"
+  },
+  "li-shi-zhen": {
+    "id": "li-shi-zhen",
+    "name": "李时珍",
+    "category": "工匠",
+    "dynasty": "明",
+    "birth_year": 1518,
+    "death_year": 1593,
+    "served_emperors": [
+      "jiajing",
+      "longqing",
+      "wanli"
+    ],
+    "description": "本草纲目作者",
+    "significance": "医药学家"
+  },
+  "wu-cheng-en": {
+    "id": "wu-cheng-en",
+    "name": "吴承恩",
+    "category": "文人",
+    "dynasty": "明",
+    "birth_year": 1506,
+    "death_year": 1582,
+    "served_emperors": [
+      "jiajing"
+    ],
+    "description": "西游记作者",
+    "significance": "小说家"
+  },
+  "shi-nai-an": {
+    "id": "shi-nai-an",
+    "name": "施耐庵",
+    "category": "文人",
+    "dynasty": "明",
+    "birth_year": 1296,
+    "death_year": 1370,
+    "served_emperors": [
+      "hongwu"
+    ],
+    "description": "水浒传作者",
+    "significance": "小说家"
+  },
+  "luo-guan-zhong": {
+    "id": "luo-guan-zhong",
+    "name": "罗贯中",
+    "category": "文人",
+    "dynasty": "明",
+    "birth_year": 1330,
+    "death_year": 1400,
+    "served_emperors": [
+      "hongwu"
+    ],
+    "description": "三国演义作者",
+    "significance": "小说家"
+  },
+  "tang-xian-zu": {
+    "id": "tang-xian-zu",
+    "name": "汤显祖",
+    "category": "文人",
+    "dynasty": "明",
+    "birth_year": 1550,
+    "death_year": 1616,
+    "served_emperors": [
+      "jiajing",
+      "longqing",
+      "wanli"
+    ],
+    "description": "牡丹亭作者",
+    "significance": "戏剧家"
+  },
+  "cao-yin": {
+    "id": "cao-yin",
+    "name": "曹寅",
+    "category": "大臣",
+    "dynasty": "清",
+    "birth_year": 1658,
+    "death_year": 1712,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "江宁织造，曹雪芹祖父",
+    "significance": "藏书家"
+  },
+  "cao-xue-qin": {
+    "id": "cao-xue-qin",
+    "name": "曹雪芹",
+    "category": "文人",
+    "dynasty": "清",
+    "birth_year": 1715,
+    "death_year": 1763,
+    "served_emperors": [
+      "yongzheng",
+      "qianlong"
+    ],
+    "description": "红楼梦作者",
+    "significance": "文学巨匠"
+  },
+  "wu-jing-zi": {
+    "id": "wu-jing-zi",
+    "name": "吴敬梓",
+    "category": "文人",
+    "dynasty": "清",
+    "birth_year": 1701,
+    "death_year": 1754,
+    "served_emperors": [
+      "kangxi",
+      "yongzheng",
+      "qianlong"
+    ],
+    "description": "儒林外史作者",
+    "significance": "讽刺小说家"
+  },
+  "pu-song-ling": {
+    "id": "pu-song-ling",
+    "name": "蒲松龄",
+    "category": "文人",
+    "dynasty": "清",
+    "birth_year": 1640,
+    "death_year": 1715,
+    "served_emperors": [
+      "kangxi"
+    ],
+    "description": "聊斋志异作者",
+    "significance": "文言短篇小说大师"
+  },
+  "yuan-mei": {
+    "id": "yuan-mei",
+    "name": "袁枚",
+    "category": "文人",
+    "dynasty": "清",
+    "birth_year": 1716,
+    "death_year": 1797,
+    "served_emperors": [
+      "kangxi",
+      "yongzheng",
+      "qianlong",
+      "jiaqing"
+    ],
+    "description": "随园诗话作者",
+    "significance": "诗人美食家"
+  },
+  "zhen-xi-chao": {
+    "id": "zhen-xi-chao",
+    "name": "郑燮",
+    "category": "文人",
+    "dynasty": "清",
+    "birth_year": 1693,
+    "death_year": 1765,
+    "served_emperors": [
+      "kangxi",
+      "yongzheng",
+      "qianlong"
+    ],
+    "description": "郑板桥，扬州八怪之一",
+    "significance": "书画家"
+  },
+  "dai-zhen": {
+    "id": "dai-zhen",
+    "name": "戴震",
+    "category": "文人",
+    "dynasty": "清",
+    "birth_year": 1724,
+    "death_year": 1777,
+    "served_emperors": [
+      "yongzheng",
+      "qianlong"
+    ],
+    "description": "考据学大师",
+    "significance": "思想家"
+  },
+  "gu-yan-wu": {
+    "id": "gu-yan-wu",
+    "name": "顾炎武",
+    "category": "文人",
+    "dynasty": "清",
+    "birth_year": 1613,
+    "death_year": 1682,
+    "served_emperors": [
+      "chongzhen",
+      "shunzhi",
+      "kangxi"
+    ],
+    "description": "天下兴亡匹夫有责",
+    "significance": "经世致用思想家"
+  },
+  "huang-zong-xi": {
+    "id": "huang-zong-xi",
+    "name": "黄宗羲",
+    "category": "文人",
+    "dynasty": "清",
+    "birth_year": 1610,
+    "death_year": 1695,
+    "served_emperors": [
+      "chongzhen",
+      "shunzhi",
+      "kangxi"
+    ],
+    "description": "明夷待访录作者",
+    "significance": "启蒙思想家"
+  },
+  "wang-fu-zhi": {
+    "id": "wang-fu-zhi",
+    "name": "王夫之",
+    "category": "文人",
+    "dynasty": "清",
+    "birth_year": 1619,
+    "death_year": 1692,
+    "served_emperors": [
+      "chongzhen",
+      "shunzhi",
+      "kangxi"
+    ],
+    "description": "船山先生，唯物主义者",
+    "significance": "大思想家"
+  },
+  "shi-tao": {
+    "id": "shi-tao",
+    "name": "石涛",
+    "category": "文人",
+    "dynasty": "清",
+    "birth_year": 1642,
+    "death_year": 1707,
+    "served_emperors": [
+      "shunzhi",
+      "kangxi"
+    ],
+    "description": "明宗室后裔，画家",
+    "significance": "搜尽奇峰打草稿"
+  },
+  "ba-da-shan-ren": {
+    "id": "ba-da-shan-ren",
+    "name": "八大山人",
+    "category": "文人",
+    "dynasty": "清",
+    "birth_year": 1626,
+    "death_year": 1705,
+    "served_emperors": [
+      "chongzhen",
+      "shunzhi",
+      "kangxi"
+    ],
+    "description": "朱耷，明宗室后裔",
+    "significance": "写意画大师"
+  }
+}

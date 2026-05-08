@@ -1,0 +1,1652 @@
+[
+  {
+    "from": "gugong-construction",
+    "to": "jingnan-zhiyi",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "gugong-construction",
+    "to": "wancheng-dadian",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "gugong-construction",
+    "to": "zhenghe-voyages",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "gugong-construction",
+    "to": "yongle-enthronement",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "gugong-construction",
+    "to": "jingnan-start",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "gugong-construction",
+    "to": "yongle-death",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "gugong-construction",
+    "to": "yongle-encyclopedia",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "jingnan-zhiyi",
+    "to": "wancheng-dadian",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "jingnan-zhiyi",
+    "to": "zhenghe-voyages",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "jingnan-zhiyi",
+    "to": "yongle-enthronement",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "jingnan-zhiyi",
+    "to": "jingnan-start",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "jingnan-zhiyi",
+    "to": "yongle-death",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "jingnan-zhiyi",
+    "to": "yongle-encyclopedia",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "qing-enter-beijing",
+    "to": "shunzhi-enthronement",
+    "type": "共享参与者",
+    "shared": [
+      "dorgon"
+    ]
+  },
+  {
+    "from": "qing-enter-beijing",
+    "to": "wu-sangu-rebellion",
+    "type": "共享参与者",
+    "shared": [
+      "wu-sangui"
+    ]
+  },
+  {
+    "from": "qing-enter-beijing",
+    "to": "dorgon-death",
+    "type": "共享参与者",
+    "shared": [
+      "dorgon"
+    ]
+  },
+  {
+    "from": "qing-enter-beijing",
+    "to": "sanfan-rebellion",
+    "type": "共享参与者",
+    "shared": [
+      "wu-sangui"
+    ]
+  },
+  {
+    "from": "jiuzi-duodi",
+    "to": "junjichu-established",
+    "type": "共享参与者",
+    "shared": [
+      "yongzheng"
+    ]
+  },
+  {
+    "from": "jiuzi-duodi",
+    "to": "taihe-dian-rebuild-1695",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "jiuzi-duodi",
+    "to": "kangxi-enthronement",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "jiuzi-duodi",
+    "to": "kangxi-wedding",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "jiuzi-duodi",
+    "to": "wu-sangu-rebellion",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "jiuzi-duodi",
+    "to": "kangxi-southern-tour",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "jiuzi-duodi",
+    "to": "sanfan-rebellion",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "heshen-corruption",
+    "to": "siku-quanshu",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong",
+      "jixiaolan"
+    ]
+  },
+  {
+    "from": "heshen-corruption",
+    "to": "yu-huayuan-build",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "heshen-corruption",
+    "to": "ning-shougong-build",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "heshen-corruption",
+    "to": "qianlong-enthronement",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "heshen-corruption",
+    "to": "lin-shuangwen",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "heshen-corruption",
+    "to": "baixianjiao",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "heshen-corruption",
+    "to": "qianlong-southern-tour",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "heshen-corruption",
+    "to": "heshen-fall",
+    "type": "共享参与者",
+    "shared": [
+      "he-shen"
+    ]
+  },
+  {
+    "from": "heshen-corruption",
+    "to": "qianlong-abdication",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "heshen-corruption",
+    "to": "jinchuan-campaign",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "heshen-corruption",
+    "to": "qianlong-siku",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "opium-war",
+    "to": "taipai-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "daoguang"
+    ]
+  },
+  {
+    "from": "wuxu-bianfa",
+    "to": "zhenfei-death",
+    "type": "共享参与者",
+    "shared": [
+      "cixi"
+    ]
+  },
+  {
+    "from": "wuxu-bianfa",
+    "to": "guangxu-wedding",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "wuxu-bianfa",
+    "to": "jiawu-war",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "wuxu-bianfa",
+    "to": "boxer-war",
+    "type": "共享参与者",
+    "shared": [
+      "cixi",
+      "guangxu"
+    ]
+  },
+  {
+    "from": "wuxu-bianfa",
+    "to": "wuxu-coup",
+    "type": "共享参与者",
+    "shared": [
+      "cixi",
+      "guangxu"
+    ]
+  },
+  {
+    "from": "wuxu-bianfa",
+    "to": "xinyou-coup",
+    "type": "共享参与者",
+    "shared": [
+      "cixi"
+    ]
+  },
+  {
+    "from": "wuxu-bianfa",
+    "to": "guangxu-death",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "wuxu-bianfa",
+    "to": "cixi-death",
+    "type": "共享参与者",
+    "shared": [
+      "cixi"
+    ]
+  },
+  {
+    "from": "wuxu-bianfa",
+    "to": "guangxu-imprison",
+    "type": "共享参与者",
+    "shared": [
+      "cixi",
+      "guangxu"
+    ]
+  },
+  {
+    "from": "wuxu-bianfa",
+    "to": "li-hongzhang-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "wuxu-bianfa",
+    "to": "xinchou-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "cixi",
+      "guangxu"
+    ]
+  },
+  {
+    "from": "wuxu-bianfa",
+    "to": "wuxu-reform",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "zhenfei-death",
+    "to": "boxer-war",
+    "type": "共享参与者",
+    "shared": [
+      "cixi"
+    ]
+  },
+  {
+    "from": "zhenfei-death",
+    "to": "wuxu-coup",
+    "type": "共享参与者",
+    "shared": [
+      "cixi"
+    ]
+  },
+  {
+    "from": "zhenfei-death",
+    "to": "xinyou-coup",
+    "type": "共享参与者",
+    "shared": [
+      "cixi"
+    ]
+  },
+  {
+    "from": "zhenfei-death",
+    "to": "cixi-death",
+    "type": "共享参与者",
+    "shared": [
+      "cixi"
+    ]
+  },
+  {
+    "from": "zhenfei-death",
+    "to": "guangxu-imprison",
+    "type": "共享参与者",
+    "shared": [
+      "cixi"
+    ]
+  },
+  {
+    "from": "zhenfei-death",
+    "to": "xinchou-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "cixi"
+    ]
+  },
+  {
+    "from": "abdication",
+    "to": "pu-yi-expelled",
+    "type": "共享参与者",
+    "shared": [
+      "xuantong"
+    ]
+  },
+  {
+    "from": "abdication",
+    "to": "guangxu-wedding",
+    "type": "共享参与者",
+    "shared": [
+      "longyu"
+    ]
+  },
+  {
+    "from": "abdication",
+    "to": "xuantong-wedding",
+    "type": "共享参与者",
+    "shared": [
+      "xuantong"
+    ]
+  },
+  {
+    "from": "abdication",
+    "to": "xinhai-revolution",
+    "type": "共享参与者",
+    "shared": [
+      "yuan-shikai"
+    ]
+  },
+  {
+    "from": "pu-yi-expelled",
+    "to": "xuantong-wedding",
+    "type": "共享参与者",
+    "shared": [
+      "xuantong"
+    ]
+  },
+  {
+    "from": "wancheng-dadian",
+    "to": "zhenghe-voyages",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "wancheng-dadian",
+    "to": "yongle-enthronement",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "wancheng-dadian",
+    "to": "jingnan-start",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "wancheng-dadian",
+    "to": "yongle-death",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "wancheng-dadian",
+    "to": "yongle-encyclopedia",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "zhenghe-voyages",
+    "to": "yongle-enthronement",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "zhenghe-voyages",
+    "to": "jingnan-start",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "zhenghe-voyages",
+    "to": "yongle-death",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "zhenghe-voyages",
+    "to": "yongle-encyclopedia",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "siku-quanshu",
+    "to": "yu-huayuan-build",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "siku-quanshu",
+    "to": "ning-shougong-build",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "siku-quanshu",
+    "to": "qianlong-enthronement",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "siku-quanshu",
+    "to": "lin-shuangwen",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "siku-quanshu",
+    "to": "baixianjiao",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "siku-quanshu",
+    "to": "qianlong-southern-tour",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "siku-quanshu",
+    "to": "qianlong-abdication",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "siku-quanshu",
+    "to": "jinchuan-campaign",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "siku-quanshu",
+    "to": "qianlong-siku",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "taihe-dian-fire-1557",
+    "to": "renyin-gongbian",
+    "type": "共享参与者",
+    "shared": [
+      "jiajing"
+    ]
+  },
+  {
+    "from": "taihe-dian-rebuild-1695",
+    "to": "kangxi-enthronement",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "taihe-dian-rebuild-1695",
+    "to": "kangxi-wedding",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "taihe-dian-rebuild-1695",
+    "to": "wu-sangu-rebellion",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "taihe-dian-rebuild-1695",
+    "to": "kangxi-southern-tour",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "taihe-dian-rebuild-1695",
+    "to": "sanfan-rebellion",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "wuyingdian-rebuild",
+    "to": "shunzhi-enthronement",
+    "type": "共享参与者",
+    "shared": [
+      "shunzhi"
+    ]
+  },
+  {
+    "from": "wuyingdian-rebuild",
+    "to": "dorgon-death",
+    "type": "共享参与者",
+    "shared": [
+      "shunzhi"
+    ]
+  },
+  {
+    "from": "yu-huayuan-build",
+    "to": "ning-shougong-build",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "yu-huayuan-build",
+    "to": "qianlong-enthronement",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "yu-huayuan-build",
+    "to": "lin-shuangwen",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "yu-huayuan-build",
+    "to": "baixianjiao",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "yu-huayuan-build",
+    "to": "qianlong-southern-tour",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "yu-huayuan-build",
+    "to": "qianlong-abdication",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "yu-huayuan-build",
+    "to": "jinchuan-campaign",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "yu-huayuan-build",
+    "to": "qianlong-siku",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "ning-shougong-build",
+    "to": "qianlong-enthronement",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "ning-shougong-build",
+    "to": "lin-shuangwen",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "ning-shougong-build",
+    "to": "baixianjiao",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "ning-shougong-build",
+    "to": "qianlong-southern-tour",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "ning-shougong-build",
+    "to": "qianlong-abdication",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "ning-shougong-build",
+    "to": "jinchuan-campaign",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "ning-shougong-build",
+    "to": "qianlong-siku",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "yongle-enthronement",
+    "to": "jingnan-start",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "yongle-enthronement",
+    "to": "yongle-death",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "yongle-enthronement",
+    "to": "yongle-encyclopedia",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "xuande-enthronement",
+    "to": "renxuan-zhizhi",
+    "type": "共享参与者",
+    "shared": [
+      "xuande"
+    ]
+  },
+  {
+    "from": "qianlong-enthronement",
+    "to": "lin-shuangwen",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "qianlong-enthronement",
+    "to": "baixianjiao",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "qianlong-enthronement",
+    "to": "qianlong-southern-tour",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "qianlong-enthronement",
+    "to": "qianlong-abdication",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "qianlong-enthronement",
+    "to": "jinchuan-campaign",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "qianlong-enthronement",
+    "to": "qianlong-siku",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "kangxi-enthronement",
+    "to": "kangxi-wedding",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "kangxi-enthronement",
+    "to": "wu-sangu-rebellion",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "kangxi-enthronement",
+    "to": "kangxi-southern-tour",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "kangxi-enthronement",
+    "to": "sanfan-rebellion",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "shunzhi-enthronement",
+    "to": "dorgon-death",
+    "type": "共享参与者",
+    "shared": [
+      "dorgon",
+      "shunzhi"
+    ]
+  },
+  {
+    "from": "kangxi-wedding",
+    "to": "wu-sangu-rebellion",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "kangxi-wedding",
+    "to": "kangxi-southern-tour",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "kangxi-wedding",
+    "to": "sanfan-rebellion",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "guangxu-wedding",
+    "to": "jiawu-war",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "guangxu-wedding",
+    "to": "boxer-war",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "guangxu-wedding",
+    "to": "wuxu-coup",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "guangxu-wedding",
+    "to": "guangxu-death",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "guangxu-wedding",
+    "to": "guangxu-imprison",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "guangxu-wedding",
+    "to": "li-hongzhang-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "guangxu-wedding",
+    "to": "xinchou-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "guangxu-wedding",
+    "to": "wuxu-reform",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "tongzhi-wedding",
+    "to": "taiping-rebellion",
+    "type": "共享参与者",
+    "shared": [
+      "tongzhi"
+    ]
+  },
+  {
+    "from": "tongzhi-wedding",
+    "to": "nian-rebellion",
+    "type": "共享参与者",
+    "shared": [
+      "tongzhi"
+    ]
+  },
+  {
+    "from": "tongzhi-wedding",
+    "to": "tongzhi-death",
+    "type": "共享参与者",
+    "shared": [
+      "tongzhi"
+    ]
+  },
+  {
+    "from": "duomen-zhi-bian",
+    "to": "tumu-crisis",
+    "type": "共享参与者",
+    "shared": [
+      "zhengtong"
+    ]
+  },
+  {
+    "from": "duomen-zhi-bian",
+    "to": "cao-shi-coup",
+    "type": "共享参与者",
+    "shared": [
+      "cao-qin"
+    ]
+  },
+  {
+    "from": "wu-sangu-rebellion",
+    "to": "kangxi-southern-tour",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "wu-sangu-rebellion",
+    "to": "sanfan-rebellion",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi",
+      "wu-sangui"
+    ]
+  },
+  {
+    "from": "lin-shuangwen",
+    "to": "baixianjiao",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "lin-shuangwen",
+    "to": "qianlong-southern-tour",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "lin-shuangwen",
+    "to": "qianlong-abdication",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "lin-shuangwen",
+    "to": "jinchuan-campaign",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "lin-shuangwen",
+    "to": "qianlong-siku",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "baixianjiao",
+    "to": "qianlong-southern-tour",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "baixianjiao",
+    "to": "heshen-fall",
+    "type": "共享参与者",
+    "shared": [
+      "jiaqing"
+    ]
+  },
+  {
+    "from": "baixianjiao",
+    "to": "qianlong-abdication",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong",
+      "jiaqing"
+    ]
+  },
+  {
+    "from": "baixianjiao",
+    "to": "jinchuan-campaign",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "baixianjiao",
+    "to": "qianlong-siku",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "taiping-rebellion",
+    "to": "nian-rebellion",
+    "type": "共享参与者",
+    "shared": [
+      "tongzhi",
+      "xianfeng"
+    ]
+  },
+  {
+    "from": "taiping-rebellion",
+    "to": "second-opium-war",
+    "type": "共享参与者",
+    "shared": [
+      "xianfeng"
+    ]
+  },
+  {
+    "from": "taiping-rebellion",
+    "to": "yuanmingyuan-fire",
+    "type": "共享参与者",
+    "shared": [
+      "xianfeng"
+    ]
+  },
+  {
+    "from": "taiping-rebellion",
+    "to": "xianfeng-flee",
+    "type": "共享参与者",
+    "shared": [
+      "xianfeng"
+    ]
+  },
+  {
+    "from": "taiping-rebellion",
+    "to": "tongzhi-death",
+    "type": "共享参与者",
+    "shared": [
+      "tongzhi"
+    ]
+  },
+  {
+    "from": "nian-rebellion",
+    "to": "second-opium-war",
+    "type": "共享参与者",
+    "shared": [
+      "xianfeng"
+    ]
+  },
+  {
+    "from": "nian-rebellion",
+    "to": "yuanmingyuan-fire",
+    "type": "共享参与者",
+    "shared": [
+      "xianfeng"
+    ]
+  },
+  {
+    "from": "nian-rebellion",
+    "to": "xianfeng-flee",
+    "type": "共享参与者",
+    "shared": [
+      "xianfeng"
+    ]
+  },
+  {
+    "from": "nian-rebellion",
+    "to": "tongzhi-death",
+    "type": "共享参与者",
+    "shared": [
+      "tongzhi"
+    ]
+  },
+  {
+    "from": "second-opium-war",
+    "to": "yuanmingyuan-fire",
+    "type": "共享参与者",
+    "shared": [
+      "xianfeng"
+    ]
+  },
+  {
+    "from": "second-opium-war",
+    "to": "xianfeng-flee",
+    "type": "共享参与者",
+    "shared": [
+      "xianfeng"
+    ]
+  },
+  {
+    "from": "yuanmingyuan-fire",
+    "to": "xianfeng-flee",
+    "type": "共享参与者",
+    "shared": [
+      "xianfeng"
+    ]
+  },
+  {
+    "from": "jiawu-war",
+    "to": "boxer-war",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "jiawu-war",
+    "to": "wuxu-coup",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "jiawu-war",
+    "to": "guangxu-death",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "jiawu-war",
+    "to": "guangxu-imprison",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "jiawu-war",
+    "to": "li-hongzhang-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "li-hongzhang",
+      "guangxu"
+    ]
+  },
+  {
+    "from": "jiawu-war",
+    "to": "xinchou-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "li-hongzhang",
+      "guangxu"
+    ]
+  },
+  {
+    "from": "jiawu-war",
+    "to": "wuxu-reform",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "boxer-war",
+    "to": "wuxu-coup",
+    "type": "共享参与者",
+    "shared": [
+      "cixi",
+      "guangxu"
+    ]
+  },
+  {
+    "from": "boxer-war",
+    "to": "xinyou-coup",
+    "type": "共享参与者",
+    "shared": [
+      "cixi"
+    ]
+  },
+  {
+    "from": "boxer-war",
+    "to": "guangxu-death",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "boxer-war",
+    "to": "cixi-death",
+    "type": "共享参与者",
+    "shared": [
+      "cixi"
+    ]
+  },
+  {
+    "from": "boxer-war",
+    "to": "guangxu-imprison",
+    "type": "共享参与者",
+    "shared": [
+      "cixi",
+      "guangxu"
+    ]
+  },
+  {
+    "from": "boxer-war",
+    "to": "li-hongzhang-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "boxer-war",
+    "to": "xinchou-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "cixi",
+      "guangxu"
+    ]
+  },
+  {
+    "from": "boxer-war",
+    "to": "wuxu-reform",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "wuxu-coup",
+    "to": "xinyou-coup",
+    "type": "共享参与者",
+    "shared": [
+      "cixi"
+    ]
+  },
+  {
+    "from": "wuxu-coup",
+    "to": "guangxu-death",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "wuxu-coup",
+    "to": "cixi-death",
+    "type": "共享参与者",
+    "shared": [
+      "cixi"
+    ]
+  },
+  {
+    "from": "wuxu-coup",
+    "to": "guangxu-imprison",
+    "type": "共享参与者",
+    "shared": [
+      "cixi",
+      "guangxu"
+    ]
+  },
+  {
+    "from": "wuxu-coup",
+    "to": "li-hongzhang-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "wuxu-coup",
+    "to": "xinchou-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "cixi",
+      "guangxu"
+    ]
+  },
+  {
+    "from": "wuxu-coup",
+    "to": "wuxu-reform",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "jingnan-start",
+    "to": "yongle-death",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "jingnan-start",
+    "to": "yongle-encyclopedia",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "yongle-death",
+    "to": "yongle-encyclopedia",
+    "type": "共享参与者",
+    "shared": [
+      "yongle"
+    ]
+  },
+  {
+    "from": "kangxi-southern-tour",
+    "to": "sanfan-rebellion",
+    "type": "共享参与者",
+    "shared": [
+      "kangxi"
+    ]
+  },
+  {
+    "from": "qianlong-southern-tour",
+    "to": "qianlong-abdication",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "qianlong-southern-tour",
+    "to": "jinchuan-campaign",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "qianlong-southern-tour",
+    "to": "qianlong-siku",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "heshen-fall",
+    "to": "qianlong-abdication",
+    "type": "共享参与者",
+    "shared": [
+      "jiaqing"
+    ]
+  },
+  {
+    "from": "qianlong-abdication",
+    "to": "jinchuan-campaign",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "qianlong-abdication",
+    "to": "qianlong-siku",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  },
+  {
+    "from": "xinyou-coup",
+    "to": "cixi-death",
+    "type": "共享参与者",
+    "shared": [
+      "cixi"
+    ]
+  },
+  {
+    "from": "xinyou-coup",
+    "to": "guangxu-imprison",
+    "type": "共享参与者",
+    "shared": [
+      "cixi"
+    ]
+  },
+  {
+    "from": "xinyou-coup",
+    "to": "xinchou-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "cixi"
+    ]
+  },
+  {
+    "from": "guangxu-death",
+    "to": "guangxu-imprison",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "guangxu-death",
+    "to": "li-hongzhang-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "guangxu-death",
+    "to": "xinchou-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "guangxu-death",
+    "to": "wuxu-reform",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "cixi-death",
+    "to": "guangxu-imprison",
+    "type": "共享参与者",
+    "shared": [
+      "cixi"
+    ]
+  },
+  {
+    "from": "cixi-death",
+    "to": "xinchou-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "cixi"
+    ]
+  },
+  {
+    "from": "guangxu-imprison",
+    "to": "li-hongzhang-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "guangxu-imprison",
+    "to": "xinchou-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "cixi",
+      "guangxu"
+    ]
+  },
+  {
+    "from": "guangxu-imprison",
+    "to": "wuxu-reform",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "li-hongzhang-treaty",
+    "to": "xinchou-treaty",
+    "type": "共享参与者",
+    "shared": [
+      "li-hongzhang",
+      "guangxu"
+    ]
+  },
+  {
+    "from": "li-hongzhang-treaty",
+    "to": "wuxu-reform",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "xinchou-treaty",
+    "to": "wuxu-reform",
+    "type": "共享参与者",
+    "shared": [
+      "guangxu"
+    ]
+  },
+  {
+    "from": "tingji-case",
+    "to": "xi-chang",
+    "type": "共享参与者",
+    "shared": [
+      "wang-zhi"
+    ]
+  },
+  {
+    "from": "jinchuan-campaign",
+    "to": "qianlong-siku",
+    "type": "共享参与者",
+    "shared": [
+      "qianlong"
+    ]
+  }
+]

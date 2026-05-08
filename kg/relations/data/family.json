@@ -1,0 +1,185 @@
+[
+  {
+    "from": "kangxi",
+    "to": "yongzheng",
+    "type": "父子"
+  },
+  {
+    "from": "yongzheng",
+    "to": "yongzheng",
+    "type": "父子",
+    "note": "父子关系通过kangxi建立"
+  },
+  {
+    "from": "yongzheng",
+    "to": "qianlong",
+    "type": "父子"
+  },
+  {
+    "from": "guangxu",
+    "to": "longyu",
+    "type": "夫妻"
+  },
+  {
+    "from": "guangxu",
+    "to": "zhen-fei",
+    "type": "夫妻",
+    "note": "宠妃"
+  },
+  {
+    "from": "xuantong",
+    "to": "wanrong",
+    "type": "夫妻"
+  },
+  {
+    "from": "yongle",
+    "to": "hongxi",
+    "type": "父子"
+  },
+  {
+    "from": "hongxi",
+    "to": "xuande",
+    "type": "父子"
+  },
+  {
+    "from": "xuande",
+    "to": "zhengtong",
+    "type": "父子"
+  },
+  {
+    "from": "zhengtong",
+    "to": "chenghua",
+    "type": "父子"
+  },
+  {
+    "from": "chenghua",
+    "to": "hongzhi",
+    "type": "父子"
+  },
+  {
+    "from": "hongzhi",
+    "to": "zhengde",
+    "type": "父子"
+  },
+  {
+    "from": "jiajing",
+    "to": "longqing",
+    "type": "父子"
+  },
+  {
+    "from": "longqing",
+    "to": "wanli",
+    "type": "父子"
+  },
+  {
+    "from": "wanli",
+    "to": "taichang",
+    "type": "父子"
+  },
+  {
+    "from": "taichang",
+    "to": "tianqi",
+    "type": "父子"
+  },
+  {
+    "from": "taichang",
+    "to": "chongzhen",
+    "type": "父子"
+  },
+  {
+    "from": "huangtaiji",
+    "to": "shunzhi",
+    "type": "父子"
+  },
+  {
+    "from": "shunzhi",
+    "to": "kangxi",
+    "type": "父子"
+  },
+  {
+    "from": "jiaqing",
+    "to": "daoguang",
+    "type": "父子"
+  },
+  {
+    "from": "daoguang",
+    "to": "xianfeng",
+    "type": "父子"
+  },
+  {
+    "from": "xianfeng",
+    "to": "tongzhi",
+    "type": "父子"
+  },
+  {
+    "from": "hongwu",
+    "to": "ma-huanghou",
+    "type": "夫妻"
+  },
+  {
+    "from": "yongle",
+    "to": "xu-huanghou",
+    "type": "夫妻"
+  },
+  {
+    "from": "hongxi",
+    "to": "zhang-huanghou",
+    "type": "夫妻"
+  },
+  {
+    "from": "xuande",
+    "to": "sun-huanghou",
+    "type": "夫妻"
+  },
+  {
+    "from": "chenghua",
+    "to": "wan-guifei",
+    "type": "夫妻"
+  },
+  {
+    "from": "kangxi",
+    "to": "xiaochengren",
+    "type": "夫妻"
+  },
+  {
+    "from": "yongzheng",
+    "to": "xiaojingxian",
+    "type": "夫妻"
+  },
+  {
+    "from": "qianlong",
+    "to": "xiaoxianchun",
+    "type": "夫妻"
+  },
+  {
+    "from": "qianlong",
+    "to": "xiang-fei",
+    "type": "夫妻"
+  },
+  {
+    "from": "daoguang",
+    "to": "xiaoquanchun",
+    "type": "夫妻"
+  },
+  {
+    "from": "xianfeng",
+    "to": "cixi",
+    "type": "夫妻"
+  },
+  {
+    "from": "xianfeng",
+    "to": "ci-an",
+    "type": "夫妻"
+  },
+  {
+    "from": "tongzhi",
+    "to": "xiaozheyi",
+    "type": "夫妻",
+    "note": "孝哲毅皇后"
+  },
+  {
+    "from": "xuantong",
+    "to": "zai-feng",
+    "type": "父子"
+  }
+]

@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>故宫知识图谱 - Gugong Knowledge Graph</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { font-family: "PingFang SC", "Microsoft YaHei", sans-serif; background: #0d1117; color: #e6edf3; min-height: 100vh; }
+    header { background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 3rem 2rem; text-align: center; border-bottom: 2px solid #c9a227; }
+    header h1 { font-size: 2.5rem; color: #c9a227; margin-bottom: 0.5rem; }
+    header p { font-size: 1.1rem; color: #8b949e; }
+    .container { max-width: 900px; margin: 2rem auto; padding: 0 1.5rem; }
+    .card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.5rem; margin-top: 2rem; }
+    .card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.5rem; transition: transform 0.2s, border-color 0.2s; }
+    .card:hover { transform: translateY(-3px); border-color: #c9a227; }
+    .card h3 { color: #c9a227; font-size: 1.2rem; margin-bottom: 0.75rem; }
+    .card p { color: #8b949e; font-size: 0.95rem; line-height: 1.6; }
+    .card a { display: inline-block; margin-top: 1rem; color: #58a6ff; text-decoration: none; }
+    .card a:hover { text-decoration: underline; }
+    .stats { display: flex; justify-content: center; gap: 3rem; margin: 2rem 0; flex-wrap: wrap; }
+    .stat { text-align: center; }
+    .stat .num { font-size: 2rem; color: #c9a227; font-weight: bold; }
+    .stat .label { color: #8b949e; font-size: 0.9rem; }
+    footer { text-align: center; padding: 2rem; color: #484f58; font-size: 0.85rem; border-top: 1px solid #21262d; margin-top: 3rem; }
+    @media (max-width: 600px) {
+      header h1 { font-size: 1.8rem; }
+      header p { font-size: 0.95rem; }
+      .stats { gap: 1.5rem; }
+      .stat .num { font-size: 1.5rem; }
+      .container { padding: 0 1rem; }
+      .card-grid { grid-template-columns: 1fr; }
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <h1>故宫知识图谱</h1>
+    <p>从空间到人物到事件 —— 看见紫禁城六百年</p>
+  </header>
+  <div class="container">
+    <div class="stats">
+      <div class="stat"><div class="num">72</div><div class="label">宫殿</div></div>
+      <div class="stat"><div class="num">26</div><div class="label">皇帝</div></div>
+      <div class="stat"><div class="num">221</div><div class="label">历史人物</div></div>
+      <div class="stat"><div class="num">82</div><div class="label">事件</div></div>
+      <div class="stat"><div class="num">727</div><div class="label">关系连线</div></div>
+    </div>
+    <div class="card-grid">
+      <div class="card">
+        <h3>交互式平面图</h3>
+        <p>在故宫平面图上探索各宫殿位置，点击查看详情。</p>
+        <a href="app/map/">进入平面图 &#8594;</a>
+      </div>
+      <div class="card">
+        <h3>🚇 皇帝地铁图</h3>
+        <p>以地铁线路图的方式呈现明清26位帝王的时间线，直观展示朝代更迭。</p>
+        <a href="app/metro/">进入地铁图 &#8594;</a>
+      </div>
+      <div class="card">
+        <h3>🔗 知识图谱浏览器</h3>
+        <p>力导向图探索宫殿、皇帝、人物与事件之间的727条关联关系。</p>
+        <a href="app/explorer/">进入图谱 &#8594;</a>
+      </div>
+      <div class="card">
+        <h3>Wiki 百科</h3>
+        <p>401 个词条，涵盖 72 座宫殿、26 位皇帝、221 位历史人物与 82 个历史事件，支持别名搜索。</p>
+        <a href="docs/index.html">浏览 Wiki &#8594;</a>
+      </div>
+      <div class="card">
+        <h3>数据层</h3>
+        <p>开放 JSON 数据：宫殿、皇帝、人物、事件与关系图谱。</p>
+        <a href="kg/">查看数据 &#8594;</a>
+      </div>
+    </div>
+    <div class="card" style="margin-top: 2rem;">
+      <h3>项目架构</h3>
+      <p>以空间为核心的知识图谱架构：从故宫的建筑空间出发，串联皇帝起居轨迹、大臣活动范围与历史事件现场，构建空间-人物-事件三维关联网络。本体定义 &#8594; 实体数据 &#8594; 关系图谱 &#8594; 交互应用 &#8594; Wiki 百科。</p>
+    </div>
+  </div>
+  <footer>
+    <p>Gugong Knowledge Graph MVP &#183; 2026 &#183; CC BY-NC-SA 4.0</p>
+  </footer>
+</body>
+</html>
