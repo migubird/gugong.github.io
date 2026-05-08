@@ -1,0 +1,1606 @@
+{
+  "金銮殿": {
+    "canonical_id": "taihe-dian",
+    "type": "palace"
+  },
+  "奉天殿": {
+    "canonical_id": "taihe-dian",
+    "type": "palace"
+  },
+  "太和殿": {
+    "canonical_id": "taihe-dian",
+    "type": "palace"
+  },
+  "华盖殿": {
+    "canonical_id": "zhonghe-dian",
+    "type": "palace"
+  },
+  "中和殿": {
+    "canonical_id": "zhonghe-dian",
+    "type": "palace"
+  },
+  "谨身殿": {
+    "canonical_id": "baohe-dian",
+    "type": "palace"
+  },
+  "保和殿": {
+    "canonical_id": "baohe-dian",
+    "type": "palace"
+  },
+  "乾清宫": {
+    "canonical_id": "qianqing-gong",
+    "type": "palace"
+  },
+  "交泰殿": {
+    "canonical_id": "jiaotai-dian",
+    "type": "palace"
+  },
+  "坤宁宫": {
+    "canonical_id": "kunning-gong",
+    "type": "palace"
+  },
+  "水晶宫": {
+    "canonical_id": "yanxi-gong",
+    "type": "palace"
+  },
+  "延禧宫": {
+    "canonical_id": "yanxi-gong",
+    "type": "palace"
+  },
+  "储秀宫": {
+    "canonical_id": "chuxiu-gong",
+    "type": "palace"
+  },
+  "养心殿": {
+    "canonical_id": "yangxindian",
+    "type": "palace"
+  },
+  "军机处": {
+    "canonical_id": "junji-chu",
+    "type": "palace"
+  },
+  "奉天门": {
+    "canonical_id": "taihe-men",
+    "type": "palace"
+  },
+  "太和门": {
+    "canonical_id": "taihe-men",
+    "type": "palace"
+  },
+  "五凤楼": {
+    "canonical_id": "wu-men",
+    "type": "palace"
+  },
+  "午门": {
+    "canonical_id": "wu-men",
+    "type": "palace"
+  },
+  "端门": {
+    "canonical_id": "duan-men",
+    "type": "palace"
+  },
+  "文华殿": {
+    "canonical_id": "wenhua-dian",
+    "type": "palace"
+  },
+  "武英殿": {
+    "canonical_id": "wuying-dian",
+    "type": "palace"
+  },
+  "乾清门": {
+    "canonical_id": "qianqing-men",
+    "type": "palace"
+  },
+  "景仁宫": {
+    "canonical_id": "jingren-gong",
+    "type": "palace"
+  },
+  "承乾宫": {
+    "canonical_id": "chengqian-gong",
+    "type": "palace"
+  },
+  "钟粹宫": {
+    "canonical_id": "zhongcui-gong",
+    "type": "palace"
+  },
+  "永和宫": {
+    "canonical_id": "yonghe-gong",
+    "type": "palace"
+  },
+  "翊坤宫": {
+    "canonical_id": "yikun-gong",
+    "type": "palace"
+  },
+  "长春宫": {
+    "canonical_id": "changchun-gong",
+    "type": "palace"
+  },
+  "咸福宫": {
+    "canonical_id": "xianfu-gong",
+    "type": "palace"
+  },
+  "永寿宫": {
+    "canonical_id": "yongshou-gong",
+    "type": "palace"
+  },
+  "太极殿": {
+    "canonical_id": "taiji-dian",
+    "type": "palace"
+  },
+  "慈宁宫": {
+    "canonical_id": "cining-gong",
+    "type": "palace"
+  },
+  "寿康宫": {
+    "canonical_id": "shoukang-gong",
+    "type": "palace"
+  },
+  "宁寿宫": {
+    "canonical_id": "ning-shou-gong",
+    "type": "palace"
+  },
+  "奉先殿": {
+    "canonical_id": "fengxian-dian",
+    "type": "palace"
+  },
+  "传心殿": {
+    "canonical_id": "chuanxindian",
+    "type": "palace"
+  },
+  "御花园": {
+    "canonical_id": "yu-huayuan",
+    "type": "palace"
+  },
+  "慈宁宫花园": {
+    "canonical_id": "cining-huayuan",
+    "type": "palace"
+  },
+  "乾隆花园": {
+    "canonical_id": "ningshou-huayuan",
+    "type": "palace"
+  },
+  "宁寿宫花园": {
+    "canonical_id": "ningshou-huayuan",
+    "type": "palace"
+  },
+  "神武门": {
+    "canonical_id": "shenwu-men",
+    "type": "palace"
+  },
+  "东华门": {
+    "canonical_id": "donghua-men",
+    "type": "palace"
+  },
+  "西华门": {
+    "canonical_id": "xihua-men",
+    "type": "palace"
+  },
+  "文渊阁": {
+    "canonical_id": "wenhuadian-ge",
+    "type": "palace"
+  },
+  "南三所": {
+    "canonical_id": "nansansuo",
+    "type": "palace"
+  },
+  "淳化轩": {
+    "canonical_id": "chunhua-dian",
+    "type": "palace"
+  },
+  "皇极殿": {
+    "canonical_id": "huang-ji-dian",
+    "type": "palace"
+  },
+  "乐寿堂": {
+    "canonical_id": "le-shoutang",
+    "type": "palace"
+  },
+  "养性斋": {
+    "canonical_id": "yangxing-zhai",
+    "type": "palace"
+  },
+  "千秋亭": {
+    "canonical_id": "qianqiu-ting",
+    "type": "palace"
+  },
+  "万春亭": {
+    "canonical_id": "wanchun-ting",
+    "type": "palace"
+  },
+  "钦安殿": {
+    "canonical_id": "qinan-dian",
+    "type": "palace"
+  },
+  "瓷器库": {
+    "canonical_id": "ciqiku",
+    "type": "palace"
+  },
+  "端仪门": {
+    "canonical_id": "duan-yi-men",
+    "type": "palace"
+  },
+  "景运门": {
+    "canonical_id": "jingyun-men",
+    "type": "palace"
+  },
+  "弘义阁": {
+    "canonical_id": "hongyi-dian",
+    "type": "palace"
+  },
+  "体仁阁": {
+    "canonical_id": "tiyi-dian",
+    "type": "palace"
+  },
+  "昭德门": {
+    "canonical_id": "zhaode-men",
+    "type": "palace"
+  },
+  "贞度门": {
+    "canonical_id": "zhendu-men",
+    "type": "palace"
+  },
+  "协和门": {
+    "canonical_id": "xianhuamen",
+    "type": "palace"
+  },
+  "熙和门": {
+    "canonical_id": "xiximen",
+    "type": "palace"
+  },
+  "方略馆": {
+    "canonical_id": "cangku-fang",
+    "type": "palace"
+  },
+  "文渊殿": {
+    "canonical_id": "wenyuan-dian",
+    "type": "palace"
+  },
+  "主善斋": {
+    "canonical_id": "zhushengfang",
+    "type": "palace"
+  },
+  "怡芳斋": {
+    "canonical_id": "yifangzhai",
+    "type": "palace"
+  },
+  "翰林院": {
+    "canonical_id": "daxue-shi",
+    "type": "palace"
+  },
+  "毓庆宫": {
+    "canonical_id": "yuyuan-dian",
+    "type": "palace"
+  },
+  "内务府": {
+    "canonical_id": "nei-wu-fu",
+    "type": "palace"
+  },
+  "左翼门": {
+    "canonical_id": "zuoyi-men",
+    "type": "palace"
+  },
+  "右翼门": {
+    "canonical_id": "youyi-men",
+    "type": "palace"
+  },
+  "武英门": {
+    "canonical_id": "wuying-men",
+    "type": "palace"
+  },
+  "文华门": {
+    "canonical_id": "wenhua-men",
+    "type": "palace"
+  },
+  "隆宗门": {
+    "canonical_id": "longzong-men",
+    "type": "palace"
+  },
+  "宁寿宫区": {
+    "canonical_id": "ning-shou-gong",
+    "type": "palace"
+  },
+  "慈寿宫": {
+    "canonical_id": "ci-shou-gong",
+    "type": "palace"
+  },
+  "尚书房": {
+    "canonical_id": "shang-shu-fang",
+    "type": "palace"
+  },
+  "上书房": {
+    "canonical_id": "shang-shu-fang",
+    "type": "palace"
+  },
+  "英华殿": {
+    "canonical_id": "ying-hua-dian",
+    "type": "palace"
+  },
+  "永乐": {
+    "canonical_id": "yongle",
+    "type": "emperor"
+  },
+  "明成祖朱棣": {
+    "canonical_id": "yongle",
+    "type": "emperor"
+  },
+  "嘉靖": {
+    "canonical_id": "jiajing",
+    "type": "emperor"
+  },
+  "明世宗朱厚熜": {
+    "canonical_id": "jiajing",
+    "type": "emperor"
+  },
+  "万历": {
+    "canonical_id": "wanli",
+    "type": "emperor"
+  },
+  "明神宗朱翊钧": {
+    "canonical_id": "wanli",
+    "type": "emperor"
+  },
+  "崇祯": {
+    "canonical_id": "chongzhen",
+    "type": "emperor"
+  },
+  "明思宗朱由检": {
+    "canonical_id": "chongzhen",
+    "type": "emperor"
+  },
+  "康熙": {
+    "canonical_id": "kangxi",
+    "type": "emperor"
+  },
+  "清圣祖玄烨": {
+    "canonical_id": "kangxi",
+    "type": "emperor"
+  },
+  "雍正": {
+    "canonical_id": "yongzheng",
+    "type": "emperor"
+  },
+  "清世宗胤禛": {
+    "canonical_id": "yongzheng",
+    "type": "emperor"
+  },
+  "乾隆": {
+    "canonical_id": "qianlong",
+    "type": "emperor"
+  },
+  "清高宗弘历": {
+    "canonical_id": "qianlong",
+    "type": "emperor"
+  },
+  "道光": {
+    "canonical_id": "daoguang",
+    "type": "emperor"
+  },
+  "清宣宗旻宁": {
+    "canonical_id": "daoguang",
+    "type": "emperor"
+  },
+  "光绪": {
+    "canonical_id": "guangxu",
+    "type": "emperor"
+  },
+  "清德宗载湉": {
+    "canonical_id": "guangxu",
+    "type": "emperor"
+  },
+  "宣统": {
+    "canonical_id": "xuantong",
+    "type": "emperor"
+  },
+  "清逊帝溥仪": {
+    "canonical_id": "xuantong",
+    "type": "emperor"
+  },
+  "洪武": {
+    "canonical_id": "hongwu",
+    "type": "emperor"
+  },
+  "明太祖朱元璋": {
+    "canonical_id": "hongwu",
+    "type": "emperor"
+  },
+  "建文": {
+    "canonical_id": "jianwen",
+    "type": "emperor"
+  },
+  "明惠帝朱允炆": {
+    "canonical_id": "jianwen",
+    "type": "emperor"
+  },
+  "洪熙": {
+    "canonical_id": "hongxi",
+    "type": "emperor"
+  },
+  "明仁宗朱高炽": {
+    "canonical_id": "hongxi",
+    "type": "emperor"
+  },
+  "宣德": {
+    "canonical_id": "xuande",
+    "type": "emperor"
+  },
+  "明宣宗朱瞻基": {
+    "canonical_id": "xuande",
+    "type": "emperor"
+  },
+  "正统": {
+    "canonical_id": "zhengtong",
+    "type": "emperor"
+  },
+  "明英宗朱祁镇": {
+    "canonical_id": "zhengtong",
+    "type": "emperor"
+  },
+  "景泰": {
+    "canonical_id": "jingtai",
+    "type": "emperor"
+  },
+  "明代宗朱祁钰": {
+    "canonical_id": "jingtai",
+    "type": "emperor"
+  },
+  "成化": {
+    "canonical_id": "chenghua",
+    "type": "emperor"
+  },
+  "明宪宗朱见深": {
+    "canonical_id": "chenghua",
+    "type": "emperor"
+  },
+  "弘治": {
+    "canonical_id": "hongzhi",
+    "type": "emperor"
+  },
+  "明孝宗朱祐樘": {
+    "canonical_id": "hongzhi",
+    "type": "emperor"
+  },
+  "正德": {
+    "canonical_id": "zhengde",
+    "type": "emperor"
+  },
+  "明武宗朱厚照": {
+    "canonical_id": "zhengde",
+    "type": "emperor"
+  },
+  "隆庆": {
+    "canonical_id": "longqing",
+    "type": "emperor"
+  },
+  "明穆宗朱载坖": {
+    "canonical_id": "longqing",
+    "type": "emperor"
+  },
+  "泰昌": {
+    "canonical_id": "taichang",
+    "type": "emperor"
+  },
+  "明光宗朱常洛": {
+    "canonical_id": "taichang",
+    "type": "emperor"
+  },
+  "天启": {
+    "canonical_id": "tianqi",
+    "type": "emperor"
+  },
+  "明熹宗朱由校": {
+    "canonical_id": "tianqi",
+    "type": "emperor"
+  },
+  "顺治": {
+    "canonical_id": "shunzhi",
+    "type": "emperor"
+  },
+  "清世祖福临": {
+    "canonical_id": "shunzhi",
+    "type": "emperor"
+  },
+  "咸丰": {
+    "canonical_id": "xianfeng",
+    "type": "emperor"
+  },
+  "清文宗奕詝": {
+    "canonical_id": "xianfeng",
+    "type": "emperor"
+  },
+  "同治": {
+    "canonical_id": "tongzhi",
+    "type": "emperor"
+  },
+  "清穆宗载淳": {
+    "canonical_id": "tongzhi",
+    "type": "emperor"
+  },
+  "嘉庆": {
+    "canonical_id": "jiaqing",
+    "type": "emperor"
+  },
+  "颙琰": {
+    "canonical_id": "jiaqing",
+    "type": "emperor"
+  },
+  "张居正": {
+    "canonical_id": "zhangju-zheng",
+    "type": "figure"
+  },
+  "严嵩": {
+    "canonical_id": "yan-song",
+    "type": "figure"
+  },
+  "海瑞": {
+    "canonical_id": "hai-rui",
+    "type": "figure"
+  },
+  "魏忠贤": {
+    "canonical_id": "wei-zhongxian",
+    "type": "figure"
+  },
+  "郑和": {
+    "canonical_id": "zheng-he",
+    "type": "figure"
+  },
+  "于谦": {
+    "canonical_id": "yu-qian",
+    "type": "figure"
+  },
+  "张廷玉": {
+    "canonical_id": "zhang-tingyu",
+    "type": "figure"
+  },
+  "和珅": {
+    "canonical_id": "he-shen",
+    "type": "figure"
+  },
+  "纪昀（纪晓岚）": {
+    "canonical_id": "jixiaolan",
+    "type": "figure"
+  },
+  "林则徐": {
+    "canonical_id": "lin-ze-xu",
+    "type": "figure"
+  },
+  "左宗棠": {
+    "canonical_id": "zuo-zongtang",
+    "type": "figure"
+  },
+  "李鸿章": {
+    "canonical_id": "li-hongzhang",
+    "type": "figure"
+  },
+  "慈禧太后": {
+    "canonical_id": "ci-xi",
+    "type": "figure"
+  },
+  "隆裕太后": {
+    "canonical_id": "longyu",
+    "type": "figure"
+  },
+  "婉容": {
+    "canonical_id": "wanrong",
+    "type": "figure"
+  },
+  "珍妃": {
+    "canonical_id": "zhen-fei",
+    "type": "figure"
+  },
+  "慈安太后": {
+    "canonical_id": "ci-an",
+    "type": "figure"
+  },
+  "李莲英": {
+    "canonical_id": "li-lian-ying",
+    "type": "figure"
+  },
+  "吴三桂": {
+    "canonical_id": "wu-sangui",
+    "type": "figure"
+  },
+  "纳兰性德": {
+    "canonical_id": "nalan-xingde",
+    "type": "figure"
+  },
+  "曹雪芹": {
+    "canonical_id": "cao-xue-qin",
+    "type": "figure"
+  },
+  "曾国藩": {
+    "canonical_id": "zeng-guofan",
+    "type": "figure"
+  },
+  "康有为": {
+    "canonical_id": "kang-youwei",
+    "type": "figure"
+  },
+  "梁启超": {
+    "canonical_id": "liang-qichao",
+    "type": "figure"
+  },
+  "袁世凯": {
+    "canonical_id": "yuan-shikai",
+    "type": "figure"
+  },
+  "孙中山": {
+    "canonical_id": "sun-yat-sen",
+    "type": "figure"
+  },
+  "多尔衮": {
+    "canonical_id": "duo-er-gun",
+    "type": "figure"
+  },
+  "王承恩": {
+    "canonical_id": "eunuch-wang-cheng-en",
+    "type": "figure"
+  },
+  "高拱": {
+    "canonical_id": "gao-gong",
+    "type": "figure"
+  },
+  "杨涟": {
+    "canonical_id": "eunuch-wei-zhongxian-rival",
+    "type": "figure"
+  },
+  "刘基（刘伯温）": {
+    "canonical_id": "liu-ji",
+    "type": "figure"
+  },
+  "李善长": {
+    "canonical_id": "li-shan-chang",
+    "type": "figure"
+  },
+  "徐达": {
+    "canonical_id": "xu-da",
+    "type": "figure"
+  },
+  "常遇春": {
+    "canonical_id": "chang-yu-chun",
+    "type": "figure"
+  },
+  "姚广孝": {
+    "canonical_id": "yao-guangxiao",
+    "type": "figure"
+  },
+  "解缙": {
+    "canonical_id": "xie-jin",
+    "type": "figure"
+  },
+  "杨士奇": {
+    "canonical_id": "yang-shiqi",
+    "type": "figure"
+  },
+  "杨荣": {
+    "canonical_id": "yang-rong",
+    "type": "figure"
+  },
+  "杨溥": {
+    "canonical_id": "yang-pu",
+    "type": "figure"
+  },
+  "李东阳": {
+    "canonical_id": "li-dong-yang",
+    "type": "figure"
+  },
+  "商辂": {
+    "canonical_id": "shang-lu",
+    "type": "figure"
+  },
+  "徐阶": {
+    "canonical_id": "xu-jie",
+    "type": "figure"
+  },
+  "严世蕃": {
+    "canonical_id": "yan-shi-fan",
+    "type": "figure"
+  },
+  "戚继光": {
+    "canonical_id": "qi-ji-guang",
+    "type": "figure"
+  },
+  "李如松": {
+    "canonical_id": "li-ru-song",
+    "type": "figure"
+  },
+  "史可法": {
+    "canonical_id": "shi-ke-fa",
+    "type": "figure"
+  },
+  "郑成功": {
+    "canonical_id": "zheng-chenggong",
+    "type": "figure"
+  },
+  "俞大猷": {
+    "canonical_id": "yu-dayou",
+    "type": "figure"
+  },
+  "袁崇焕": {
+    "canonical_id": "yuan-chonghuan",
+    "type": "figure"
+  },
+  "孙传庭": {
+    "canonical_id": "sun-chuanting",
+    "type": "figure"
+  },
+  "卢象升": {
+    "canonical_id": "lu-xiang-sheng",
+    "type": "figure"
+  },
+  "刘瑾": {
+    "canonical_id": "eunuch-liu-jin",
+    "type": "figure"
+  },
+  "王振": {
+    "canonical_id": "eunuch-wang-zhen",
+    "type": "figure"
+  },
+  "汪直": {
+    "canonical_id": "eunuch-wang-zhi",
+    "type": "figure"
+  },
+  "冯保": {
+    "canonical_id": "eunuch-feng-bao",
+    "type": "figure"
+  },
+  "马皇后": {
+    "canonical_id": "ma-huanghou",
+    "type": "figure"
+  },
+  "徐皇后": {
+    "canonical_id": "xu-huanghou",
+    "type": "figure"
+  },
+  "张皇后": {
+    "canonical_id": "zhang-huanghou",
+    "type": "figure"
+  },
+  "孙皇后": {
+    "canonical_id": "sun-huanghou",
+    "type": "figure"
+  },
+  "万贵妃": {
+    "canonical_id": "wan-guifei",
+    "type": "figure"
+  },
+  "孝庄太后": {
+    "canonical_id": "xiao-zhuang",
+    "type": "figure"
+  },
+  "香妃": {
+    "canonical_id": "xiang-fei",
+    "type": "figure"
+  },
+  "孝贤纯皇后": {
+    "canonical_id": "xiaoxianchun",
+    "type": "figure"
+  },
+  "孝诚仁皇后": {
+    "canonical_id": "xiaochengren",
+    "type": "figure"
+  },
+  "孝敬宪皇后": {
+    "canonical_id": "xiaojingxian",
+    "type": "figure"
+  },
+  "孝全成皇后": {
+    "canonical_id": "xiaoquanchun",
+    "type": "figure"
+  },
+  "孝钦显皇后": {
+    "canonical_id": "xiaoqinxian",
+    "type": "figure"
+  },
+  "遏必隆": {
+    "canonical_id": "e-zhongyi",
+    "type": "figure"
+  },
+  "索尼": {
+    "canonical_id": "sonin",
+    "type": "figure"
+  },
+  "苏克萨哈": {
+    "canonical_id": "suksaha",
+    "type": "figure"
+  },
+  "鳌拜": {
+    "canonical_id": "aobai",
+    "type": "figure"
+  },
+  "明珠": {
+    "canonical_id": "mingju",
+    "type": "figure"
+  },
+  "李光地": {
+    "canonical_id": "li-guangdi",
+    "type": "figure"
+  },
+  "陈廷敬": {
+    "canonical_id": "chen-tingjing",
+    "type": "figure"
+  },
+  "刘墉": {
+    "canonical_id": "liu-yong",
+    "type": "figure"
+  },
+  "王杰": {
+    "canonical_id": "wang-jie",
+    "type": "figure"
+  },
+  "纪昀": {
+    "canonical_id": "ji-xiaolan",
+    "type": "figure"
+  },
+  "福康安": {
+    "canonical_id": "fu-kang-an",
+    "type": "figure"
+  },
+  "阿桂": {
+    "canonical_id": "heshen-rival",
+    "type": "figure"
+  },
+  "魏源": {
+    "canonical_id": "wei-yuan",
+    "type": "figure"
+  },
+  "恭亲王奕訢": {
+    "canonical_id": "gong-qinwang",
+    "type": "figure"
+  },
+  "曾国荃": {
+    "canonical_id": "zeng-guoquan",
+    "type": "figure"
+  },
+  "刘坤一": {
+    "canonical_id": "liu-kun-yi",
+    "type": "figure"
+  },
+  "张之洞": {
+    "canonical_id": "zhang-zhidong",
+    "type": "figure"
+  },
+  "谭嗣同": {
+    "canonical_id": "tan-sitong",
+    "type": "figure"
+  },
+  "严复": {
+    "canonical_id": "yan-fu",
+    "type": "figure"
+  },
+  "章太炎": {
+    "canonical_id": "zhang-binglin",
+    "type": "figure"
+  },
+  "安德海": {
+    "canonical_id": "an-de-hai",
+    "type": "figure"
+  },
+  "小德张": {
+    "canonical_id": "eunuch-xiao-dehai",
+    "type": "figure"
+  },
+  "寇连材": {
+    "canonical_id": "eunuch-lian-ying",
+    "type": "figure"
+  },
+  "蒯祥": {
+    "canonical_id": "kuai-xiang",
+    "type": "figure"
+  },
+  "雷发达": {
+    "canonical_id": "lei-fa-da",
+    "type": "figure"
+  },
+  "雷金兆": {
+    "canonical_id": "lei-jinxi",
+    "type": "figure"
+  },
+  "雷家玺": {
+    "canonical_id": "lei-jiayu",
+    "type": "figure"
+  },
+  "王阳明": {
+    "canonical_id": "wang-yangming",
+    "type": "figure"
+  },
+  "李贽": {
+    "canonical_id": "li-zhi",
+    "type": "figure"
+  },
+  "黄宗羲": {
+    "canonical_id": "huang-zong-xi",
+    "type": "figure"
+  },
+  "顾炎武": {
+    "canonical_id": "gu-yan-wu",
+    "type": "figure"
+  },
+  "王夫之": {
+    "canonical_id": "wang-fu-zhi",
+    "type": "figure"
+  },
+  "胡惟庸": {
+    "canonical_id": "hu-wei-yong",
+    "type": "figure"
+  },
+  "方孝孺": {
+    "canonical_id": "fang-xiaoru",
+    "type": "figure"
+  },
+  "石亨": {
+    "canonical_id": "yu-qian-ally",
+    "type": "figure"
+  },
+  "曹吉祥": {
+    "canonical_id": "cao-qin",
+    "type": "figure"
+  },
+  "马永成": {
+    "canonical_id": "liu-jin-8tiger",
+    "type": "figure"
+  },
+  "董贤": {
+    "canonical_id": "dong-xian",
+    "type": "figure"
+  },
+  "孙承宗": {
+    "canonical_id": "sun-chengzong",
+    "type": "figure"
+  },
+  "熊廷弼": {
+    "canonical_id": "xiong-tingbi",
+    "type": "figure"
+  },
+  "麻贵": {
+    "canonical_id": "ma-shuai",
+    "type": "figure"
+  },
+  "陈璘": {
+    "canonical_id": "chen-lin",
+    "type": "figure"
+  },
+  "施琅": {
+    "canonical_id": "shi-lang",
+    "type": "figure"
+  },
+  "彭春": {
+    "canonical_id": "pengchun",
+    "type": "figure"
+  },
+  "费扬古": {
+    "canonical_id": "fei-yang-gu",
+    "type": "figure"
+  },
+  "胤礽": {
+    "canonical_id": "yin-reng",
+    "type": "figure"
+  },
+  "胤禩": {
+    "canonical_id": "yinsi",
+    "type": "figure"
+  },
+  "胤禵": {
+    "canonical_id": "yinzhen-rival",
+    "type": "figure"
+  },
+  "年羹尧": {
+    "canonical_id": "nian-gengyao",
+    "type": "figure"
+  },
+  "隆科多": {
+    "canonical_id": "longkodo",
+    "type": "figure"
+  },
+  "刘统勋": {
+    "canonical_id": "liu-tong-xun",
+    "type": "figure"
+  },
+  "福长安": {
+    "canonical_id": "he-shen-fu",
+    "type": "figure"
+  },
+  "邵雍": {
+    "canonical_id": "shao-yong",
+    "type": "figure"
+  },
+  "丁汝昌": {
+    "canonical_id": "ding-ruchang",
+    "type": "figure"
+  },
+  "邓世昌": {
+    "canonical_id": "deng-shichang",
+    "type": "figure"
+  },
+  "关天培": {
+    "canonical_id": "guan-yue-qing",
+    "type": "figure"
+  },
+  "僧格林沁": {
+    "canonical_id": "se-leng-e",
+    "type": "figure"
+  },
+  "荣禄": {
+    "canonical_id": "rong-lu",
+    "type": "figure"
+  },
+  "刚毅": {
+    "canonical_id": "gang-yi",
+    "type": "figure"
+  },
+  "载漪": {
+    "canonical_id": "zai-yi",
+    "type": "figure"
+  },
+  "溥俊": {
+    "canonical_id": "pu-jun",
+    "type": "figure"
+  },
+  "载沣": {
+    "canonical_id": "zai-feng",
+    "type": "figure"
+  },
+  "袁克定": {
+    "canonical_id": "yuan-shikai-son",
+    "type": "figure"
+  },
+  "蒲松龄": {
+    "canonical_id": "pu-song-ling",
+    "type": "figure"
+  },
+  "吴敬梓": {
+    "canonical_id": "wu-jing-zi",
+    "type": "figure"
+  },
+  "孔尚任": {
+    "canonical_id": "kong-shangren",
+    "type": "figure"
+  },
+  "洪昇": {
+    "canonical_id": "hong-sheng",
+    "type": "figure"
+  },
+  "朱宸濠": {
+    "canonical_id": "ning-wang",
+    "type": "figure"
+  },
+  "崔呈秀": {
+    "canonical_id": "wei-zhongxian-ally",
+    "type": "figure"
+  },
+  "左光斗": {
+    "canonical_id": "donglin-1",
+    "type": "figure"
+  },
+  "魏大中": {
+    "canonical_id": "donglin-2",
+    "type": "figure"
+  },
+  "田文镜": {
+    "canonical_id": "tian-wenqi",
+    "type": "figure"
+  },
+  "李卫": {
+    "canonical_id": "li-wei",
+    "type": "figure"
+  },
+  "李自成": {
+    "canonical_id": "li-zicheng",
+    "type": "figure"
+  },
+  "奕訢": {
+    "canonical_id": "gongqinwang-yixin",
+    "type": "figure"
+  },
+  "顾宪成": {
+    "canonical_id": "gu-xian-cheng",
+    "type": "figure"
+  },
+  "陈元龙": {
+    "canonical_id": "chen-yuan-long",
+    "type": "figure"
+  },
+  "梁诗正": {
+    "canonical_id": "liang-shi-cheng",
+    "type": "figure"
+  },
+  "雷金徽": {
+    "canonical_id": "lei-jin-wei",
+    "type": "figure"
+  },
+  "雷景昌": {
+    "canonical_id": "lei-jing-chang",
+    "type": "figure"
+  },
+  "高士奇": {
+    "canonical_id": "gao-shi-qi",
+    "type": "figure"
+  },
+  "唐英": {
+    "canonical_id": "tang-ying",
+    "type": "figure"
+  },
+  "郎世宁": {
+    "canonical_id": "lang-shi-ning",
+    "type": "figure"
+  },
+  "宁悫妃": {
+    "canonical_id": "ning-qi",
+    "type": "figure"
+  },
+  "赫舍里氏": {
+    "canonical_id": "hesheli",
+    "type": "figure"
+  },
+  "钮祜禄氏": {
+    "canonical_id": "niu-hulu",
+    "type": "figure"
+  },
+  "那拉氏": {
+    "canonical_id": "na-la-shi",
+    "type": "figure"
+  },
+  "辉发那拉氏": {
+    "canonical_id": "hui-fa",
+    "type": "figure"
+  },
+  "佟佳氏": {
+    "canonical_id": "tong-jia-shi",
+    "type": "figure"
+  },
+  "邓愈": {
+    "canonical_id": "deng-yu",
+    "type": "figure"
+  },
+  "汤和": {
+    "canonical_id": "tang-he",
+    "type": "figure"
+  },
+  "傅友德": {
+    "canonical_id": "fu-you-de",
+    "type": "figure"
+  },
+  "蓝玉": {
+    "canonical_id": "lan-yu",
+    "type": "figure"
+  },
+  "汪广洋": {
+    "canonical_id": "wang-meng",
+    "type": "figure"
+  },
+  "方国珍": {
+    "canonical_id": "fang-guo-zhen",
+    "type": "figure"
+  },
+  "朱文正": {
+    "canonical_id": "zhu-wen-zheng",
+    "type": "figure"
+  },
+  "李景隆": {
+    "canonical_id": "li-jinglong",
+    "type": "figure"
+  },
+  "铁铉": {
+    "canonical_id": "tie-xuan",
+    "type": "figure"
+  },
+  "盛庸": {
+    "canonical_id": "sheng-yong",
+    "type": "figure"
+  },
+  "景清": {
+    "canonical_id": "jing-nan",
+    "type": "figure"
+  },
+  "夏原吉": {
+    "canonical_id": "xia-yuan-ji",
+    "type": "figure"
+  },
+  "亦失哈": {
+    "canonical_id": "yi-ya-tu",
+    "type": "figure"
+  },
+  "陈诚": {
+    "canonical_id": "chen-cheng",
+    "type": "figure"
+  },
+  "金幼孜": {
+    "canonical_id": "jin-you-zi",
+    "type": "figure"
+  },
+  "胡广": {
+    "canonical_id": "hu-guang",
+    "type": "figure"
+  },
+  "周新": {
+    "canonical_id": "zhou-xin",
+    "type": "figure"
+  },
+  "丘濬": {
+    "canonical_id": "qiu-jun",
+    "type": "figure"
+  },
+  "唐寅": {
+    "canonical_id": "tang-yin",
+    "type": "figure"
+  },
+  "文徵明": {
+    "canonical_id": "wen-zheng-ming",
+    "type": "figure"
+  },
+  "沈周": {
+    "canonical_id": "shen-zhou",
+    "type": "figure"
+  },
+  "王世贞": {
+    "canonical_id": "wang-shi-zhen",
+    "type": "figure"
+  },
+  "归有光": {
+    "canonical_id": "gui-you-guang",
+    "type": "figure"
+  },
+  "徐霞客": {
+    "canonical_id": "xu-xia-ke",
+    "type": "figure"
+  },
+  "宋应星": {
+    "canonical_id": "song-ying-xing",
+    "type": "figure"
+  },
+  "李时珍": {
+    "canonical_id": "li-shi-zhen",
+    "type": "figure"
+  },
+  "吴承恩": {
+    "canonical_id": "wu-cheng-en",
+    "type": "figure"
+  },
+  "施耐庵": {
+    "canonical_id": "shi-nai-an",
+    "type": "figure"
+  },
+  "罗贯中": {
+    "canonical_id": "luo-guan-zhong",
+    "type": "figure"
+  },
+  "汤显祖": {
+    "canonical_id": "tang-xian-zu",
+    "type": "figure"
+  },
+  "曹寅": {
+    "canonical_id": "cao-yin",
+    "type": "figure"
+  },
+  "袁枚": {
+    "canonical_id": "yuan-mei",
+    "type": "figure"
+  },
+  "郑燮": {
+    "canonical_id": "zhen-xi-chao",
+    "type": "figure"
+  },
+  "戴震": {
+    "canonical_id": "dai-zhen",
+    "type": "figure"
+  },
+  "石涛": {
+    "canonical_id": "shi-tao",
+    "type": "figure"
+  },
+  "八大山人": {
+    "canonical_id": "ba-da-shan-ren",
+    "type": "figure"
+  },
+  "修建紫禁城": {
+    "canonical_id": "gugong-construction",
+    "type": "event"
+  },
+  "靖难之役": {
+    "canonical_id": "jingnan-zhiyi",
+    "type": "event"
+  },
+  "崇祯帝自缢": {
+    "canonical_id": "chongzhen-death",
+    "type": "event"
+  },
+  "清军入关定鼎北京": {
+    "canonical_id": "qing-enter-beijing",
+    "type": "event"
+  },
+  "九子夺嫡": {
+    "canonical_id": "jiuzi-duodi",
+    "type": "event"
+  },
+  "军机处设立": {
+    "canonical_id": "junjichu-established",
+    "type": "event"
+  },
+  "和珅被抄家": {
+    "canonical_id": "heshen-corruption",
+    "type": "event"
+  },
+  "虎门销烟与鸦片战争": {
+    "canonical_id": "opium-war",
+    "type": "event"
+  },
+  "戊戌变法": {
+    "canonical_id": "wuxu-reform",
+    "type": "event"
+  },
+  "珍妃之死": {
+    "canonical_id": "zhenfei-death",
+    "type": "event"
+  },
+  "清帝退位": {
+    "canonical_id": "abdication",
+    "type": "event"
+  },
+  "溥仪被逐出宫": {
+    "canonical_id": "pu-yi-expelled",
+    "type": "event"
+  },
+  "编纂永乐大典": {
+    "canonical_id": "yongle-encyclopedia",
+    "type": "event"
+  },
+  "郑和下西洋": {
+    "canonical_id": "zhenghe-voyages",
+    "type": "event"
+  },
+  "编纂四库全书": {
+    "canonical_id": "qianlong-siku",
+    "type": "event"
+  },
+  "三大殿火灾(永乐)": {
+    "canonical_id": "taihe-dian-fire-1421",
+    "type": "event"
+  },
+  "三大殿火灾(嘉靖)": {
+    "canonical_id": "taihe-dian-fire-1557",
+    "type": "event"
+  },
+  "三大殿火灾(万历)": {
+    "canonical_id": "taihe-dian-fire-1597",
+    "type": "event"
+  },
+  "乾清宫火灾": {
+    "canonical_id": "qianqing-fire",
+    "type": "event"
+  },
+  "太和殿重建(康熙)": {
+    "canonical_id": "taihe-dian-rebuild-1695",
+    "type": "event"
+  },
+  "武英殿修书": {
+    "canonical_id": "wuyingdian-rebuild",
+    "type": "event"
+  },
+  "御花园修缮": {
+    "canonical_id": "yu-huayuan-build",
+    "type": "event"
+  },
+  "宁寿宫区修建": {
+    "canonical_id": "ning-shougong-build",
+    "type": "event"
+  },
+  "永乐帝登基": {
+    "canonical_id": "yongle-enthronement",
+    "type": "event"
+  },
+  "宣德帝登基": {
+    "canonical_id": "xuande-enthronement",
+    "type": "event"
+  },
+  "乾隆帝登基": {
+    "canonical_id": "qianlong-enthronement",
+    "type": "event"
+  },
+  "康熙帝登基": {
+    "canonical_id": "kangxi-enthronement",
+    "type": "event"
+  },
+  "顺治帝登基": {
+    "canonical_id": "shunzhi-enthronement",
+    "type": "event"
+  },
+  "康熙大婚": {
+    "canonical_id": "kangxi-wedding",
+    "type": "event"
+  },
+  "光绪大婚": {
+    "canonical_id": "guangxu-wedding",
+    "type": "event"
+  },
+  "同治大婚": {
+    "canonical_id": "tongzhi-wedding",
+    "type": "event"
+  },
+  "宣统大婚": {
+    "canonical_id": "xuantong-wedding",
+    "type": "event"
+  },
+  "元旦朝贺": {
+    "canonical_id": "new-year-ceremony",
+    "type": "event"
+  },
+  "万寿节庆典": {
+    "canonical_id": "wanshou-ceremony",
+    "type": "event"
+  },
+  "殿试": {
+    "canonical_id": "dianshi",
+    "type": "event"
+  },
+  "经筵讲学": {
+    "canonical_id": "jingyan",
+    "type": "event"
+  },
+  "夺门之变": {
+    "canonical_id": "duomen-zhi-bian",
+    "type": "event"
+  },
+  "壬寅宫变": {
+    "canonical_id": "renyin-gongbian",
+    "type": "event"
+  },
+  "三藩之乱": {
+    "canonical_id": "sanfan-rebellion",
+    "type": "event"
+  },
+  "林爽文起义": {
+    "canonical_id": "lin-shuangwen",
+    "type": "event"
+  },
+  "白莲教起义": {
+    "canonical_id": "baixianjiao",
+    "type": "event"
+  },
+  "太平天国运动": {
+    "canonical_id": "taiping-rebellion",
+    "type": "event"
+  },
+  "捻军起义": {
+    "canonical_id": "nian-rebellion",
+    "type": "event"
+  },
+  "第二次鸦片战争": {
+    "canonical_id": "second-opium-war",
+    "type": "event"
+  },
+  "火烧圆明园": {
+    "canonical_id": "yuanmingyuan-fire",
+    "type": "event"
+  },
+  "甲午战争": {
+    "canonical_id": "jiawu-war",
+    "type": "event"
+  },
+  "八国联军侵华": {
+    "canonical_id": "boxer-war",
+    "type": "event"
+  },
+  "戊戌政变": {
+    "canonical_id": "wuxu-coup",
+    "type": "event"
+  },
+  "辛亥革命": {
+    "canonical_id": "xinhai-revolution",
+    "type": "event"
+  },
+  "靖难起兵": {
+    "canonical_id": "jingnan-start",
+    "type": "event"
+  },
+  "朱元璋驾崩": {
+    "canonical_id": "hongwu-death",
+    "type": "event"
+  },
+  "永乐帝驾崩": {
+    "canonical_id": "yongle-death",
+    "type": "event"
+  },
+  "土木堡之变": {
+    "canonical_id": "tumu-crisis",
+    "type": "event"
+  },
+  "北京保卫战": {
+    "canonical_id": "beijing-defense",
+    "type": "event"
+  },
+  "洪熙仁政": {
+    "canonical_id": "hongxi-reforms",
+    "type": "event"
+  },
+  "仁宣之治": {
+    "canonical_id": "renxuan-zhizhi",
+    "type": "event"
+  },
+  "廷杖制度": {
+    "canonical_id": "tingzhang",
+    "type": "event"
+  },
+  "国子监": {
+    "canonical_id": "guozi-jian",
+    "type": "event"
+  },
+  "多尔衮去世": {
+    "canonical_id": "dorgon-death",
+    "type": "event"
+  },
+  "康熙南巡": {
+    "canonical_id": "kangxi-southern-tour",
+    "type": "event"
+  },
+  "乾隆南巡": {
+    "canonical_id": "qianlong-southern-tour",
+    "type": "event"
+  },
+  "和珅倒台": {
+    "canonical_id": "heshen-fall",
+    "type": "event"
+  },
+  "乾隆禅位": {
+    "canonical_id": "qianlong-abdication",
+    "type": "event"
+  },
+  "咸丰帝逃往热河": {
+    "canonical_id": "xianfeng-flee",
+    "type": "event"
+  },
+  "辛酉政变": {
+    "canonical_id": "xinyou-coup",
+    "type": "event"
+  },
+  "同治帝驾崩": {
+    "canonical_id": "tongzhi-death",
+    "type": "event"
+  },
+  "光绪帝驾崩": {
+    "canonical_id": "guangxu-death",
+    "type": "event"
+  },
+  "慈禧太后驾崩": {
+    "canonical_id": "cixi-death",
+    "type": "event"
+  },
+  "光绪被囚瀛台": {
+    "canonical_id": "guangxu-imprison",
+    "type": "event"
+  },
+  "签订马关条约": {
+    "canonical_id": "li-hongzhang-treaty",
+    "type": "event"
+  },
+  "签订辛丑条约": {
+    "canonical_id": "xinchou-treaty",
+    "type": "event"
+  },
+  "曹石之变": {
+    "canonical_id": "cao-shi-coup",
+    "type": "event"
+  },
+  "梃击案": {
+    "canonical_id": "tingji-case",
+    "type": "event"
+  },
+  "红丸案": {
+    "canonical_id": "hongwan-case",
+    "type": "event"
+  },
+  "西厂设立": {
+    "canonical_id": "xi-chang",
+    "type": "event"
+  },
+  "大小金川之役": {
+    "canonical_id": "jinchuan-campaign",
+    "type": "event"
+  },
+  "签订南京条约": {
+    "canonical_id": "taipai-treaty",
+    "type": "event"
+  },
+  "故宫博物院成立": {
+    "canonical_id": "gugong-becomes-museum",
+    "type": "event"
+  }
+}

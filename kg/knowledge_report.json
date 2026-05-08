@@ -1,0 +1,90 @@
+{
+  "timestamp": "2026-05-08T09:19:50.726292",
+  "entity_k": 2273.01,
+  "page_k": 34297.73,
+  "combined_k": 36570.74,
+  "entity_types": {
+    "emperor": {
+      "count": 26,
+      "total_k": 260.55,
+      "avg_k": 10.02
+    },
+    "palace": {
+      "count": 72,
+      "total_k": 642.38,
+      "avg_k": 8.92
+    },
+    "figure": {
+      "count": 221,
+      "total_k": 1370.08,
+      "avg_k": 6.2
+    }
+  },
+  "pages": {
+    "count": 401,
+    "total_k": 34297.73,
+    "avg_k": 85.53
+  },
+  "top_entities": [
+    {
+      "id": "yongle",
+      "name": "明成祖朱棣",
+      "type": "emperor",
+      "k": 10.24
+    },
+    {
+      "id": "kangxi",
+      "name": "清圣祖玄烨",
+      "type": "emperor",
+      "k": 10.24
+    },
+    {
+      "id": "qianlong",
+      "name": "清高宗弘历",
+      "type": "emperor",
+      "k": 10.23
+    },
+    {
+      "id": "yongzheng",
+      "name": "清世宗胤禛",
+      "type": "emperor",
+      "k": 10.13
+    },
+    {
+      "id": "jiajing",
+      "name": "明世宗朱厚熜",
+      "type": "emperor",
+      "k": 10.11
+    },
+    {
+      "id": "wanli",
+      "name": "明神宗朱翊钧",
+      "type": "emperor",
+      "k": 10.08
+    },
+    {
+      "id": "jiaqing",
+      "name": "颙琰",
+      "type": "emperor",
+      "k": 10.08
+    },
+    {
+      "id": "chongzhen",
+      "name": "明思宗朱由检",
+      "type": "emperor",
+      "k": 10.02
+    },
+    {
+      "id": "hongwu",
+      "name": "明太祖朱元璋",
+      "type": "emperor",
+      "k": 10.02
+    },
+    {
+      "id": "xuantong",
+      "name": "清逊帝溥仪",
+      "type": "emperor",
+      "k": 10.0
+    }
+  ]
+}

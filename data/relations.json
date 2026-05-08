@@ -1,109 +1,4527 @@
 {
   "relations": [
-    {"from": "yongle", "to": "taihe-dian", "type": "执政于", "period": "1420-1424", "note": "太和殿建成后在此举行大典"},
-    {"from": "yongle", "to": "qianqing-gong", "type": "执政于", "period": "1420-1424"},
-    {"from": "yongle", "to": "zheng-he", "type": "君臣", "note": "郑和下西洋"},
-    {"from": "yongle", "to": "gugong-construction", "type": "参与事件"},
-    {"from": "yongle", "to": "wancheng-dadian", "type": "参与事件"},
-    {"from": "yongle", "to": "zhenghe-voyages", "type": "参与事件"},
-    {"from": "yongle", "to": "jingnan-zhiyi", "type": "参与事件"},
-
-    {"from": "jiajing", "to": "qianqing-gong", "type": "居住于", "period": "1521-1566"},
-    {"from": "jiajing", "to": "yanxi-gong", "type": "执政于", "note": "后期在万寿宫修道"},
-    {"from": "jiajing", "to": "yansong", "type": "君臣", "note": "严嵩专权"},
-    {"from": "jiajing", "to": "hai-rui", "type": "君臣", "note": "海瑞上《治安疏》"},
-    {"from": "hai-rui", "to": "yansong", "type": "政敌", "note": "海瑞弹劾严嵩"},
-
-    {"from": "wanli", "to": "qianqing-gong", "type": "居住于", "period": "1572-1620"},
-    {"from": "wanli", "to": "zhangju-zheng", "type": "君臣", "note": "张居正辅政"},
-    {"from": "zhangju-zheng", "to": "wanli", "type": "辅佐"},
-    {"from": "zhangju-zheng", "to": "gao-gong", "type": "政敌", "note": "排挤高拱"},
-
-    {"from": "chongzhen", "to": "qianqing-gong", "type": "居住于", "period": "1627-1644"},
-    {"from": "chongzhen", "to": "wei-zhongxian", "type": "君臣", "note": "铲除魏忠贤"},
-    {"from": "chongzhen", "to": "chongzhen-death", "type": "参与事件"},
-    {"from": "eunuch-wang-cheng-en", "to": "chongzhen", "type": "君臣"},
-    {"from": "eunuch-wang-cheng-en", "to": "chongzhen-death", "type": "参与事件"},
-    {"from": "yang-lian", "to": "wei-zhongxian", "type": "政敌", "note": "弹劾魏忠贤二十四罪"},
-
-    {"from": "kangxi", "to": "qianqing-gong", "type": "居住于", "period": "1662-1722"},
-    {"from": "kangxi", "to": "yangxindian", "type": "执政于", "period": "1662-1722"},
-    {"from": "kangxi", "to": "yongzheng", "type": "父子"},
-    {"from": "kangxi", "to": "zhangtingyu", "type": "君臣"},
-    {"from": "kangxi", "to": "nalan-xingde", "type": "君臣"},
-    {"from": "kangxi", "to": "wu-sangui", "type": "君臣", "note": "三藩之乱"},
-    {"from": "kangxi", "to": "caoxueqin", "type": "君臣", "note": "曹家为江宁织造"},
-    {"from": "kangxi", "to": "jiuzi-duodi", "type": "参与事件"},
-    {"from": "yongzheng", "to": "jiuzi-duodi", "type": "参与事件"},
-
-    {"from": "yongzheng", "to": "yangxindian", "type": "居住于", "period": "1722-1735"},
-    {"from": "yongzheng", "to": "junji-chu", "type": "执政于"},
-    {"from": "yongzheng", "to": "yongzheng", "type": "父子", "note": "父子关系通过kangxi建立"},
-    {"from": "yongzheng", "to": "qianlong", "type": "父子"},
-    {"from": "yongzheng", "to": "zhangtingyu", "type": "君臣"},
-    {"from": "yongzheng", "to": "junjichu-established", "type": "参与事件"},
-    {"from": "zhangtingyu", "to": "yongzheng", "type": "辅佐"},
-    {"from": "zhangtingyu", "to": "junjichu-established", "type": "参与事件"},
-
-    {"from": "qianlong", "to": "yangxindian", "type": "居住于", "period": "1735-1795"},
-    {"from": "qianlong", "to": "he-shen", "type": "君臣", "note": "宠信和珅"},
-    {"from": "qianlong", "to": "jixiaolan", "type": "君臣", "note": "总纂四库全书"},
-    {"from": "qianlong", "to": "siku-quanshu", "type": "参与事件"},
-    {"from": "jixiaolan", "to": "qianlong", "type": "辅佐"},
-    {"from": "jixiaolan", "to": "he-shen", "type": "政敌", "note": "纪昀与和珅不和"},
-    {"from": "he-shen", "to": "qianlong", "type": "辅佐"},
-    {"from": "he-shen", "to": "heshen-corruption", "type": "参与事件"},
-    {"from": "qianlong", "to": "heshen-corruption", "type": "参与事件"},
-
-    {"from": "daoguang", "to": "yangxindian", "type": "居住于", "period": "1820-1850"},
-    {"from": "daoguang", "to": "lin-zexu", "type": "君臣"},
-    {"from": "lin-zexu", "to": "daoguang", "type": "辅佐"},
-    {"from": "lin-zexu", "to": "opium-war", "type": "参与事件"},
-    {"from": "daoguang", "to": "opium-war", "type": "参与事件"},
-    {"from": "daoguang", "to": "zuo-zongtang", "type": "君臣"},
-    {"from": "daoguang", "to": "zeng-guofan", "type": "君臣"},
-    {"from": "daoguang", "to": "li-hongzhang", "type": "君臣"},
-
-    {"from": "guangxu", "to": "yangxindian", "type": "居住于", "period": "1875-1908"},
-    {"from": "guangxu", "to": "longyu", "type": "夫妻"},
-    {"from": "guangxu", "to": "zhen-fei", "type": "夫妻", "note": "宠妃"},
-    {"from": "guangxu", "to": "kangyouwei", "type": "君臣"},
-    {"from": "guangxu", "to": "liangqichao", "type": "君臣"},
-    {"from": "guangxu", "to": "yuan-shikai", "type": "君臣"},
-    {"from": "guangxu", "to": "cixi", "type": "君臣", "note": "受慈禧控制"},
-    {"from": "guangxu", "to": "wuxu-bianfa", "type": "参与事件"},
-    {"from": "guangxu", "to": "abdication", "type": "参与事件"},
-    {"from": "kangyouwei", "to": "wuxu-bianfa", "type": "参与事件"},
-    {"from": "liangqichao", "to": "wuxu-bianfa", "type": "参与事件"},
-    {"from": "cixi", "to": "wuxu-bianfa", "type": "参与事件"},
-    {"from": "cixi", "to": "zhenfei-death", "type": "参与事件"},
-    {"from": "zhen-fei", "to": "zhenfei-death", "type": "参与事件"},
-    {"from": "cixi", "to": "guangxu", "type": "政敌", "note": "镇压戊戌变法"},
-
-    {"from": "xuantong", "to": "yangxindian", "type": "居住于", "period": "1908-1912"},
-    {"from": "xuantong", "to": "wanrong", "type": "夫妻"},
-    {"from": "xuantong", "to": "abdication", "type": "参与事件"},
-    {"from": "xuantong", "to": "pu-yi-expelled", "type": "参与事件"},
-    {"from": "longyu", "to": "abdication", "type": "参与事件"},
-    {"from": "yuan-shikai", "to": "abdication", "type": "参与事件"},
-    {"from": "yuan-shikai", "to": "pu-yi-expelled", "type": "参与事件"},
-
-    {"from": "cixi", "to": "yangxindian", "type": "执政于", "period": "1861-1908", "note": "垂帘听政"},
-    {"from": "cixi", "to": "chuxiu-gong", "type": "居住于", "note": "储秀宫为其重要居所"},
-    {"from": "cixi", "to": "eunuch-li-lianying", "type": "君臣", "note": "李莲英为其贴身太监"},
-    {"from": "cixi", "to": "ci-an", "type": "政敌", "note": "两宫争权"},
-    {"from": "cixi", "to": "zeng-guofan", "type": "君臣"},
-    {"from": "cixi", "to": "li-hongzhang", "type": "君臣"},
-    {"from": "cixi", "to": "zuo-zongtang", "type": "君臣"},
-
-    {"from": "ci-an", "to": "yangxindian", "type": "执政于", "period": "1861-1881", "note": "两宫垂帘"},
-    {"from": "dorgon", "to": "qing-enter-beijing", "type": "参与事件"},
-    {"from": "wu-sangui", "to": "qing-enter-beijing", "type": "参与事件"},
-    {"from": "wu-sangui", "to": "chongzhen", "type": "君臣", "note": "原为明臣后降清"},
-    {"from": "wu-sangui", "to": "kangxi", "type": "政敌", "note": "三藩之乱"},
-
-    {"from": "zeng-guofan", "to": "li-hongzhang", "type": "辅佐", "note": "李鸿章为曾国藩学生"},
-    {"from": "yuan-shikai", "to": "li-hongzhang", "type": "辅佐", "note": "李鸿章去世后袁接掌北洋"},
-    {"from": "sun-yatsen", "to": "abdication", "type": "参与事件", "note": "辛亥革命推动清帝退位"}
+    {
+      "from": "yongle",
+      "to": "taihe-dian",
+      "type": "执政于",
+      "period": "1420-1424",
+      "note": "太和殿建成后在此举行大典"
+    },
+    {
+      "from": "yongle",
+      "to": "qianqing-gong",
+      "type": "执政于",
+      "period": "1420-1424"
+    },
+    {
+      "from": "yongle",
+      "to": "zheng-he",
+      "type": "君臣",
+      "note": "郑和下西洋"
+    },
+    {
+      "from": "yongle",
+      "to": "gugong-construction",
+      "type": "参与事件"
+    },
+    {
+      "from": "yongle",
+      "to": "wancheng-dadian",
+      "type": "参与事件"
+    },
+    {
+      "from": "yongle",
+      "to": "zhenghe-voyages",
+      "type": "参与事件"
+    },
+    {
+      "from": "yongle",
+      "to": "jingnan-zhiyi",
+      "type": "参与事件"
+    },
+    {
+      "from": "jiajing",
+      "to": "qianqing-gong",
+      "type": "居住于",
+      "period": "1521-1566"
+    },
+    {
+      "from": "jiajing",
+      "to": "yanxi-gong",
+      "type": "执政于",
+      "note": "后期在万寿宫修道"
+    },
+    {
+      "from": "jiajing",
+      "to": "yansong",
+      "type": "君臣",
+      "note": "严嵩专权"
+    },
+    {
+      "from": "jiajing",
+      "to": "hai-rui",
+      "type": "君臣",
+      "note": "海瑞上《治安疏》"
+    },
+    {
+      "from": "hai-rui",
+      "to": "yansong",
+      "type": "政敌",
+      "note": "海瑞弹劾严嵩"
+    },
+    {
+      "from": "wanli",
+      "to": "qianqing-gong",
+      "type": "居住于",
+      "period": "1572-1620"
+    },
+    {
+      "from": "wanli",
+      "to": "zhangju-zheng",
+      "type": "君臣",
+      "note": "张居正辅政"
+    },
+    {
+      "from": "zhangju-zheng",
+      "to": "wanli",
+      "type": "辅佐"
+    },
+    {
+      "from": "zhangju-zheng",
+      "to": "gao-gong",
+      "type": "政敌",
+      "note": "排挤高拱"
+    },
+    {
+      "from": "chongzhen",
+      "to": "qianqing-gong",
+      "type": "居住于",
+      "period": "1627-1644"
+    },
+    {
+      "from": "chongzhen",
+      "to": "wei-zhongxian",
+      "type": "君臣",
+      "note": "铲除魏忠贤"
+    },
+    {
+      "from": "chongzhen",
+      "to": "chongzhen-death",
+      "type": "参与事件"
+    },
+    {
+      "from": "eunuch-wang-cheng-en",
+      "to": "chongzhen",
+      "type": "君臣"
+    },
+    {
+      "from": "eunuch-wang-cheng-en",
+      "to": "chongzhen-death",
+      "type": "参与事件"
+    },
+    {
+      "from": "yang-lian",
+      "to": "wei-zhongxian",
+      "type": "政敌",
+      "note": "弹劾魏忠贤二十四罪"
+    },
+    {
+      "from": "kangxi",
+      "to": "qianqing-gong",
+      "type": "居住于",
+      "period": "1662-1722"
+    },
+    {
+      "from": "kangxi",
+      "to": "yangxindian",
+      "type": "执政于",
+      "period": "1662-1722"
+    },
+    {
+      "from": "kangxi",
+      "to": "yongzheng",
+      "type": "父子"
+    },
+    {
+      "from": "kangxi",
+      "to": "zhangtingyu",
+      "type": "君臣"
+    },
+    {
+      "from": "kangxi",
+      "to": "nalan-xingde",
+      "type": "君臣"
+    },
+    {
+      "from": "kangxi",
+      "to": "wu-sangui",
+      "type": "君臣",
+      "note": "三藩之乱"
+    },
+    {
+      "from": "kangxi",
+      "to": "caoxueqin",
+      "type": "君臣",
+      "note": "曹家为江宁织造"
+    },
+    {
+      "from": "kangxi",
+      "to": "jiuzi-duodi",
+      "type": "参与事件"
+    },
+    {
+      "from": "yongzheng",
+      "to": "jiuzi-duodi",
+      "type": "参与事件"
+    },
+    {
+      "from": "yongzheng",
+      "to": "yangxindian",
+      "type": "居住于",
+      "period": "1722-1735"
+    },
+    {
+      "from": "yongzheng",
+      "to": "junji-chu",
+      "type": "执政于"
+    },
+    {
+      "from": "yongzheng",
+      "to": "yongzheng",
+      "type": "父子",
+      "note": "父子关系通过kangxi建立"
+    },
+    {
+      "from": "yongzheng",
+      "to": "qianlong",
+      "type": "父子"
+    },
+    {
+      "from": "yongzheng",
+      "to": "zhangtingyu",
+      "type": "君臣"
+    },
+    {
+      "from": "yongzheng",
+      "to": "junjichu-established",
+      "type": "参与事件"
+    },
+    {
+      "from": "zhangtingyu",
+      "to": "yongzheng",
+      "type": "辅佐"
+    },
+    {
+      "from": "zhangtingyu",
+      "to": "junjichu-established",
+      "type": "参与事件"
+    },
+    {
+      "from": "qianlong",
+      "to": "yangxindian",
+      "type": "居住于",
+      "period": "1735-1795"
+    },
+    {
+      "from": "qianlong",
+      "to": "he-shen",
+      "type": "君臣",
+      "note": "宠信和珅"
+    },
+    {
+      "from": "qianlong",
+      "to": "jixiaolan",
+      "type": "君臣",
+      "note": "总纂四库全书"
+    },
+    {
+      "from": "qianlong",
+      "to": "siku-quanshu",
+      "type": "参与事件"
+    },
+    {
+      "from": "jixiaolan",
+      "to": "qianlong",
+      "type": "辅佐"
+    },
+    {
+      "from": "jixiaolan",
+      "to": "he-shen",
+      "type": "政敌",
+      "note": "纪昀与和珅不和"
+    },
+    {
+      "from": "he-shen",
+      "to": "qianlong",
+      "type": "辅佐"
+    },
+    {
+      "from": "he-shen",
+      "to": "heshen-corruption",
+      "type": "参与事件"
+    },
+    {
+      "from": "qianlong",
+      "to": "heshen-corruption",
+      "type": "参与事件"
+    },
+    {
+      "from": "daoguang",
+      "to": "yangxindian",
+      "type": "居住于",
+      "period": "1820-1850"
+    },
+    {
+      "from": "daoguang",
+      "to": "lin-zexu",
+      "type": "君臣"
+    },
+    {
+      "from": "lin-zexu",
+      "to": "daoguang",
+      "type": "辅佐"
+    },
+    {
+      "from": "lin-zexu",
+      "to": "opium-war",
+      "type": "参与事件"
+    },
+    {
+      "from": "daoguang",
+      "to": "opium-war",
+      "type": "参与事件"
+    },
+    {
+      "from": "daoguang",
+      "to": "zuo-zongtang",
+      "type": "君臣"
+    },
+    {
+      "from": "daoguang",
+      "to": "zeng-guofan",
+      "type": "君臣"
+    },
+    {
+      "from": "daoguang",
+      "to": "li-hongzhang",
+      "type": "君臣"
+    },
+    {
+      "from": "guangxu",
+      "to": "yangxindian",
+      "type": "居住于",
+      "period": "1875-1908"
+    },
+    {
+      "from": "guangxu",
+      "to": "longyu",
+      "type": "夫妻"
+    },
+    {
+      "from": "guangxu",
+      "to": "zhen-fei",
+      "type": "夫妻",
+      "note": "宠妃"
+    },
+    {
+      "from": "guangxu",
+      "to": "kangyouwei",
+      "type": "君臣"
+    },
+    {
+      "from": "guangxu",
+      "to": "liangqichao",
+      "type": "君臣"
+    },
+    {
+      "from": "guangxu",
+      "to": "yuan-shikai",
+      "type": "君臣"
+    },
+    {
+      "from": "guangxu",
+      "to": "cixi",
+      "type": "君臣",
+      "note": "受慈禧控制"
+    },
+    {
+      "from": "guangxu",
+      "to": "wuxu-bianfa",
+      "type": "参与事件"
+    },
+    {
+      "from": "guangxu",
+      "to": "abdication",
+      "type": "参与事件"
+    },
+    {
+      "from": "kangyouwei",
+      "to": "wuxu-bianfa",
+      "type": "参与事件"
+    },
+    {
+      "from": "liangqichao",
+      "to": "wuxu-bianfa",
+      "type": "参与事件"
+    },
+    {
+      "from": "cixi",
+      "to": "wuxu-bianfa",
+      "type": "参与事件"
+    },
+    {
+      "from": "cixi",
+      "to": "zhenfei-death",
+      "type": "参与事件"
+    },
+    {
+      "from": "zhen-fei",
+      "to": "zhenfei-death",
+      "type": "参与事件"
+    },
+    {
+      "from": "cixi",
+      "to": "guangxu",
+      "type": "政敌",
+      "note": "镇压戊戌变法"
+    },
+    {
+      "from": "xuantong",
+      "to": "yangxindian",
+      "type": "居住于",
+      "period": "1908-1912"
+    },
+    {
+      "from": "xuantong",
+      "to": "wanrong",
+      "type": "夫妻"
+    },
+    {
+      "from": "xuantong",
+      "to": "abdication",
+      "type": "参与事件"
+    },
+    {
+      "from": "xuantong",
+      "to": "pu-yi-expelled",
+      "type": "参与事件"
+    },
+    {
+      "from": "longyu",
+      "to": "abdication",
+      "type": "参与事件"
+    },
+    {
+      "from": "yuan-shikai",
+      "to": "abdication",
+      "type": "参与事件"
+    },
+    {
+      "from": "yuan-shikai",
+      "to": "pu-yi-expelled",
+      "type": "参与事件"
+    },
+    {
+      "from": "cixi",
+      "to": "yangxindian",
+      "type": "执政于",
+      "period": "1861-1908",
+      "note": "垂帘听政"
+    },
+    {
+      "from": "cixi",
+      "to": "chuxiu-gong",
+      "type": "居住于",
+      "note": "储秀宫为其重要居所"
+    },
+    {
+      "from": "cixi",
+      "to": "eunuch-li-lianying",
+      "type": "君臣",
+      "note": "李莲英为其贴身太监"
+    },
+    {
+      "from": "cixi",
+      "to": "ci-an",
+      "type": "政敌",
+      "note": "两宫争权"
+    },
+    {
+      "from": "cixi",
+      "to": "zeng-guofan",
+      "type": "君臣"
+    },
+    {
+      "from": "cixi",
+      "to": "li-hongzhang",
+      "type": "君臣"
+    },
+    {
+      "from": "cixi",
+      "to": "zuo-zongtang",
+      "type": "君臣"
+    },
+    {
+      "from": "ci-an",
+      "to": "yangxindian",
+      "type": "执政于",
+      "period": "1861-1881",
+      "note": "两宫垂帘"
+    },
+    {
+      "from": "dorgon",
+      "to": "qing-enter-beijing",
+      "type": "参与事件"
+    },
+    {
+      "from": "wu-sangui",
+      "to": "qing-enter-beijing",
+      "type": "参与事件"
+    },
+    {
+      "from": "wu-sangui",
+      "to": "chongzhen",
+      "type": "君臣",
+      "note": "原为明臣后降清"
+    },
+    {
+      "from": "wu-sangui",
+      "to": "kangxi",
+      "type": "政敌",
+      "note": "三藩之乱"
+    },
+    {
+      "from": "zeng-guofan",
+      "to": "li-hongzhang",
+      "type": "辅佐",
+      "note": "李鸿章为曾国藩学生"
+    },
+    {
+      "from": "yuan-shikai",
+      "to": "li-hongzhang",
+      "type": "辅佐",
+      "note": "李鸿章去世后袁接掌北洋"
+    },
+    {
+      "from": "sun-yatsen",
+      "to": "abdication",
+      "type": "参与事件",
+      "note": "辛亥革命推动清帝退位"
+    },
+    {
+      "from": "hongwu",
+      "to": "jianwen",
+      "type": "祖父"
+    },
+    {
+      "from": "yongle",
+      "to": "hongxi",
+      "type": "父子"
+    },
+    {
+      "from": "hongxi",
+      "to": "xuande",
+      "type": "父子"
+    },
+    {
+      "from": "xuande",
+      "to": "zhengtong",
+      "type": "父子"
+    },
+    {
+      "from": "zhengtong",
+      "to": "chenghua",
+      "type": "父子"
+    },
+    {
+      "from": "chenghua",
+      "to": "hongzhi",
+      "type": "父子"
+    },
+    {
+      "from": "hongzhi",
+      "to": "zhengde",
+      "type": "父子"
+    },
+    {
+      "from": "jiajing",
+      "to": "longqing",
+      "type": "父子"
+    },
+    {
+      "from": "longqing",
+      "to": "wanli",
+      "type": "父子"
+    },
+    {
+      "from": "wanli",
+      "to": "taichang",
+      "type": "父子"
+    },
+    {
+      "from": "taichang",
+      "to": "tianqi",
+      "type": "父子"
+    },
+    {
+      "from": "taichang",
+      "to": "chongzhen",
+      "type": "父子"
+    },
+    {
+      "from": "huangtaiji",
+      "to": "shunzhi",
+      "type": "父子"
+    },
+    {
+      "from": "shunzhi",
+      "to": "kangxi",
+      "type": "父子"
+    },
+    {
+      "from": "jiaqing",
+      "to": "daoguang",
+      "type": "父子"
+    },
+    {
+      "from": "daoguang",
+      "to": "xianfeng",
+      "type": "父子"
+    },
+    {
+      "from": "xianfeng",
+      "to": "tongzhi",
+      "type": "父子"
+    },
+    {
+      "from": "daoguang",
+      "to": "xianfeng",
+      "type": "兄弟之子",
+      "note": "咸丰为道光之子，光绪为道光之孙"
+    },
+    {
+      "from": "hongxi",
+      "to": "taihe-dian",
+      "type": "执政于",
+      "period": "1424-1425"
+    },
+    {
+      "from": "xuande",
+      "to": "taihe-dian",
+      "type": "执政于",
+      "period": "1425-1435"
+    },
+    {
+      "from": "zhengtong",
+      "to": "qianqing-gong",
+      "type": "居住于",
+      "period": "1435-1449"
+    },
+    {
+      "from": "jingtai",
+      "to": "qianqing-gong",
+      "type": "居住于",
+      "period": "1449-1457"
+    },
+    {
+      "from": "chenghua",
+      "to": "qianqing-gong",
+      "type": "居住于",
+      "period": "1464-1487"
+    },
+    {
+      "from": "hongzhi",
+      "to": "qianqing-gong",
+      "type": "居住于",
+      "period": "1487-1505"
+    },
+    {
+      "from": "zhengde",
+      "to": "qianqing-gong",
+      "type": "居住于",
+      "period": "1505-1521"
+    },
+    {
+      "from": "longqing",
+      "to": "qianqing-gong",
+      "type": "居住于",
+      "period": "1567-1572"
+    },
+    {
+      "from": "taichang",
+      "to": "qianqing-gong",
+      "type": "居住于",
+      "period": "1620"
+    },
+    {
+      "from": "tianqi",
+      "to": "qianqing-gong",
+      "type": "居住于",
+      "period": "1620-1627"
+    },
+    {
+      "from": "shunzhi",
+      "to": "qianqing-gong",
+      "type": "居住于",
+      "period": "1644-1661"
+    },
+    {
+      "from": "jiaqing",
+      "to": "yangxindian",
+      "type": "居住于",
+      "period": "1796-1820"
+    },
+    {
+      "from": "xianfeng",
+      "to": "yangxindian",
+      "type": "居住于",
+      "period": "1850-1861"
+    },
+    {
+      "from": "tongzhi",
+      "to": "yangxindian",
+      "type": "居住于",
+      "period": "1861-1875"
+    },
+    {
+      "from": "hongwu",
+      "to": "ma-huanghou",
+      "type": "夫妻"
+    },
+    {
+      "from": "yongle",
+      "to": "xu-huanghou",
+      "type": "夫妻"
+    },
+    {
+      "from": "hongxi",
+      "to": "zhang-huanghou",
+      "type": "夫妻"
+    },
+    {
+      "from": "xuande",
+      "to": "sun-huanghou",
+      "type": "夫妻"
+    },
+    {
+      "from": "chenghua",
+      "to": "wan-guifei",
+      "type": "夫妻"
+    },
+    {
+      "from": "kangxi",
+      "to": "xiaochengren",
+      "type": "夫妻"
+    },
+    {
+      "from": "yongzheng",
+      "to": "xiaojingxian",
+      "type": "夫妻"
+    },
+    {
+      "from": "qianlong",
+      "to": "xiaoxianchun",
+      "type": "夫妻"
+    },
+    {
+      "from": "qianlong",
+      "to": "xiang-fei",
+      "type": "夫妻"
+    },
+    {
+      "from": "daoguang",
+      "to": "xiaoquanchun",
+      "type": "夫妻"
+    },
+    {
+      "from": "xianfeng",
+      "to": "cixi",
+      "type": "夫妻"
+    },
+    {
+      "from": "xianfeng",
+      "to": "ci-an",
+      "type": "夫妻"
+    },
+    {
+      "from": "tongzhi",
+      "to": "xiaozheyi",
+      "type": "夫妻",
+      "note": "孝哲毅皇后"
+    },
+    {
+      "from": "hongwu",
+      "to": "liu-ji",
+      "type": "君臣"
+    },
+    {
+      "from": "hongwu",
+      "to": "li-shanchang",
+      "type": "君臣"
+    },
+    {
+      "from": "hongwu",
+      "to": "xu-da",
+      "type": "君臣"
+    },
+    {
+      "from": "hongwu",
+      "to": "chang-yuchun",
+      "type": "君臣"
+    },
+    {
+      "from": "hongwu",
+      "to": "hu-weiyong",
+      "type": "君臣"
+    },
+    {
+      "from": "yongle",
+      "to": "yao-guangxiao",
+      "type": "君臣"
+    },
+    {
+      "from": "yongle",
+      "to": "xie-jin",
+      "type": "君臣"
+    },
+    {
+      "from": "xuande",
+      "to": "yang-shiqi",
+      "type": "君臣"
+    },
+    {
+      "from": "xuande",
+      "to": "yang-rong",
+      "type": "君臣"
+    },
+    {
+      "from": "xuande",
+      "to": "yang-pu",
+      "type": "君臣"
+    },
+    {
+      "from": "chenghua",
+      "to": "li-dongyang",
+      "type": "君臣"
+    },
+    {
+      "from": "jiajing",
+      "to": "xu-jie",
+      "type": "君臣"
+    },
+    {
+      "from": "jiajing",
+      "to": "yan-shifan",
+      "type": "君臣"
+    },
+    {
+      "from": "jiajing",
+      "to": "wang-yangming",
+      "type": "君臣"
+    },
+    {
+      "from": "zhengde",
+      "to": "eunuch-liu-jin",
+      "type": "君臣"
+    },
+    {
+      "from": "zhengtong",
+      "to": "eunuch-wang-zhen",
+      "type": "君臣"
+    },
+    {
+      "from": "tianqi",
+      "to": "eunuch-wei-zhongxian",
+      "type": "君臣"
+    },
+    {
+      "from": "kangxi",
+      "to": "aobai",
+      "type": "君臣"
+    },
+    {
+      "from": "kangxi",
+      "to": "mingju",
+      "type": "君臣"
+    },
+    {
+      "from": "kangxi",
+      "to": "li-guangdi",
+      "type": "君臣"
+    },
+    {
+      "from": "kangxi",
+      "to": "chen-tingjing",
+      "type": "君臣"
+    },
+    {
+      "from": "kangxi",
+      "to": "shi-lang",
+      "type": "君臣"
+    },
+    {
+      "from": "yongzheng",
+      "to": "nian-gengyao",
+      "type": "君臣"
+    },
+    {
+      "from": "yongzheng",
+      "to": "longkodo",
+      "type": "君臣"
+    },
+    {
+      "from": "yongzheng",
+      "to": "liu-tong-xun",
+      "type": "君臣"
+    },
+    {
+      "from": "yongzheng",
+      "to": "li-wei",
+      "type": "君臣"
+    },
+    {
+      "from": "yongzheng",
+      "to": "tian-wenqi",
+      "type": "君臣"
+    },
+    {
+      "from": "qianlong",
+      "to": "liu-yong",
+      "type": "君臣"
+    },
+    {
+      "from": "qianlong",
+      "to": "fu-kang-an",
+      "type": "君臣"
+    },
+    {
+      "from": "qianlong",
+      "to": "heshen-rival",
+      "type": "君臣"
+    },
+    {
+      "from": "jiaqing",
+      "to": "wang-jie",
+      "type": "君臣"
+    },
+    {
+      "from": "daoguang",
+      "to": "wei-yuan",
+      "type": "君臣"
+    },
+    {
+      "from": "daoguang",
+      "to": "guan-yue-qing",
+      "type": "君臣"
+    },
+    {
+      "from": "xianfeng",
+      "to": "se-leng-e",
+      "type": "君臣"
+    },
+    {
+      "from": "tongzhi",
+      "to": "gong-qinwang",
+      "type": "君臣"
+    },
+    {
+      "from": "tongzhi",
+      "to": "zeng-guoquan",
+      "type": "君臣"
+    },
+    {
+      "from": "guangxu",
+      "to": "tan-sitong",
+      "type": "君臣"
+    },
+    {
+      "from": "guangxu",
+      "to": "yan-fu",
+      "type": "君臣"
+    },
+    {
+      "from": "guangxu",
+      "to": "zhang-zhidong",
+      "type": "君臣"
+    },
+    {
+      "from": "guangxu",
+      "to": "rong-lu",
+      "type": "君臣"
+    },
+    {
+      "from": "guangxu",
+      "to": "gang-yi",
+      "type": "君臣"
+    },
+    {
+      "from": "guangxu",
+      "to": "zai-yi",
+      "type": "君臣"
+    },
+    {
+      "from": "xuantong",
+      "to": "zai-feng",
+      "type": "父子"
+    },
+    {
+      "from": "xuantong",
+      "to": "yuan-shikai",
+      "type": "君臣"
+    },
+    {
+      "from": "li-shanchang",
+      "to": "hu-weiyong",
+      "type": "政敌",
+      "note": "胡惟庸案牵连"
+    },
+    {
+      "from": "yang-shiqi",
+      "to": "eunuch-wang-zhen",
+      "type": "政敌",
+      "note": "三杨与王振不和"
+    },
+    {
+      "from": "xu-jie",
+      "to": "yan-shifan",
+      "type": "政敌",
+      "note": "徐阶弹劾严世蕃"
+    },
+    {
+      "from": "eunuch-liu-jin",
+      "to": "li-dongyang",
+      "type": "政敌"
+    },
+    {
+      "from": "donglin-1",
+      "to": "eunuch-wei-zhongxian",
+      "type": "政敌"
+    },
+    {
+      "from": "donglin-2",
+      "to": "eunuch-wei-zhongxian",
+      "type": "政敌"
+    },
+    {
+      "from": "mingju",
+      "to": "aobai",
+      "type": "政敌"
+    },
+    {
+      "from": "aobai",
+      "to": "kangxi",
+      "type": "政敌",
+      "note": "康熙智擒鳌拜"
+    },
+    {
+      "from": "heshen-rival",
+      "to": "he-shen",
+      "type": "政敌"
+    },
+    {
+      "from": "cixi",
+      "to": "gong-qinwang",
+      "type": "政敌",
+      "note": "权力斗争"
+    },
+    {
+      "from": "gang-yi",
+      "to": "zhang-zhidong",
+      "type": "政敌",
+      "note": "保守派与洋务派对立"
+    },
+    {
+      "from": "zai-yi",
+      "to": "gong-qinwang",
+      "type": "政敌"
+    },
+    {
+      "from": "rong-lu",
+      "to": "kangyouwei",
+      "type": "政敌"
+    },
+    {
+      "from": "yao-guangxiao",
+      "to": "jingnan-zhiyi",
+      "type": "参与事件"
+    },
+    {
+      "from": "yongle",
+      "to": "jingnan-start",
+      "type": "参与事件"
+    },
+    {
+      "from": "xu-da",
+      "to": "nanjing-conquest",
+      "type": "参与事件"
+    },
+    {
+      "from": "yu-qian",
+      "to": "tumu-crisis",
+      "type": "参与事件"
+    },
+    {
+      "from": "yu-qian",
+      "to": "beijing-defense",
+      "type": "参与事件"
+    },
+    {
+      "from": "eunuch-wang-zhen",
+      "to": "tumu-crisis",
+      "type": "参与事件"
+    },
+    {
+      "from": "zhengtong",
+      "to": "tumu-crisis",
+      "type": "参与事件"
+    },
+    {
+      "from": "jingtai",
+      "to": "beijing-defense",
+      "type": "参与事件"
+    },
+    {
+      "from": "wu-sangui",
+      "to": "wu-sangu-rebellion",
+      "type": "参与事件"
+    },
+    {
+      "from": "kangxi",
+      "to": "wu-sangu-rebellion",
+      "type": "参与事件"
+    },
+    {
+      "from": "fu-kang-an",
+      "to": "lin-shuangwen",
+      "type": "参与事件"
+    },
+    {
+      "from": "zeng-guofan",
+      "to": "taiping-rebellion",
+      "type": "参与事件"
+    },
+    {
+      "from": "zeng-guoquan",
+      "to": "taiping-rebellion",
+      "type": "参与事件"
+    },
+    {
+      "from": "li-hongzhang",
+      "to": "jiawu-war",
+      "type": "参与事件"
+    },
+    {
+      "from": "ding-ruchang",
+      "to": "jiawu-war",
+      "type": "参与事件"
+    },
+    {
+      "from": "deng-shichang",
+      "to": "jiawu-war",
+      "type": "参与事件"
+    },
+    {
+      "from": "cixi",
+      "to": "boxer-war",
+      "type": "参与事件"
+    },
+    {
+      "from": "guangxu",
+      "to": "boxer-war",
+      "type": "参与事件"
+    },
+    {
+      "from": "cixi",
+      "to": "wuxu-coup",
+      "type": "参与事件"
+    },
+    {
+      "from": "rong-lu",
+      "to": "wuxu-coup",
+      "type": "参与事件"
+    },
+    {
+      "from": "cixi",
+      "to": "xinyou-coup",
+      "type": "参与事件"
+    },
+    {
+      "from": "gong-qinwang",
+      "to": "xinyou-coup",
+      "type": "参与事件"
+    },
+    {
+      "from": "sun-yatsen",
+      "to": "xinhai-revolution",
+      "type": "参与事件"
+    },
+    {
+      "from": "yuan-shikai",
+      "to": "xinhai-revolution",
+      "type": "参与事件"
+    },
+    {
+      "from": "shi-lang",
+      "to": "taiwan-conquest",
+      "type": "参与事件"
+    },
+    {
+      "from": "kangxi",
+      "to": "kangxi-southern-tour",
+      "type": "参与事件"
+    },
+    {
+      "from": "qianlong",
+      "to": "qianlong-southern-tour",
+      "type": "参与事件"
+    },
+    {
+      "from": "qianlong",
+      "to": "qianlong-abdication",
+      "type": "参与事件"
+    },
+    {
+      "from": "jiaqing",
+      "to": "heshen-fall",
+      "type": "参与事件"
+    },
+    {
+      "from": "wei-yuan",
+      "to": "opium-war",
+      "type": "参与事件"
+    },
+    {
+      "from": "guan-yue-qing",
+      "to": "opium-war",
+      "type": "参与事件"
+    },
+    {
+      "from": "li-hongzhang",
+      "to": "li-hongzhang-treaty",
+      "type": "参与事件"
+    },
+    {
+      "from": "li-hongzhang",
+      "to": "xinchou-treaty",
+      "type": "参与事件"
+    },
+    {
+      "from": "tan-sitong",
+      "to": "wuxu-bianfa",
+      "type": "参与事件"
+    },
+    {
+      "from": "yan-fu",
+      "to": "wuxu-bianfa",
+      "type": "参与事件"
+    },
+    {
+      "from": "zhang-zhidong",
+      "to": "taiping-rebellion",
+      "type": "参与事件"
+    },
+    {
+      "from": "qi-jiguang",
+      "to": "anti-wokou",
+      "type": "参与事件"
+    },
+    {
+      "from": "yu-dayou",
+      "to": "anti-wokou",
+      "type": "参与事件"
+    },
+    {
+      "from": "yuan-chonghuan",
+      "to": "ningyuan-battle",
+      "type": "参与事件"
+    },
+    {
+      "from": "shi-kefa",
+      "to": "yangzhou-defense",
+      "type": "参与事件"
+    },
+    {
+      "from": "zheng-chenggong",
+      "to": "taiwan-recovery",
+      "type": "参与事件"
+    },
+    {
+      "from": "wang-yangming",
+      "to": "ningwang-rebellion",
+      "type": "参与事件"
+    },
+    {
+      "from": "fang-xiaoru",
+      "to": "jingnan-zhiyi",
+      "type": "参与事件"
+    },
+    {
+      "from": "jianwen",
+      "to": "jingnan-zhiyi",
+      "type": "参与事件"
+    },
+    {
+      "from": "zhangju-zheng",
+      "to": "wenhua-dian",
+      "type": "执政于",
+      "note": "内阁办公"
+    },
+    {
+      "from": "yansong",
+      "to": "wenhua-dian",
+      "type": "执政于"
+    },
+    {
+      "from": "hai-rui",
+      "to": "qianqing-gong",
+      "type": "发生于",
+      "note": "上治安疏"
+    },
+    {
+      "from": "cixi",
+      "to": "cining-gong",
+      "type": "居住于"
+    },
+    {
+      "from": "cixi",
+      "to": "le-shoutang",
+      "type": "居住于"
+    },
+    {
+      "from": "xiaozhuang",
+      "to": "cining-gong",
+      "type": "居住于"
+    },
+    {
+      "from": "kuai-xiang",
+      "to": "taihe-dian",
+      "type": "主持修建"
+    },
+    {
+      "from": "lei-fada",
+      "to": "taihe-dian",
+      "type": "主持修建"
+    },
+    {
+      "from": "lei-jinxi",
+      "to": "yu-huayuan",
+      "type": "主持修建"
+    },
+    {
+      "from": "lei-jiayu",
+      "to": "ningshou-huayuan",
+      "type": "主持修建"
+    },
+    {
+      "from": "wanrong",
+      "to": "chuxiu-gong",
+      "type": "居住于",
+      "note": "大婚后居所"
+    },
+    {
+      "from": "zhen-fei",
+      "to": "jingren-gong",
+      "type": "居住于"
+    },
+    {
+      "from": "xiang-fei",
+      "to": "yongshou-gong",
+      "type": "居住于"
+    },
+    {
+      "from": "kuai-xiang",
+      "to": "gugong-construction",
+      "type": "参与事件"
+    },
+    {
+      "from": "lei-fada",
+      "to": "taihe-dian-rebuild-1695",
+      "type": "参与事件"
+    },
+    {
+      "from": "duomen-zhi-bian",
+      "to": "wu-men",
+      "type": "发生于"
+    },
+    {
+      "from": "duomen-zhi-bian",
+      "to": "qianqing-gong",
+      "type": "发生于"
+    },
+    {
+      "from": "renyin-gongbian",
+      "to": "kunning-gong",
+      "type": "发生于"
+    },
+    {
+      "from": "tumu-crisis",
+      "to": "tumen",
+      "type": "发生于",
+      "note": "土木堡位于长城外"
+    },
+    {
+      "from": "beijing-defense",
+      "to": "wu-men",
+      "type": "发生于"
+    },
+    {
+      "from": "beijing-defense",
+      "to": "de-sheng-men",
+      "type": "发生于"
+    },
+    {
+      "from": "taihe-dian-fire-1421",
+      "to": "taihe-dian",
+      "type": "发生于"
+    },
+    {
+      "from": "taihe-dian-fire-1557",
+      "to": "taihe-dian",
+      "type": "发生于"
+    },
+    {
+      "from": "taihe-dian-fire-1597",
+      "to": "taihe-dian",
+      "type": "发生于"
+    },
+    {
+      "from": "qianqing-fire",
+      "to": "qianqing-gong",
+      "type": "发生于"
+    },
+    {
+      "from": "abdication",
+      "to": "yangxindian",
+      "type": "发生于"
+    },
+    {
+      "from": "junjichu-established",
+      "to": "junji-chu",
+      "type": "发生于"
+    },
+    {
+      "from": "heshen-corruption",
+      "to": "yangxindian",
+      "type": "发生于"
+    },
+    {
+      "from": "wuxu-bianfa",
+      "to": "taihe-dian",
+      "type": "发生于"
+    },
+    {
+      "from": "wuxu-bianfa",
+      "to": "yangxindian",
+      "type": "发生于"
+    },
+    {
+      "from": "zhenfei-death",
+      "to": "ningshou-huayuan",
+      "type": "发生于",
+      "note": "珍妃井"
+    },
+    {
+      "from": "chongzhen-death",
+      "to": "shenwu-men",
+      "type": "发生于",
+      "note": "煤山位于神武门外"
+    },
+    {
+      "from": "wuxu-coup",
+      "to": "zhongnanhai",
+      "type": "发生于"
+    },
+    {
+      "from": "xinyou-coup",
+      "to": "yangxindian",
+      "type": "发生于"
+    },
+    {
+      "from": "jiuzi-duodi",
+      "to": "qianqing-gong",
+      "type": "发生于"
+    },
+    {
+      "from": "kangxi-enthronement",
+      "to": "taihe-dian",
+      "type": "发生于"
+    },
+    {
+      "from": "qianlong-enthronement",
+      "to": "taihe-dian",
+      "type": "发生于"
+    },
+    {
+      "from": "kangxi-wedding",
+      "to": "kunning-gong",
+      "type": "发生于"
+    },
+    {
+      "from": "guangxu-wedding",
+      "to": "kunning-gong",
+      "type": "发生于"
+    },
+    {
+      "from": "tongzhi-wedding",
+      "to": "kunning-gong",
+      "type": "发生于"
+    },
+    {
+      "from": "dianshi",
+      "to": "baohe-dian",
+      "type": "发生于"
+    },
+    {
+      "from": "jingyan",
+      "to": "wenhua-dian",
+      "type": "发生于"
+    },
+    {
+      "from": "new-year-ceremony",
+      "to": "taihe-dian",
+      "type": "发生于"
+    },
+    {
+      "from": "wanshou-ceremony",
+      "to": "taihe-dian",
+      "type": "发生于"
+    },
+    {
+      "from": "jingnan-zhiyi",
+      "to": "yongle",
+      "type": "导致"
+    },
+    {
+      "from": "tumu-crisis",
+      "to": "beijing-defense",
+      "type": "导致"
+    },
+    {
+      "from": "tumu-crisis",
+      "to": "duomen-zhi-bian",
+      "type": "间接导致"
+    },
+    {
+      "from": "jingnan-zhiyi",
+      "to": "fang-xiaoru",
+      "type": "导致"
+    },
+    {
+      "from": "wuxu-bianfa",
+      "to": "wuxu-coup",
+      "type": "导致"
+    },
+    {
+      "from": "wuxu-bianfa",
+      "to": "guangxu-imprison",
+      "type": "导致"
+    },
+    {
+      "from": "boxer-war",
+      "to": "xinchou-treaty",
+      "type": "导致"
+    },
+    {
+      "from": "jiawu-war",
+      "to": "li-hongzhang-treaty",
+      "type": "导致"
+    },
+    {
+      "from": "second-opium-war",
+      "to": "yuanmingyuan-fire",
+      "type": "导致"
+    },
+    {
+      "from": "xinhai-revolution",
+      "to": "abdication",
+      "type": "导致"
+    },
+    {
+      "from": "opium-war",
+      "to": "second-opium-war",
+      "type": "间接导致"
+    },
+    {
+      "from": "xianfeng-flee",
+      "to": "xinyou-coup",
+      "type": "导致"
+    },
+    {
+      "from": "gugong-construction",
+      "to": "taihe-dian-fire-1421",
+      "type": "时间顺序"
+    },
+    {
+      "from": "yang-shiqi",
+      "to": "yang-rong",
+      "type": "同时代"
+    },
+    {
+      "from": "yang-shiqi",
+      "to": "yang-pu",
+      "type": "同时代"
+    },
+    {
+      "from": "yang-rong",
+      "to": "yang-pu",
+      "type": "同时代"
+    },
+    {
+      "from": "zhangju-zheng",
+      "to": "hai-rui",
+      "type": "同时代"
+    },
+    {
+      "from": "zhangju-zheng",
+      "to": "qi-jiguang",
+      "type": "同时代"
+    },
+    {
+      "from": "qi-jiguang",
+      "to": "yu-dayou",
+      "type": "同时代"
+    },
+    {
+      "from": "zhangju-zheng",
+      "to": "wanli",
+      "type": "同时代"
+    },
+    {
+      "from": "zeng-guofan",
+      "to": "li-hongzhang",
+      "type": "同时代"
+    },
+    {
+      "from": "zeng-guofan",
+      "to": "zuo-zongtang",
+      "type": "同时代"
+    },
+    {
+      "from": "li-hongzhang",
+      "to": "zhang-zhidong",
+      "type": "同时代"
+    },
+    {
+      "from": "kangyouwei",
+      "to": "liangqichao",
+      "type": "同时代"
+    },
+    {
+      "from": "kangyouwei",
+      "to": "tan-sitong",
+      "type": "同时代"
+    },
+    {
+      "from": "cixi",
+      "to": "zeng-guofan",
+      "type": "同时代"
+    },
+    {
+      "from": "cixi",
+      "to": "li-hongzhang",
+      "type": "同时代"
+    },
+    {
+      "from": "cixi",
+      "to": "zhang-zhidong",
+      "type": "同时代"
+    },
+    {
+      "from": "yuan-shikai",
+      "to": "sun-yatsen",
+      "type": "同时代"
+    },
+    {
+      "from": "he-shen",
+      "to": "jixiaolan",
+      "type": "同时代"
+    },
+    {
+      "from": "he-shen",
+      "to": "liu-yong",
+      "type": "同时代"
+    },
+    {
+      "from": "qianlong",
+      "to": "he-shen",
+      "type": "同时代"
+    },
+    {
+      "from": "qianlong",
+      "to": "jixiaolan",
+      "type": "同时代"
+    },
+    {
+      "from": "qianlong",
+      "to": "fu-kang-an",
+      "type": "同时代"
+    },
+    {
+      "from": "kangxi",
+      "to": "nalan-xingde",
+      "type": "同时代"
+    },
+    {
+      "from": "kangxi",
+      "to": "caoxueqin",
+      "type": "时间重叠",
+      "note": "曹家在康熙朝兴盛"
+    },
+    {
+      "from": "jiajing",
+      "to": "zhangju-zheng",
+      "type": "君臣",
+      "period": "明",
+      "note": "张居正服务于嘉靖帝"
+    },
+    {
+      "from": "longqing",
+      "to": "zhangju-zheng",
+      "type": "君臣",
+      "period": "明",
+      "note": "张居正服务于隆庆帝"
+    },
+    {
+      "from": "longqing",
+      "to": "hai-rui",
+      "type": "君臣",
+      "period": "明",
+      "note": "海瑞服务于隆庆帝"
+    },
+    {
+      "from": "wanli",
+      "to": "hai-rui",
+      "type": "君臣",
+      "period": "明",
+      "note": "海瑞服务于万历帝"
+    },
+    {
+      "from": "taichang",
+      "to": "wei-zhongxian",
+      "type": "君臣",
+      "period": "明",
+      "note": "魏忠贤服务于泰昌帝"
+    },
+    {
+      "from": "zhengtong",
+      "to": "yu-qian",
+      "type": "君臣",
+      "period": "明",
+      "note": "于谦服务于正统帝"
+    },
+    {
+      "from": "jingtai",
+      "to": "yu-qian",
+      "type": "君臣",
+      "period": "明",
+      "note": "于谦服务于景泰帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "zhangtingyu",
+      "type": "君臣",
+      "period": "清",
+      "note": "张廷玉服务于乾隆帝"
+    },
+    {
+      "from": "jiaqing",
+      "to": "jixiaolan",
+      "type": "君臣",
+      "period": "清",
+      "note": "纪昀（纪晓岚）服务于嘉庆帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "zuo-zongtang",
+      "type": "君臣",
+      "period": "清",
+      "note": "左宗棠服务于咸丰帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "zuo-zongtang",
+      "type": "君臣",
+      "period": "清",
+      "note": "左宗棠服务于同治帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "zuo-zongtang",
+      "type": "君臣",
+      "period": "清",
+      "note": "左宗棠服务于光绪帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "li-hongzhang",
+      "type": "君臣",
+      "period": "清",
+      "note": "李鸿章服务于咸丰帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "li-hongzhang",
+      "type": "君臣",
+      "period": "清",
+      "note": "李鸿章服务于同治帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "li-hongzhang",
+      "type": "君臣",
+      "period": "清",
+      "note": "李鸿章服务于光绪帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "cixi",
+      "type": "君臣",
+      "period": "清",
+      "note": "慈禧太后服务于咸丰帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "cixi",
+      "type": "君臣",
+      "period": "清",
+      "note": "慈禧太后服务于同治帝"
+    },
+    {
+      "from": "xuantong",
+      "to": "cixi",
+      "type": "君臣",
+      "period": "清",
+      "note": "慈禧太后服务于宣统帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "longyu",
+      "type": "君臣",
+      "period": "清",
+      "note": "隆裕太后服务于光绪帝"
+    },
+    {
+      "from": "xuantong",
+      "to": "longyu",
+      "type": "君臣",
+      "period": "清",
+      "note": "隆裕太后服务于宣统帝"
+    },
+    {
+      "from": "xuantong",
+      "to": "wanrong",
+      "type": "君臣",
+      "period": "清",
+      "note": "婉容服务于宣统帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "zhen-fei",
+      "type": "君臣",
+      "period": "清",
+      "note": "珍妃服务于光绪帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "ci-an",
+      "type": "君臣",
+      "period": "清",
+      "note": "慈安太后服务于咸丰帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "ci-an",
+      "type": "君臣",
+      "period": "清",
+      "note": "慈安太后服务于同治帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "ci-an",
+      "type": "君臣",
+      "period": "清",
+      "note": "慈安太后服务于光绪帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "eunuch-li-lianying",
+      "type": "君臣",
+      "period": "清",
+      "note": "李莲英服务于咸丰帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "eunuch-li-lianying",
+      "type": "君臣",
+      "period": "清",
+      "note": "李莲英服务于同治帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "eunuch-li-lianying",
+      "type": "君臣",
+      "period": "清",
+      "note": "李莲英服务于光绪帝"
+    },
+    {
+      "from": "xuantong",
+      "to": "eunuch-li-lianying",
+      "type": "君臣",
+      "period": "清",
+      "note": "李莲英服务于宣统帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "wu-sangui",
+      "type": "君臣",
+      "period": "明清",
+      "note": "吴三桂服务于崇祯帝"
+    },
+    {
+      "from": "yongzheng",
+      "to": "caoxueqin",
+      "type": "君臣",
+      "period": "清",
+      "note": "曹雪芹服务于雍正帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "caoxueqin",
+      "type": "君臣",
+      "period": "清",
+      "note": "曹雪芹服务于乾隆帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "zeng-guofan",
+      "type": "君臣",
+      "period": "清",
+      "note": "曾国藩服务于咸丰帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "zeng-guofan",
+      "type": "君臣",
+      "period": "清",
+      "note": "曾国藩服务于同治帝"
+    },
+    {
+      "from": "shunzhi",
+      "to": "dorgon",
+      "type": "君臣",
+      "period": "清",
+      "note": "多尔衮服务于顺治帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "eunuch-wang-cheng-en",
+      "type": "君臣",
+      "period": "明",
+      "note": "王承恩服务于崇祯帝"
+    },
+    {
+      "from": "jiajing",
+      "to": "zhangju-zheng-rival",
+      "type": "君臣",
+      "period": "明",
+      "note": "高拱服务于嘉靖帝"
+    },
+    {
+      "from": "longqing",
+      "to": "zhangju-zheng-rival",
+      "type": "君臣",
+      "period": "明",
+      "note": "高拱服务于隆庆帝"
+    },
+    {
+      "from": "wanli",
+      "to": "zhangju-zheng-rival",
+      "type": "君臣",
+      "period": "明",
+      "note": "高拱服务于万历帝"
+    },
+    {
+      "from": "wanli",
+      "to": "eunuch-wei-zhongxian-rival",
+      "type": "君臣",
+      "period": "明",
+      "note": "杨涟服务于万历帝"
+    },
+    {
+      "from": "taichang",
+      "to": "eunuch-wei-zhongxian-rival",
+      "type": "君臣",
+      "period": "明",
+      "note": "杨涟服务于泰昌帝"
+    },
+    {
+      "from": "tianqi",
+      "to": "eunuch-wei-zhongxian-rival",
+      "type": "君臣",
+      "period": "明",
+      "note": "杨涟服务于天启帝"
+    },
+    {
+      "from": "yongle",
+      "to": "yang-shiqi",
+      "type": "君臣",
+      "period": "明",
+      "note": "杨士奇服务于永乐帝"
+    },
+    {
+      "from": "hongxi",
+      "to": "yang-shiqi",
+      "type": "君臣",
+      "period": "明",
+      "note": "杨士奇服务于洪熙帝"
+    },
+    {
+      "from": "zhengtong",
+      "to": "yang-shiqi",
+      "type": "君臣",
+      "period": "明",
+      "note": "杨士奇服务于正统帝"
+    },
+    {
+      "from": "yongle",
+      "to": "yang-rong",
+      "type": "君臣",
+      "period": "明",
+      "note": "杨荣服务于永乐帝"
+    },
+    {
+      "from": "hongxi",
+      "to": "yang-rong",
+      "type": "君臣",
+      "period": "明",
+      "note": "杨荣服务于洪熙帝"
+    },
+    {
+      "from": "zhengtong",
+      "to": "yang-rong",
+      "type": "君臣",
+      "period": "明",
+      "note": "杨荣服务于正统帝"
+    },
+    {
+      "from": "yongle",
+      "to": "yang-pu",
+      "type": "君臣",
+      "period": "明",
+      "note": "杨溥服务于永乐帝"
+    },
+    {
+      "from": "hongxi",
+      "to": "yang-pu",
+      "type": "君臣",
+      "period": "明",
+      "note": "杨溥服务于洪熙帝"
+    },
+    {
+      "from": "zhengtong",
+      "to": "yang-pu",
+      "type": "君臣",
+      "period": "明",
+      "note": "杨溥服务于正统帝"
+    },
+    {
+      "from": "hongzhi",
+      "to": "li-dongyang",
+      "type": "君臣",
+      "period": "明",
+      "note": "李东阳服务于弘治帝"
+    },
+    {
+      "from": "zhengde",
+      "to": "li-dongyang",
+      "type": "君臣",
+      "period": "明",
+      "note": "李东阳服务于正德帝"
+    },
+    {
+      "from": "zhengtong",
+      "to": "shang-lu",
+      "type": "君臣",
+      "period": "明",
+      "note": "商辂服务于正统帝"
+    },
+    {
+      "from": "jingtai",
+      "to": "shang-lu",
+      "type": "君臣",
+      "period": "明",
+      "note": "商辂服务于景泰帝"
+    },
+    {
+      "from": "chenghua",
+      "to": "shang-lu",
+      "type": "君臣",
+      "period": "明",
+      "note": "商辂服务于成化帝"
+    },
+    {
+      "from": "longqing",
+      "to": "xu-jie",
+      "type": "君臣",
+      "period": "明",
+      "note": "徐阶服务于隆庆帝"
+    },
+    {
+      "from": "jiajing",
+      "to": "qi-jiguang",
+      "type": "君臣",
+      "period": "明",
+      "note": "戚继光服务于嘉靖帝"
+    },
+    {
+      "from": "longqing",
+      "to": "qi-jiguang",
+      "type": "君臣",
+      "period": "明",
+      "note": "戚继光服务于隆庆帝"
+    },
+    {
+      "from": "wanli",
+      "to": "qi-jiguang",
+      "type": "君臣",
+      "period": "明",
+      "note": "戚继光服务于万历帝"
+    },
+    {
+      "from": "wanli",
+      "to": "li-rusong",
+      "type": "君臣",
+      "period": "明",
+      "note": "李如松服务于万历帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "shi-kefa",
+      "type": "君臣",
+      "period": "明",
+      "note": "史可法服务于崇祯帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "zheng-chenggong",
+      "type": "君臣",
+      "period": "明",
+      "note": "郑成功服务于崇祯帝"
+    },
+    {
+      "from": "jiajing",
+      "to": "yu-dayou",
+      "type": "君臣",
+      "period": "明",
+      "note": "俞大猷服务于嘉靖帝"
+    },
+    {
+      "from": "tianqi",
+      "to": "yuan-chonghuan",
+      "type": "君臣",
+      "period": "明",
+      "note": "袁崇焕服务于天启帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "yuan-chonghuan",
+      "type": "君臣",
+      "period": "明",
+      "note": "袁崇焕服务于崇祯帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "sun-chuanting",
+      "type": "君臣",
+      "period": "明",
+      "note": "孙传庭服务于崇祯帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "lu-xiangsheng",
+      "type": "君臣",
+      "period": "明",
+      "note": "卢象升服务于崇祯帝"
+    },
+    {
+      "from": "chenghua",
+      "to": "eunuch-wang-zhi",
+      "type": "君臣",
+      "period": "明",
+      "note": "汪直服务于成化帝"
+    },
+    {
+      "from": "longqing",
+      "to": "eunuch-feng-bao",
+      "type": "君臣",
+      "period": "明",
+      "note": "冯保服务于隆庆帝"
+    },
+    {
+      "from": "wanli",
+      "to": "eunuch-feng-bao",
+      "type": "君臣",
+      "period": "明",
+      "note": "冯保服务于万历帝"
+    },
+    {
+      "from": "hongwu",
+      "to": "ma-huanghou",
+      "type": "君臣",
+      "period": "明",
+      "note": "马皇后服务于洪武帝"
+    },
+    {
+      "from": "yongle",
+      "to": "xu-huanghou",
+      "type": "君臣",
+      "period": "明",
+      "note": "徐皇后服务于永乐帝"
+    },
+    {
+      "from": "yongle",
+      "to": "zhang-huanghou",
+      "type": "君臣",
+      "period": "明",
+      "note": "张皇后服务于永乐帝"
+    },
+    {
+      "from": "hongxi",
+      "to": "zhang-huanghou",
+      "type": "君臣",
+      "period": "明",
+      "note": "张皇后服务于洪熙帝"
+    },
+    {
+      "from": "xuande",
+      "to": "zhang-huanghou",
+      "type": "君臣",
+      "period": "明",
+      "note": "张皇后服务于宣德帝"
+    },
+    {
+      "from": "xuande",
+      "to": "sun-huanghou",
+      "type": "君臣",
+      "period": "明",
+      "note": "孙皇后服务于宣德帝"
+    },
+    {
+      "from": "zhengtong",
+      "to": "sun-huanghou",
+      "type": "君臣",
+      "period": "明",
+      "note": "孙皇后服务于正统帝"
+    },
+    {
+      "from": "chenghua",
+      "to": "wan-guifei",
+      "type": "君臣",
+      "period": "明",
+      "note": "万贵妃服务于成化帝"
+    },
+    {
+      "from": "shunzhi",
+      "to": "xiaozhuang",
+      "type": "君臣",
+      "period": "清",
+      "note": "孝庄太后服务于顺治帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "xiaozhuang",
+      "type": "君臣",
+      "period": "清",
+      "note": "孝庄太后服务于康熙帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "xiang-fei",
+      "type": "君臣",
+      "period": "清",
+      "note": "香妃服务于乾隆帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "xiaoxianchun",
+      "type": "君臣",
+      "period": "清",
+      "note": "孝贤纯皇后服务于乾隆帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "xiaochengren",
+      "type": "君臣",
+      "period": "清",
+      "note": "孝诚仁皇后服务于康熙帝"
+    },
+    {
+      "from": "yongzheng",
+      "to": "xiaojingxian",
+      "type": "君臣",
+      "period": "清",
+      "note": "孝敬宪皇后服务于雍正帝"
+    },
+    {
+      "from": "daoguang",
+      "to": "xiaoquanchun",
+      "type": "君臣",
+      "period": "清",
+      "note": "孝全成皇后服务于道光帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "xiaoqinxian",
+      "type": "君臣",
+      "period": "清",
+      "note": "孝钦显皇后服务于咸丰帝"
+    },
+    {
+      "from": "shunzhi",
+      "to": "e-zhongyi",
+      "type": "君臣",
+      "period": "清",
+      "note": "遏必隆服务于顺治帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "e-zhongyi",
+      "type": "君臣",
+      "period": "清",
+      "note": "遏必隆服务于康熙帝"
+    },
+    {
+      "from": "shunzhi",
+      "to": "sonin",
+      "type": "君臣",
+      "period": "清",
+      "note": "索尼服务于顺治帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "sonin",
+      "type": "君臣",
+      "period": "清",
+      "note": "索尼服务于康熙帝"
+    },
+    {
+      "from": "shunzhi",
+      "to": "suksaha",
+      "type": "君臣",
+      "period": "清",
+      "note": "苏克萨哈服务于顺治帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "suksaha",
+      "type": "君臣",
+      "period": "清",
+      "note": "苏克萨哈服务于康熙帝"
+    },
+    {
+      "from": "shunzhi",
+      "to": "aobai",
+      "type": "君臣",
+      "period": "清",
+      "note": "鳌拜服务于顺治帝"
+    },
+    {
+      "from": "jiaqing",
+      "to": "liu-yong",
+      "type": "君臣",
+      "period": "清",
+      "note": "刘墉服务于嘉庆帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "wang-jie",
+      "type": "君臣",
+      "period": "清",
+      "note": "王杰服务于乾隆帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "ji-huang",
+      "type": "君臣",
+      "period": "清",
+      "note": "纪昀服务于乾隆帝"
+    },
+    {
+      "from": "jiaqing",
+      "to": "ji-huang",
+      "type": "君臣",
+      "period": "清",
+      "note": "纪昀服务于嘉庆帝"
+    },
+    {
+      "from": "jiaqing",
+      "to": "heshen-rival",
+      "type": "君臣",
+      "period": "清",
+      "note": "阿桂服务于嘉庆帝"
+    },
+    {
+      "from": "daoguang",
+      "to": "lin-ze-xu",
+      "type": "君臣",
+      "period": "清",
+      "note": "林则徐服务于道光帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "wei-yuan",
+      "type": "君臣",
+      "period": "清",
+      "note": "魏源服务于咸丰帝"
+    },
+    {
+      "from": "daoguang",
+      "to": "gong-qinwang",
+      "type": "君臣",
+      "period": "清",
+      "note": "恭亲王奕訢服务于道光帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "gong-qinwang",
+      "type": "君臣",
+      "period": "清",
+      "note": "恭亲王奕訢服务于咸丰帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "gong-qinwang",
+      "type": "君臣",
+      "period": "清",
+      "note": "恭亲王奕訢服务于光绪帝"
+    },
+    {
+      "from": "daoguang",
+      "to": "zeng-guoquan",
+      "type": "君臣",
+      "period": "清",
+      "note": "曾国荃服务于道光帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "zeng-guoquan",
+      "type": "君臣",
+      "period": "清",
+      "note": "曾国荃服务于咸丰帝"
+    },
+    {
+      "from": "daoguang",
+      "to": "liu-kun-yi",
+      "type": "君臣",
+      "period": "清",
+      "note": "刘坤一服务于道光帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "liu-kun-yi",
+      "type": "君臣",
+      "period": "清",
+      "note": "刘坤一服务于咸丰帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "liu-kun-yi",
+      "type": "君臣",
+      "period": "清",
+      "note": "刘坤一服务于同治帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "liu-kun-yi",
+      "type": "君臣",
+      "period": "清",
+      "note": "刘坤一服务于光绪帝"
+    },
+    {
+      "from": "daoguang",
+      "to": "zhang-zhidong",
+      "type": "君臣",
+      "period": "清",
+      "note": "张之洞服务于道光帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "zhang-zhidong",
+      "type": "君臣",
+      "period": "清",
+      "note": "张之洞服务于咸丰帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "zhang-zhidong",
+      "type": "君臣",
+      "period": "清",
+      "note": "张之洞服务于同治帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "zhang-binglin",
+      "type": "君臣",
+      "period": "清",
+      "note": "章太炎服务于光绪帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "eunuch-an-dehai",
+      "type": "君臣",
+      "period": "清",
+      "note": "安德海服务于同治帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "eunuch-xiao-dehai",
+      "type": "君臣",
+      "period": "清",
+      "note": "小德张服务于光绪帝"
+    },
+    {
+      "from": "xuantong",
+      "to": "eunuch-xiao-dehai",
+      "type": "君臣",
+      "period": "清",
+      "note": "小德张服务于宣统帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "eunuch-lian-ying",
+      "type": "君臣",
+      "period": "清",
+      "note": "寇连材服务于光绪帝"
+    },
+    {
+      "from": "yongle",
+      "to": "kuai-xiang",
+      "type": "君臣",
+      "period": "明",
+      "note": "蒯祥服务于永乐帝"
+    },
+    {
+      "from": "xuande",
+      "to": "kuai-xiang",
+      "type": "君臣",
+      "period": "明",
+      "note": "蒯祥服务于宣德帝"
+    },
+    {
+      "from": "zhengtong",
+      "to": "kuai-xiang",
+      "type": "君臣",
+      "period": "明",
+      "note": "蒯祥服务于正统帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "lei-fada",
+      "type": "君臣",
+      "period": "清",
+      "note": "雷发达服务于康熙帝"
+    },
+    {
+      "from": "yongzheng",
+      "to": "lei-jinxi",
+      "type": "君臣",
+      "period": "清",
+      "note": "雷金兆服务于雍正帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "lei-jinxi",
+      "type": "君臣",
+      "period": "清",
+      "note": "雷金兆服务于乾隆帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "lei-jiayu",
+      "type": "君臣",
+      "period": "清",
+      "note": "雷家玺服务于乾隆帝"
+    },
+    {
+      "from": "jiaqing",
+      "to": "lei-jiayu",
+      "type": "君臣",
+      "period": "清",
+      "note": "雷家玺服务于嘉庆帝"
+    },
+    {
+      "from": "hongzhi",
+      "to": "wang-yangming",
+      "type": "君臣",
+      "period": "明",
+      "note": "王阳明服务于弘治帝"
+    },
+    {
+      "from": "zhengde",
+      "to": "wang-yangming",
+      "type": "君臣",
+      "period": "明",
+      "note": "王阳明服务于正德帝"
+    },
+    {
+      "from": "jiajing",
+      "to": "li-zhi",
+      "type": "君臣",
+      "period": "明",
+      "note": "李贽服务于嘉靖帝"
+    },
+    {
+      "from": "longqing",
+      "to": "li-zhi",
+      "type": "君臣",
+      "period": "明",
+      "note": "李贽服务于隆庆帝"
+    },
+    {
+      "from": "wanli",
+      "to": "li-zhi",
+      "type": "君臣",
+      "period": "明",
+      "note": "李贽服务于万历帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "huang-zongxi",
+      "type": "君臣",
+      "period": "明",
+      "note": "黄宗羲服务于崇祯帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "gu-yanwu",
+      "type": "君臣",
+      "period": "明",
+      "note": "顾炎武服务于崇祯帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "wang-fuzhi",
+      "type": "君臣",
+      "period": "明",
+      "note": "王夫之服务于崇祯帝"
+    },
+    {
+      "from": "jianwen",
+      "to": "fang-xiaoru",
+      "type": "君臣",
+      "period": "明",
+      "note": "方孝孺服务于建文帝"
+    },
+    {
+      "from": "zhengtong",
+      "to": "yu-qian-ally",
+      "type": "君臣",
+      "period": "明",
+      "note": "石亨服务于正统帝"
+    },
+    {
+      "from": "jingtai",
+      "to": "yu-qian-ally",
+      "type": "君臣",
+      "period": "明",
+      "note": "石亨服务于景泰帝"
+    },
+    {
+      "from": "zhengtong",
+      "to": "cao-qin",
+      "type": "君臣",
+      "period": "明",
+      "note": "曹吉祥服务于正统帝"
+    },
+    {
+      "from": "jingtai",
+      "to": "cao-qin",
+      "type": "君臣",
+      "period": "明",
+      "note": "曹吉祥服务于景泰帝"
+    },
+    {
+      "from": "zhengde",
+      "to": "liu-jin-8tiger",
+      "type": "君臣",
+      "period": "明",
+      "note": "马永成服务于正德帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "dong-xian",
+      "type": "君臣",
+      "period": "明",
+      "note": "董贤服务于崇祯帝"
+    },
+    {
+      "from": "wanli",
+      "to": "sun-chengzong",
+      "type": "君臣",
+      "period": "明",
+      "note": "孙承宗服务于万历帝"
+    },
+    {
+      "from": "tianqi",
+      "to": "sun-chengzong",
+      "type": "君臣",
+      "period": "明",
+      "note": "孙承宗服务于天启帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "sun-chengzong",
+      "type": "君臣",
+      "period": "明",
+      "note": "孙承宗服务于崇祯帝"
+    },
+    {
+      "from": "wanli",
+      "to": "xiong-tingbi",
+      "type": "君臣",
+      "period": "明",
+      "note": "熊廷弼服务于万历帝"
+    },
+    {
+      "from": "tianqi",
+      "to": "xiong-tingbi",
+      "type": "君臣",
+      "period": "明",
+      "note": "熊廷弼服务于天启帝"
+    },
+    {
+      "from": "longqing",
+      "to": "ma-shuai",
+      "type": "君臣",
+      "period": "明",
+      "note": "麻贵服务于隆庆帝"
+    },
+    {
+      "from": "wanli",
+      "to": "ma-shuai",
+      "type": "君臣",
+      "period": "明",
+      "note": "麻贵服务于万历帝"
+    },
+    {
+      "from": "jiajing",
+      "to": "chen-lin",
+      "type": "君臣",
+      "period": "明",
+      "note": "陈璘服务于嘉靖帝"
+    },
+    {
+      "from": "longqing",
+      "to": "chen-lin",
+      "type": "君臣",
+      "period": "明",
+      "note": "陈璘服务于隆庆帝"
+    },
+    {
+      "from": "wanli",
+      "to": "chen-lin",
+      "type": "君臣",
+      "period": "明",
+      "note": "陈璘服务于万历帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "pengchun",
+      "type": "君臣",
+      "period": "清",
+      "note": "彭春服务于康熙帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "fei-yang-gu",
+      "type": "君臣",
+      "period": "清",
+      "note": "费扬古服务于康熙帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "yin-reng",
+      "type": "君臣",
+      "period": "清",
+      "note": "胤礽服务于康熙帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "yinsi",
+      "type": "君臣",
+      "period": "清",
+      "note": "胤禩服务于康熙帝"
+    },
+    {
+      "from": "yongzheng",
+      "to": "yinsi",
+      "type": "君臣",
+      "period": "清",
+      "note": "胤禩服务于雍正帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "yinzhen-rival",
+      "type": "君臣",
+      "period": "清",
+      "note": "胤禵服务于康熙帝"
+    },
+    {
+      "from": "yongzheng",
+      "to": "yinzhen-rival",
+      "type": "君臣",
+      "period": "清",
+      "note": "胤禵服务于雍正帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "nian-gengyao",
+      "type": "君臣",
+      "period": "清",
+      "note": "年羹尧服务于康熙帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "longkodo",
+      "type": "君臣",
+      "period": "清",
+      "note": "隆科多服务于康熙帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "liu-tong-xun",
+      "type": "君臣",
+      "period": "清",
+      "note": "刘统勋服务于乾隆帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "he-shen-fu",
+      "type": "君臣",
+      "period": "清",
+      "note": "福长安服务于乾隆帝"
+    },
+    {
+      "from": "jiaqing",
+      "to": "he-shen-fu",
+      "type": "君臣",
+      "period": "清",
+      "note": "福长安服务于嘉庆帝"
+    },
+    {
+      "from": "daoguang",
+      "to": "ding-ruchang",
+      "type": "君臣",
+      "period": "清",
+      "note": "丁汝昌服务于道光帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "ding-ruchang",
+      "type": "君臣",
+      "period": "清",
+      "note": "丁汝昌服务于咸丰帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "ding-ruchang",
+      "type": "君臣",
+      "period": "清",
+      "note": "丁汝昌服务于同治帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "ding-ruchang",
+      "type": "君臣",
+      "period": "清",
+      "note": "丁汝昌服务于光绪帝"
+    },
+    {
+      "from": "daoguang",
+      "to": "deng-shichang",
+      "type": "君臣",
+      "period": "清",
+      "note": "邓世昌服务于道光帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "deng-shichang",
+      "type": "君臣",
+      "period": "清",
+      "note": "邓世昌服务于咸丰帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "deng-shichang",
+      "type": "君臣",
+      "period": "清",
+      "note": "邓世昌服务于同治帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "deng-shichang",
+      "type": "君臣",
+      "period": "清",
+      "note": "邓世昌服务于光绪帝"
+    },
+    {
+      "from": "daoguang",
+      "to": "se-leng-e",
+      "type": "君臣",
+      "period": "清",
+      "note": "僧格林沁服务于道光帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "se-leng-e",
+      "type": "君臣",
+      "period": "清",
+      "note": "僧格林沁服务于同治帝"
+    },
+    {
+      "from": "daoguang",
+      "to": "rong-lu",
+      "type": "君臣",
+      "period": "清",
+      "note": "荣禄服务于道光帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "rong-lu",
+      "type": "君臣",
+      "period": "清",
+      "note": "荣禄服务于咸丰帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "rong-lu",
+      "type": "君臣",
+      "period": "清",
+      "note": "荣禄服务于同治帝"
+    },
+    {
+      "from": "daoguang",
+      "to": "gang-yi",
+      "type": "君臣",
+      "period": "清",
+      "note": "刚毅服务于道光帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "gang-yi",
+      "type": "君臣",
+      "period": "清",
+      "note": "刚毅服务于咸丰帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "gang-yi",
+      "type": "君臣",
+      "period": "清",
+      "note": "刚毅服务于同治帝"
+    },
+    {
+      "from": "daoguang",
+      "to": "zai-yi",
+      "type": "君臣",
+      "period": "清",
+      "note": "载漪服务于道光帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "zai-yi",
+      "type": "君臣",
+      "period": "清",
+      "note": "载漪服务于咸丰帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "zai-yi",
+      "type": "君臣",
+      "period": "清",
+      "note": "载漪服务于同治帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "pu-jun",
+      "type": "君臣",
+      "period": "清",
+      "note": "溥俊服务于光绪帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "zai-feng",
+      "type": "君臣",
+      "period": "清",
+      "note": "载沣服务于光绪帝"
+    },
+    {
+      "from": "xuantong",
+      "to": "zai-feng",
+      "type": "君臣",
+      "period": "清",
+      "note": "载沣服务于宣统帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "yuan-shikai-son",
+      "type": "君臣",
+      "period": "清",
+      "note": "袁克定服务于光绪帝"
+    },
+    {
+      "from": "xuantong",
+      "to": "yuan-shikai-son",
+      "type": "君臣",
+      "period": "清",
+      "note": "袁克定服务于宣统帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "pu-songling",
+      "type": "君臣",
+      "period": "清",
+      "note": "蒲松龄服务于康熙帝"
+    },
+    {
+      "from": "yongzheng",
+      "to": "wu-jingzi",
+      "type": "君臣",
+      "period": "清",
+      "note": "吴敬梓服务于雍正帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "wu-jingzi",
+      "type": "君臣",
+      "period": "清",
+      "note": "吴敬梓服务于乾隆帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "kong-shangren",
+      "type": "君臣",
+      "period": "清",
+      "note": "孔尚任服务于康熙帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "hong-sheng",
+      "type": "君臣",
+      "period": "清",
+      "note": "洪昇服务于康熙帝"
+    },
+    {
+      "from": "hongzhi",
+      "to": "ning-wang",
+      "type": "君臣",
+      "period": "明",
+      "note": "朱宸濠服务于弘治帝"
+    },
+    {
+      "from": "zhengde",
+      "to": "ning-wang",
+      "type": "君臣",
+      "period": "明",
+      "note": "朱宸濠服务于正德帝"
+    },
+    {
+      "from": "tianqi",
+      "to": "wei-zhongxian-ally",
+      "type": "君臣",
+      "period": "明",
+      "note": "崔呈秀服务于天启帝"
+    },
+    {
+      "from": "wanli",
+      "to": "donglin-1",
+      "type": "君臣",
+      "period": "明",
+      "note": "左光斗服务于万历帝"
+    },
+    {
+      "from": "tianqi",
+      "to": "donglin-1",
+      "type": "君臣",
+      "period": "明",
+      "note": "左光斗服务于天启帝"
+    },
+    {
+      "from": "wanli",
+      "to": "donglin-2",
+      "type": "君臣",
+      "period": "明",
+      "note": "魏大中服务于万历帝"
+    },
+    {
+      "from": "tianqi",
+      "to": "donglin-2",
+      "type": "君臣",
+      "period": "明",
+      "note": "魏大中服务于天启帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "tian-wenqi",
+      "type": "君臣",
+      "period": "清",
+      "note": "田文镜服务于康熙帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "li-wei",
+      "type": "君臣",
+      "period": "清",
+      "note": "李卫服务于康熙帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "li-zicheng",
+      "type": "君臣",
+      "period": "明",
+      "note": "李自成服务于崇祯帝"
+    },
+    {
+      "from": "daoguang",
+      "to": "gongqinwang-yixin",
+      "type": "君臣",
+      "period": "清",
+      "note": "奕訢服务于道光帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "gongqinwang-yixin",
+      "type": "君臣",
+      "period": "清",
+      "note": "奕訢服务于咸丰帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "gongqinwang-yixin",
+      "type": "君臣",
+      "period": "清",
+      "note": "奕訢服务于同治帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "gongqinwang-yixin",
+      "type": "君臣",
+      "period": "清",
+      "note": "奕訢服务于光绪帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "ji-xiaolan",
+      "type": "君臣",
+      "period": "清",
+      "note": "纪昀服务于乾隆帝"
+    },
+    {
+      "from": "jiaqing",
+      "to": "ji-xiaolan",
+      "type": "君臣",
+      "period": "清",
+      "note": "纪昀服务于嘉庆帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "zhang-tingyu",
+      "type": "君臣",
+      "period": "清",
+      "note": "张廷玉服务于康熙帝"
+    },
+    {
+      "from": "yongzheng",
+      "to": "zhang-tingyu",
+      "type": "君臣",
+      "period": "清",
+      "note": "张廷玉服务于雍正帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "zhang-tingyu",
+      "type": "君臣",
+      "period": "清",
+      "note": "张廷玉服务于乾隆帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "li-lian-ying",
+      "type": "君臣",
+      "period": "清",
+      "note": "李莲英服务于咸丰帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "li-lian-ying",
+      "type": "君臣",
+      "period": "清",
+      "note": "李莲英服务于同治帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "li-lian-ying",
+      "type": "君臣",
+      "period": "清",
+      "note": "李莲英服务于光绪帝"
+    },
+    {
+      "from": "xuantong",
+      "to": "li-lian-ying",
+      "type": "君臣",
+      "period": "清",
+      "note": "李莲英服务于宣统帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "ci-xi",
+      "type": "君臣",
+      "period": "清",
+      "note": "慈禧太后服务于咸丰帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "ci-xi",
+      "type": "君臣",
+      "period": "清",
+      "note": "慈禧太后服务于同治帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "ci-xi",
+      "type": "君臣",
+      "period": "清",
+      "note": "慈禧太后服务于光绪帝"
+    },
+    {
+      "from": "xuantong",
+      "to": "ci-xi",
+      "type": "君臣",
+      "period": "清",
+      "note": "慈禧太后服务于宣统帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "sun-yat-sen",
+      "type": "君臣",
+      "period": "清",
+      "note": "孙中山服务于光绪帝"
+    },
+    {
+      "from": "xuantong",
+      "to": "sun-yat-sen",
+      "type": "君臣",
+      "period": "清",
+      "note": "孙中山服务于宣统帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "kang-youwei",
+      "type": "君臣",
+      "period": "清",
+      "note": "康有为服务于光绪帝"
+    },
+    {
+      "from": "xuantong",
+      "to": "kang-youwei",
+      "type": "君臣",
+      "period": "清",
+      "note": "康有为服务于宣统帝"
+    },
+    {
+      "from": "guangxu",
+      "to": "liang-qichao",
+      "type": "君臣",
+      "period": "清",
+      "note": "梁启超服务于光绪帝"
+    },
+    {
+      "from": "xuantong",
+      "to": "liang-qichao",
+      "type": "君臣",
+      "period": "清",
+      "note": "梁启超服务于宣统帝"
+    },
+    {
+      "from": "xianfeng",
+      "to": "an-de-hai",
+      "type": "君臣",
+      "period": "清",
+      "note": "安德海服务于咸丰帝"
+    },
+    {
+      "from": "tongzhi",
+      "to": "an-de-hai",
+      "type": "君臣",
+      "period": "清",
+      "note": "安德海服务于同治帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "lei-fa-da",
+      "type": "君臣",
+      "period": "清",
+      "note": "雷发达服务于康熙帝"
+    },
+    {
+      "from": "jiajing",
+      "to": "qi-ji-guang",
+      "type": "君臣",
+      "period": "明",
+      "note": "戚继光服务于嘉靖帝"
+    },
+    {
+      "from": "longqing",
+      "to": "qi-ji-guang",
+      "type": "君臣",
+      "period": "明",
+      "note": "戚继光服务于隆庆帝"
+    },
+    {
+      "from": "wanli",
+      "to": "qi-ji-guang",
+      "type": "君臣",
+      "period": "明",
+      "note": "戚继光服务于万历帝"
+    },
+    {
+      "from": "wanli",
+      "to": "li-ru-song",
+      "type": "君臣",
+      "period": "明",
+      "note": "李如松服务于万历帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "shi-ke-fa",
+      "type": "君臣",
+      "period": "明",
+      "note": "史可法服务于崇祯帝"
+    },
+    {
+      "from": "shunzhi",
+      "to": "duo-er-gun",
+      "type": "君臣",
+      "period": "清",
+      "note": "多尔衮服务于顺治帝"
+    },
+    {
+      "from": "shunzhi",
+      "to": "xiao-zhuang",
+      "type": "君臣",
+      "period": "清",
+      "note": "孝庄太后服务于顺治帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "xiao-zhuang",
+      "type": "君臣",
+      "period": "清",
+      "note": "孝庄太后服务于康熙帝"
+    },
+    {
+      "from": "jiajing",
+      "to": "yan-shi-fan",
+      "type": "君臣",
+      "period": "明",
+      "note": "严世蕃服务于嘉靖帝"
+    },
+    {
+      "from": "wanli",
+      "to": "gu-xian-cheng",
+      "type": "君臣",
+      "period": "明",
+      "note": "顾宪成服务于万历帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "lu-xiang-sheng",
+      "type": "君臣",
+      "period": "明",
+      "note": "卢象升服务于崇祯帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "chen-yuan-long",
+      "type": "君臣",
+      "period": "清",
+      "note": "陈元龙服务于康熙帝"
+    },
+    {
+      "from": "yongzheng",
+      "to": "chen-yuan-long",
+      "type": "君臣",
+      "period": "清",
+      "note": "陈元龙服务于雍正帝"
+    },
+    {
+      "from": "yongzheng",
+      "to": "liang-shi-cheng",
+      "type": "君臣",
+      "period": "清",
+      "note": "梁诗正服务于雍正帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "liang-shi-cheng",
+      "type": "君臣",
+      "period": "清",
+      "note": "梁诗正服务于乾隆帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "lei-jin-wei",
+      "type": "君臣",
+      "period": "清",
+      "note": "雷金徽服务于乾隆帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "lei-jing-chang",
+      "type": "君臣",
+      "period": "清",
+      "note": "雷景昌服务于乾隆帝"
+    },
+    {
+      "from": "jiaqing",
+      "to": "lei-jing-chang",
+      "type": "君臣",
+      "period": "清",
+      "note": "雷景昌服务于嘉庆帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "gao-shi-qi",
+      "type": "君臣",
+      "period": "清",
+      "note": "高士奇服务于康熙帝"
+    },
+    {
+      "from": "yongzheng",
+      "to": "tang-ying",
+      "type": "君臣",
+      "period": "清",
+      "note": "唐英服务于雍正帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "tang-ying",
+      "type": "君臣",
+      "period": "清",
+      "note": "唐英服务于乾隆帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "lang-shi-ning",
+      "type": "君臣",
+      "period": "清",
+      "note": "郎世宁服务于康熙帝"
+    },
+    {
+      "from": "yongzheng",
+      "to": "lang-shi-ning",
+      "type": "君臣",
+      "period": "清",
+      "note": "郎世宁服务于雍正帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "lang-shi-ning",
+      "type": "君臣",
+      "period": "清",
+      "note": "郎世宁服务于乾隆帝"
+    },
+    {
+      "from": "shunzhi",
+      "to": "ning-qi",
+      "type": "君臣",
+      "period": "清",
+      "note": "宁悫妃服务于顺治帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "hesheli",
+      "type": "君臣",
+      "period": "清",
+      "note": "赫舍里氏服务于康熙帝"
+    },
+    {
+      "from": "yongzheng",
+      "to": "niu-hulu",
+      "type": "君臣",
+      "period": "清",
+      "note": "钮祜禄氏服务于雍正帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "niu-hulu",
+      "type": "君臣",
+      "period": "清",
+      "note": "钮祜禄氏服务于乾隆帝"
+    },
+    {
+      "from": "yongzheng",
+      "to": "na-la-shi",
+      "type": "君臣",
+      "period": "清",
+      "note": "那拉氏服务于雍正帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "na-la-shi",
+      "type": "君臣",
+      "period": "清",
+      "note": "那拉氏服务于乾隆帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "hui-fa",
+      "type": "君臣",
+      "period": "清",
+      "note": "辉发那拉氏服务于乾隆帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "tong-jia-shi",
+      "type": "君臣",
+      "period": "清",
+      "note": "佟佳氏服务于康熙帝"
+    },
+    {
+      "from": "hongwu",
+      "to": "li-shan-chang",
+      "type": "君臣",
+      "period": "明",
+      "note": "李善长服务于洪武帝"
+    },
+    {
+      "from": "hongwu",
+      "to": "chang-yu-chun",
+      "type": "君臣",
+      "period": "明",
+      "note": "常遇春服务于洪武帝"
+    },
+    {
+      "from": "hongwu",
+      "to": "deng-yu",
+      "type": "君臣",
+      "period": "明",
+      "note": "邓愈服务于洪武帝"
+    },
+    {
+      "from": "hongwu",
+      "to": "tang-he",
+      "type": "君臣",
+      "period": "明",
+      "note": "汤和服务于洪武帝"
+    },
+    {
+      "from": "hongwu",
+      "to": "fu-you-de",
+      "type": "君臣",
+      "period": "明",
+      "note": "傅友德服务于洪武帝"
+    },
+    {
+      "from": "hongwu",
+      "to": "lan-yu",
+      "type": "君臣",
+      "period": "明",
+      "note": "蓝玉服务于洪武帝"
+    },
+    {
+      "from": "hongwu",
+      "to": "wang-meng",
+      "type": "君臣",
+      "period": "明",
+      "note": "汪广洋服务于洪武帝"
+    },
+    {
+      "from": "hongwu",
+      "to": "hu-wei-yong",
+      "type": "君臣",
+      "period": "明",
+      "note": "胡惟庸服务于洪武帝"
+    },
+    {
+      "from": "hongwu",
+      "to": "fang-guo-zhen",
+      "type": "君臣",
+      "period": "明",
+      "note": "方国珍服务于洪武帝"
+    },
+    {
+      "from": "hongwu",
+      "to": "zhu-wen-zheng",
+      "type": "君臣",
+      "period": "明",
+      "note": "朱文正服务于洪武帝"
+    },
+    {
+      "from": "hongwu",
+      "to": "li-jinglong",
+      "type": "君臣",
+      "period": "明",
+      "note": "李景隆服务于洪武帝"
+    },
+    {
+      "from": "jianwen",
+      "to": "li-jinglong",
+      "type": "君臣",
+      "period": "明",
+      "note": "李景隆服务于建文帝"
+    },
+    {
+      "from": "yongle",
+      "to": "li-jinglong",
+      "type": "君臣",
+      "period": "明",
+      "note": "李景隆服务于永乐帝"
+    },
+    {
+      "from": "jianwen",
+      "to": "tie-xuan",
+      "type": "君臣",
+      "period": "明",
+      "note": "铁铉服务于建文帝"
+    },
+    {
+      "from": "jianwen",
+      "to": "sheng-yong",
+      "type": "君臣",
+      "period": "明",
+      "note": "盛庸服务于建文帝"
+    },
+    {
+      "from": "jianwen",
+      "to": "jing-nan",
+      "type": "君臣",
+      "period": "明",
+      "note": "景清服务于建文帝"
+    },
+    {
+      "from": "yongle",
+      "to": "xia-yuan-ji",
+      "type": "君臣",
+      "period": "明",
+      "note": "夏原吉服务于永乐帝"
+    },
+    {
+      "from": "hongxi",
+      "to": "xia-yuan-ji",
+      "type": "君臣",
+      "period": "明",
+      "note": "夏原吉服务于洪熙帝"
+    },
+    {
+      "from": "xuande",
+      "to": "xia-yuan-ji",
+      "type": "君臣",
+      "period": "明",
+      "note": "夏原吉服务于宣德帝"
+    },
+    {
+      "from": "yongle",
+      "to": "yi-ya-tu",
+      "type": "君臣",
+      "period": "明",
+      "note": "亦失哈服务于永乐帝"
+    },
+    {
+      "from": "xuande",
+      "to": "yi-ya-tu",
+      "type": "君臣",
+      "period": "明",
+      "note": "亦失哈服务于宣德帝"
+    },
+    {
+      "from": "yongle",
+      "to": "chen-cheng",
+      "type": "君臣",
+      "period": "明",
+      "note": "陈诚服务于永乐帝"
+    },
+    {
+      "from": "xuande",
+      "to": "chen-cheng",
+      "type": "君臣",
+      "period": "明",
+      "note": "陈诚服务于宣德帝"
+    },
+    {
+      "from": "yongle",
+      "to": "jin-you-zi",
+      "type": "君臣",
+      "period": "明",
+      "note": "金幼孜服务于永乐帝"
+    },
+    {
+      "from": "hongxi",
+      "to": "jin-you-zi",
+      "type": "君臣",
+      "period": "明",
+      "note": "金幼孜服务于洪熙帝"
+    },
+    {
+      "from": "xuande",
+      "to": "jin-you-zi",
+      "type": "君臣",
+      "period": "明",
+      "note": "金幼孜服务于宣德帝"
+    },
+    {
+      "from": "yongle",
+      "to": "hu-guang",
+      "type": "君臣",
+      "period": "明",
+      "note": "胡广服务于永乐帝"
+    },
+    {
+      "from": "yongle",
+      "to": "zhou-xin",
+      "type": "君臣",
+      "period": "明",
+      "note": "周新服务于永乐帝"
+    },
+    {
+      "from": "jiajing",
+      "to": "gao-gong",
+      "type": "君臣",
+      "period": "明",
+      "note": "高拱服务于嘉靖帝"
+    },
+    {
+      "from": "longqing",
+      "to": "gao-gong",
+      "type": "君臣",
+      "period": "明",
+      "note": "高拱服务于隆庆帝"
+    },
+    {
+      "from": "wanli",
+      "to": "gao-gong",
+      "type": "君臣",
+      "period": "明",
+      "note": "高拱服务于万历帝"
+    },
+    {
+      "from": "jiajing",
+      "to": "yan-song",
+      "type": "君臣",
+      "period": "明",
+      "note": "严嵩服务于嘉靖帝"
+    },
+    {
+      "from": "chenghua",
+      "to": "qiu-jun",
+      "type": "君臣",
+      "period": "明",
+      "note": "丘濬服务于成化帝"
+    },
+    {
+      "from": "hongzhi",
+      "to": "qiu-jun",
+      "type": "君臣",
+      "period": "明",
+      "note": "丘濬服务于弘治帝"
+    },
+    {
+      "from": "chenghua",
+      "to": "li-dong-yang",
+      "type": "君臣",
+      "period": "明",
+      "note": "李东阳服务于成化帝"
+    },
+    {
+      "from": "hongzhi",
+      "to": "li-dong-yang",
+      "type": "君臣",
+      "period": "明",
+      "note": "李东阳服务于弘治帝"
+    },
+    {
+      "from": "zhengde",
+      "to": "li-dong-yang",
+      "type": "君臣",
+      "period": "明",
+      "note": "李东阳服务于正德帝"
+    },
+    {
+      "from": "hongzhi",
+      "to": "tang-yin",
+      "type": "君臣",
+      "period": "明",
+      "note": "唐寅服务于弘治帝"
+    },
+    {
+      "from": "zhengde",
+      "to": "tang-yin",
+      "type": "君臣",
+      "period": "明",
+      "note": "唐寅服务于正德帝"
+    },
+    {
+      "from": "hongzhi",
+      "to": "wen-zheng-ming",
+      "type": "君臣",
+      "period": "明",
+      "note": "文徵明服务于弘治帝"
+    },
+    {
+      "from": "zhengde",
+      "to": "wen-zheng-ming",
+      "type": "君臣",
+      "period": "明",
+      "note": "文徵明服务于正德帝"
+    },
+    {
+      "from": "jiajing",
+      "to": "wen-zheng-ming",
+      "type": "君臣",
+      "period": "明",
+      "note": "文徵明服务于嘉靖帝"
+    },
+    {
+      "from": "chenghua",
+      "to": "shen-zhou",
+      "type": "君臣",
+      "period": "明",
+      "note": "沈周服务于成化帝"
+    },
+    {
+      "from": "hongzhi",
+      "to": "shen-zhou",
+      "type": "君臣",
+      "period": "明",
+      "note": "沈周服务于弘治帝"
+    },
+    {
+      "from": "zhengde",
+      "to": "shen-zhou",
+      "type": "君臣",
+      "period": "明",
+      "note": "沈周服务于正德帝"
+    },
+    {
+      "from": "jiajing",
+      "to": "wang-shi-zhen",
+      "type": "君臣",
+      "period": "明",
+      "note": "王世贞服务于嘉靖帝"
+    },
+    {
+      "from": "longqing",
+      "to": "wang-shi-zhen",
+      "type": "君臣",
+      "period": "明",
+      "note": "王世贞服务于隆庆帝"
+    },
+    {
+      "from": "wanli",
+      "to": "wang-shi-zhen",
+      "type": "君臣",
+      "period": "明",
+      "note": "王世贞服务于万历帝"
+    },
+    {
+      "from": "jiajing",
+      "to": "gui-you-guang",
+      "type": "君臣",
+      "period": "明",
+      "note": "归有光服务于嘉靖帝"
+    },
+    {
+      "from": "wanli",
+      "to": "xu-xia-ke",
+      "type": "君臣",
+      "period": "明",
+      "note": "徐霞客服务于万历帝"
+    },
+    {
+      "from": "tianqi",
+      "to": "xu-xia-ke",
+      "type": "君臣",
+      "period": "明",
+      "note": "徐霞客服务于天启帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "xu-xia-ke",
+      "type": "君臣",
+      "period": "明",
+      "note": "徐霞客服务于崇祯帝"
+    },
+    {
+      "from": "wanli",
+      "to": "song-ying-xing",
+      "type": "君臣",
+      "period": "明",
+      "note": "宋应星服务于万历帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "song-ying-xing",
+      "type": "君臣",
+      "period": "明",
+      "note": "宋应星服务于崇祯帝"
+    },
+    {
+      "from": "jiajing",
+      "to": "li-shi-zhen",
+      "type": "君臣",
+      "period": "明",
+      "note": "李时珍服务于嘉靖帝"
+    },
+    {
+      "from": "longqing",
+      "to": "li-shi-zhen",
+      "type": "君臣",
+      "period": "明",
+      "note": "李时珍服务于隆庆帝"
+    },
+    {
+      "from": "wanli",
+      "to": "li-shi-zhen",
+      "type": "君臣",
+      "period": "明",
+      "note": "李时珍服务于万历帝"
+    },
+    {
+      "from": "jiajing",
+      "to": "wu-cheng-en",
+      "type": "君臣",
+      "period": "明",
+      "note": "吴承恩服务于嘉靖帝"
+    },
+    {
+      "from": "hongwu",
+      "to": "shi-nai-an",
+      "type": "君臣",
+      "period": "明",
+      "note": "施耐庵服务于洪武帝"
+    },
+    {
+      "from": "hongwu",
+      "to": "luo-guan-zhong",
+      "type": "君臣",
+      "period": "明",
+      "note": "罗贯中服务于洪武帝"
+    },
+    {
+      "from": "jiajing",
+      "to": "tang-xian-zu",
+      "type": "君臣",
+      "period": "明",
+      "note": "汤显祖服务于嘉靖帝"
+    },
+    {
+      "from": "longqing",
+      "to": "tang-xian-zu",
+      "type": "君臣",
+      "period": "明",
+      "note": "汤显祖服务于隆庆帝"
+    },
+    {
+      "from": "wanli",
+      "to": "tang-xian-zu",
+      "type": "君臣",
+      "period": "明",
+      "note": "汤显祖服务于万历帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "cao-yin",
+      "type": "君臣",
+      "period": "清",
+      "note": "曹寅服务于康熙帝"
+    },
+    {
+      "from": "yongzheng",
+      "to": "cao-xue-qin",
+      "type": "君臣",
+      "period": "清",
+      "note": "曹雪芹服务于雍正帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "cao-xue-qin",
+      "type": "君臣",
+      "period": "清",
+      "note": "曹雪芹服务于乾隆帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "wu-jing-zi",
+      "type": "君臣",
+      "period": "清",
+      "note": "吴敬梓服务于康熙帝"
+    },
+    {
+      "from": "yongzheng",
+      "to": "wu-jing-zi",
+      "type": "君臣",
+      "period": "清",
+      "note": "吴敬梓服务于雍正帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "wu-jing-zi",
+      "type": "君臣",
+      "period": "清",
+      "note": "吴敬梓服务于乾隆帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "pu-song-ling",
+      "type": "君臣",
+      "period": "清",
+      "note": "蒲松龄服务于康熙帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "yuan-mei",
+      "type": "君臣",
+      "period": "清",
+      "note": "袁枚服务于康熙帝"
+    },
+    {
+      "from": "yongzheng",
+      "to": "yuan-mei",
+      "type": "君臣",
+      "period": "清",
+      "note": "袁枚服务于雍正帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "yuan-mei",
+      "type": "君臣",
+      "period": "清",
+      "note": "袁枚服务于乾隆帝"
+    },
+    {
+      "from": "jiaqing",
+      "to": "yuan-mei",
+      "type": "君臣",
+      "period": "清",
+      "note": "袁枚服务于嘉庆帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "zhen-xi-chao",
+      "type": "君臣",
+      "period": "清",
+      "note": "郑燮服务于康熙帝"
+    },
+    {
+      "from": "yongzheng",
+      "to": "zhen-xi-chao",
+      "type": "君臣",
+      "period": "清",
+      "note": "郑燮服务于雍正帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "zhen-xi-chao",
+      "type": "君臣",
+      "period": "清",
+      "note": "郑燮服务于乾隆帝"
+    },
+    {
+      "from": "yongzheng",
+      "to": "dai-zhen",
+      "type": "君臣",
+      "period": "清",
+      "note": "戴震服务于雍正帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "dai-zhen",
+      "type": "君臣",
+      "period": "清",
+      "note": "戴震服务于乾隆帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "gu-yan-wu",
+      "type": "君臣",
+      "period": "清",
+      "note": "顾炎武服务于崇祯帝"
+    },
+    {
+      "from": "shunzhi",
+      "to": "gu-yan-wu",
+      "type": "君臣",
+      "period": "清",
+      "note": "顾炎武服务于顺治帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "gu-yan-wu",
+      "type": "君臣",
+      "period": "清",
+      "note": "顾炎武服务于康熙帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "huang-zong-xi",
+      "type": "君臣",
+      "period": "清",
+      "note": "黄宗羲服务于崇祯帝"
+    },
+    {
+      "from": "shunzhi",
+      "to": "huang-zong-xi",
+      "type": "君臣",
+      "period": "清",
+      "note": "黄宗羲服务于顺治帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "huang-zong-xi",
+      "type": "君臣",
+      "period": "清",
+      "note": "黄宗羲服务于康熙帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "wang-fu-zhi",
+      "type": "君臣",
+      "period": "清",
+      "note": "王夫之服务于崇祯帝"
+    },
+    {
+      "from": "shunzhi",
+      "to": "wang-fu-zhi",
+      "type": "君臣",
+      "period": "清",
+      "note": "王夫之服务于顺治帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "wang-fu-zhi",
+      "type": "君臣",
+      "period": "清",
+      "note": "王夫之服务于康熙帝"
+    },
+    {
+      "from": "shunzhi",
+      "to": "shi-tao",
+      "type": "君臣",
+      "period": "清",
+      "note": "石涛服务于顺治帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "shi-tao",
+      "type": "君臣",
+      "period": "清",
+      "note": "石涛服务于康熙帝"
+    },
+    {
+      "from": "chongzhen",
+      "to": "ba-da-shan-ren",
+      "type": "君臣",
+      "period": "清",
+      "note": "八大山人服务于崇祯帝"
+    },
+    {
+      "from": "shunzhi",
+      "to": "ba-da-shan-ren",
+      "type": "君臣",
+      "period": "清",
+      "note": "八大山人服务于顺治帝"
+    },
+    {
+      "from": "kangxi",
+      "to": "ba-da-shan-ren",
+      "type": "君臣",
+      "period": "清",
+      "note": "八大山人服务于康熙帝"
+    },
+    {
+      "from": "qianlong",
+      "to": "ning-shou-gong",
+      "type": "居住于",
+      "period": "乾隆",
+      "note": "退位后居宁寿宫"
+    },
+    {
+      "from": "qianlong",
+      "to": "huang-ji-dian",
+      "type": "居住于",
+      "period": "乾隆",
+      "note": "禅位后受朝贺"
+    },
+    {
+      "from": "kangxi",
+      "to": "qianqing-gong",
+      "type": "居住于",
+      "period": "康熙",
+      "note": "日常起居"
+    },
+    {
+      "from": "yongle",
+      "to": "qianqing-gong",
+      "type": "居住于",
+      "period": "永乐",
+      "note": "迁都后居住"
+    },
+    {
+      "from": "gugong-construction",
+      "to": "taihe-dian",
+      "type": "发生于",
+      "period": "1406",
+      "note": "修建紫禁城"
+    },
+    {
+      "from": "gugong-construction",
+      "to": "zhonghe-dian",
+      "type": "发生于",
+      "period": "1406",
+      "note": "修建紫禁城"
+    },
+    {
+      "from": "gugong-construction",
+      "to": "baohe-dian",
+      "type": "发生于",
+      "period": "1406",
+      "note": "修建紫禁城"
+    },
+    {
+      "from": "gugong-construction",
+      "to": "qianqing-gong",
+      "type": "发生于",
+      "period": "1406",
+      "note": "修建紫禁城"
+    },
+    {
+      "from": "gugong-construction",
+      "to": "kunning-gong",
+      "type": "发生于",
+      "period": "1406",
+      "note": "修建紫禁城"
+    },
+    {
+      "from": "jiuzi-duodi",
+      "to": "qianqing-gong",
+      "type": "发生于",
+      "period": "1708",
+      "note": "九子夺嫡"
+    },
+    {
+      "from": "jiuzi-duodi",
+      "to": "yangxindian",
+      "type": "发生于",
+      "period": "1708",
+      "note": "九子夺嫡"
+    },
+    {
+      "from": "junjichu-established",
+      "to": "junji-chu",
+      "type": "发生于",
+      "period": "1729",
+      "note": "军机处设立"
+    },
+    {
+      "from": "junjichu-established",
+      "to": "yangxindian",
+      "type": "发生于",
+      "period": "1729",
+      "note": "军机处设立"
+    },
+    {
+      "from": "abdication",
+      "to": "yangxindian",
+      "type": "发生于",
+      "period": "1912",
+      "note": "清帝退位"
+    },
+    {
+      "from": "taihe-dian-fire-1421",
+      "to": "taihe-dian",
+      "type": "发生于",
+      "period": "1421",
+      "note": "三大殿火灾(永乐)"
+    },
+    {
+      "from": "taihe-dian-fire-1421",
+      "to": "zhonghe-dian",
+      "type": "发生于",
+      "period": "1421",
+      "note": "三大殿火灾(永乐)"
+    },
+    {
+      "from": "taihe-dian-fire-1421",
+      "to": "baohe-dian",
+      "type": "发生于",
+      "period": "1421",
+      "note": "三大殿火灾(永乐)"
+    },
+    {
+      "from": "taihe-dian-fire-1557",
+      "to": "taihe-dian",
+      "type": "发生于",
+      "period": "1557",
+      "note": "三大殿火灾(嘉靖)"
+    },
+    {
+      "from": "taihe-dian-fire-1557",
+      "to": "zhonghe-dian",
+      "type": "发生于",
+      "period": "1557",
+      "note": "三大殿火灾(嘉靖)"
+    },
+    {
+      "from": "taihe-dian-fire-1557",
+      "to": "baohe-dian",
+      "type": "发生于",
+      "period": "1557",
+      "note": "三大殿火灾(嘉靖)"
+    },
+    {
+      "from": "taihe-dian-fire-1597",
+      "to": "taihe-dian",
+      "type": "发生于",
+      "period": "1597",
+      "note": "三大殿火灾(万历)"
+    },
+    {
+      "from": "taihe-dian-fire-1597",
+      "to": "zhonghe-dian",
+      "type": "发生于",
+      "period": "1597",
+      "note": "三大殿火灾(万历)"
+    },
+    {
+      "from": "taihe-dian-fire-1597",
+      "to": "baohe-dian",
+      "type": "发生于",
+      "period": "1597",
+      "note": "三大殿火灾(万历)"
+    },
+    {
+      "from": "qianqing-fire",
+      "to": "qianqing-gong",
+      "type": "发生于",
+      "period": "1514",
+      "note": "乾清宫火灾"
+    },
+    {
+      "from": "taihe-dian-rebuild-1695",
+      "to": "taihe-dian",
+      "type": "发生于",
+      "period": "1695",
+      "note": "太和殿重建(康熙)"
+    },
+    {
+      "from": "wuyingdian-rebuild",
+      "to": "wuying-dian",
+      "type": "发生于",
+      "period": "1646",
+      "note": "武英殿修书"
+    },
+    {
+      "from": "yu-huayuan-build",
+      "to": "yu-huayuan",
+      "type": "发生于",
+      "period": "1740",
+      "note": "御花园修缮"
+    },
+    {
+      "from": "ning-shougong-build",
+      "to": "ning-shougong",
+      "type": "发生于",
+      "period": "1771",
+      "note": "宁寿宫区修建"
+    },
+    {
+      "from": "ning-shougong-build",
+      "to": "huangjidian",
+      "type": "发生于",
+      "period": "1771",
+      "note": "宁寿宫区修建"
+    },
+    {
+      "from": "ning-shougong-build",
+      "to": "le-shoutang",
+      "type": "发生于",
+      "period": "1771",
+      "note": "宁寿宫区修建"
+    },
+    {
+      "from": "ning-shougong-build",
+      "to": "ningshou-huayuan",
+      "type": "发生于",
+      "period": "1771",
+      "note": "宁寿宫区修建"
+    },
+    {
+      "from": "xuande-enthronement",
+      "to": "taihe-dian",
+      "type": "发生于",
+      "period": "1425",
+      "note": "宣德帝登基"
+    },
+    {
+      "from": "qianlong-enthronement",
+      "to": "taihe-dian",
+      "type": "发生于",
+      "period": "1735",
+      "note": "乾隆帝登基"
+    },
+    {
+      "from": "kangxi-enthronement",
+      "to": "taihe-dian",
+      "type": "发生于",
+      "period": "1661",
+      "note": "康熙帝登基"
+    },
+    {
+      "from": "kangxi-wedding",
+      "to": "kunning-gong",
+      "type": "发生于",
+      "period": "1665",
+      "note": "康熙大婚"
+    },
+    {
+      "from": "guangxu-wedding",
+      "to": "kunning-gong",
+      "type": "发生于",
+      "period": "1889",
+      "note": "光绪大婚"
+    },
+    {
+      "from": "tongzhi-wedding",
+      "to": "kunning-gong",
+      "type": "发生于",
+      "period": "1872",
+      "note": "同治大婚"
+    },
+    {
+      "from": "xuantong-wedding",
+      "to": "kunning-gong",
+      "type": "发生于",
+      "period": "1922",
+      "note": "宣统大婚"
+    },
+    {
+      "from": "new-year-ceremony",
+      "to": "taihe-dian",
+      "type": "发生于",
+      "period": "1420",
+      "note": "元旦朝贺"
+    },
+    {
+      "from": "wanshou-ceremony",
+      "to": "taihe-dian",
+      "type": "发生于",
+      "period": "1420",
+      "note": "万寿节庆典"
+    },
+    {
+      "from": "dianshi",
+      "to": "baohe-dian",
+      "type": "发生于",
+      "period": "1420",
+      "note": "殿试"
+    },
+    {
+      "from": "jingyan",
+      "to": "wenhua-dian",
+      "type": "发生于",
+      "period": "1420",
+      "note": "经筵讲学"
+    },
+    {
+      "from": "duomen-zhi-bian",
+      "to": "wu-men",
+      "type": "发生于",
+      "period": "1457",
+      "note": "夺门之变"
+    },
+    {
+      "from": "duomen-zhi-bian",
+      "to": "qianqing-gong",
+      "type": "发生于",
+      "period": "1457",
+      "note": "夺门之变"
+    },
+    {
+      "from": "renyin-gongbian",
+      "to": "kunning-gong",
+      "type": "发生于",
+      "period": "1542",
+      "note": "壬寅宫变"
+    },
+    {
+      "from": "boxer-war",
+      "to": "shenwu-men",
+      "type": "发生于",
+      "period": "1900",
+      "note": "八国联军侵华"
+    },
+    {
+      "from": "boxer-war",
+      "to": "wu-men",
+      "type": "发生于",
+      "period": "1900",
+      "note": "八国联军侵华"
+    },
+    {
+      "from": "beijing-defense",
+      "to": "wu-men",
+      "type": "发生于",
+      "period": "1449",
+      "note": "北京保卫战"
+    },
+    {
+      "from": "tingzhang",
+      "to": "taihe-dian",
+      "type": "发生于",
+      "period": "1500",
+      "note": "廷杖制度"
+    },
+    {
+      "from": "qianlong-abdication",
+      "to": "taihe-dian",
+      "type": "发生于",
+      "period": "1795",
+      "note": "乾隆禅位"
+    },
+    {
+      "from": "tongzhi-death",
+      "to": "yangxindian",
+      "type": "发生于",
+      "period": "1875",
+      "note": "同治帝驾崩"
+    },
+    {
+      "from": "tingji-case",
+      "to": "cining-gong",
+      "type": "发生于",
+      "period": "1615",
+      "note": "梃击案"
+    },
+    {
+      "from": "hongwan-case",
+      "to": "qianqing-gong",
+      "type": "发生于",
+      "period": "1620",
+      "note": "红丸案"
+    },
+    {
+      "from": "yongle-encyclopedia",
+      "to": "wenhua-dian",
+      "type": "发生于",
+      "period": "1403",
+      "note": "编纂永乐大典"
+    },
+    {
+      "from": "qianlong-siku",
+      "to": "wuying-dian",
+      "type": "发生于",
+      "period": "1773",
+      "note": "编纂四库全书"
+    }
   ]
 }

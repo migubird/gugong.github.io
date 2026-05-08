@@ -1,0 +1,132 @@
+{
+  "永乐": {
+    "start": 1402,
+    "end": 1424,
+    "emperor": "yongle"
+  },
+  "嘉靖": {
+    "start": 1521,
+    "end": 1566,
+    "emperor": "jiajing"
+  },
+  "万历": {
+    "start": 1572,
+    "end": 1620,
+    "emperor": "wanli"
+  },
+  "崇祯": {
+    "start": 1627,
+    "end": 1644,
+    "emperor": "chongzhen"
+  },
+  "康熙": {
+    "start": 1661,
+    "end": 1722,
+    "emperor": "kangxi"
+  },
+  "雍正": {
+    "start": 1722,
+    "end": 1735,
+    "emperor": "yongzheng"
+  },
+  "乾隆": {
+    "start": 1735,
+    "end": 1795,
+    "emperor": "qianlong"
+  },
+  "道光": {
+    "start": 1820,
+    "end": 1850,
+    "emperor": "daoguang"
+  },
+  "光绪": {
+    "start": 1875,
+    "end": 1908,
+    "emperor": "guangxu"
+  },
+  "宣统": {
+    "start": 1908,
+    "end": 1912,
+    "emperor": "xuantong"
+  },
+  "洪武": {
+    "start": 1368,
+    "end": 1398,
+    "emperor": "hongwu"
+  },
+  "建文": {
+    "start": 1398,
+    "end": 1402,
+    "emperor": "jianwen"
+  },
+  "洪熙": {
+    "start": 1424,
+    "end": 1425,
+    "emperor": "hongxi"
+  },
+  "宣德": {
+    "start": 1425,
+    "end": 1435,
+    "emperor": "xuande"
+  },
+  "正统": {
+    "start": 1435,
+    "end": 1449,
+    "emperor": "zhengtong"
+  },
+  "景泰": {
+    "start": 1449,
+    "end": 1457,
+    "emperor": "jingtai"
+  },
+  "成化": {
+    "start": 1464,
+    "end": 1487,
+    "emperor": "chenghua"
+  },
+  "弘治": {
+    "start": 1487,
+    "end": 1505,
+    "emperor": "hongzhi"
+  },
+  "正德": {
+    "start": 1505,
+    "end": 1521,
+    "emperor": "zhengde"
+  },
+  "隆庆": {
+    "start": 1521,
+    "end": 1567,
+    "emperor": "longqing"
+  },
+  "泰昌": {
+    "start": 1620,
+    "end": 1620,
+    "emperor": "taichang"
+  },
+  "天启": {
+    "start": 1620,
+    "end": 1627,
+    "emperor": "tianqi"
+  },
+  "顺治": {
+    "start": 1643,
+    "end": 1661,
+    "emperor": "shunzhi"
+  },
+  "咸丰": {
+    "start": 1850,
+    "end": 1861,
+    "emperor": "xianfeng"
+  },
+  "同治": {
+    "start": 1861,
+    "end": 1875,
+    "emperor": "tongzhi"
+  },
+  "嘉庆": {
+    "start": 1796,
+    "end": 1820,
+    "emperor": "jiaqing"
+  }
+}

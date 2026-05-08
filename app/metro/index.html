@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>皇帝地铁图 — 明清帝王时间线</title>
+  <link rel="stylesheet" href="metro.css">
+</head>
+<body>
+  <header>
+    <a href="../../index.html" class="back-link">← 返回首页</a>
+    <h1>🚇 皇帝地铁图</h1>
+    <p>明清26位帝王的时间线 · 以地铁线路的方式呈现</p>
+  </header>
+
+  <div class="toolbar">
+    <div class="legend">
+      <span class="legend-item"><span class="dot ming"></span>明朝 (1368–1644)</span>
+      <span class="legend-item"><span class="dot qing"></span>清朝 (1644–1912)</span>
+      <span class="legend-item"><span class="dot event-marker"></span>重大事件</span>
+    </div>
+    <div class="controls">
+      <label>年份范围: <span id="year-display">1368 — 1912</span></label>
+      <input type="range" id="year-slider" min="1368" max="1912" value="1912" step="1">
+      <button id="zoom-in" title="放大">🔍+</button>
+      <button id="zoom-out" title="缩小">🔍−</button>
+      <button id="reset-view" title="重置视图">↺</button>
+    </div>
+  </div>
+
+  <div class="metro-container">
+    <div class="metro-scroll" id="metro-scroll">
+      <svg id="metro-svg" xmlns="http://www.w3.org/2000/svg"></svg>
+    </div>
+  </div>
+
+  <div class="tooltip" id="tooltip"></div>
+
+  <div class="modal-overlay" id="modal-overlay">
+    <div class="modal" id="modal">
+      <button class="modal-close" id="modal-close">×</button>
+      <div class="modal-content" id="modal-content"></div>
+    </div>
+  </div>
+
+  <footer>
+    <p>皇帝地铁图 · 故宫知识图谱 Phase 3 · 2026</p>
+  </footer>
+
+  <script src="metro.js"></script>
+</body>
+</html>
