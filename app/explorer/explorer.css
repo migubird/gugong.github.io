@@ -2,30 +2,30 @@
 
 body {
   font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
-  background: #0d1117;
-  color: #e6edf3;
+  background: #faf8f3;
+  color: #2c2c2c;
   min-height: 100vh;
   overflow: hidden;
 }
 
 header {
-  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  background: linear-gradient(135deg, #fff8ee 0%, #f0e6cc 100%);
   padding: 1.5rem 2rem;
   text-align: center;
-  border-bottom: 2px solid #c9a227;
+  border-bottom: 2px solid #b8860b;
   position: relative;
   z-index: 10;
 }
 
 header h1 {
   font-size: 2rem;
-  color: #c9a227;
+  color: #b8860b;
   margin-bottom: 0.25rem;
 }
 
 header p {
   font-size: 0.95rem;
-  color: #8b949e;
+  color: #888;
 }
 
 .back-link {
@@ -33,7 +33,7 @@ header p {
   left: 1.5rem;
   top: 50%;
   transform: translateY(-50%);
-  color: #58a6ff;
+  color: #2563a8;
   text-decoration: none;
   font-size: 0.9rem;
 }
@@ -46,8 +46,8 @@ header p {
   justify-content: space-between;
   align-items: center;
   padding: 0.75rem 1.5rem;
-  background: #161b22;
-  border-bottom: 1px solid #30363d;
+  background: #fff;
+  border-bottom: 1px solid #d4c9b5;
   flex-wrap: wrap;
   gap: 0.75rem;
   z-index: 10;
@@ -60,9 +60,9 @@ header p {
 }
 
 .search-box input {
-  background: #0d1117;
-  border: 1px solid #30363d;
-  color: #e6edf3;
+  background: #faf8f3;
+  border: 1px solid #d4c9b5;
+  color: #2c2c2c;
   padding: 0.4rem 0.75rem;
   border-radius: 6px;
   font-size: 0.9rem;
@@ -71,13 +71,13 @@ header p {
 
 .search-box input:focus {
   outline: none;
-  border-color: #58a6ff;
+  border-color: #2563a8;
 }
 
 .search-box button, .controls button {
-  background: #21262d;
-  border: 1px solid #30363d;
-  color: #e6edf3;
+  background: #e8e0d0;
+  border: 1px solid #d4c9b5;
+  color: #2c2c2c;
   padding: 0.4rem 0.75rem;
   border-radius: 6px;
   cursor: pointer;
@@ -86,7 +86,7 @@ header p {
 }
 
 .search-box button:hover, .controls button:hover {
-  background: #30363d;
+  background: #d4c9b5;
 }
 
 #clear-btn { color: #f85149; }
@@ -102,12 +102,12 @@ header p {
   align-items: center;
   gap: 0.3rem;
   font-size: 0.85rem;
-  color: #8b949e;
+  color: #888;
   cursor: pointer;
 }
 
 .filter-label input[type="checkbox"] {
-  accent-color: #c9a227;
+  accent-color: #b8860b;
 }
 
 /* Graph Container */
@@ -131,7 +131,7 @@ header p {
 
 .link-label {
   font-size: 9px;
-  fill: #484f58;
+  fill: #999;
   pointer-events: none;
   text-anchor: middle;
 }
@@ -143,7 +143,7 @@ header p {
 .node:active { cursor: grabbing; }
 
 .node-circle {
-  stroke: #0d1117;
+  stroke: #faf8f3;
   stroke-width: 2.5;
   transition: stroke-width 0.2s;
 }
@@ -165,7 +165,7 @@ header p {
 
 .node-label {
   font-size: 11px;
-  fill: #e6edf3;
+  fill: #2c2c2c;
   pointer-events: none;
   text-anchor: middle;
   font-family: "PingFang SC", "Microsoft YaHei", sans-serif;
@@ -189,7 +189,7 @@ header p {
   top: 10px;
   left: 10px;
   background: rgba(22, 27, 34, 0.95);
-  border: 1px solid #30363d;
+  border: 1px solid #d4c9b5;
   border-radius: 8px;
   padding: 1rem;
   min-width: 140px;
@@ -198,7 +198,7 @@ header p {
 }
 
 .legend-panel h4 {
-  color: #c9a227;
+  color: #b8860b;
   margin-bottom: 0.5rem;
   font-size: 0.9rem;
 }
@@ -209,7 +209,7 @@ header p {
   gap: 0.5rem;
   margin-bottom: 0.4rem;
   font-size: 0.8rem;
-  color: #8b949e;
+  color: #888;
 }
 
 .legend-dot {
@@ -221,13 +221,13 @@ header p {
 
 .legend-panel hr {
   border: none;
-  border-top: 1px solid #30363d;
+  border-top: 1px solid #d4c9b5;
   margin: 0.5rem 0;
 }
 
 #graph-stats {
   font-size: 0.8rem;
-  color: #8b949e;
+  color: #888;
   line-height: 1.6;
 }
 
@@ -237,8 +237,8 @@ header p {
   top: 50%;
   left: 50%;
   transform: translate(-50%, -50%);
-  background: #161b22;
-  border: 1px solid #30363d;
+  background: #fff;
+  border: 1px solid #d4c9b5;
   border-radius: 12px;
   padding: 2rem;
   max-width: 450px;
@@ -246,7 +246,7 @@ header p {
   overflow-y: auto;
   z-index: 100;
   display: none;
-  box-shadow: 0 8px 40px rgba(0,0,0,0.7);
+  box-shadow: 0 8px 40px rgba(0,0,0,0.15);
 }
 
 .node-detail.visible { display: block; }
@@ -257,7 +257,7 @@ header p {
   right: 1rem;
   background: none;
   border: none;
-  color: #8b949e;
+  color: #888;
   font-size: 1.5rem;
   cursor: pointer;
 }
@@ -265,13 +265,13 @@ header p {
 .detail-close:hover { color: #fff; }
 
 #detail-content h3 {
-  color: #c9a227;
+  color: #b8860b;
   margin-bottom: 0.75rem;
   font-size: 1.2rem;
 }
 
 #detail-content p {
-  color: #8b949e;
+  color: #888;
   line-height: 1.7;
   margin-bottom: 0.5rem;
   font-size: 0.9rem;
@@ -279,39 +279,39 @@ header p {
 
 #detail-content .meta {
   font-size: 0.85rem;
-  color: #484f58;
+  color: #999;
 }
 
 #detail-content a.wiki-link {
   display: inline-block;
   margin-top: 1rem;
-  color: #58a6ff;
+  color: #2563a8;
   text-decoration: none;
   padding: 0.5rem 1rem;
-  border: 1px solid #58a6ff;
+  border: 1px solid #2563a8;
   border-radius: 6px;
   font-size: 0.9rem;
 }
 
 #detail-content a.wiki-link:hover {
-  background: #58a6ff;
-  color: #0d1117;
+  background: #2563a8;
+  color: #faf8f3;
 }
 
 #detail-content .connections {
   margin-top: 0.75rem;
   padding-top: 0.75rem;
-  border-top: 1px solid #30363d;
+  border-top: 1px solid #d4c9b5;
 }
 
 #detail-content .connections h4 {
-  color: #e6edf3;
+  color: #2c2c2c;
   font-size: 0.9rem;
   margin-bottom: 0.5rem;
 }
 
 #detail-content .connections li {
-  color: #8b949e;
+  color: #888;
   font-size: 0.85rem;
   padding: 0.2rem 0;
   padding-left: 1rem;
@@ -320,14 +320,14 @@ header p {
 
 #detail-content .connections li::before {
   content: "→ ";
-  color: #c9a227;
+  color: #b8860b;
 }
 
 /* Tooltip */
 .tooltip {
   position: fixed;
-  background: #1c2333;
-  border: 1px solid #c9a227;
+  background: #f0ebe0;
+  border: 1px solid #b8860b;
   border-radius: 6px;
   padding: 0.6rem 0.8rem;
   max-width: 250px;
@@ -340,16 +340,16 @@ header p {
 
 .tooltip.visible { opacity: 1; }
 
-.tooltip .tt-name { color: #c9a227; font-weight: bold; }
-.tooltip .tt-type { color: #8b949e; font-size: 0.8rem; }
+.tooltip .tt-name { color: #b8860b; font-weight: bold; }
+.tooltip .tt-type { color: #888; font-size: 0.8rem; }
 
 /* Footer */
 footer {
   text-align: center;
   padding: 0.5rem;
-  color: #484f58;
+  color: #999;
   font-size: 0.75rem;
-  background: #0d1117;
+  background: #faf8f3;
 }
 
 /* Responsive */

@@ -2,8 +2,8 @@
 
 body {
   font-family: "PingFang SC", "Microsoft YaHei", "Helvetica Neue", sans-serif;
-  background: #0d0d1a;
-  color: #e0e0e0;
+  background: #faf8f3;
+  color: #555;
   min-height: 100vh;
   font-size: 16px;
 }
@@ -33,19 +33,19 @@ header {
   text-decoration: none;
   font-size: 16px;
   padding: 6px 14px;
-  border: 1px solid #444;
+  border: 1px solid #bbb;
   border-radius: 6px;
   transition: color 0.2s, border-color 0.2s;
 }
 
 .back-btn:hover {
-  color: #d4a017;
-  border-color: #d4a017;
+  color: #b8860b;
+  border-color: #b8860b;
 }
 
 header h1 {
   font-size: 28px;
-  color: #d4a017;
+  color: #b8860b;
   margin-bottom: 4px;
 }
 
@@ -63,9 +63,9 @@ main {
 
 #map-container {
   flex: 2;
-  background: #1a1a2e;
+  background: #fff8ee;
   border-radius: 12px;
-  border: 1px solid #333;
+  border: 1px solid #555;
   overflow: hidden;
   position: relative;
 }
@@ -77,9 +77,9 @@ main {
 
 #sidebar {
   flex: 1;
-  background: #16213e;
+  background: #f0e6cc;
   border-radius: 12px;
-  border: 1px solid #333;
+  border: 1px solid #555;
   overflow-y: auto;
   min-width: 350px;
   max-width: 450px;
@@ -133,12 +133,12 @@ main {
   fill: #fff;
   text-anchor: middle;
   pointer-events: none;
-  text-shadow: 0 1px 3px rgba(0,0,0,0.8);
+  text-shadow: 0 1px 3px rgba(0,0,0,0.15);
 }
 
 .palace-alias {
   font-size: 12px;
-  fill: #ccc;
+  fill: #555;
   text-anchor: middle;
   pointer-events: none;
 }
@@ -146,7 +146,7 @@ main {
 /* Sidebar palace detail */
 .palace-detail h2 {
   font-size: 24px;
-  color: #d4a017;
+  color: #b8860b;
   margin-bottom: 6px;
 }
 
@@ -160,7 +160,7 @@ main {
   font-size: 16px;
   line-height: 1.8;
   margin-bottom: 16px;
-  color: #ccc;
+  color: #555;
 }
 
 .palace-detail .info-grid {
@@ -172,12 +172,12 @@ main {
 }
 
 .palace-detail .info-label { color: #888; }
-.palace-detail .info-value { color: #e0e0e0; }
+.palace-detail .info-value { color: #555; }
 
 .section-title {
   font-size: 17px;
-  color: #d4a017;
-  border-bottom: 1px solid #333;
+  color: #b8860b;
+  border-bottom: 1px solid #555;
   padding-bottom: 6px;
   margin: 16px 0 10px;
 }
@@ -187,13 +187,13 @@ main {
   align-items: flex-start;
   gap: 8px;
   padding: 10px 0;
-  border-bottom: 1px solid #222;
+  border-bottom: 1px solid #e0d5c0;
   font-size: 15px;
 }
 
 .relation-item .type-badge {
-  background: #d4a01733;
-  color: #d4a017;
+  background: #b8860b22;
+  color: #b8860b;
   padding: 3px 10px;
   border-radius: 4px;
   font-size: 13px;
@@ -202,12 +202,12 @@ main {
 }
 
 .relation-item .details { flex: 1; }
-.relation-item .details .name { color: #e0e0e0; font-weight: bold; }
+.relation-item .details .name { color: #555; font-weight: bold; }
 .relation-item .details .note { color: #888; font-size: 14px; margin-top: 2px; }
 
 .event-item {
   padding: 12px;
-  background: #1a1a2e;
+  background: #fff8ee;
   border-radius: 6px;
   margin-bottom: 10px;
   font-size: 15px;
@@ -220,14 +220,14 @@ main {
   font-size: 16px;
 }
 
-.event-item .event-desc { color: #aaa; line-height: 1.6; font-size: 15px; }
+.event-item .event-desc { color: #666; line-height: 1.6; font-size: 15px; }
 .event-item .event-year { color: #888; font-size: 13px; margin-top: 4px; }
 
 /* Timeline bar */
 #timeline-bar {
   margin-top: 16px;
   padding: 14px 20px;
-  background: #16213e;
+  background: #f0e6cc;
   border-radius: 12px;
   display: flex;
   align-items: center;
@@ -239,12 +239,12 @@ main {
 
 #year-slider {
   flex: 1;
-  accent-color: #d4a017;
+  accent-color: #b8860b;
   height: 6px;
 }
 
 #year-display {
-  color: #d4a017;
+  color: #b8860b;
   font-weight: bold;
   min-width: 70px;
 }
