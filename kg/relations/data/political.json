@@ -3,2978 +3,8366 @@
     "from": "yongle",
     "to": "zheng-he",
     "type": "君臣",
-    "note": "郑和下西洋"
+    "note": "郑和下西洋",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "yansong",
     "type": "君臣",
-    "note": "严嵩专权"
+    "note": "严嵩专权",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "hai-rui",
     "type": "君臣",
-    "note": "海瑞上《治安疏》"
+    "note": "海瑞上《治安疏》",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hai-rui",
     "to": "yansong",
     "type": "政敌",
-    "note": "海瑞弹劾严嵩"
+    "note": "海瑞弹劾严嵩",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "zhangju-zheng",
     "type": "君臣",
-    "note": "张居正辅政"
+    "note": "张居正辅政",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhangju-zheng",
     "to": "wanli",
-    "type": "辅佐"
+    "type": "辅佐",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhangju-zheng",
     "to": "gao-gong",
     "type": "政敌",
-    "note": "排挤高拱"
+    "note": "排挤高拱",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "wei-zhongxian",
     "type": "君臣",
-    "note": "铲除魏忠贤"
+    "note": "铲除魏忠贤",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "eunuch-wang-cheng-en",
     "to": "chongzhen",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yang-lian",
     "to": "wei-zhongxian",
     "type": "政敌",
-    "note": "弹劾魏忠贤二十四罪"
+    "note": "弹劾魏忠贤二十四罪",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "zhangtingyu",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "nalan-xingde",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "wu-sangui",
     "type": "君臣",
-    "note": "三藩之乱"
+    "note": "三藩之乱",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "caoxueqin",
     "type": "君臣",
-    "note": "曹家为江宁织造"
+    "note": "曹家为江宁织造",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "zhangtingyu",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhangtingyu",
     "to": "yongzheng",
-    "type": "辅佐"
+    "type": "辅佐",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "he-shen",
     "type": "君臣",
-    "note": "宠信和珅"
+    "note": "宠信和珅",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "jixiaolan",
     "type": "君臣",
-    "note": "总纂四库全书"
+    "note": "总纂四库全书",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jixiaolan",
     "to": "qianlong",
-    "type": "辅佐"
+    "type": "辅佐",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jixiaolan",
     "to": "he-shen",
     "type": "政敌",
-    "note": "纪昀与和珅不和"
+    "note": "纪昀与和珅不和",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "he-shen",
     "to": "qianlong",
-    "type": "辅佐"
+    "type": "辅佐",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "lin-zexu",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "lin-zexu",
     "to": "daoguang",
-    "type": "辅佐"
+    "type": "辅佐",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "zuo-zongtang",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "zeng-guofan",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "li-hongzhang",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "kangyouwei",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "liangqichao",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "yuan-shikai",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "cixi",
     "type": "君臣",
-    "note": "受慈禧控制"
+    "note": "受慈禧控制",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "cixi",
     "to": "guangxu",
     "type": "政敌",
-    "note": "镇压戊戌变法"
+    "note": "镇压戊戌变法",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "cixi",
     "to": "eunuch-li-lianying",
     "type": "君臣",
-    "note": "李莲英为其贴身太监"
+    "note": "李莲英为其贴身太监",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "cixi",
     "to": "ci-an",
     "type": "政敌",
-    "note": "两宫争权"
+    "note": "两宫争权",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "cixi",
     "to": "zeng-guofan",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "cixi",
     "to": "li-hongzhang",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "cixi",
     "to": "zuo-zongtang",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wu-sangui",
     "to": "chongzhen",
     "type": "君臣",
-    "note": "原为明臣后降清"
+    "note": "原为明臣后降清",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wu-sangui",
     "to": "kangxi",
     "type": "政敌",
-    "note": "三藩之乱"
+    "note": "三藩之乱",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zeng-guofan",
     "to": "li-hongzhang",
     "type": "辅佐",
-    "note": "李鸿章为曾国藩学生"
+    "note": "李鸿章为曾国藩学生",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yuan-shikai",
     "to": "li-hongzhang",
     "type": "辅佐",
-    "note": "李鸿章去世后袁接掌北洋"
+    "note": "李鸿章去世后袁接掌北洋",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "liu-ji",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "li-shanchang",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "xu-da",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "chang-yuchun",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "hu-weiyong",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle",
     "to": "yao-guangxiao",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle",
     "to": "xie-jin",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuande",
     "to": "yang-shiqi",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuande",
     "to": "yang-rong",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuande",
     "to": "yang-pu",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chenghua",
     "to": "li-dongyang",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "xu-jie",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "yan-shifan",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "wang-yangming",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengde",
     "to": "eunuch-liu-jin",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengtong",
     "to": "eunuch-wang-zhen",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tianqi",
     "to": "eunuch-wei-zhongxian",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "aobai",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "mingju",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "li-guangdi",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "chen-tingjing",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "shi-lang",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "nian-gengyao",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "longkodo",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "liu-tong-xun",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "li-wei",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "tian-wenqi",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "liu-yong",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "fu-kang-an",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "heshen-rival",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiaqing",
     "to": "wang-jie",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "wei-yuan",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "guan-yue-qing",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "se-leng-e",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "gong-qinwang",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "zeng-guoquan",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "tan-sitong",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "yan-fu",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "zhang-zhidong",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "rong-lu",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "gang-yi",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "zai-yi",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuantong",
     "to": "yuan-shikai",
-    "type": "君臣"
+    "type": "君臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "li-shanchang",
     "to": "hu-weiyong",
     "type": "政敌",
-    "note": "胡惟庸案牵连"
+    "note": "胡惟庸案牵连",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yang-shiqi",
     "to": "eunuch-wang-zhen",
     "type": "政敌",
-    "note": "三杨与王振不和"
+    "note": "三杨与王振不和",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xu-jie",
     "to": "yan-shifan",
     "type": "政敌",
-    "note": "徐阶弹劾严世蕃"
+    "note": "徐阶弹劾严世蕃",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "eunuch-liu-jin",
     "to": "li-dongyang",
-    "type": "政敌"
+    "type": "政敌",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "donglin-1",
     "to": "eunuch-wei-zhongxian",
-    "type": "政敌"
+    "type": "政敌",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "donglin-2",
     "to": "eunuch-wei-zhongxian",
-    "type": "政敌"
+    "type": "政敌",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "mingju",
     "to": "aobai",
-    "type": "政敌"
+    "type": "政敌",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "aobai",
     "to": "kangxi",
     "type": "政敌",
-    "note": "康熙智擒鳌拜"
+    "note": "康熙智擒鳌拜",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "heshen-rival",
     "to": "he-shen",
-    "type": "政敌"
+    "type": "政敌",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "cixi",
     "to": "gong-qinwang",
     "type": "政敌",
-    "note": "权力斗争"
+    "note": "权力斗争",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "gang-yi",
     "to": "zhang-zhidong",
     "type": "政敌",
-    "note": "保守派与洋务派对立"
+    "note": "保守派与洋务派对立",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zai-yi",
     "to": "gong-qinwang",
-    "type": "政敌"
+    "type": "政敌",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "rong-lu",
     "to": "kangyouwei",
-    "type": "政敌"
+    "type": "政敌",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "zhangju-zheng",
     "type": "君臣",
     "period": "明",
-    "note": "张居正服务于嘉靖帝"
+    "note": "张居正服务于嘉靖帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "longqing",
     "to": "zhangju-zheng",
     "type": "君臣",
     "period": "明",
-    "note": "张居正服务于隆庆帝"
+    "note": "张居正服务于隆庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "longqing",
     "to": "hai-rui",
     "type": "君臣",
     "period": "明",
-    "note": "海瑞服务于隆庆帝"
+    "note": "海瑞服务于隆庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "hai-rui",
     "type": "君臣",
     "period": "明",
-    "note": "海瑞服务于万历帝"
+    "note": "海瑞服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "taichang",
     "to": "wei-zhongxian",
     "type": "君臣",
     "period": "明",
-    "note": "魏忠贤服务于泰昌帝"
+    "note": "魏忠贤服务于泰昌帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengtong",
     "to": "yu-qian",
     "type": "君臣",
     "period": "明",
-    "note": "于谦服务于正统帝"
+    "note": "于谦服务于正统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jingtai",
     "to": "yu-qian",
     "type": "君臣",
     "period": "明",
-    "note": "于谦服务于景泰帝"
+    "note": "于谦服务于景泰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "zhangtingyu",
     "type": "君臣",
     "period": "清",
-    "note": "张廷玉服务于乾隆帝"
+    "note": "张廷玉服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiaqing",
     "to": "jixiaolan",
     "type": "君臣",
     "period": "清",
-    "note": "纪昀（纪晓岚）服务于嘉庆帝"
+    "note": "纪昀（纪晓岚）服务于嘉庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "zuo-zongtang",
     "type": "君臣",
     "period": "清",
-    "note": "左宗棠服务于咸丰帝"
+    "note": "左宗棠服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "zuo-zongtang",
     "type": "君臣",
     "period": "清",
-    "note": "左宗棠服务于同治帝"
+    "note": "左宗棠服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "zuo-zongtang",
     "type": "君臣",
     "period": "清",
-    "note": "左宗棠服务于光绪帝"
+    "note": "左宗棠服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "li-hongzhang",
     "type": "君臣",
     "period": "清",
-    "note": "李鸿章服务于咸丰帝"
+    "note": "李鸿章服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "li-hongzhang",
     "type": "君臣",
     "period": "清",
-    "note": "李鸿章服务于同治帝"
+    "note": "李鸿章服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "li-hongzhang",
     "type": "君臣",
     "period": "清",
-    "note": "李鸿章服务于光绪帝"
+    "note": "李鸿章服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "cixi",
     "type": "君臣",
     "period": "清",
-    "note": "慈禧太后服务于咸丰帝"
+    "note": "慈禧太后服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "cixi",
     "type": "君臣",
     "period": "清",
-    "note": "慈禧太后服务于同治帝"
+    "note": "慈禧太后服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuantong",
     "to": "cixi",
     "type": "君臣",
     "period": "清",
-    "note": "慈禧太后服务于宣统帝"
+    "note": "慈禧太后服务于宣统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "longyu",
     "type": "君臣",
     "period": "清",
-    "note": "隆裕太后服务于光绪帝"
+    "note": "隆裕太后服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuantong",
     "to": "longyu",
     "type": "君臣",
     "period": "清",
-    "note": "隆裕太后服务于宣统帝"
+    "note": "隆裕太后服务于宣统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuantong",
     "to": "wanrong",
     "type": "君臣",
     "period": "清",
-    "note": "婉容服务于宣统帝"
+    "note": "婉容服务于宣统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "zhen-fei",
     "type": "君臣",
     "period": "清",
-    "note": "珍妃服务于光绪帝"
+    "note": "珍妃服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "ci-an",
     "type": "君臣",
     "period": "清",
-    "note": "慈安太后服务于咸丰帝"
+    "note": "慈安太后服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "ci-an",
     "type": "君臣",
     "period": "清",
-    "note": "慈安太后服务于同治帝"
+    "note": "慈安太后服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "ci-an",
     "type": "君臣",
     "period": "清",
-    "note": "慈安太后服务于光绪帝"
+    "note": "慈安太后服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "eunuch-li-lianying",
     "type": "君臣",
     "period": "清",
-    "note": "李莲英服务于咸丰帝"
+    "note": "李莲英服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "eunuch-li-lianying",
     "type": "君臣",
     "period": "清",
-    "note": "李莲英服务于同治帝"
+    "note": "李莲英服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "eunuch-li-lianying",
     "type": "君臣",
     "period": "清",
-    "note": "李莲英服务于光绪帝"
+    "note": "李莲英服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuantong",
     "to": "eunuch-li-lianying",
     "type": "君臣",
     "period": "清",
-    "note": "李莲英服务于宣统帝"
+    "note": "李莲英服务于宣统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "wu-sangui",
     "type": "君臣",
     "period": "明清",
-    "note": "吴三桂服务于崇祯帝"
+    "note": "吴三桂服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "caoxueqin",
     "type": "君臣",
     "period": "清",
-    "note": "曹雪芹服务于雍正帝"
+    "note": "曹雪芹服务于雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "caoxueqin",
     "type": "君臣",
     "period": "清",
-    "note": "曹雪芹服务于乾隆帝"
+    "note": "曹雪芹服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "zeng-guofan",
     "type": "君臣",
     "period": "清",
-    "note": "曾国藩服务于咸丰帝"
+    "note": "曾国藩服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "zeng-guofan",
     "type": "君臣",
     "period": "清",
-    "note": "曾国藩服务于同治帝"
+    "note": "曾国藩服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "shunzhi",
     "to": "dorgon",
     "type": "君臣",
     "period": "清",
-    "note": "多尔衮服务于顺治帝"
+    "note": "多尔衮服务于顺治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "eunuch-wang-cheng-en",
     "type": "君臣",
     "period": "明",
-    "note": "王承恩服务于崇祯帝"
+    "note": "王承恩服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "zhangju-zheng-rival",
     "type": "君臣",
     "period": "明",
-    "note": "高拱服务于嘉靖帝"
+    "note": "高拱服务于嘉靖帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "longqing",
     "to": "zhangju-zheng-rival",
     "type": "君臣",
     "period": "明",
-    "note": "高拱服务于隆庆帝"
+    "note": "高拱服务于隆庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "zhangju-zheng-rival",
     "type": "君臣",
     "period": "明",
-    "note": "高拱服务于万历帝"
+    "note": "高拱服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "eunuch-wei-zhongxian-rival",
     "type": "君臣",
     "period": "明",
-    "note": "杨涟服务于万历帝"
+    "note": "杨涟服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "taichang",
     "to": "eunuch-wei-zhongxian-rival",
     "type": "君臣",
     "period": "明",
-    "note": "杨涟服务于泰昌帝"
+    "note": "杨涟服务于泰昌帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tianqi",
     "to": "eunuch-wei-zhongxian-rival",
     "type": "君臣",
     "period": "明",
-    "note": "杨涟服务于天启帝"
+    "note": "杨涟服务于天启帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle",
     "to": "yang-shiqi",
     "type": "君臣",
     "period": "明",
-    "note": "杨士奇服务于永乐帝"
+    "note": "杨士奇服务于永乐帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongxi",
     "to": "yang-shiqi",
     "type": "君臣",
     "period": "明",
-    "note": "杨士奇服务于洪熙帝"
+    "note": "杨士奇服务于洪熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengtong",
     "to": "yang-shiqi",
     "type": "君臣",
     "period": "明",
-    "note": "杨士奇服务于正统帝"
+    "note": "杨士奇服务于正统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle",
     "to": "yang-rong",
     "type": "君臣",
     "period": "明",
-    "note": "杨荣服务于永乐帝"
+    "note": "杨荣服务于永乐帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongxi",
     "to": "yang-rong",
     "type": "君臣",
     "period": "明",
-    "note": "杨荣服务于洪熙帝"
+    "note": "杨荣服务于洪熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengtong",
     "to": "yang-rong",
     "type": "君臣",
     "period": "明",
-    "note": "杨荣服务于正统帝"
+    "note": "杨荣服务于正统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle",
     "to": "yang-pu",
     "type": "君臣",
     "period": "明",
-    "note": "杨溥服务于永乐帝"
+    "note": "杨溥服务于永乐帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongxi",
     "to": "yang-pu",
     "type": "君臣",
     "period": "明",
-    "note": "杨溥服务于洪熙帝"
+    "note": "杨溥服务于洪熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengtong",
     "to": "yang-pu",
     "type": "君臣",
     "period": "明",
-    "note": "杨溥服务于正统帝"
+    "note": "杨溥服务于正统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongzhi",
     "to": "li-dongyang",
     "type": "君臣",
     "period": "明",
-    "note": "李东阳服务于弘治帝"
+    "note": "李东阳服务于弘治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengde",
     "to": "li-dongyang",
     "type": "君臣",
     "period": "明",
-    "note": "李东阳服务于正德帝"
+    "note": "李东阳服务于正德帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengtong",
     "to": "shang-lu",
     "type": "君臣",
     "period": "明",
-    "note": "商辂服务于正统帝"
+    "note": "商辂服务于正统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jingtai",
     "to": "shang-lu",
     "type": "君臣",
     "period": "明",
-    "note": "商辂服务于景泰帝"
+    "note": "商辂服务于景泰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chenghua",
     "to": "shang-lu",
     "type": "君臣",
     "period": "明",
-    "note": "商辂服务于成化帝"
+    "note": "商辂服务于成化帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "longqing",
     "to": "xu-jie",
     "type": "君臣",
     "period": "明",
-    "note": "徐阶服务于隆庆帝"
+    "note": "徐阶服务于隆庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "qi-jiguang",
     "type": "君臣",
     "period": "明",
-    "note": "戚继光服务于嘉靖帝"
+    "note": "戚继光服务于嘉靖帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "longqing",
     "to": "qi-jiguang",
     "type": "君臣",
     "period": "明",
-    "note": "戚继光服务于隆庆帝"
+    "note": "戚继光服务于隆庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "qi-jiguang",
     "type": "君臣",
     "period": "明",
-    "note": "戚继光服务于万历帝"
+    "note": "戚继光服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "li-rusong",
     "type": "君臣",
     "period": "明",
-    "note": "李如松服务于万历帝"
+    "note": "李如松服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "shi-kefa",
     "type": "君臣",
     "period": "明",
-    "note": "史可法服务于崇祯帝"
+    "note": "史可法服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "zheng-chenggong",
     "type": "君臣",
     "period": "明",
-    "note": "郑成功服务于崇祯帝"
+    "note": "郑成功服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "yu-dayou",
     "type": "君臣",
     "period": "明",
-    "note": "俞大猷服务于嘉靖帝"
+    "note": "俞大猷服务于嘉靖帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tianqi",
     "to": "yuan-chonghuan",
     "type": "君臣",
     "period": "明",
-    "note": "袁崇焕服务于天启帝"
+    "note": "袁崇焕服务于天启帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "yuan-chonghuan",
     "type": "君臣",
     "period": "明",
-    "note": "袁崇焕服务于崇祯帝"
+    "note": "袁崇焕服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "sun-chuanting",
     "type": "君臣",
     "period": "明",
-    "note": "孙传庭服务于崇祯帝"
+    "note": "孙传庭服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "lu-xiangsheng",
     "type": "君臣",
     "period": "明",
-    "note": "卢象升服务于崇祯帝"
+    "note": "卢象升服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chenghua",
     "to": "eunuch-wang-zhi",
     "type": "君臣",
     "period": "明",
-    "note": "汪直服务于成化帝"
+    "note": "汪直服务于成化帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "longqing",
     "to": "eunuch-feng-bao",
     "type": "君臣",
     "period": "明",
-    "note": "冯保服务于隆庆帝"
+    "note": "冯保服务于隆庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "eunuch-feng-bao",
     "type": "君臣",
     "period": "明",
-    "note": "冯保服务于万历帝"
+    "note": "冯保服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "ma-huanghou",
     "type": "君臣",
     "period": "明",
-    "note": "马皇后服务于洪武帝"
+    "note": "马皇后服务于洪武帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle",
     "to": "xu-huanghou",
     "type": "君臣",
     "period": "明",
-    "note": "徐皇后服务于永乐帝"
+    "note": "徐皇后服务于永乐帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle",
     "to": "zhang-huanghou",
     "type": "君臣",
     "period": "明",
-    "note": "张皇后服务于永乐帝"
+    "note": "张皇后服务于永乐帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongxi",
     "to": "zhang-huanghou",
     "type": "君臣",
     "period": "明",
-    "note": "张皇后服务于洪熙帝"
+    "note": "张皇后服务于洪熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuande",
     "to": "zhang-huanghou",
     "type": "君臣",
     "period": "明",
-    "note": "张皇后服务于宣德帝"
+    "note": "张皇后服务于宣德帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuande",
     "to": "sun-huanghou",
     "type": "君臣",
     "period": "明",
-    "note": "孙皇后服务于宣德帝"
+    "note": "孙皇后服务于宣德帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengtong",
     "to": "sun-huanghou",
     "type": "君臣",
     "period": "明",
-    "note": "孙皇后服务于正统帝"
+    "note": "孙皇后服务于正统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chenghua",
     "to": "wan-guifei",
     "type": "君臣",
     "period": "明",
-    "note": "万贵妃服务于成化帝"
+    "note": "万贵妃服务于成化帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "shunzhi",
     "to": "xiaozhuang",
     "type": "君臣",
     "period": "清",
-    "note": "孝庄太后服务于顺治帝"
+    "note": "孝庄太后服务于顺治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "xiaozhuang",
     "type": "君臣",
     "period": "清",
-    "note": "孝庄太后服务于康熙帝"
+    "note": "孝庄太后服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "xiang-fei",
     "type": "君臣",
     "period": "清",
-    "note": "香妃服务于乾隆帝"
+    "note": "香妃服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "xiaoxianchun",
     "type": "君臣",
     "period": "清",
-    "note": "孝贤纯皇后服务于乾隆帝"
+    "note": "孝贤纯皇后服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "xiaochengren",
     "type": "君臣",
     "period": "清",
-    "note": "孝诚仁皇后服务于康熙帝"
+    "note": "孝诚仁皇后服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "xiaojingxian",
     "type": "君臣",
     "period": "清",
-    "note": "孝敬宪皇后服务于雍正帝"
+    "note": "孝敬宪皇后服务于雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "xiaoquanchun",
     "type": "君臣",
     "period": "清",
-    "note": "孝全成皇后服务于道光帝"
+    "note": "孝全成皇后服务于道光帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "xiaoqinxian",
     "type": "君臣",
     "period": "清",
-    "note": "孝钦显皇后服务于咸丰帝"
+    "note": "孝钦显皇后服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "shunzhi",
     "to": "e-zhongyi",
     "type": "君臣",
     "period": "清",
-    "note": "遏必隆服务于顺治帝"
+    "note": "遏必隆服务于顺治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "e-zhongyi",
     "type": "君臣",
     "period": "清",
-    "note": "遏必隆服务于康熙帝"
+    "note": "遏必隆服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "shunzhi",
     "to": "sonin",
     "type": "君臣",
     "period": "清",
-    "note": "索尼服务于顺治帝"
+    "note": "索尼服务于顺治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "sonin",
     "type": "君臣",
     "period": "清",
-    "note": "索尼服务于康熙帝"
+    "note": "索尼服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "shunzhi",
     "to": "suksaha",
     "type": "君臣",
     "period": "清",
-    "note": "苏克萨哈服务于顺治帝"
+    "note": "苏克萨哈服务于顺治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "suksaha",
     "type": "君臣",
     "period": "清",
-    "note": "苏克萨哈服务于康熙帝"
+    "note": "苏克萨哈服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "shunzhi",
     "to": "aobai",
     "type": "君臣",
     "period": "清",
-    "note": "鳌拜服务于顺治帝"
+    "note": "鳌拜服务于顺治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiaqing",
     "to": "liu-yong",
     "type": "君臣",
     "period": "清",
-    "note": "刘墉服务于嘉庆帝"
+    "note": "刘墉服务于嘉庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "wang-jie",
     "type": "君臣",
     "period": "清",
-    "note": "王杰服务于乾隆帝"
+    "note": "王杰服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "ji-huang",
     "type": "君臣",
     "period": "清",
-    "note": "纪昀服务于乾隆帝"
+    "note": "纪昀服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiaqing",
     "to": "ji-huang",
     "type": "君臣",
     "period": "清",
-    "note": "纪昀服务于嘉庆帝"
+    "note": "纪昀服务于嘉庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiaqing",
     "to": "heshen-rival",
     "type": "君臣",
     "period": "清",
-    "note": "阿桂服务于嘉庆帝"
+    "note": "阿桂服务于嘉庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "lin-ze-xu",
     "type": "君臣",
     "period": "清",
-    "note": "林则徐服务于道光帝"
+    "note": "林则徐服务于道光帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "wei-yuan",
     "type": "君臣",
     "period": "清",
-    "note": "魏源服务于咸丰帝"
+    "note": "魏源服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "gong-qinwang",
     "type": "君臣",
     "period": "清",
-    "note": "恭亲王奕訢服务于道光帝"
+    "note": "恭亲王奕訢服务于道光帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "gong-qinwang",
     "type": "君臣",
     "period": "清",
-    "note": "恭亲王奕訢服务于咸丰帝"
+    "note": "恭亲王奕訢服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "gong-qinwang",
     "type": "君臣",
     "period": "清",
-    "note": "恭亲王奕訢服务于光绪帝"
+    "note": "恭亲王奕訢服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "zeng-guoquan",
     "type": "君臣",
     "period": "清",
-    "note": "曾国荃服务于道光帝"
+    "note": "曾国荃服务于道光帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "zeng-guoquan",
     "type": "君臣",
     "period": "清",
-    "note": "曾国荃服务于咸丰帝"
+    "note": "曾国荃服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "liu-kun-yi",
     "type": "君臣",
     "period": "清",
-    "note": "刘坤一服务于道光帝"
+    "note": "刘坤一服务于道光帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "liu-kun-yi",
     "type": "君臣",
     "period": "清",
-    "note": "刘坤一服务于咸丰帝"
+    "note": "刘坤一服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "liu-kun-yi",
     "type": "君臣",
     "period": "清",
-    "note": "刘坤一服务于同治帝"
+    "note": "刘坤一服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "liu-kun-yi",
     "type": "君臣",
     "period": "清",
-    "note": "刘坤一服务于光绪帝"
+    "note": "刘坤一服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "zhang-zhidong",
     "type": "君臣",
     "period": "清",
-    "note": "张之洞服务于道光帝"
+    "note": "张之洞服务于道光帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "zhang-zhidong",
     "type": "君臣",
     "period": "清",
-    "note": "张之洞服务于咸丰帝"
+    "note": "张之洞服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "zhang-zhidong",
     "type": "君臣",
     "period": "清",
-    "note": "张之洞服务于同治帝"
+    "note": "张之洞服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "zhang-binglin",
     "type": "君臣",
     "period": "清",
-    "note": "章太炎服务于光绪帝"
+    "note": "章太炎服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "eunuch-an-dehai",
     "type": "君臣",
     "period": "清",
-    "note": "安德海服务于同治帝"
+    "note": "安德海服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "eunuch-xiao-dehai",
     "type": "君臣",
     "period": "清",
-    "note": "小德张服务于光绪帝"
+    "note": "小德张服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuantong",
     "to": "eunuch-xiao-dehai",
     "type": "君臣",
     "period": "清",
-    "note": "小德张服务于宣统帝"
+    "note": "小德张服务于宣统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "eunuch-lian-ying",
     "type": "君臣",
     "period": "清",
-    "note": "寇连材服务于光绪帝"
+    "note": "寇连材服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle",
     "to": "kuai-xiang",
     "type": "君臣",
     "period": "明",
-    "note": "蒯祥服务于永乐帝"
+    "note": "蒯祥服务于永乐帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuande",
     "to": "kuai-xiang",
     "type": "君臣",
     "period": "明",
-    "note": "蒯祥服务于宣德帝"
+    "note": "蒯祥服务于宣德帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengtong",
     "to": "kuai-xiang",
     "type": "君臣",
     "period": "明",
-    "note": "蒯祥服务于正统帝"
+    "note": "蒯祥服务于正统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "lei-fada",
     "type": "君臣",
     "period": "清",
-    "note": "雷发达服务于康熙帝"
+    "note": "雷发达服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "lei-jinxi",
     "type": "君臣",
     "period": "清",
-    "note": "雷金兆服务于雍正帝"
+    "note": "雷金兆服务于雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "lei-jinxi",
     "type": "君臣",
     "period": "清",
-    "note": "雷金兆服务于乾隆帝"
+    "note": "雷金兆服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "lei-jiayu",
     "type": "君臣",
     "period": "清",
-    "note": "雷家玺服务于乾隆帝"
+    "note": "雷家玺服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiaqing",
     "to": "lei-jiayu",
     "type": "君臣",
     "period": "清",
-    "note": "雷家玺服务于嘉庆帝"
+    "note": "雷家玺服务于嘉庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongzhi",
     "to": "wang-yangming",
     "type": "君臣",
     "period": "明",
-    "note": "王阳明服务于弘治帝"
+    "note": "王阳明服务于弘治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengde",
     "to": "wang-yangming",
     "type": "君臣",
     "period": "明",
-    "note": "王阳明服务于正德帝"
+    "note": "王阳明服务于正德帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "li-zhi",
     "type": "君臣",
     "period": "明",
-    "note": "李贽服务于嘉靖帝"
+    "note": "李贽服务于嘉靖帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "longqing",
     "to": "li-zhi",
     "type": "君臣",
     "period": "明",
-    "note": "李贽服务于隆庆帝"
+    "note": "李贽服务于隆庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "li-zhi",
     "type": "君臣",
     "period": "明",
-    "note": "李贽服务于万历帝"
+    "note": "李贽服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "huang-zongxi",
     "type": "君臣",
     "period": "明",
-    "note": "黄宗羲服务于崇祯帝"
+    "note": "黄宗羲服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "gu-yanwu",
     "type": "君臣",
     "period": "明",
-    "note": "顾炎武服务于崇祯帝"
+    "note": "顾炎武服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "wang-fuzhi",
     "type": "君臣",
     "period": "明",
-    "note": "王夫之服务于崇祯帝"
+    "note": "王夫之服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jianwen",
     "to": "fang-xiaoru",
     "type": "君臣",
     "period": "明",
-    "note": "方孝孺服务于建文帝"
+    "note": "方孝孺服务于建文帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengtong",
     "to": "yu-qian-ally",
     "type": "君臣",
     "period": "明",
-    "note": "石亨服务于正统帝"
+    "note": "石亨服务于正统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jingtai",
     "to": "yu-qian-ally",
     "type": "君臣",
     "period": "明",
-    "note": "石亨服务于景泰帝"
+    "note": "石亨服务于景泰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengtong",
     "to": "cao-qin",
     "type": "君臣",
     "period": "明",
-    "note": "曹吉祥服务于正统帝"
+    "note": "曹吉祥服务于正统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jingtai",
     "to": "cao-qin",
     "type": "君臣",
     "period": "明",
-    "note": "曹吉祥服务于景泰帝"
+    "note": "曹吉祥服务于景泰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengde",
     "to": "liu-jin-8tiger",
     "type": "君臣",
     "period": "明",
-    "note": "马永成服务于正德帝"
+    "note": "马永成服务于正德帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "dong-xian",
     "type": "君臣",
     "period": "明",
-    "note": "董贤服务于崇祯帝"
+    "note": "董贤服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "sun-chengzong",
     "type": "君臣",
     "period": "明",
-    "note": "孙承宗服务于万历帝"
+    "note": "孙承宗服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tianqi",
     "to": "sun-chengzong",
     "type": "君臣",
     "period": "明",
-    "note": "孙承宗服务于天启帝"
+    "note": "孙承宗服务于天启帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "sun-chengzong",
     "type": "君臣",
     "period": "明",
-    "note": "孙承宗服务于崇祯帝"
+    "note": "孙承宗服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "xiong-tingbi",
     "type": "君臣",
     "period": "明",
-    "note": "熊廷弼服务于万历帝"
+    "note": "熊廷弼服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tianqi",
     "to": "xiong-tingbi",
     "type": "君臣",
     "period": "明",
-    "note": "熊廷弼服务于天启帝"
+    "note": "熊廷弼服务于天启帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "longqing",
     "to": "ma-shuai",
     "type": "君臣",
     "period": "明",
-    "note": "麻贵服务于隆庆帝"
+    "note": "麻贵服务于隆庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "ma-shuai",
     "type": "君臣",
     "period": "明",
-    "note": "麻贵服务于万历帝"
+    "note": "麻贵服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "chen-lin",
     "type": "君臣",
     "period": "明",
-    "note": "陈璘服务于嘉靖帝"
+    "note": "陈璘服务于嘉靖帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "longqing",
     "to": "chen-lin",
     "type": "君臣",
     "period": "明",
-    "note": "陈璘服务于隆庆帝"
+    "note": "陈璘服务于隆庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "chen-lin",
     "type": "君臣",
     "period": "明",
-    "note": "陈璘服务于万历帝"
+    "note": "陈璘服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "pengchun",
     "type": "君臣",
     "period": "清",
-    "note": "彭春服务于康熙帝"
+    "note": "彭春服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "fei-yang-gu",
     "type": "君臣",
     "period": "清",
-    "note": "费扬古服务于康熙帝"
+    "note": "费扬古服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "yin-reng",
     "type": "君臣",
     "period": "清",
-    "note": "胤礽服务于康熙帝"
+    "note": "胤礽服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "yinsi",
     "type": "君臣",
     "period": "清",
-    "note": "胤禩服务于康熙帝"
+    "note": "胤禩服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "yinsi",
     "type": "君臣",
     "period": "清",
-    "note": "胤禩服务于雍正帝"
+    "note": "胤禩服务于雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "yinzhen-rival",
     "type": "君臣",
     "period": "清",
-    "note": "胤禵服务于康熙帝"
+    "note": "胤禵服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "yinzhen-rival",
     "type": "君臣",
     "period": "清",
-    "note": "胤禵服务于雍正帝"
+    "note": "胤禵服务于雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "nian-gengyao",
     "type": "君臣",
     "period": "清",
-    "note": "年羹尧服务于康熙帝"
+    "note": "年羹尧服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "longkodo",
     "type": "君臣",
     "period": "清",
-    "note": "隆科多服务于康熙帝"
+    "note": "隆科多服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "liu-tong-xun",
     "type": "君臣",
     "period": "清",
-    "note": "刘统勋服务于乾隆帝"
+    "note": "刘统勋服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "he-shen-fu",
     "type": "君臣",
     "period": "清",
-    "note": "福长安服务于乾隆帝"
+    "note": "福长安服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiaqing",
     "to": "he-shen-fu",
     "type": "君臣",
     "period": "清",
-    "note": "福长安服务于嘉庆帝"
+    "note": "福长安服务于嘉庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "ding-ruchang",
     "type": "君臣",
     "period": "清",
-    "note": "丁汝昌服务于道光帝"
+    "note": "丁汝昌服务于道光帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "ding-ruchang",
     "type": "君臣",
     "period": "清",
-    "note": "丁汝昌服务于咸丰帝"
+    "note": "丁汝昌服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "ding-ruchang",
     "type": "君臣",
     "period": "清",
-    "note": "丁汝昌服务于同治帝"
+    "note": "丁汝昌服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "ding-ruchang",
     "type": "君臣",
     "period": "清",
-    "note": "丁汝昌服务于光绪帝"
+    "note": "丁汝昌服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "deng-shichang",
     "type": "君臣",
     "period": "清",
-    "note": "邓世昌服务于道光帝"
+    "note": "邓世昌服务于道光帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "deng-shichang",
     "type": "君臣",
     "period": "清",
-    "note": "邓世昌服务于咸丰帝"
+    "note": "邓世昌服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "deng-shichang",
     "type": "君臣",
     "period": "清",
-    "note": "邓世昌服务于同治帝"
+    "note": "邓世昌服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "deng-shichang",
     "type": "君臣",
     "period": "清",
-    "note": "邓世昌服务于光绪帝"
+    "note": "邓世昌服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "se-leng-e",
     "type": "君臣",
     "period": "清",
-    "note": "僧格林沁服务于道光帝"
+    "note": "僧格林沁服务于道光帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "se-leng-e",
     "type": "君臣",
     "period": "清",
-    "note": "僧格林沁服务于同治帝"
+    "note": "僧格林沁服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "rong-lu",
     "type": "君臣",
     "period": "清",
-    "note": "荣禄服务于道光帝"
+    "note": "荣禄服务于道光帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "rong-lu",
     "type": "君臣",
     "period": "清",
-    "note": "荣禄服务于咸丰帝"
+    "note": "荣禄服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "rong-lu",
     "type": "君臣",
     "period": "清",
-    "note": "荣禄服务于同治帝"
+    "note": "荣禄服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "gang-yi",
     "type": "君臣",
     "period": "清",
-    "note": "刚毅服务于道光帝"
+    "note": "刚毅服务于道光帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "gang-yi",
     "type": "君臣",
     "period": "清",
-    "note": "刚毅服务于咸丰帝"
+    "note": "刚毅服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "gang-yi",
     "type": "君臣",
     "period": "清",
-    "note": "刚毅服务于同治帝"
+    "note": "刚毅服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "zai-yi",
     "type": "君臣",
     "period": "清",
-    "note": "载漪服务于道光帝"
+    "note": "载漪服务于道光帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "zai-yi",
     "type": "君臣",
     "period": "清",
-    "note": "载漪服务于咸丰帝"
+    "note": "载漪服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "zai-yi",
     "type": "君臣",
     "period": "清",
-    "note": "载漪服务于同治帝"
+    "note": "载漪服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "pu-jun",
     "type": "君臣",
     "period": "清",
-    "note": "溥俊服务于光绪帝"
+    "note": "溥俊服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "zai-feng",
     "type": "君臣",
     "period": "清",
-    "note": "载沣服务于光绪帝"
+    "note": "载沣服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuantong",
     "to": "zai-feng",
     "type": "君臣",
     "period": "清",
-    "note": "载沣服务于宣统帝"
+    "note": "载沣服务于宣统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "yuan-shikai-son",
     "type": "君臣",
     "period": "清",
-    "note": "袁克定服务于光绪帝"
+    "note": "袁克定服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuantong",
     "to": "yuan-shikai-son",
     "type": "君臣",
     "period": "清",
-    "note": "袁克定服务于宣统帝"
+    "note": "袁克定服务于宣统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "pu-songling",
     "type": "君臣",
     "period": "清",
-    "note": "蒲松龄服务于康熙帝"
+    "note": "蒲松龄服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "wu-jingzi",
     "type": "君臣",
     "period": "清",
-    "note": "吴敬梓服务于雍正帝"
+    "note": "吴敬梓服务于雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "wu-jingzi",
     "type": "君臣",
     "period": "清",
-    "note": "吴敬梓服务于乾隆帝"
+    "note": "吴敬梓服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "kong-shangren",
     "type": "君臣",
     "period": "清",
-    "note": "孔尚任服务于康熙帝"
+    "note": "孔尚任服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "hong-sheng",
     "type": "君臣",
     "period": "清",
-    "note": "洪昇服务于康熙帝"
+    "note": "洪昇服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongzhi",
     "to": "ning-wang",
     "type": "君臣",
     "period": "明",
-    "note": "朱宸濠服务于弘治帝"
+    "note": "朱宸濠服务于弘治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengde",
     "to": "ning-wang",
     "type": "君臣",
     "period": "明",
-    "note": "朱宸濠服务于正德帝"
+    "note": "朱宸濠服务于正德帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tianqi",
     "to": "wei-zhongxian-ally",
     "type": "君臣",
     "period": "明",
-    "note": "崔呈秀服务于天启帝"
+    "note": "崔呈秀服务于天启帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "donglin-1",
     "type": "君臣",
     "period": "明",
-    "note": "左光斗服务于万历帝"
+    "note": "左光斗服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tianqi",
     "to": "donglin-1",
     "type": "君臣",
     "period": "明",
-    "note": "左光斗服务于天启帝"
+    "note": "左光斗服务于天启帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "donglin-2",
     "type": "君臣",
     "period": "明",
-    "note": "魏大中服务于万历帝"
+    "note": "魏大中服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tianqi",
     "to": "donglin-2",
     "type": "君臣",
     "period": "明",
-    "note": "魏大中服务于天启帝"
+    "note": "魏大中服务于天启帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "tian-wenqi",
     "type": "君臣",
     "period": "清",
-    "note": "田文镜服务于康熙帝"
+    "note": "田文镜服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "li-wei",
     "type": "君臣",
     "period": "清",
-    "note": "李卫服务于康熙帝"
+    "note": "李卫服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "li-zicheng",
     "type": "君臣",
     "period": "明",
-    "note": "李自成服务于崇祯帝"
+    "note": "李自成服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "gongqinwang-yixin",
     "type": "君臣",
     "period": "清",
-    "note": "奕訢服务于道光帝"
+    "note": "奕訢服务于道光帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "gongqinwang-yixin",
     "type": "君臣",
     "period": "清",
-    "note": "奕訢服务于咸丰帝"
+    "note": "奕訢服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "gongqinwang-yixin",
     "type": "君臣",
     "period": "清",
-    "note": "奕訢服务于同治帝"
+    "note": "奕訢服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "gongqinwang-yixin",
     "type": "君臣",
     "period": "清",
-    "note": "奕訢服务于光绪帝"
+    "note": "奕訢服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "ji-xiaolan",
     "type": "君臣",
     "period": "清",
-    "note": "纪昀服务于乾隆帝"
+    "note": "纪昀服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiaqing",
     "to": "ji-xiaolan",
     "type": "君臣",
     "period": "清",
-    "note": "纪昀服务于嘉庆帝"
+    "note": "纪昀服务于嘉庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "zhang-tingyu",
     "type": "君臣",
     "period": "清",
-    "note": "张廷玉服务于康熙帝"
+    "note": "张廷玉服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "zhang-tingyu",
     "type": "君臣",
     "period": "清",
-    "note": "张廷玉服务于雍正帝"
+    "note": "张廷玉服务于雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "zhang-tingyu",
     "type": "君臣",
     "period": "清",
-    "note": "张廷玉服务于乾隆帝"
+    "note": "张廷玉服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "li-lian-ying",
     "type": "君臣",
     "period": "清",
-    "note": "李莲英服务于咸丰帝"
+    "note": "李莲英服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "li-lian-ying",
     "type": "君臣",
     "period": "清",
-    "note": "李莲英服务于同治帝"
+    "note": "李莲英服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "li-lian-ying",
     "type": "君臣",
     "period": "清",
-    "note": "李莲英服务于光绪帝"
+    "note": "李莲英服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuantong",
     "to": "li-lian-ying",
     "type": "君臣",
     "period": "清",
-    "note": "李莲英服务于宣统帝"
+    "note": "李莲英服务于宣统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "ci-xi",
     "type": "君臣",
     "period": "清",
-    "note": "慈禧太后服务于咸丰帝"
+    "note": "慈禧太后服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "ci-xi",
     "type": "君臣",
     "period": "清",
-    "note": "慈禧太后服务于同治帝"
+    "note": "慈禧太后服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "ci-xi",
     "type": "君臣",
     "period": "清",
-    "note": "慈禧太后服务于光绪帝"
+    "note": "慈禧太后服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuantong",
     "to": "ci-xi",
     "type": "君臣",
     "period": "清",
-    "note": "慈禧太后服务于宣统帝"
+    "note": "慈禧太后服务于宣统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "sun-yat-sen",
     "type": "君臣",
     "period": "清",
-    "note": "孙中山服务于光绪帝"
+    "note": "孙中山服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuantong",
     "to": "sun-yat-sen",
     "type": "君臣",
     "period": "清",
-    "note": "孙中山服务于宣统帝"
+    "note": "孙中山服务于宣统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "kang-youwei",
     "type": "君臣",
     "period": "清",
-    "note": "康有为服务于光绪帝"
+    "note": "康有为服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuantong",
     "to": "kang-youwei",
     "type": "君臣",
     "period": "清",
-    "note": "康有为服务于宣统帝"
+    "note": "康有为服务于宣统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "liang-qichao",
     "type": "君臣",
     "period": "清",
-    "note": "梁启超服务于光绪帝"
+    "note": "梁启超服务于光绪帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuantong",
     "to": "liang-qichao",
     "type": "君臣",
     "period": "清",
-    "note": "梁启超服务于宣统帝"
+    "note": "梁启超服务于宣统帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "an-de-hai",
     "type": "君臣",
     "period": "清",
-    "note": "安德海服务于咸丰帝"
+    "note": "安德海服务于咸丰帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "an-de-hai",
     "type": "君臣",
     "period": "清",
-    "note": "安德海服务于同治帝"
+    "note": "安德海服务于同治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "lei-fa-da",
     "type": "君臣",
     "period": "清",
-    "note": "雷发达服务于康熙帝"
+    "note": "雷发达服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "qi-ji-guang",
     "type": "君臣",
     "period": "明",
-    "note": "戚继光服务于嘉靖帝"
+    "note": "戚继光服务于嘉靖帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "longqing",
     "to": "qi-ji-guang",
     "type": "君臣",
     "period": "明",
-    "note": "戚继光服务于隆庆帝"
+    "note": "戚继光服务于隆庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "qi-ji-guang",
     "type": "君臣",
     "period": "明",
-    "note": "戚继光服务于万历帝"
+    "note": "戚继光服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "li-ru-song",
     "type": "君臣",
     "period": "明",
-    "note": "李如松服务于万历帝"
+    "note": "李如松服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "shi-ke-fa",
     "type": "君臣",
     "period": "明",
-    "note": "史可法服务于崇祯帝"
+    "note": "史可法服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "shunzhi",
     "to": "duo-er-gun",
     "type": "君臣",
     "period": "清",
-    "note": "多尔衮服务于顺治帝"
+    "note": "多尔衮服务于顺治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "shunzhi",
     "to": "xiao-zhuang",
     "type": "君臣",
     "period": "清",
-    "note": "孝庄太后服务于顺治帝"
+    "note": "孝庄太后服务于顺治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "xiao-zhuang",
     "type": "君臣",
     "period": "清",
-    "note": "孝庄太后服务于康熙帝"
+    "note": "孝庄太后服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "yan-shi-fan",
     "type": "君臣",
     "period": "明",
-    "note": "严世蕃服务于嘉靖帝"
+    "note": "严世蕃服务于嘉靖帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "gu-xian-cheng",
     "type": "君臣",
     "period": "明",
-    "note": "顾宪成服务于万历帝"
+    "note": "顾宪成服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "lu-xiang-sheng",
     "type": "君臣",
     "period": "明",
-    "note": "卢象升服务于崇祯帝"
+    "note": "卢象升服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "chen-yuan-long",
     "type": "君臣",
     "period": "清",
-    "note": "陈元龙服务于康熙帝"
+    "note": "陈元龙服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "chen-yuan-long",
     "type": "君臣",
     "period": "清",
-    "note": "陈元龙服务于雍正帝"
+    "note": "陈元龙服务于雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "liang-shi-cheng",
     "type": "君臣",
     "period": "清",
-    "note": "梁诗正服务于雍正帝"
+    "note": "梁诗正服务于雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "liang-shi-cheng",
     "type": "君臣",
     "period": "清",
-    "note": "梁诗正服务于乾隆帝"
+    "note": "梁诗正服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "lei-jin-wei",
     "type": "君臣",
     "period": "清",
-    "note": "雷金徽服务于乾隆帝"
+    "note": "雷金徽服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "lei-jing-chang",
     "type": "君臣",
     "period": "清",
-    "note": "雷景昌服务于乾隆帝"
+    "note": "雷景昌服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiaqing",
     "to": "lei-jing-chang",
     "type": "君臣",
     "period": "清",
-    "note": "雷景昌服务于嘉庆帝"
+    "note": "雷景昌服务于嘉庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "gao-shi-qi",
     "type": "君臣",
     "period": "清",
-    "note": "高士奇服务于康熙帝"
+    "note": "高士奇服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "tang-ying",
     "type": "君臣",
     "period": "清",
-    "note": "唐英服务于雍正帝"
+    "note": "唐英服务于雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "tang-ying",
     "type": "君臣",
     "period": "清",
-    "note": "唐英服务于乾隆帝"
+    "note": "唐英服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "lang-shi-ning",
     "type": "君臣",
     "period": "清",
-    "note": "郎世宁服务于康熙帝"
+    "note": "郎世宁服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "lang-shi-ning",
     "type": "君臣",
     "period": "清",
-    "note": "郎世宁服务于雍正帝"
+    "note": "郎世宁服务于雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "lang-shi-ning",
     "type": "君臣",
     "period": "清",
-    "note": "郎世宁服务于乾隆帝"
+    "note": "郎世宁服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "shunzhi",
     "to": "ning-qi",
     "type": "君臣",
     "period": "清",
-    "note": "宁悫妃服务于顺治帝"
+    "note": "宁悫妃服务于顺治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "hesheli",
     "type": "君臣",
     "period": "清",
-    "note": "赫舍里氏服务于康熙帝"
+    "note": "赫舍里氏服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "niu-hulu",
     "type": "君臣",
     "period": "清",
-    "note": "钮祜禄氏服务于雍正帝"
+    "note": "钮祜禄氏服务于雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "niu-hulu",
     "type": "君臣",
     "period": "清",
-    "note": "钮祜禄氏服务于乾隆帝"
+    "note": "钮祜禄氏服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "na-la-shi",
     "type": "君臣",
     "period": "清",
-    "note": "那拉氏服务于雍正帝"
+    "note": "那拉氏服务于雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "na-la-shi",
     "type": "君臣",
     "period": "清",
-    "note": "那拉氏服务于乾隆帝"
+    "note": "那拉氏服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "hui-fa",
     "type": "君臣",
     "period": "清",
-    "note": "辉发那拉氏服务于乾隆帝"
+    "note": "辉发那拉氏服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "tong-jia-shi",
     "type": "君臣",
     "period": "清",
-    "note": "佟佳氏服务于康熙帝"
+    "note": "佟佳氏服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "li-shan-chang",
     "type": "君臣",
     "period": "明",
-    "note": "李善长服务于洪武帝"
+    "note": "李善长服务于洪武帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "chang-yu-chun",
     "type": "君臣",
     "period": "明",
-    "note": "常遇春服务于洪武帝"
+    "note": "常遇春服务于洪武帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "deng-yu",
     "type": "君臣",
     "period": "明",
-    "note": "邓愈服务于洪武帝"
+    "note": "邓愈服务于洪武帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "tang-he",
     "type": "君臣",
     "period": "明",
-    "note": "汤和服务于洪武帝"
+    "note": "汤和服务于洪武帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "fu-you-de",
     "type": "君臣",
     "period": "明",
-    "note": "傅友德服务于洪武帝"
+    "note": "傅友德服务于洪武帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "lan-yu",
     "type": "君臣",
     "period": "明",
-    "note": "蓝玉服务于洪武帝"
+    "note": "蓝玉服务于洪武帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "wang-meng",
     "type": "君臣",
     "period": "明",
-    "note": "汪广洋服务于洪武帝"
+    "note": "汪广洋服务于洪武帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "hu-wei-yong",
     "type": "君臣",
     "period": "明",
-    "note": "胡惟庸服务于洪武帝"
+    "note": "胡惟庸服务于洪武帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "fang-guo-zhen",
     "type": "君臣",
     "period": "明",
-    "note": "方国珍服务于洪武帝"
+    "note": "方国珍服务于洪武帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "zhu-wen-zheng",
     "type": "君臣",
     "period": "明",
-    "note": "朱文正服务于洪武帝"
+    "note": "朱文正服务于洪武帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "li-jinglong",
     "type": "君臣",
     "period": "明",
-    "note": "李景隆服务于洪武帝"
+    "note": "李景隆服务于洪武帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jianwen",
     "to": "li-jinglong",
     "type": "君臣",
     "period": "明",
-    "note": "李景隆服务于建文帝"
+    "note": "李景隆服务于建文帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle",
     "to": "li-jinglong",
     "type": "君臣",
     "period": "明",
-    "note": "李景隆服务于永乐帝"
+    "note": "李景隆服务于永乐帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jianwen",
     "to": "tie-xuan",
     "type": "君臣",
     "period": "明",
-    "note": "铁铉服务于建文帝"
+    "note": "铁铉服务于建文帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jianwen",
     "to": "sheng-yong",
     "type": "君臣",
     "period": "明",
-    "note": "盛庸服务于建文帝"
+    "note": "盛庸服务于建文帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jianwen",
     "to": "jing-nan",
     "type": "君臣",
     "period": "明",
-    "note": "景清服务于建文帝"
+    "note": "景清服务于建文帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle",
     "to": "xia-yuan-ji",
     "type": "君臣",
     "period": "明",
-    "note": "夏原吉服务于永乐帝"
+    "note": "夏原吉服务于永乐帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongxi",
     "to": "xia-yuan-ji",
     "type": "君臣",
     "period": "明",
-    "note": "夏原吉服务于洪熙帝"
+    "note": "夏原吉服务于洪熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuande",
     "to": "xia-yuan-ji",
     "type": "君臣",
     "period": "明",
-    "note": "夏原吉服务于宣德帝"
+    "note": "夏原吉服务于宣德帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle",
     "to": "yi-ya-tu",
     "type": "君臣",
     "period": "明",
-    "note": "亦失哈服务于永乐帝"
+    "note": "亦失哈服务于永乐帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuande",
     "to": "yi-ya-tu",
     "type": "君臣",
     "period": "明",
-    "note": "亦失哈服务于宣德帝"
+    "note": "亦失哈服务于宣德帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle",
     "to": "chen-cheng",
     "type": "君臣",
     "period": "明",
-    "note": "陈诚服务于永乐帝"
+    "note": "陈诚服务于永乐帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuande",
     "to": "chen-cheng",
     "type": "君臣",
     "period": "明",
-    "note": "陈诚服务于宣德帝"
+    "note": "陈诚服务于宣德帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle",
     "to": "jin-you-zi",
     "type": "君臣",
     "period": "明",
-    "note": "金幼孜服务于永乐帝"
+    "note": "金幼孜服务于永乐帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongxi",
     "to": "jin-you-zi",
     "type": "君臣",
     "period": "明",
-    "note": "金幼孜服务于洪熙帝"
+    "note": "金幼孜服务于洪熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuande",
     "to": "jin-you-zi",
     "type": "君臣",
     "period": "明",
-    "note": "金幼孜服务于宣德帝"
+    "note": "金幼孜服务于宣德帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle",
     "to": "hu-guang",
     "type": "君臣",
     "period": "明",
-    "note": "胡广服务于永乐帝"
+    "note": "胡广服务于永乐帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle",
     "to": "zhou-xin",
     "type": "君臣",
     "period": "明",
-    "note": "周新服务于永乐帝"
+    "note": "周新服务于永乐帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "gao-gong",
     "type": "君臣",
     "period": "明",
-    "note": "高拱服务于嘉靖帝"
+    "note": "高拱服务于嘉靖帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "longqing",
     "to": "gao-gong",
     "type": "君臣",
     "period": "明",
-    "note": "高拱服务于隆庆帝"
+    "note": "高拱服务于隆庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "gao-gong",
     "type": "君臣",
     "period": "明",
-    "note": "高拱服务于万历帝"
+    "note": "高拱服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "yan-song",
     "type": "君臣",
     "period": "明",
-    "note": "严嵩服务于嘉靖帝"
+    "note": "严嵩服务于嘉靖帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chenghua",
     "to": "qiu-jun",
     "type": "君臣",
     "period": "明",
-    "note": "丘濬服务于成化帝"
+    "note": "丘濬服务于成化帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongzhi",
     "to": "qiu-jun",
     "type": "君臣",
     "period": "明",
-    "note": "丘濬服务于弘治帝"
+    "note": "丘濬服务于弘治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chenghua",
     "to": "li-dong-yang",
     "type": "君臣",
     "period": "明",
-    "note": "李东阳服务于成化帝"
+    "note": "李东阳服务于成化帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongzhi",
     "to": "li-dong-yang",
     "type": "君臣",
     "period": "明",
-    "note": "李东阳服务于弘治帝"
+    "note": "李东阳服务于弘治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengde",
     "to": "li-dong-yang",
     "type": "君臣",
     "period": "明",
-    "note": "李东阳服务于正德帝"
+    "note": "李东阳服务于正德帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongzhi",
     "to": "tang-yin",
     "type": "君臣",
     "period": "明",
-    "note": "唐寅服务于弘治帝"
+    "note": "唐寅服务于弘治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengde",
     "to": "tang-yin",
     "type": "君臣",
     "period": "明",
-    "note": "唐寅服务于正德帝"
+    "note": "唐寅服务于正德帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongzhi",
     "to": "wen-zheng-ming",
     "type": "君臣",
     "period": "明",
-    "note": "文徵明服务于弘治帝"
+    "note": "文徵明服务于弘治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengde",
     "to": "wen-zheng-ming",
     "type": "君臣",
     "period": "明",
-    "note": "文徵明服务于正德帝"
+    "note": "文徵明服务于正德帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "wen-zheng-ming",
     "type": "君臣",
     "period": "明",
-    "note": "文徵明服务于嘉靖帝"
+    "note": "文徵明服务于嘉靖帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chenghua",
     "to": "shen-zhou",
     "type": "君臣",
     "period": "明",
-    "note": "沈周服务于成化帝"
+    "note": "沈周服务于成化帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongzhi",
     "to": "shen-zhou",
     "type": "君臣",
     "period": "明",
-    "note": "沈周服务于弘治帝"
+    "note": "沈周服务于弘治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengde",
     "to": "shen-zhou",
     "type": "君臣",
     "period": "明",
-    "note": "沈周服务于正德帝"
+    "note": "沈周服务于正德帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "wang-shi-zhen",
     "type": "君臣",
     "period": "明",
-    "note": "王世贞服务于嘉靖帝"
+    "note": "王世贞服务于嘉靖帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "longqing",
     "to": "wang-shi-zhen",
     "type": "君臣",
     "period": "明",
-    "note": "王世贞服务于隆庆帝"
+    "note": "王世贞服务于隆庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "wang-shi-zhen",
     "type": "君臣",
     "period": "明",
-    "note": "王世贞服务于万历帝"
+    "note": "王世贞服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "gui-you-guang",
     "type": "君臣",
     "period": "明",
-    "note": "归有光服务于嘉靖帝"
+    "note": "归有光服务于嘉靖帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "xu-xia-ke",
     "type": "君臣",
     "period": "明",
-    "note": "徐霞客服务于万历帝"
+    "note": "徐霞客服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tianqi",
     "to": "xu-xia-ke",
     "type": "君臣",
     "period": "明",
-    "note": "徐霞客服务于天启帝"
+    "note": "徐霞客服务于天启帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "xu-xia-ke",
     "type": "君臣",
     "period": "明",
-    "note": "徐霞客服务于崇祯帝"
+    "note": "徐霞客服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "song-ying-xing",
     "type": "君臣",
     "period": "明",
-    "note": "宋应星服务于万历帝"
+    "note": "宋应星服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "song-ying-xing",
     "type": "君臣",
     "period": "明",
-    "note": "宋应星服务于崇祯帝"
+    "note": "宋应星服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "li-shi-zhen",
     "type": "君臣",
     "period": "明",
-    "note": "李时珍服务于嘉靖帝"
+    "note": "李时珍服务于嘉靖帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "longqing",
     "to": "li-shi-zhen",
     "type": "君臣",
     "period": "明",
-    "note": "李时珍服务于隆庆帝"
+    "note": "李时珍服务于隆庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "li-shi-zhen",
     "type": "君臣",
     "period": "明",
-    "note": "李时珍服务于万历帝"
+    "note": "李时珍服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "wu-cheng-en",
     "type": "君臣",
     "period": "明",
-    "note": "吴承恩服务于嘉靖帝"
+    "note": "吴承恩服务于嘉靖帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "shi-nai-an",
     "type": "君臣",
     "period": "明",
-    "note": "施耐庵服务于洪武帝"
+    "note": "施耐庵服务于洪武帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "luo-guan-zhong",
     "type": "君臣",
     "period": "明",
-    "note": "罗贯中服务于洪武帝"
+    "note": "罗贯中服务于洪武帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "tang-xian-zu",
     "type": "君臣",
     "period": "明",
-    "note": "汤显祖服务于嘉靖帝"
+    "note": "汤显祖服务于嘉靖帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "longqing",
     "to": "tang-xian-zu",
     "type": "君臣",
     "period": "明",
-    "note": "汤显祖服务于隆庆帝"
+    "note": "汤显祖服务于隆庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "tang-xian-zu",
     "type": "君臣",
     "period": "明",
-    "note": "汤显祖服务于万历帝"
+    "note": "汤显祖服务于万历帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "cao-yin",
     "type": "君臣",
     "period": "清",
-    "note": "曹寅服务于康熙帝"
+    "note": "曹寅服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "cao-xue-qin",
     "type": "君臣",
     "period": "清",
-    "note": "曹雪芹服务于雍正帝"
+    "note": "曹雪芹服务于雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "cao-xue-qin",
     "type": "君臣",
     "period": "清",
-    "note": "曹雪芹服务于乾隆帝"
+    "note": "曹雪芹服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "wu-jing-zi",
     "type": "君臣",
     "period": "清",
-    "note": "吴敬梓服务于康熙帝"
+    "note": "吴敬梓服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "wu-jing-zi",
     "type": "君臣",
     "period": "清",
-    "note": "吴敬梓服务于雍正帝"
+    "note": "吴敬梓服务于雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "wu-jing-zi",
     "type": "君臣",
     "period": "清",
-    "note": "吴敬梓服务于乾隆帝"
+    "note": "吴敬梓服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "pu-song-ling",
     "type": "君臣",
     "period": "清",
-    "note": "蒲松龄服务于康熙帝"
+    "note": "蒲松龄服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "yuan-mei",
     "type": "君臣",
     "period": "清",
-    "note": "袁枚服务于康熙帝"
+    "note": "袁枚服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "yuan-mei",
     "type": "君臣",
     "period": "清",
-    "note": "袁枚服务于雍正帝"
+    "note": "袁枚服务于雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "yuan-mei",
     "type": "君臣",
     "period": "清",
-    "note": "袁枚服务于乾隆帝"
+    "note": "袁枚服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiaqing",
     "to": "yuan-mei",
     "type": "君臣",
     "period": "清",
-    "note": "袁枚服务于嘉庆帝"
+    "note": "袁枚服务于嘉庆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "zhen-xi-chao",
     "type": "君臣",
     "period": "清",
-    "note": "郑燮服务于康熙帝"
+    "note": "郑燮服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "zhen-xi-chao",
     "type": "君臣",
     "period": "清",
-    "note": "郑燮服务于雍正帝"
+    "note": "郑燮服务于雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "zhen-xi-chao",
     "type": "君臣",
     "period": "清",
-    "note": "郑燮服务于乾隆帝"
+    "note": "郑燮服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "dai-zhen",
     "type": "君臣",
     "period": "清",
-    "note": "戴震服务于雍正帝"
+    "note": "戴震服务于雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "dai-zhen",
     "type": "君臣",
     "period": "清",
-    "note": "戴震服务于乾隆帝"
+    "note": "戴震服务于乾隆帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "gu-yan-wu",
     "type": "君臣",
     "period": "清",
-    "note": "顾炎武服务于崇祯帝"
+    "note": "顾炎武服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "shunzhi",
     "to": "gu-yan-wu",
     "type": "君臣",
     "period": "清",
-    "note": "顾炎武服务于顺治帝"
+    "note": "顾炎武服务于顺治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "gu-yan-wu",
     "type": "君臣",
     "period": "清",
-    "note": "顾炎武服务于康熙帝"
+    "note": "顾炎武服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "huang-zong-xi",
     "type": "君臣",
     "period": "清",
-    "note": "黄宗羲服务于崇祯帝"
+    "note": "黄宗羲服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "shunzhi",
     "to": "huang-zong-xi",
     "type": "君臣",
     "period": "清",
-    "note": "黄宗羲服务于顺治帝"
+    "note": "黄宗羲服务于顺治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "huang-zong-xi",
     "type": "君臣",
     "period": "清",
-    "note": "黄宗羲服务于康熙帝"
+    "note": "黄宗羲服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "wang-fu-zhi",
     "type": "君臣",
     "period": "清",
-    "note": "王夫之服务于崇祯帝"
+    "note": "王夫之服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "shunzhi",
     "to": "wang-fu-zhi",
     "type": "君臣",
     "period": "清",
-    "note": "王夫之服务于顺治帝"
+    "note": "王夫之服务于顺治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "wang-fu-zhi",
     "type": "君臣",
     "period": "清",
-    "note": "王夫之服务于康熙帝"
+    "note": "王夫之服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "shunzhi",
     "to": "shi-tao",
     "type": "君臣",
     "period": "清",
-    "note": "石涛服务于顺治帝"
+    "note": "石涛服务于顺治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "shi-tao",
     "type": "君臣",
     "period": "清",
-    "note": "石涛服务于康熙帝"
+    "note": "石涛服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "ba-da-shan-ren",
     "type": "君臣",
     "period": "清",
-    "note": "八大山人服务于崇祯帝"
+    "note": "八大山人服务于崇祯帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "shunzhi",
     "to": "ba-da-shan-ren",
     "type": "君臣",
     "period": "清",
-    "note": "八大山人服务于顺治帝"
+    "note": "八大山人服务于顺治帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "ba-da-shan-ren",
     "type": "君臣",
     "period": "清",
-    "note": "八大山人服务于康熙帝"
+    "note": "八大山人服务于康熙帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   }
 ]

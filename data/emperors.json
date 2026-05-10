@@ -18,7 +18,42 @@
       "郑和下西洋",
       "编纂永乐大典"
     ],
-    "color": "#e67e22"
+    "color": "#e67e22",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 明成祖朱棣",
+        "url": "https://zh.wikipedia.org/wiki/明成祖朱棣",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "jiajing": {
     "id": "jiajing",
@@ -37,7 +72,42 @@
       "前期改革",
       "崇道修玄"
     ],
-    "color": "#e67e22"
+    "color": "#e67e22",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 明世宗朱厚熜",
+        "url": "https://zh.wikipedia.org/wiki/明世宗朱厚熜",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "wanli": {
     "id": "wanli",
@@ -56,7 +126,42 @@
       "万历三大征",
       "张居正改革(前期)"
     ],
-    "color": "#e67e22"
+    "color": "#e67e22",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 明神宗朱翊钧",
+        "url": "https://zh.wikipedia.org/wiki/明神宗朱翊钧",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "chongzhen": {
     "id": "chongzhen",
@@ -74,7 +179,42 @@
     "achievements": [
       "铲除阉党"
     ],
-    "color": "#e67e22"
+    "color": "#e67e22",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 明思宗朱由检",
+        "url": "https://zh.wikipedia.org/wiki/明思宗朱由检",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "kangxi": {
     "id": "kangxi",
@@ -95,7 +235,42 @@
       "收复台湾",
       "编康熙字典"
     ],
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 清圣祖玄烨",
+        "url": "https://zh.wikipedia.org/wiki/清圣祖玄烨",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "yongzheng": {
     "id": "yongzheng",
@@ -115,7 +290,42 @@
       "摊丁入亩",
       "火耗归公"
     ],
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 清世宗胤禛",
+        "url": "https://zh.wikipedia.org/wiki/清世宗胤禛",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "qianlong": {
     "id": "qianlong",
@@ -135,7 +345,42 @@
       "编四库全书",
       "在位60年(实际63年)"
     ],
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 清高宗弘历",
+        "url": "https://zh.wikipedia.org/wiki/清高宗弘历",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "daoguang": {
     "id": "daoguang",
@@ -153,7 +398,42 @@
     "achievements": [
       "节俭治国"
     ],
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 清宣宗旻宁",
+        "url": "https://zh.wikipedia.org/wiki/清宣宗旻宁",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "guangxu": {
     "id": "guangxu",
@@ -171,7 +451,42 @@
     "achievements": [
       "戊戌变法"
     ],
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 清德宗载湉",
+        "url": "https://zh.wikipedia.org/wiki/清德宗载湉",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "xuantong": {
     "id": "xuantong",
@@ -187,7 +502,42 @@
     "consort": "wanrong",
     "description": "清朝末代皇帝，三岁登基，六岁退位。中国历史上最后一位皇帝。退位后仍居内廷至1924年被冯玉祥驱逐出宫。",
     "achievements": [],
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 清逊帝溥仪",
+        "url": "https://zh.wikipedia.org/wiki/清逊帝溥仪",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "hongwu": {
     "id": "hongwu",
@@ -207,7 +557,42 @@
       "废除丞相",
       "编纂大明律"
     ],
-    "color": "#e67e22"
+    "color": "#e67e22",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 明太祖朱元璋",
+        "url": "https://zh.wikipedia.org/wiki/明太祖朱元璋",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "jianwen": {
     "id": "jianwen",
@@ -225,7 +610,42 @@
     "achievements": [
       "削藩政策"
     ],
-    "color": "#e67e22"
+    "color": "#e67e22",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 明惠帝朱允炆",
+        "url": "https://zh.wikipedia.org/wiki/明惠帝朱允炆",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "hongxi": {
     "id": "hongxi",
@@ -244,7 +664,42 @@
       "废除苛政",
       "仁宣之治奠基"
     ],
-    "color": "#e67e22"
+    "color": "#e67e22",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 明仁宗朱高炽",
+        "url": "https://zh.wikipedia.org/wiki/明仁宗朱高炽",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "xuande": {
     "id": "xuande",
@@ -263,7 +718,42 @@
       "仁宣之治",
       "停止下西洋"
     ],
-    "color": "#e67e22"
+    "color": "#e67e22",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 明宣宗朱瞻基",
+        "url": "https://zh.wikipedia.org/wiki/明宣宗朱瞻基",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "zhengtong": {
     "id": "zhengtong",
@@ -282,7 +772,42 @@
       "土木堡之变",
       "夺门之变"
     ],
-    "color": "#e67e22"
+    "color": "#e67e22",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 明英宗朱祁镇",
+        "url": "https://zh.wikipedia.org/wiki/明英宗朱祁镇",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "jingtai": {
     "id": "jingtai",
@@ -301,7 +826,42 @@
       "北京保卫战",
       "用于谦"
     ],
-    "color": "#e67e22"
+    "color": "#e67e22",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 明代宗朱祁钰",
+        "url": "https://zh.wikipedia.org/wiki/明代宗朱祁钰",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "chenghua": {
     "id": "chenghua",
@@ -319,7 +879,42 @@
     "achievements": [
       "设立西厂"
     ],
-    "color": "#e67e22"
+    "color": "#e67e22",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 明宪宗朱见深",
+        "url": "https://zh.wikipedia.org/wiki/明宪宗朱见深",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "hongzhi": {
     "id": "hongzhi",
@@ -337,7 +932,42 @@
     "achievements": [
       "弘治中兴"
     ],
-    "color": "#e67e22"
+    "color": "#e67e22",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 明孝宗朱祐樘",
+        "url": "https://zh.wikipedia.org/wiki/明孝宗朱祐樘",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "zhengde": {
     "id": "zhengde",
@@ -356,7 +986,42 @@
       "刘瑾专权",
       "应州大捷"
     ],
-    "color": "#e67e22"
+    "color": "#e67e22",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 明武宗朱厚照",
+        "url": "https://zh.wikipedia.org/wiki/明武宗朱厚照",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "longqing": {
     "id": "longqing",
@@ -375,7 +1040,42 @@
       "隆万大改革",
       "俺答封贡"
     ],
-    "color": "#e67e22"
+    "color": "#e67e22",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 明穆宗朱载坖",
+        "url": "https://zh.wikipedia.org/wiki/明穆宗朱载坖",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "taichang": {
     "id": "taichang",
@@ -393,7 +1093,42 @@
     "achievements": [
       "红丸案"
     ],
-    "color": "#e67e22"
+    "color": "#e67e22",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 明光宗朱常洛",
+        "url": "https://zh.wikipedia.org/wiki/明光宗朱常洛",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "tianqi": {
     "id": "tianqi",
@@ -412,7 +1147,42 @@
       "魏忠贤专权",
       "东林党争"
     ],
-    "color": "#e67e22"
+    "color": "#e67e22",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 明熹宗朱由校",
+        "url": "https://zh.wikipedia.org/wiki/明熹宗朱由校",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "shunzhi": {
     "id": "shunzhi",
@@ -431,7 +1201,42 @@
       "入关定鼎",
       "剃发易服"
     ],
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 清世祖福临",
+        "url": "https://zh.wikipedia.org/wiki/清世祖福临",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "xianfeng": {
     "id": "xianfeng",
@@ -450,7 +1255,42 @@
       "太平天国",
       "英法联军"
     ],
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 清文宗奕詝",
+        "url": "https://zh.wikipedia.org/wiki/清文宗奕詝",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "tongzhi": {
     "id": "tongzhi",
@@ -469,7 +1309,42 @@
       "同治中兴",
       "垂帘听政"
     ],
-    "color": "#2980b9"
+    "color": "#2980b9",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 清穆宗载淳",
+        "url": "https://zh.wikipedia.org/wiki/清穆宗载淳",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   },
   "jiaqing": {
     "id": "jiaqing",
@@ -489,6 +1364,41 @@
       "整顿吏治",
       "平定白莲教起义"
     ],
-    "color": "#c0392b"
+    "color": "#c0392b",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网 - 宫廷历史",
+        "url": "https://www.dpm.org.cn/explore/ancients.html",
+        "note": "官方宫廷历史概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 颙琰",
+        "url": "https://zh.wikipedia.org/wiki/颙琰",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "achievements",
+          "reign_start",
+          "reign_end",
+          "consort"
+        ]
+      },
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史本纪",
+        "fields": [
+          "reign_start",
+          "reign_end",
+          "father",
+          "successor"
+        ]
+      }
+    ]
   }
 }

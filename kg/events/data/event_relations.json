@@ -5,6 +5,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -13,6 +25,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -21,6 +45,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -29,6 +65,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -37,6 +85,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -45,6 +105,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -53,6 +125,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -61,6 +145,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -69,6 +165,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -77,6 +185,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -85,6 +205,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -93,6 +225,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -101,6 +245,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -109,6 +265,18 @@
     "type": "共享参与者",
     "shared": [
       "dorgon"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -117,6 +285,18 @@
     "type": "共享参与者",
     "shared": [
       "wu-sangui"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -125,6 +305,18 @@
     "type": "共享参与者",
     "shared": [
       "dorgon"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -133,6 +325,18 @@
     "type": "共享参与者",
     "shared": [
       "wu-sangui"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -141,6 +345,18 @@
     "type": "共享参与者",
     "shared": [
       "yongzheng"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -149,6 +365,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -157,6 +385,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -165,6 +405,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -173,6 +425,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -181,6 +445,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -189,6 +465,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -198,6 +486,18 @@
     "shared": [
       "qianlong",
       "jixiaolan"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -206,6 +506,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -214,6 +526,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -222,6 +546,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -230,6 +566,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -238,6 +586,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -246,6 +606,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -254,6 +626,18 @@
     "type": "共享参与者",
     "shared": [
       "he-shen"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -262,6 +646,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -270,6 +666,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -278,6 +686,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -286,6 +706,18 @@
     "type": "共享参与者",
     "shared": [
       "daoguang"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -294,6 +726,18 @@
     "type": "共享参与者",
     "shared": [
       "cixi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -302,6 +746,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -310,6 +766,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -319,6 +787,18 @@
     "shared": [
       "cixi",
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -328,6 +808,18 @@
     "shared": [
       "cixi",
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -336,6 +828,18 @@
     "type": "共享参与者",
     "shared": [
       "cixi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -344,6 +848,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -352,6 +868,18 @@
     "type": "共享参与者",
     "shared": [
       "cixi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -361,6 +889,18 @@
     "shared": [
       "cixi",
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -369,6 +909,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -378,6 +930,18 @@
     "shared": [
       "cixi",
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -386,6 +950,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -394,6 +970,18 @@
     "type": "共享参与者",
     "shared": [
       "cixi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -402,6 +990,18 @@
     "type": "共享参与者",
     "shared": [
       "cixi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -410,6 +1010,18 @@
     "type": "共享参与者",
     "shared": [
       "cixi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -418,6 +1030,18 @@
     "type": "共享参与者",
     "shared": [
       "cixi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -426,6 +1050,18 @@
     "type": "共享参与者",
     "shared": [
       "cixi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -434,6 +1070,18 @@
     "type": "共享参与者",
     "shared": [
       "cixi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -442,6 +1090,18 @@
     "type": "共享参与者",
     "shared": [
       "xuantong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -450,6 +1110,18 @@
     "type": "共享参与者",
     "shared": [
       "longyu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -458,6 +1130,18 @@
     "type": "共享参与者",
     "shared": [
       "xuantong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -466,6 +1150,18 @@
     "type": "共享参与者",
     "shared": [
       "yuan-shikai"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -474,6 +1170,18 @@
     "type": "共享参与者",
     "shared": [
       "xuantong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -482,6 +1190,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -490,6 +1210,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -498,6 +1230,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -506,6 +1250,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -514,6 +1270,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -522,6 +1290,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -530,6 +1310,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -538,6 +1330,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -546,6 +1350,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -554,6 +1370,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -562,6 +1390,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -570,6 +1410,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -578,6 +1430,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -586,6 +1450,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -594,6 +1470,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -602,6 +1490,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -610,6 +1510,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -618,6 +1530,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -626,6 +1550,18 @@
     "type": "共享参与者",
     "shared": [
       "jiajing"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -634,6 +1570,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -642,6 +1590,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -650,6 +1610,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -658,6 +1630,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -666,6 +1650,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -674,6 +1670,18 @@
     "type": "共享参与者",
     "shared": [
       "shunzhi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -682,6 +1690,18 @@
     "type": "共享参与者",
     "shared": [
       "shunzhi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -690,6 +1710,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -698,6 +1730,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -706,6 +1750,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -714,6 +1770,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -722,6 +1790,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -730,6 +1810,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -738,6 +1830,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -746,6 +1850,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -754,6 +1870,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -762,6 +1890,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -770,6 +1910,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -778,6 +1930,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -786,6 +1950,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -794,6 +1970,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -802,6 +1990,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -810,6 +2010,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -818,6 +2030,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -826,6 +2050,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -834,6 +2070,18 @@
     "type": "共享参与者",
     "shared": [
       "xuande"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -842,6 +2090,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -850,6 +2110,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -858,6 +2130,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -866,6 +2150,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -874,6 +2170,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -882,6 +2190,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -890,6 +2210,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -898,6 +2230,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -906,6 +2250,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -914,6 +2270,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -923,6 +2291,18 @@
     "shared": [
       "dorgon",
       "shunzhi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -931,6 +2311,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -939,6 +2331,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -947,6 +2351,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -955,6 +2371,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -963,6 +2391,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -971,6 +2411,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -979,6 +2431,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -987,6 +2451,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -995,6 +2471,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1003,6 +2491,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1011,6 +2511,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1019,6 +2531,18 @@
     "type": "共享参与者",
     "shared": [
       "tongzhi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1027,6 +2551,18 @@
     "type": "共享参与者",
     "shared": [
       "tongzhi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1035,6 +2571,18 @@
     "type": "共享参与者",
     "shared": [
       "tongzhi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1043,6 +2591,18 @@
     "type": "共享参与者",
     "shared": [
       "zhengtong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1051,6 +2611,18 @@
     "type": "共享参与者",
     "shared": [
       "cao-qin"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1059,6 +2631,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1068,6 +2652,18 @@
     "shared": [
       "kangxi",
       "wu-sangui"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1076,6 +2672,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1084,6 +2692,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1092,6 +2712,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1100,6 +2732,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1108,6 +2752,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1116,6 +2772,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1124,6 +2792,18 @@
     "type": "共享参与者",
     "shared": [
       "jiaqing"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1133,6 +2813,18 @@
     "shared": [
       "qianlong",
       "jiaqing"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1141,6 +2833,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1149,6 +2853,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1158,6 +2874,18 @@
     "shared": [
       "tongzhi",
       "xianfeng"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1166,6 +2894,18 @@
     "type": "共享参与者",
     "shared": [
       "xianfeng"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1174,6 +2914,18 @@
     "type": "共享参与者",
     "shared": [
       "xianfeng"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1182,6 +2934,18 @@
     "type": "共享参与者",
     "shared": [
       "xianfeng"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1190,6 +2954,18 @@
     "type": "共享参与者",
     "shared": [
       "tongzhi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1198,6 +2974,18 @@
     "type": "共享参与者",
     "shared": [
       "xianfeng"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1206,6 +2994,18 @@
     "type": "共享参与者",
     "shared": [
       "xianfeng"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1214,6 +3014,18 @@
     "type": "共享参与者",
     "shared": [
       "xianfeng"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1222,6 +3034,18 @@
     "type": "共享参与者",
     "shared": [
       "tongzhi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1230,6 +3054,18 @@
     "type": "共享参与者",
     "shared": [
       "xianfeng"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1238,6 +3074,18 @@
     "type": "共享参与者",
     "shared": [
       "xianfeng"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1246,6 +3094,18 @@
     "type": "共享参与者",
     "shared": [
       "xianfeng"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1254,6 +3114,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1262,6 +3134,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1270,6 +3154,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1278,6 +3174,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1287,6 +3195,18 @@
     "shared": [
       "li-hongzhang",
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1296,6 +3216,18 @@
     "shared": [
       "li-hongzhang",
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1304,6 +3236,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1313,6 +3257,18 @@
     "shared": [
       "cixi",
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1321,6 +3277,18 @@
     "type": "共享参与者",
     "shared": [
       "cixi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1329,6 +3297,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1337,6 +3317,18 @@
     "type": "共享参与者",
     "shared": [
       "cixi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1346,6 +3338,18 @@
     "shared": [
       "cixi",
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1354,6 +3358,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1363,6 +3379,18 @@
     "shared": [
       "cixi",
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1371,6 +3399,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1379,6 +3419,18 @@
     "type": "共享参与者",
     "shared": [
       "cixi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1387,6 +3439,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1395,6 +3459,18 @@
     "type": "共享参与者",
     "shared": [
       "cixi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1404,6 +3480,18 @@
     "shared": [
       "cixi",
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1412,6 +3500,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1421,6 +3521,18 @@
     "shared": [
       "cixi",
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1429,6 +3541,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1437,6 +3561,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1445,6 +3581,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1453,6 +3601,18 @@
     "type": "共享参与者",
     "shared": [
       "yongle"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1461,6 +3621,18 @@
     "type": "共享参与者",
     "shared": [
       "kangxi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1469,6 +3641,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1477,6 +3661,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1485,6 +3681,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1493,6 +3701,18 @@
     "type": "共享参与者",
     "shared": [
       "jiaqing"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1501,6 +3721,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1509,6 +3741,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1517,6 +3761,18 @@
     "type": "共享参与者",
     "shared": [
       "cixi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1525,6 +3781,18 @@
     "type": "共享参与者",
     "shared": [
       "cixi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1533,6 +3801,18 @@
     "type": "共享参与者",
     "shared": [
       "cixi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1541,6 +3821,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1549,6 +3841,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1557,6 +3861,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1565,6 +3881,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1573,6 +3901,18 @@
     "type": "共享参与者",
     "shared": [
       "cixi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1581,6 +3921,18 @@
     "type": "共享参与者",
     "shared": [
       "cixi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1589,6 +3941,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1598,6 +3962,18 @@
     "shared": [
       "cixi",
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1606,6 +3982,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1615,6 +4003,18 @@
     "shared": [
       "li-hongzhang",
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1623,6 +4023,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1631,6 +4043,18 @@
     "type": "共享参与者",
     "shared": [
       "guangxu"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1639,6 +4063,18 @@
     "type": "共享参与者",
     "shared": [
       "wang-zhi"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   },
   {
@@ -1647,6 +4083,18 @@
     "type": "共享参与者",
     "shared": [
       "qianlong"
+    ],
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
     ]
   }
 ]
