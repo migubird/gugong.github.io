@@ -31,22 +31,32 @@
       rect.addEventListener('click', () => selectPalace(palace.id));
       palaceLayer.appendChild(rect);
 
-      // Label
-      const text = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-      text.setAttribute('x', palace.coordinates.x);
-      text.setAttribute('y', palace.coordinates.y - 2);
-      text.setAttribute('class', 'palace-label');
-      text.textContent = palace.name;
-      labelLayer.appendChild(text);
+      // Label - only for important buildings, smaller text for gates/doors
+      const noLabelCats = ['门禁', '前朝门禁', '内廷门禁', '外朝门禁'];
+      const isMinor = palace.category in noLabelCats;
+      
+      if (!isMinor || palace.width >= 60) {
+        const text = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+        text.setAttribute('x', palace.coordinates.x);
+        text.setAttribute('y', palace.coordinates.y - 2);
+        text.setAttribute('class', 'palace-label');
+        // Smaller text for minor buildings
+        if (isMinor) {
+          text.setAttribute('font-size', '10');
+          text.setAttribute('fill', '#aaa');
+        }
+        text.textContent = palace.name;
+        labelLayer.appendChild(text);
 
-      // Alias
-      if (palace.aliases && palace.aliases.length > 0) {
-        const alias = document.createElementNS('http://www.w3.org/2000/svg', 'text');
-        alias.setAttribute('x', palace.coordinates.x);
-        alias.setAttribute('y', palace.coordinates.y + 14);
-        alias.setAttribute('class', 'palace-alias');
-        alias.textContent = palace.aliases[0];
-        labelLayer.appendChild(alias);
+        // Alias (only for important buildings)
+        if (palace.aliases && palace.aliases.length > 0 && !isMinor) {
+          const alias = document.createElementNS('http://www.w3.org/2000/svg', 'text');
+          alias.setAttribute('x', palace.coordinates.x);
+          alias.setAttribute('y', palace.coordinates.y + 14);
+          alias.setAttribute('class', 'palace-alias');
+          alias.textContent = palace.aliases[0];
+          labelLayer.appendChild(alias);
+        }
       }
     });
   }

@@ -15,7 +15,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 280
+      "y": 570
     },
     "width": 100,
     "height": 55,
@@ -42,7 +42,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 350
+      "y": 500
     },
     "width": 55,
     "height": 50,
@@ -69,7 +69,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 420
+      "y": 430
     },
     "width": 90,
     "height": 50,
@@ -95,7 +95,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 520
+      "y": 330
     },
     "width": 90,
     "height": 45,
@@ -120,7 +120,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 575
+      "y": 275
     },
     "width": 50,
     "height": 40,
@@ -145,7 +145,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 625
+      "y": 225
     },
     "width": 85,
     "height": 45,
@@ -173,7 +173,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 680,
-      "y": 560
+      "y": 290
     },
     "width": 60,
     "height": 40,
@@ -194,7 +194,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 320,
-      "y": 560
+      "y": 290
     },
     "width": 60,
     "height": 40,
@@ -213,7 +213,7 @@
     "dynasty": "清",
     "coordinates": {
       "x": 390,
-      "y": 490
+      "y": 360
     },
     "width": 70,
     "height": 50,
@@ -232,7 +232,7 @@
     "dynasty": "清",
     "coordinates": {
       "x": 450,
-      "y": 450
+      "y": 400
     },
     "width": 35,
     "height": 25,
@@ -255,7 +255,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 200
+      "y": 650
     },
     "width": 100,
     "height": 35,
@@ -276,7 +276,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 100
+      "y": 750
     },
     "width": 120,
     "height": 40,
@@ -295,7 +295,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 50
+      "y": 800
     },
     "width": 100,
     "height": 35,
@@ -316,7 +316,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 650,
-      "y": 300
+      "y": 550
     },
     "width": 70,
     "height": 40,
@@ -337,7 +337,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 350,
-      "y": 300
+      "y": 550
     },
     "width": 70,
     "height": 40,
@@ -356,7 +356,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 470
+      "y": 380
     },
     "width": 80,
     "height": 30,
@@ -375,7 +375,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 620,
-      "y": 620
+      "y": 230
     },
     "width": 55,
     "height": 35,
@@ -394,7 +394,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 620,
-      "y": 680
+      "y": 170
     },
     "width": 55,
     "height": 35,
@@ -413,7 +413,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 620,
-      "y": 740
+      "y": 110
     },
     "width": 55,
     "height": 35,
@@ -432,7 +432,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 740,
-      "y": 680
+      "y": 170
     },
     "width": 55,
     "height": 35,
@@ -451,7 +451,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 380,
-      "y": 620
+      "y": 230
     },
     "width": 55,
     "height": 35,
@@ -470,7 +470,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 380,
-      "y": 680
+      "y": 170
     },
     "width": 55,
     "height": 35,
@@ -489,7 +489,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 380,
-      "y": 740
+      "y": 110
     },
     "width": 55,
     "height": 35,
@@ -508,7 +508,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 260,
-      "y": 620
+      "y": 230
     },
     "width": 55,
     "height": 35,
@@ -527,7 +527,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 260,
-      "y": 680
+      "y": 170
     },
     "width": 55,
     "height": 35,
@@ -546,7 +546,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 260,
-      "y": 420
+      "y": 430
     },
     "width": 60,
     "height": 40,
@@ -565,7 +565,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 260,
-      "y": 480
+      "y": 370
     },
     "width": 60,
     "height": 40,
@@ -584,7 +584,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 740,
-      "y": 400
+      "y": 450
     },
     "width": 60,
     "height": 40,
@@ -603,7 +603,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 640,
-      "y": 450
+      "y": 400
     },
     "width": 60,
     "height": 40,
@@ -622,7 +622,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 680,
-      "y": 260
+      "y": 590
     },
     "width": 60,
     "height": 40,
@@ -641,7 +641,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 700
+      "y": 150
     },
     "width": 120,
     "height": 60,
@@ -660,7 +660,7 @@
     "dynasty": "明",
     "coordinates": {
       "x": 200,
-      "y": 450
+      "y": 400
     },
     "width": 60,
     "height": 50,
@@ -681,7 +681,7 @@
     "dynasty": "清",
     "coordinates": {
       "x": 740,
-      "y": 480
+      "y": 370
     },
     "width": 60,
     "height": 80,
@@ -700,7 +700,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 800
+      "y": 50
     },
     "width": 70,
     "height": 30,
@@ -719,7 +719,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 820,
-      "y": 450
+      "y": 400
     },
     "width": 70,
     "height": 30,
@@ -738,7 +738,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 180,
-      "y": 450
+      "y": 400
     },
     "width": 70,
     "height": 30,
@@ -757,7 +757,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 680,
-      "y": 350
+      "y": 500
     },
     "width": 45,
     "height": 30,
@@ -776,7 +776,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 660,
-      "y": 520
+      "y": 330
     },
     "width": 45,
     "height": 30,
@@ -795,7 +795,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 740,
-      "y": 560
+      "y": 290
     },
     "width": 45,
     "height": 30,
@@ -814,7 +814,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 740,
-      "y": 440
+      "y": 410
     },
     "width": 45,
     "height": 30,
@@ -833,7 +833,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 740,
-      "y": 520
+      "y": 330
     },
     "width": 45,
     "height": 30,
@@ -852,7 +852,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 600,
-      "y": 720
+      "y": 130
     },
     "width": 45,
     "height": 30,
@@ -871,7 +871,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 460,
-      "y": 720
+      "y": 130
     },
     "width": 45,
     "height": 30,
@@ -890,7 +890,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 540,
-      "y": 720
+      "y": 130
     },
     "width": 45,
     "height": 30,
@@ -909,7 +909,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 500,
-      "y": 760
+      "y": 90
     },
     "width": 45,
     "height": 30,
@@ -928,7 +928,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 200,
-      "y": 350
+      "y": 500
     },
     "width": 45,
     "height": 30,
@@ -947,7 +947,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 400,
-      "y": 470
+      "y": 380
     },
     "width": 45,
     "height": 30,
@@ -966,7 +966,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 600,
-      "y": 470
+      "y": 380
     },
     "width": 45,
     "height": 30,
@@ -985,7 +985,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 420,
-      "y": 200
+      "y": 650
     },
     "width": 40,
     "height": 30,
@@ -1004,7 +1004,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 580,
-      "y": 200
+      "y": 650
     },
     "width": 40,
     "height": 30,
@@ -1023,7 +1023,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 580,
-      "y": 180
+      "y": 670
     },
     "width": 40,
     "height": 30,
@@ -1042,7 +1042,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 420,
-      "y": 180
+      "y": 670
     },
     "width": 40,
     "height": 30,
@@ -1061,7 +1061,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 580,
-      "y": 230
+      "y": 620
     },
     "width": 40,
     "height": 30,
@@ -1080,7 +1080,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 420,
-      "y": 230
+      "y": 620
     },
     "width": 40,
     "height": 30,
@@ -1099,7 +1099,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 350,
-      "y": 350
+      "y": 500
     },
     "width": 40,
     "height": 30,
@@ -1118,7 +1118,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 650,
-      "y": 370
+      "y": 480
     },
     "width": 40,
     "height": 30,
@@ -1137,7 +1137,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 260,
-      "y": 540
+      "y": 310
     },
     "width": 40,
     "height": 30,
@@ -1156,7 +1156,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 200,
-      "y": 580
+      "y": 270
     },
     "width": 40,
     "height": 30,
@@ -1175,7 +1175,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 700,
-      "y": 380
+      "y": 470
     },
     "width": 40,
     "height": 30,
@@ -1194,7 +1194,7 @@
     "dynasty": "明清",
     "coordinates": {
       "x": 640,
-      "y": 560
+      "y": 290
     },
     "width": 40,
     "height": 30,
@@ -1215,7 +1215,7 @@
     "dynasty": "明",
     "coordinates": {
       "x": 200,
-      "y": 600
+      "y": 250
     },
     "width": 80,
     "height": 40,
@@ -1239,7 +1239,7 @@
     "dynasty": "明",
     "coordinates": {
       "x": 450,
-      "y": 550
+      "y": 300
     },
     "width": 30,
     "height": 20,
@@ -1263,7 +1263,7 @@
     "dynasty": "明",
     "coordinates": {
       "x": 550,
-      "y": 550
+      "y": 300
     },
     "width": 30,
     "height": 20,
@@ -1287,7 +1287,7 @@
     "dynasty": "明",
     "coordinates": {
       "x": 150,
-      "y": 300
+      "y": 550
     },
     "width": 30,
     "height": 20,
@@ -1311,7 +1311,7 @@
     "dynasty": "明",
     "coordinates": {
       "x": 750,
-      "y": 300
+      "y": 550
     },
     "width": 30,
     "height": 20,
@@ -1335,7 +1335,7 @@
     "dynasty": "明",
     "coordinates": {
       "x": 600,
-      "y": 500
+      "y": 350
     },
     "width": 30,
     "height": 20,
@@ -1359,7 +1359,7 @@
     "dynasty": "明",
     "coordinates": {
       "x": 400,
-      "y": 500
+      "y": 350
     },
     "width": 30,
     "height": 20,
@@ -1386,7 +1386,7 @@
     "dynasty": "清",
     "coordinates": {
       "x": 700,
-      "y": 650
+      "y": 200
     },
     "width": 60,
     "height": 35,
@@ -1410,7 +1410,7 @@
     "dynasty": "清",
     "coordinates": {
       "x": 700,
-      "y": 600
+      "y": 250
     },
     "width": 55,
     "height": 30,
@@ -1434,7 +1434,7 @@
     "dynasty": "明",
     "coordinates": {
       "x": 300,
-      "y": 750
+      "y": 100
     },
     "width": 45,
     "height": 25,
@@ -1459,7 +1459,7 @@
     "dynasty": "清",
     "coordinates": {
       "x": 550,
-      "y": 450
+      "y": 400
     },
     "width": 35,
     "height": 20,
@@ -1485,7 +1485,7 @@
     "dynasty": "明",
     "coordinates": {
       "x": 350,
-      "y": 400
+      "y": 450
     },
     "width": 40,
     "height": 25,
