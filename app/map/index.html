@@ -13,37 +13,68 @@
       <a href="../../" class="back-btn">&#8592; 返回主页</a>
       <h1>故宫知识图谱</h1>
     </div>
-    <p class="subtitle">点击宫殿，探索600年历史中的人物与事件</p>
+    <p class="subtitle">上北下南 · 点击宫殿，探索600年历史中的人物与事件</p>
   </header>
 
   <main>
     <div id="map-container">
-      <svg id="palace-map" viewBox="0 0 1000 900" xmlns="http://www.w3.org/2000/svg">
+      <svg id="palace-map" viewBox="0 0 1000 920" xmlns="http://www.w3.org/2000/svg">
         <!-- 背景 -->
-        <rect x="0" y="0" width="1000" height="900" fill="#1a1a2e"/>
+        <rect x="0" y="0" width="1000" height="920" fill="#1a1a2e"/>
 
-        <!-- 宫墙 -->
-        <rect x="100" y="40" width="800" height="800" fill="none" stroke="#c41e3a" stroke-width="4" rx="5"/>
+        <!-- ====== 宫墙 ====== -->
+        <!-- 外郭城墙 -->
+        <rect x="110" y="40" width="780" height="780" fill="#1c1c30" stroke="#8b0000" stroke-width="4" rx="4"/>
+        <!-- 内城城墙 -->
+        <rect x="160" y="80" width="680" height="620" fill="#1c1c30" stroke="#c41e3a" stroke-width="2" rx="3" stroke-dasharray="8,4"/>
 
-        <!-- 午门（南） -->
-        <rect x="400" y="730" width="200" height="20" fill="#c41e3a" rx="2"/>
-        <text x="500" y="745" text-anchor="middle" fill="#fff" font-size="14">午门</text>
+        <!-- ====== 中轴线 ====== -->
+        <line x1="500" y1="50" x2="500" y2="810" stroke="#d4a01722" stroke-width="2" stroke-dasharray="5,5"/>
 
-        <!-- 神武门（北） -->
-        <rect x="400" y="45" width="200" height="15" fill="#c41e3a" rx="2"/>
-        <text x="500" y="57" text-anchor="middle" fill="#fff" font-size="12">神武门</text>
+        <!-- ====== 区域标注 ====== -->
+        <text x="880" y="500" text-anchor="middle" fill="#d4a017" font-size="16" font-weight="bold" opacity="0.3" transform="rotate(90, 880, 500)">外 朝</text>
+        <text x="120" y="400" text-anchor="middle" fill="#c0392b" font-size="16" font-weight="bold" opacity="0.3" transform="rotate(-90, 120, 400)">内 廷</text>
 
-        <!-- 中轴线 -->
-        <line x1="500" y1="40" x2="500" y2="850" stroke="#d4a01733" stroke-width="2" stroke-dasharray="5,5"/>
-
-        <!-- 外朝区域标签 -->
-        <text x="500" y="580" text-anchor="middle" fill="#d4a017" font-size="18" font-weight="bold" opacity="0.5">外 朝</text>
-        <!-- 内廷区域标签 -->
-        <text x="500" y="250" text-anchor="middle" fill="#c0392b" font-size="18" font-weight="bold" opacity="0.5">内 廷</text>
-
-        <!-- 宫殿将通过JS动态生成 -->
+        <!-- ====== 宫殿动态层 ====== -->
         <g id="palace-layer"></g>
         <g id="label-layer"></g>
+
+        <!-- ====== 颜色图例 ====== -->
+        <g id="legend" transform="translate(15, 10)">
+          <rect x="0" y="0" width="130" height="190" fill="#161b22dd" stroke="#30363d" stroke-width="1" rx="6"/>
+          <text x="10" y="22" fill="#c9a227" font-size="12" font-weight="bold">图例</text>
+          <line x1="5" y1="28" x2="125" y2="28" stroke="#30363d" stroke-width="1"/>
+
+          <rect x="10" y="35" width="14" height="10" fill="#d4a017" rx="2"/>
+          <text x="32" y="44" fill="#ccc" font-size="10">外朝大殿</text>
+
+          <rect x="10" y="50" width="14" height="10" fill="#c0392b" rx="2"/>
+          <text x="32" y="59" fill="#ccc" font-size="10">内廷后寝</text>
+
+          <rect x="10" y="65" width="14" height="10" fill="#8e44ad" rx="2"/>
+          <text x="32" y="74" fill="#ccc" font-size="10">东西六宫</text>
+
+          <rect x="10" y="80" width="14" height="10" fill="#27ae60" rx="2"/>
+          <text x="32" y="89" fill="#ccc" font-size="10">附属宫殿</text>
+
+          <rect x="10" y="95" width="14" height="10" fill="#16a085" rx="2"/>
+          <text x="32" y="104" fill="#ccc" font-size="10">园林建筑</text>
+
+          <rect x="10" y="110" width="14" height="10" fill="#e67e22" rx="2"/>
+          <text x="32" y="119" fill="#ccc" font-size="10">城门 / 门禁</text>
+
+          <rect x="10" y="125" width="14" height="10" fill="#7f8c8d" rx="2"/>
+          <text x="32" y="134" fill="#ccc" font-size="10">附属建筑</text>
+
+          <rect x="10" y="140" width="14" height="10" fill="#3498db" rx="2"/>
+          <text x="32" y="149" fill="#ccc" font-size="10">服务设施</text>
+
+          <rect x="10" y="155" width="14" height="10" fill="#e74c3c" rx="2"/>
+          <text x="32" y="164" fill="#ccc" font-size="10">祭祀场所</text>
+
+          <rect x="10" y="170" width="14" height="10" fill="#95a5a6" rx="2"/>
+          <text x="32" y="179" fill="#ccc" font-size="10">其他</text>
+        </g>
       </svg>
     </div>
 
@@ -51,7 +82,7 @@
       <div id="sidebar-content">
         <div class="placeholder">
           <div class="icon">&#127963;</div>
-          <h2>点击左侧地图上的宫殿</h2>
+          <h2>点击地图上的宫殿</h2>
           <p>查看与该宫殿相关的皇帝、人物和事件</p>
         </div>
       </div>
