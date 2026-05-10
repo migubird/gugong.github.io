@@ -6,23 +6,23 @@
   <title>故宫知识图谱 - Gugong Knowledge Graph</title>
   <style>
     * { margin: 0; padding: 0; box-sizing: border-box; }
-    body { font-family: "PingFang SC", "Microsoft YaHei", sans-serif; background: #0d1117; color: #e6edf3; min-height: 100vh; }
-    header { background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 3rem 2rem; text-align: center; border-bottom: 2px solid #c9a227; }
-    header h1 { font-size: 2.5rem; color: #c9a227; margin-bottom: 0.5rem; }
-    header p { font-size: 1.1rem; color: #8b949e; }
+    body { font-family: "PingFang SC", "Microsoft YaHei", sans-serif; background: #f5f0e8; color: #2c2c2c; min-height: 100vh; }
+    header { background: linear-gradient(135deg, #fff8ee 0%, #f0e6cc 100%); padding: 3rem 2rem; text-align: center; border-bottom: 2px solid #c9a227; }
+    header h1 { font-size: 2.5rem; color: #b8860b; margin-bottom: 0.5rem; }
+    header p { font-size: 1.1rem; color: #666; }
     .container { max-width: 900px; margin: 2rem auto; padding: 0 1.5rem; }
     .card-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(260px, 1fr)); gap: 1.5rem; margin-top: 2rem; }
-    .card { background: #161b22; border: 1px solid #30363d; border-radius: 12px; padding: 1.5rem; transition: transform 0.2s, border-color 0.2s; }
-    .card:hover { transform: translateY(-3px); border-color: #c9a227; }
-    .card h3 { color: #c9a227; font-size: 1.2rem; margin-bottom: 0.75rem; }
-    .card p { color: #8b949e; font-size: 0.95rem; line-height: 1.6; }
-    .card a { display: inline-block; margin-top: 1rem; color: #58a6ff; text-decoration: none; }
+    .card { background: #fff; border: 1px solid #e0d5c0; border-radius: 12px; padding: 1.5rem; transition: transform 0.2s, border-color 0.2s; box-shadow: 0 2px 8px rgba(0,0,0,0.06); }
+    .card:hover { transform: translateY(-3px); border-color: #c9a227; box-shadow: 0 4px 16px rgba(0,0,0,0.1); }
+    .card h3 { color: #b8860b; font-size: 1.2rem; margin-bottom: 0.75rem; }
+    .card p { color: #555; font-size: 0.95rem; line-height: 1.6; }
+    .card a { display: inline-block; margin-top: 1rem; color: #2563a8; text-decoration: none; }
     .card a:hover { text-decoration: underline; }
     .stats { display: flex; justify-content: center; gap: 3rem; margin: 2rem 0; flex-wrap: wrap; }
     .stat { text-align: center; }
-    .stat .num { font-size: 2rem; color: #c9a227; font-weight: bold; }
-    .stat .label { color: #8b949e; font-size: 0.9rem; }
-    footer { text-align: center; padding: 2rem; color: #484f58; font-size: 0.85rem; border-top: 1px solid #21262d; margin-top: 3rem; }
+    .stat .num { font-size: 2rem; color: #b8860b; font-weight: bold; }
+    .stat .label { color: #666; font-size: 0.9rem; }
+    footer { text-align: center; padding: 2rem; color: #999; font-size: 0.85rem; border-top: 1px solid #e0d5c0; margin-top: 3rem; }
     @media (max-width: 600px) {
       header h1 { font-size: 1.8rem; }
       header p { font-size: 0.95rem; }

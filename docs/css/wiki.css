@@ -1,25 +1,25 @@
-/* 故宫知识图谱 Wiki - Dark Chinese Imperial Theme */
+/* 故宫知识图谱 Wiki - Light Chinese Imperial Theme */
 
 :root {
-  --bg-primary: #0d1117;
-  --bg-secondary: #161b22;
-  --bg-tertiary: #1c2333;
-  --border: #30363d;
-  --text-primary: #e6edf3;
-  --text-secondary: #8b949e;
-  --text-muted: #6e7681;
-  --gold: #c9a227;
-  --gold-dim: #c9a01733;
-  --blue: #58a6ff;
-  --link: #58a6ff;
+  --bg-primary: #faf8f3;
+  --bg-secondary: #fff;
+  --bg-tertiary: #f0ebe0;
+  --border: #d4c9b5;
+  --text-primary: #2c2c2c;
+  --text-secondary: #666;
+  --text-muted: #999;
+  --gold: #b8860b;
+  --gold-dim: #c9a22722;
+  --blue: #2563a8;
+  --link: #2563a8;
 
   /* Entity type colors */
-  --entity-person: #3498db;    /* 人名 */
-  --entity-palace: #27ae60;    /* 建筑 */
+  --entity-person: #2980b9;    /* 人名 */
+  --entity-palace: #1e8e4e;    /* 建筑 */
   --entity-event: #c0392b;     /* 事件 */
-  --entity-figure: #e67e22;    /* 人物/figures */
-  --entity-time: #f39c12;      /* 时间 */
-  --entity-title: #9b59b6;     /* 官职 */
+  --entity-figure: #d35400;    /* 人物/figures */
+  --entity-time: #d68910;      /* 时间 */
+  --entity-title: #8e44ad;     /* 官职 */
 }
 
 * { margin: 0; padding: 0; box-sizing: border-box; }
@@ -36,7 +36,7 @@ body {
 /* ── Header ─────────────────────────────────────────────────────── */
 
 header {
-  background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%);
+  background: linear-gradient(135deg, #fff8ee 0%, #f0e6cc 100%);
   padding: 1.25rem 2rem;
   border-bottom: 2px solid var(--gold);
 }
@@ -108,7 +108,7 @@ header h1 .entity-badge {
 .desc {
   font-size: 17px;
   line-height: 1.85;
-  color: #ccc;
+  color: #444;
   margin: 1.25rem 0;
 }
 
@@ -170,7 +170,7 @@ li a:hover { text-decoration: underline; }
 }
 
 .event-card .edesc {
-  color: #aaa;
+  color: #555;
   line-height: 1.5;
   margin-top: 4px;
 }
