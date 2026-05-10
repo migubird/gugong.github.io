@@ -3,722 +3,2126 @@
     "from": "jiajing",
     "to": "qianqing-gong",
     "type": "居住于",
-    "period": "1521-1566"
+    "period": "1521-1566",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "qianqing-gong",
     "type": "居住于",
-    "period": "1572-1620"
+    "period": "1572-1620",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen",
     "to": "qianqing-gong",
     "type": "居住于",
-    "period": "1627-1644"
+    "period": "1627-1644",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "qianqing-gong",
     "type": "居住于",
-    "period": "1662-1722"
+    "period": "1662-1722",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "yangxindian",
     "type": "居住于",
-    "period": "1722-1735"
+    "period": "1722-1735",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "yangxindian",
     "type": "居住于",
-    "period": "1735-1795"
+    "period": "1735-1795",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "yangxindian",
     "type": "居住于",
-    "period": "1820-1850"
+    "period": "1820-1850",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "yangxindian",
     "type": "居住于",
-    "period": "1875-1908"
+    "period": "1875-1908",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuantong",
     "to": "yangxindian",
     "type": "居住于",
-    "period": "1908-1912"
+    "period": "1908-1912",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "cixi",
     "to": "chuxiu-gong",
     "type": "居住于",
-    "note": "储秀宫为其重要居所"
+    "note": "储秀宫为其重要居所",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengtong",
     "to": "qianqing-gong",
     "type": "居住于",
-    "period": "1435-1449"
+    "period": "1435-1449",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jingtai",
     "to": "qianqing-gong",
     "type": "居住于",
-    "period": "1449-1457"
+    "period": "1449-1457",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chenghua",
     "to": "qianqing-gong",
     "type": "居住于",
-    "period": "1464-1487"
+    "period": "1464-1487",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongzhi",
     "to": "qianqing-gong",
     "type": "居住于",
-    "period": "1487-1505"
+    "period": "1487-1505",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengde",
     "to": "qianqing-gong",
     "type": "居住于",
-    "period": "1505-1521"
+    "period": "1505-1521",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "longqing",
     "to": "qianqing-gong",
     "type": "居住于",
-    "period": "1567-1572"
+    "period": "1567-1572",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "taichang",
     "to": "qianqing-gong",
     "type": "居住于",
-    "period": "1620"
+    "period": "1620",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tianqi",
     "to": "qianqing-gong",
     "type": "居住于",
-    "period": "1620-1627"
+    "period": "1620-1627",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "shunzhi",
     "to": "qianqing-gong",
     "type": "居住于",
-    "period": "1644-1661"
+    "period": "1644-1661",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiaqing",
     "to": "yangxindian",
     "type": "居住于",
-    "period": "1796-1820"
+    "period": "1796-1820",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "yangxindian",
     "type": "居住于",
-    "period": "1850-1861"
+    "period": "1850-1861",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "yangxindian",
     "type": "居住于",
-    "period": "1861-1875"
+    "period": "1861-1875",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hai-rui",
     "to": "qianqing-gong",
     "type": "发生于",
-    "note": "上治安疏"
+    "note": "上治安疏",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "cixi",
     "to": "cining-gong",
-    "type": "居住于"
+    "type": "居住于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "cixi",
     "to": "le-shoutang",
-    "type": "居住于"
+    "type": "居住于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xiaozhuang",
     "to": "cining-gong",
-    "type": "居住于"
+    "type": "居住于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kuai-xiang",
     "to": "taihe-dian",
-    "type": "主持修建"
+    "type": "主持修建",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "lei-fada",
     "to": "taihe-dian",
-    "type": "主持修建"
+    "type": "主持修建",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "lei-jinxi",
     "to": "yu-huayuan",
-    "type": "主持修建"
+    "type": "主持修建",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "lei-jiayu",
     "to": "ningshou-huayuan",
-    "type": "主持修建"
+    "type": "主持修建",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanrong",
     "to": "chuxiu-gong",
     "type": "居住于",
-    "note": "大婚后居所"
+    "note": "大婚后居所",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhen-fei",
     "to": "jingren-gong",
-    "type": "居住于"
+    "type": "居住于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xiang-fei",
     "to": "yongshou-gong",
-    "type": "居住于"
+    "type": "居住于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "duomen-zhi-bian",
     "to": "wu-men",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "duomen-zhi-bian",
     "to": "qianqing-gong",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "renyin-gongbian",
     "to": "kunning-gong",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tumu-crisis",
     "to": "tumen",
     "type": "发生于",
-    "note": "土木堡位于长城外"
+    "note": "土木堡位于长城外",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "beijing-defense",
     "to": "wu-men",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "beijing-defense",
     "to": "de-sheng-men",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "taihe-dian-fire-1421",
     "to": "taihe-dian",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "taihe-dian-fire-1557",
     "to": "taihe-dian",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "taihe-dian-fire-1597",
     "to": "taihe-dian",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianqing-fire",
     "to": "qianqing-gong",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "abdication",
     "to": "yangxindian",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "junjichu-established",
     "to": "junji-chu",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "heshen-corruption",
     "to": "yangxindian",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wuxu-bianfa",
     "to": "taihe-dian",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wuxu-bianfa",
     "to": "yangxindian",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhenfei-death",
     "to": "ningshou-huayuan",
     "type": "发生于",
-    "note": "珍妃井"
+    "note": "珍妃井",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chongzhen-death",
     "to": "shenwu-men",
     "type": "发生于",
-    "note": "煤山位于神武门外"
+    "note": "煤山位于神武门外",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wuxu-coup",
     "to": "zhongnanhai",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xinyou-coup",
     "to": "yangxindian",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiuzi-duodi",
     "to": "qianqing-gong",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi-enthronement",
     "to": "taihe-dian",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong-enthronement",
     "to": "taihe-dian",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi-wedding",
     "to": "kunning-gong",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu-wedding",
     "to": "kunning-gong",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi-wedding",
     "to": "kunning-gong",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "dianshi",
     "to": "baohe-dian",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jingyan",
     "to": "wenhua-dian",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "new-year-ceremony",
     "to": "taihe-dian",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanshou-ceremony",
     "to": "taihe-dian",
-    "type": "发生于"
+    "type": "发生于",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "ning-shou-gong",
     "type": "居住于",
     "period": "乾隆",
-    "note": "退位后居宁寿宫"
+    "note": "退位后居宁寿宫",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "huang-ji-dian",
     "type": "居住于",
     "period": "乾隆",
-    "note": "禅位后受朝贺"
+    "note": "禅位后受朝贺",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "qianqing-gong",
     "type": "居住于",
     "period": "康熙",
-    "note": "日常起居"
+    "note": "日常起居",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle",
     "to": "qianqing-gong",
     "type": "居住于",
     "period": "永乐",
-    "note": "迁都后居住"
+    "note": "迁都后居住",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "gugong-construction",
     "to": "taihe-dian",
     "type": "发生于",
     "period": "1406",
-    "note": "修建紫禁城"
+    "note": "修建紫禁城",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "gugong-construction",
     "to": "zhonghe-dian",
     "type": "发生于",
     "period": "1406",
-    "note": "修建紫禁城"
+    "note": "修建紫禁城",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "gugong-construction",
     "to": "baohe-dian",
     "type": "发生于",
     "period": "1406",
-    "note": "修建紫禁城"
+    "note": "修建紫禁城",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "gugong-construction",
     "to": "qianqing-gong",
     "type": "发生于",
     "period": "1406",
-    "note": "修建紫禁城"
+    "note": "修建紫禁城",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "gugong-construction",
     "to": "kunning-gong",
     "type": "发生于",
     "period": "1406",
-    "note": "修建紫禁城"
+    "note": "修建紫禁城",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiuzi-duodi",
     "to": "qianqing-gong",
     "type": "发生于",
     "period": "1708",
-    "note": "九子夺嫡"
+    "note": "九子夺嫡",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiuzi-duodi",
     "to": "yangxindian",
     "type": "发生于",
     "period": "1708",
-    "note": "九子夺嫡"
+    "note": "九子夺嫡",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "junjichu-established",
     "to": "junji-chu",
     "type": "发生于",
     "period": "1729",
-    "note": "军机处设立"
+    "note": "军机处设立",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "junjichu-established",
     "to": "yangxindian",
     "type": "发生于",
     "period": "1729",
-    "note": "军机处设立"
+    "note": "军机处设立",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "abdication",
     "to": "yangxindian",
     "type": "发生于",
     "period": "1912",
-    "note": "清帝退位"
+    "note": "清帝退位",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "taihe-dian-fire-1421",
     "to": "taihe-dian",
     "type": "发生于",
     "period": "1421",
-    "note": "三大殿火灾(永乐)"
+    "note": "三大殿火灾(永乐)",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "taihe-dian-fire-1421",
     "to": "zhonghe-dian",
     "type": "发生于",
     "period": "1421",
-    "note": "三大殿火灾(永乐)"
+    "note": "三大殿火灾(永乐)",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "taihe-dian-fire-1421",
     "to": "baohe-dian",
     "type": "发生于",
     "period": "1421",
-    "note": "三大殿火灾(永乐)"
+    "note": "三大殿火灾(永乐)",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "taihe-dian-fire-1557",
     "to": "taihe-dian",
     "type": "发生于",
     "period": "1557",
-    "note": "三大殿火灾(嘉靖)"
+    "note": "三大殿火灾(嘉靖)",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "taihe-dian-fire-1557",
     "to": "zhonghe-dian",
     "type": "发生于",
     "period": "1557",
-    "note": "三大殿火灾(嘉靖)"
+    "note": "三大殿火灾(嘉靖)",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "taihe-dian-fire-1557",
     "to": "baohe-dian",
     "type": "发生于",
     "period": "1557",
-    "note": "三大殿火灾(嘉靖)"
+    "note": "三大殿火灾(嘉靖)",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "taihe-dian-fire-1597",
     "to": "taihe-dian",
     "type": "发生于",
     "period": "1597",
-    "note": "三大殿火灾(万历)"
+    "note": "三大殿火灾(万历)",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "taihe-dian-fire-1597",
     "to": "zhonghe-dian",
     "type": "发生于",
     "period": "1597",
-    "note": "三大殿火灾(万历)"
+    "note": "三大殿火灾(万历)",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "taihe-dian-fire-1597",
     "to": "baohe-dian",
     "type": "发生于",
     "period": "1597",
-    "note": "三大殿火灾(万历)"
+    "note": "三大殿火灾(万历)",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianqing-fire",
     "to": "qianqing-gong",
     "type": "发生于",
     "period": "1514",
-    "note": "乾清宫火灾"
+    "note": "乾清宫火灾",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "taihe-dian-rebuild-1695",
     "to": "taihe-dian",
     "type": "发生于",
     "period": "1695",
-    "note": "太和殿重建(康熙)"
+    "note": "太和殿重建(康熙)",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wuyingdian-rebuild",
     "to": "wuying-dian",
     "type": "发生于",
     "period": "1646",
-    "note": "武英殿修书"
+    "note": "武英殿修书",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yu-huayuan-build",
     "to": "yu-huayuan",
     "type": "发生于",
     "period": "1740",
-    "note": "御花园修缮"
+    "note": "御花园修缮",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "ning-shougong-build",
     "to": "ning-shougong",
     "type": "发生于",
     "period": "1771",
-    "note": "宁寿宫区修建"
+    "note": "宁寿宫区修建",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "ning-shougong-build",
     "to": "huangjidian",
     "type": "发生于",
     "period": "1771",
-    "note": "宁寿宫区修建"
+    "note": "宁寿宫区修建",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "ning-shougong-build",
     "to": "le-shoutang",
     "type": "发生于",
     "period": "1771",
-    "note": "宁寿宫区修建"
+    "note": "宁寿宫区修建",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "ning-shougong-build",
     "to": "ningshou-huayuan",
     "type": "发生于",
     "period": "1771",
-    "note": "宁寿宫区修建"
+    "note": "宁寿宫区修建",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuande-enthronement",
     "to": "taihe-dian",
     "type": "发生于",
     "period": "1425",
-    "note": "宣德帝登基"
+    "note": "宣德帝登基",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong-enthronement",
     "to": "taihe-dian",
     "type": "发生于",
     "period": "1735",
-    "note": "乾隆帝登基"
+    "note": "乾隆帝登基",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi-enthronement",
     "to": "taihe-dian",
     "type": "发生于",
     "period": "1661",
-    "note": "康熙帝登基"
+    "note": "康熙帝登基",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi-wedding",
     "to": "kunning-gong",
     "type": "发生于",
     "period": "1665",
-    "note": "康熙大婚"
+    "note": "康熙大婚",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu-wedding",
     "to": "kunning-gong",
     "type": "发生于",
     "period": "1889",
-    "note": "光绪大婚"
+    "note": "光绪大婚",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi-wedding",
     "to": "kunning-gong",
     "type": "发生于",
     "period": "1872",
-    "note": "同治大婚"
+    "note": "同治大婚",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuantong-wedding",
     "to": "kunning-gong",
     "type": "发生于",
     "period": "1922",
-    "note": "宣统大婚"
+    "note": "宣统大婚",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "new-year-ceremony",
     "to": "taihe-dian",
     "type": "发生于",
     "period": "1420",
-    "note": "元旦朝贺"
+    "note": "元旦朝贺",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanshou-ceremony",
     "to": "taihe-dian",
     "type": "发生于",
     "period": "1420",
-    "note": "万寿节庆典"
+    "note": "万寿节庆典",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "dianshi",
     "to": "baohe-dian",
     "type": "发生于",
     "period": "1420",
-    "note": "殿试"
+    "note": "殿试",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jingyan",
     "to": "wenhua-dian",
     "type": "发生于",
     "period": "1420",
-    "note": "经筵讲学"
+    "note": "经筵讲学",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "duomen-zhi-bian",
     "to": "wu-men",
     "type": "发生于",
     "period": "1457",
-    "note": "夺门之变"
+    "note": "夺门之变",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "duomen-zhi-bian",
     "to": "qianqing-gong",
     "type": "发生于",
     "period": "1457",
-    "note": "夺门之变"
+    "note": "夺门之变",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "renyin-gongbian",
     "to": "kunning-gong",
     "type": "发生于",
     "period": "1542",
-    "note": "壬寅宫变"
+    "note": "壬寅宫变",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "boxer-war",
     "to": "shenwu-men",
     "type": "发生于",
     "period": "1900",
-    "note": "八国联军侵华"
+    "note": "八国联军侵华",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "boxer-war",
     "to": "wu-men",
     "type": "发生于",
     "period": "1900",
-    "note": "八国联军侵华"
+    "note": "八国联军侵华",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "beijing-defense",
     "to": "wu-men",
     "type": "发生于",
     "period": "1449",
-    "note": "北京保卫战"
+    "note": "北京保卫战",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tingzhang",
     "to": "taihe-dian",
     "type": "发生于",
     "period": "1500",
-    "note": "廷杖制度"
+    "note": "廷杖制度",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong-abdication",
     "to": "taihe-dian",
     "type": "发生于",
     "period": "1795",
-    "note": "乾隆禅位"
+    "note": "乾隆禅位",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi-death",
     "to": "yangxindian",
     "type": "发生于",
     "period": "1875",
-    "note": "同治帝驾崩"
+    "note": "同治帝驾崩",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tingji-case",
     "to": "cining-gong",
     "type": "发生于",
     "period": "1615",
-    "note": "梃击案"
+    "note": "梃击案",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwan-case",
     "to": "qianqing-gong",
     "type": "发生于",
     "period": "1620",
-    "note": "红丸案"
+    "note": "红丸案",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle-encyclopedia",
     "to": "wenhua-dian",
     "type": "发生于",
     "period": "1403",
-    "note": "编纂永乐大典"
+    "note": "编纂永乐大典",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong-siku",
     "to": "wuying-dian",
     "type": "发生于",
     "period": "1773",
-    "note": "编纂四库全书"
+    "note": "编纂四库全书",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史/地理志",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   }
 ]

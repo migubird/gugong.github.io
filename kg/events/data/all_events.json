@@ -16,7 +16,29 @@
       "yongle"
     ],
     "description": "明成祖朱棣下令修建紫禁城，耗时14年，动用工匠10万、民夫100万。1420年建成，次年正式迁都北京。",
-    "outcome": "紫禁城建成，明朝正式迁都北京"
+    "outcome": "紫禁城建成，明朝正式迁都北京",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 修建紫禁城",
+        "url": "https://zh.wikipedia.org/wiki/修建紫禁城",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "jingnan-zhiyi",
@@ -29,7 +51,29 @@
       "yongle"
     ],
     "description": "燕王朱棣以'靖难'为名起兵反叛建文帝，历时四年攻入南京，夺取皇位。",
-    "outcome": "朱棣夺位成功，改元永乐"
+    "outcome": "朱棣夺位成功，改元永乐",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 靖难之役",
+        "url": "https://zh.wikipedia.org/wiki/靖难之役",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "chongzhen-death",
@@ -43,7 +87,29 @@
       "eunuch-wang-cheng-en"
     ],
     "description": "李自成攻破北京，崇祯帝在煤山（今景山）自缢，太监王承恩随行。明朝灭亡。",
-    "outcome": "明朝灭亡"
+    "outcome": "明朝灭亡",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 崇祯帝自缢",
+        "url": "https://zh.wikipedia.org/wiki/崇祯帝自缢",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "qing-enter-beijing",
@@ -57,7 +123,29 @@
       "wu-sangui"
     ],
     "description": "吴三桂引清兵入关，多尔衮率军击败李自成，清军进入北京并定都于此，故宫成为清朝皇宫。",
-    "outcome": "清朝定都北京，故宫成为清皇宫"
+    "outcome": "清朝定都北京，故宫成为清皇宫",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 清军入关定鼎北京",
+        "url": "https://zh.wikipedia.org/wiki/清军入关定鼎北京",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "jiuzi-duodi",
@@ -74,7 +162,29 @@
       "yongzheng"
     ],
     "description": "康熙晚年诸皇子争夺储位，四阿哥胤禛（雍正）最终胜出即位。",
-    "outcome": "胤禛即位为雍正帝"
+    "outcome": "胤禛即位为雍正帝",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 九子夺嫡",
+        "url": "https://zh.wikipedia.org/wiki/九子夺嫡",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "junjichu-established",
@@ -91,7 +201,29 @@
       "zhangtingyu"
     ],
     "description": "雍正七年设立军机处，成为清代中后期最高权力机关，取代议政王大臣会议。",
-    "outcome": "军机处成为清代实际最高决策机构"
+    "outcome": "军机处成为清代实际最高决策机构",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 军机处设立",
+        "url": "https://zh.wikipedia.org/wiki/军机处设立",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "heshen-corruption",
@@ -106,7 +238,29 @@
       "jixiaolan"
     ],
     "description": "乾隆驾崩后十五天，嘉庆帝宣布和珅二十大罪状，赐自尽。抄家所得相当于清政府十余年财政收入。",
-    "outcome": "和珅被赐死，家产抄没"
+    "outcome": "和珅被赐死，家产抄没",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 和珅被抄家",
+        "url": "https://zh.wikipedia.org/wiki/和珅被抄家",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "opium-war",
@@ -120,7 +274,29 @@
       "lin-zexu"
     ],
     "description": "林则徐虎门销烟后，英国发动鸦片战争。清军战败，签订南京条约，中国开始沦为半殖民地。",
-    "outcome": "签订南京条约，割让香港"
+    "outcome": "签订南京条约，割让香港",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 虎门销烟与鸦片战争",
+        "url": "https://zh.wikipedia.org/wiki/虎门销烟与鸦片战争",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "wuxu-bianfa",
@@ -136,7 +312,29 @@
       "cixi"
     ],
     "description": "光绪帝支持康有为、梁启超发起维新变法，推行新政。慈禧太后发动戊戌政变，变法失败。",
-    "outcome": "变法失败，光绪被软禁"
+    "outcome": "变法失败，光绪被软禁",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 戊戌变法",
+        "url": "https://zh.wikipedia.org/wiki/戊戌变法",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "zhenfei-death",
@@ -150,7 +348,29 @@
       "cixi"
     ],
     "description": "八国联军攻入北京，慈禧太后仓皇出逃前，命太监将珍妃投入井中溺死。",
-    "outcome": "珍妃遇害"
+    "outcome": "珍妃遇害",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 珍妃之死",
+        "url": "https://zh.wikipedia.org/wiki/珍妃之死",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "abdication",
@@ -167,7 +387,29 @@
       "yuan-shikai"
     ],
     "description": "隆裕太后在养心殿签署《清帝退位诏书》，溥仪退位。清朝灭亡，中国两千多年帝制终结。",
-    "outcome": "清帝退位，帝制终结"
+    "outcome": "清帝退位，帝制终结",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 清帝退位",
+        "url": "https://zh.wikipedia.org/wiki/清帝退位",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "pu-yi-expelled",
@@ -180,7 +422,29 @@
       "xuantong"
     ],
     "description": "冯玉祥发动北京政变，派鹿钟麟率军进入故宫，限令溥仪三小时内离宫。溥仪从此告别紫禁城。",
-    "outcome": "溥仪永远离开故宫"
+    "outcome": "溥仪永远离开故宫",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 溥仪被逐出宫",
+        "url": "https://zh.wikipedia.org/wiki/溥仪被逐出宫",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "wancheng-dadian",
@@ -193,7 +457,29 @@
       "yongle"
     ],
     "description": "永乐帝命解缙等编纂《永乐大典》，全书22937卷，是中国古代最大的类书。",
-    "outcome": "《永乐大典》编成"
+    "outcome": "《永乐大典》编成",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 编纂永乐大典",
+        "url": "https://zh.wikipedia.org/wiki/编纂永乐大典",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "zhenghe-voyages",
@@ -207,7 +493,29 @@
       "zheng-he"
     ],
     "description": "郑和七次率庞大船队远航，到达东南亚、南亚、阿拉伯半岛和非洲东海岸。",
-    "outcome": "拓展海上丝绸之路，宣扬国威"
+    "outcome": "拓展海上丝绸之路，宣扬国威",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 郑和下西洋",
+        "url": "https://zh.wikipedia.org/wiki/郑和下西洋",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "siku-quanshu",
@@ -221,7 +529,29 @@
       "jixiaolan"
     ],
     "description": "乾隆帝命纪昀等总纂《四库全书》，收录图书3503种，是中国古代最大的丛书。",
-    "outcome": "《四库全书》编成"
+    "outcome": "《四库全书》编成",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 编纂四库全书",
+        "url": "https://zh.wikipedia.org/wiki/编纂四库全书",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "taihe-dian-fire-1421",
@@ -236,7 +566,29 @@
     ],
     "participants": [],
     "description": "紫禁城建成后仅数月，三大殿遭雷击焚毁。",
-    "outcome": "三大殿焚毁，后重建"
+    "outcome": "三大殿焚毁，后重建",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 三大殿火灾(永乐)",
+        "url": "https://zh.wikipedia.org/wiki/三大殿火灾(永乐)",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "taihe-dian-fire-1557",
@@ -253,7 +605,29 @@
       "jiajing"
     ],
     "description": "嘉靖三十六年三大殿遭雷击焚毁。",
-    "outcome": "三大殿焚毁"
+    "outcome": "三大殿焚毁",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 三大殿火灾(嘉靖)",
+        "url": "https://zh.wikipedia.org/wiki/三大殿火灾(嘉靖)",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "taihe-dian-fire-1597",
@@ -270,7 +644,29 @@
       "wanli"
     ],
     "description": "万历二十五年三大殿再次遭火灾。",
-    "outcome": "三大殿焚毁"
+    "outcome": "三大殿焚毁",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 三大殿火灾(万历)",
+        "url": "https://zh.wikipedia.org/wiki/三大殿火灾(万历)",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "qianqing-fire",
@@ -285,7 +681,29 @@
       "zhengde"
     ],
     "description": "正德九年乾清宫发生火灾。",
-    "outcome": "乾清宫焚毁后重建"
+    "outcome": "乾清宫焚毁后重建",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 乾清宫火灾",
+        "url": "https://zh.wikipedia.org/wiki/乾清宫火灾",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "taihe-dian-rebuild-1695",
@@ -300,7 +718,29 @@
       "kangxi"
     ],
     "description": "康熙三十四年重建太和殿，形成今日所见规模。",
-    "outcome": "现存太和殿建成"
+    "outcome": "现存太和殿建成",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 太和殿重建(康熙)",
+        "url": "https://zh.wikipedia.org/wiki/太和殿重建(康熙)",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "wuyingdian-rebuild",
@@ -315,7 +755,29 @@
       "shunzhi"
     ],
     "description": "清初设修书处于武英殿，武英殿刻本由此闻名。",
-    "outcome": "武英殿刻书传统建立"
+    "outcome": "武英殿刻书传统建立",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 武英殿修书",
+        "url": "https://zh.wikipedia.org/wiki/武英殿修书",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "yu-huayuan-build",
@@ -330,7 +792,29 @@
       "qianlong"
     ],
     "description": "乾隆年间对御花园进行大规模修缮和增建。",
-    "outcome": "御花园格局定型"
+    "outcome": "御花园格局定型",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 御花园修缮",
+        "url": "https://zh.wikipedia.org/wiki/御花园修缮",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "ning-shougong-build",
@@ -348,7 +832,29 @@
       "qianlong"
     ],
     "description": "乾隆帝为自己退位后养老修建宁寿宫区。",
-    "outcome": "宁寿宫区建成"
+    "outcome": "宁寿宫区建成",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 宁寿宫区修建",
+        "url": "https://zh.wikipedia.org/wiki/宁寿宫区修建",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "yongle-enthronement",
@@ -361,7 +867,29 @@
       "yongle"
     ],
     "description": "朱棣在南京登基，改元永乐。",
-    "outcome": "永乐朝开始"
+    "outcome": "永乐朝开始",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 永乐帝登基",
+        "url": "https://zh.wikipedia.org/wiki/永乐帝登基",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "xuande-enthronement",
@@ -376,7 +904,29 @@
       "xuande"
     ],
     "description": "宣宗即位大典。",
-    "outcome": "宣德朝开始"
+    "outcome": "宣德朝开始",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 宣德帝登基",
+        "url": "https://zh.wikipedia.org/wiki/宣德帝登基",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "qianlong-enthronement",
@@ -391,7 +941,29 @@
       "qianlong"
     ],
     "description": "高宗即位大典。",
-    "outcome": "乾隆朝开始"
+    "outcome": "乾隆朝开始",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 乾隆帝登基",
+        "url": "https://zh.wikipedia.org/wiki/乾隆帝登基",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "kangxi-enthronement",
@@ -406,7 +978,29 @@
       "kangxi"
     ],
     "description": "玄烨八岁即位。",
-    "outcome": "康熙朝开始"
+    "outcome": "康熙朝开始",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 康熙帝登基",
+        "url": "https://zh.wikipedia.org/wiki/康熙帝登基",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "shunzhi-enthronement",
@@ -420,7 +1014,29 @@
       "dorgon"
     ],
     "description": "福临六岁在沈阳即位，后入关在北京重新登基。",
-    "outcome": "顺治朝开始"
+    "outcome": "顺治朝开始",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 顺治帝登基",
+        "url": "https://zh.wikipedia.org/wiki/顺治帝登基",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "kangxi-wedding",
@@ -436,7 +1052,29 @@
       "xiaochengren"
     ],
     "description": "康熙帝与赫舍里氏大婚。",
-    "outcome": "册立皇后"
+    "outcome": "册立皇后",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 康熙大婚",
+        "url": "https://zh.wikipedia.org/wiki/康熙大婚",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "guangxu-wedding",
@@ -452,7 +1090,29 @@
       "longyu"
     ],
     "description": "光绪帝与叶赫那拉氏（隆裕）大婚。",
-    "outcome": "册立皇后"
+    "outcome": "册立皇后",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 光绪大婚",
+        "url": "https://zh.wikipedia.org/wiki/光绪大婚",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "tongzhi-wedding",
@@ -467,7 +1127,29 @@
       "tongzhi"
     ],
     "description": "同治帝大婚。",
-    "outcome": "册立皇后"
+    "outcome": "册立皇后",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 同治大婚",
+        "url": "https://zh.wikipedia.org/wiki/同治大婚",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "xuantong-wedding",
@@ -483,7 +1165,29 @@
       "wanrong"
     ],
     "description": "溥仪与婉容大婚，此时已退位。",
-    "outcome": "末代皇帝大婚"
+    "outcome": "末代皇帝大婚",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 宣统大婚",
+        "url": "https://zh.wikipedia.org/wiki/宣统大婚",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "new-year-ceremony",
@@ -496,7 +1200,29 @@
     ],
     "participants": [],
     "description": "每年元旦皇帝在太和殿接受百官朝贺。",
-    "outcome": "年度礼仪"
+    "outcome": "年度礼仪",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 元旦朝贺",
+        "url": "https://zh.wikipedia.org/wiki/元旦朝贺",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "wanshou-ceremony",
@@ -509,7 +1235,29 @@
     ],
     "participants": [],
     "description": "皇帝生日（万寿节）在太和殿举行庆典。",
-    "outcome": "年度礼仪"
+    "outcome": "年度礼仪",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 万寿节庆典",
+        "url": "https://zh.wikipedia.org/wiki/万寿节庆典",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "dianshi",
@@ -522,7 +1270,29 @@
     ],
     "participants": [],
     "description": "清代在保和殿举行殿试，选拔进士。",
-    "outcome": "科举最高级别考试"
+    "outcome": "科举最高级别考试",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 殿试",
+        "url": "https://zh.wikipedia.org/wiki/殿试",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "jingyan",
@@ -535,7 +1305,29 @@
     ],
     "participants": [],
     "description": "皇帝在文华殿举行经筵讲学，讲解经史。",
-    "outcome": "学术讲论"
+    "outcome": "学术讲论",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 经筵讲学",
+        "url": "https://zh.wikipedia.org/wiki/经筵讲学",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "duomen-zhi-bian",
@@ -554,7 +1346,29 @@
       "xu-youzhen"
     ],
     "description": "石亨、徐有贞等拥戴被囚禁的英宗复辟，废景泰帝。",
-    "outcome": "英宗复辟，改元天顺"
+    "outcome": "英宗复辟，改元天顺",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 夺门之变",
+        "url": "https://zh.wikipedia.org/wiki/夺门之变",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "renyin-gongbian",
@@ -569,7 +1383,29 @@
       "jiajing"
     ],
     "description": "嘉靖二十一年，宫女杨金英等企图勒死嘉靖帝，事败后被凌迟。",
-    "outcome": "宫女弑帝未遂"
+    "outcome": "宫女弑帝未遂",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 壬寅宫变",
+        "url": "https://zh.wikipedia.org/wiki/壬寅宫变",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "wu-sangu-rebellion",
@@ -583,7 +1419,29 @@
       "wu-sangui"
     ],
     "description": "吴三桂等三藩王反清，历时八年被康熙平定。",
-    "outcome": "三藩平定，中央集权加强"
+    "outcome": "三藩平定，中央集权加强",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 三藩之乱",
+        "url": "https://zh.wikipedia.org/wiki/三藩之乱",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "lin-shuangwen",
@@ -597,7 +1455,29 @@
       "fu-kang-an"
     ],
     "description": "台湾林爽文起义，福康安率军平定。",
-    "outcome": "台湾起义平定"
+    "outcome": "台湾起义平定",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 林爽文起义",
+        "url": "https://zh.wikipedia.org/wiki/林爽文起义",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "baixianjiao",
@@ -611,7 +1491,29 @@
       "jiaqing"
     ],
     "description": "川楚白莲教大起义，耗费清朝大量财力。",
-    "outcome": "起义平定，清朝衰落加速"
+    "outcome": "起义平定，清朝衰落加速",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 白莲教起义",
+        "url": "https://zh.wikipedia.org/wiki/白莲教起义",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "taiping-rebellion",
@@ -626,7 +1528,29 @@
       "zeng-guofan"
     ],
     "description": "洪秀全领导太平天国运动，攻占南京。最终被湘军平定。",
-    "outcome": "太平天国覆灭"
+    "outcome": "太平天国覆灭",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 太平天国运动",
+        "url": "https://zh.wikipedia.org/wiki/太平天国运动",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "nian-rebellion",
@@ -640,7 +1564,29 @@
       "tongzhi"
     ],
     "description": "捻军在北方起义，后被李鸿章等平定。",
-    "outcome": "捻军平定"
+    "outcome": "捻军平定",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 捻军起义",
+        "url": "https://zh.wikipedia.org/wiki/捻军起义",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "second-opium-war",
@@ -653,7 +1599,29 @@
       "xianfeng"
     ],
     "description": "英法联军攻入北京，火烧圆明园。咸丰帝逃往热河。",
-    "outcome": "火烧圆明园，签订天津条约、北京条约"
+    "outcome": "火烧圆明园，签订天津条约、北京条约",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 第二次鸦片战争",
+        "url": "https://zh.wikipedia.org/wiki/第二次鸦片战争",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "yuanmingyuan-fire",
@@ -666,7 +1634,29 @@
       "xianfeng"
     ],
     "description": "英法联军洗劫并焚毁圆明园。",
-    "outcome": "圆明园被毁"
+    "outcome": "圆明园被毁",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 火烧圆明园",
+        "url": "https://zh.wikipedia.org/wiki/火烧圆明园",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "jiawu-war",
@@ -681,7 +1671,29 @@
       "ding-ruchang"
     ],
     "description": "中日甲午战争，北洋水师全军覆没。",
-    "outcome": "签订马关条约，割让台湾"
+    "outcome": "签订马关条约，割让台湾",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 甲午战争",
+        "url": "https://zh.wikipedia.org/wiki/甲午战争",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "boxer-war",
@@ -698,7 +1710,29 @@
       "cixi"
     ],
     "description": "八国联军攻入北京，慈禧携光绪西逃。",
-    "outcome": "签订辛丑条约"
+    "outcome": "签订辛丑条约",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 八国联军侵华",
+        "url": "https://zh.wikipedia.org/wiki/八国联军侵华",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "wuxu-coup",
@@ -715,7 +1749,29 @@
       "rong-lu"
     ],
     "description": "慈禧太后发动政变，囚禁光绪帝，捕杀戊戌六君子。",
-    "outcome": "戊戌变法失败"
+    "outcome": "戊戌变法失败",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 戊戌政变",
+        "url": "https://zh.wikipedia.org/wiki/戊戌政变",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "xinhai-revolution",
@@ -729,7 +1785,29 @@
       "yuan-shikai"
     ],
     "description": "武昌起义后各省纷纷独立，最终导致清帝退位。",
-    "outcome": "清朝灭亡"
+    "outcome": "清朝灭亡",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 辛亥革命",
+        "url": "https://zh.wikipedia.org/wiki/辛亥革命",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "jingnan-start",
@@ -742,7 +1820,29 @@
       "yongle"
     ],
     "description": "朱棣以北平为基地起兵反建文帝。",
-    "outcome": "靖难之役开始"
+    "outcome": "靖难之役开始",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 靖难起兵",
+        "url": "https://zh.wikipedia.org/wiki/靖难起兵",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "hongwu-death",
@@ -755,7 +1855,29 @@
       "hongwu"
     ],
     "description": "明太祖朱元璋驾崩，皇太孙朱允炆即位。",
-    "outcome": "建文帝即位"
+    "outcome": "建文帝即位",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 朱元璋驾崩",
+        "url": "https://zh.wikipedia.org/wiki/朱元璋驾崩",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "yongle-death",
@@ -768,7 +1890,29 @@
       "yongle"
     ],
     "description": "永乐帝在北征途中驾崩于榆木川。",
-    "outcome": "洪熙帝即位"
+    "outcome": "洪熙帝即位",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 永乐帝驾崩",
+        "url": "https://zh.wikipedia.org/wiki/永乐帝驾崩",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "tumu-crisis",
@@ -782,7 +1926,29 @@
       "eunuch-wang-zhen"
     ],
     "description": "明英宗在王振怂恿下亲征瓦剌，在土木堡被俘，五十万大军覆没。",
-    "outcome": "英宗被俘，明朝精锐尽失"
+    "outcome": "英宗被俘，明朝精锐尽失",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 土木堡之变",
+        "url": "https://zh.wikipedia.org/wiki/土木堡之变",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "beijing-defense",
@@ -799,7 +1965,29 @@
       "yu-qian"
     ],
     "description": "于谦组织北京保卫战，击退瓦剌军队，保卫京师。",
-    "outcome": "北京保卫成功"
+    "outcome": "北京保卫成功",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 北京保卫战",
+        "url": "https://zh.wikipedia.org/wiki/北京保卫战",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "hongxi-reforms",
@@ -812,7 +2000,29 @@
       "hongxi"
     ],
     "description": "仁宗即位后废除永乐朝苛政，释放建文旧臣家属。",
-    "outcome": "废除苛政"
+    "outcome": "废除苛政",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 洪熙仁政",
+        "url": "https://zh.wikipedia.org/wiki/洪熙仁政",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "renxuan-zhizhi",
@@ -825,7 +2035,29 @@
       "xuande"
     ],
     "description": "仁宗、宣宗时期，明朝政治清明、经济繁荣的黄金时代。",
-    "outcome": "明朝黄金时代"
+    "outcome": "明朝黄金时代",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 仁宣之治",
+        "url": "https://zh.wikipedia.org/wiki/仁宣之治",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "tingzhang",
@@ -838,7 +2070,29 @@
     ],
     "participants": [],
     "description": "明代在朝堂上杖打大臣的制度，嘉靖朝尤甚。",
-    "outcome": "廷杖制度盛行"
+    "outcome": "廷杖制度盛行",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 廷杖制度",
+        "url": "https://zh.wikipedia.org/wiki/廷杖制度",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "guozi-jian",
@@ -849,7 +2103,29 @@
     "locations": [],
     "participants": [],
     "description": "明清最高学府和教育管理机构。",
-    "outcome": "国家最高学府"
+    "outcome": "国家最高学府",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 国子监",
+        "url": "https://zh.wikipedia.org/wiki/国子监",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "dorgon-death",
@@ -863,7 +2139,29 @@
       "shunzhi"
     ],
     "description": "多尔衮去世后被追封为皇帝，后又被顺治追罪。",
-    "outcome": "多尔衮身后被追罪"
+    "outcome": "多尔衮身后被追罪",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 多尔衮去世",
+        "url": "https://zh.wikipedia.org/wiki/多尔衮去世",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "kangxi-southern-tour",
@@ -876,7 +2174,29 @@
       "kangxi"
     ],
     "description": "康熙帝六次南巡，视察河工，体察民情。",
-    "outcome": "六次南巡"
+    "outcome": "六次南巡",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 康熙南巡",
+        "url": "https://zh.wikipedia.org/wiki/康熙南巡",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "qianlong-southern-tour",
@@ -889,7 +2209,29 @@
       "qianlong"
     ],
     "description": "乾隆帝六次南巡，耗费巨大。",
-    "outcome": "六次南巡"
+    "outcome": "六次南巡",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 乾隆南巡",
+        "url": "https://zh.wikipedia.org/wiki/乾隆南巡",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "heshen-fall",
@@ -903,7 +2245,29 @@
       "he-shen"
     ],
     "description": "嘉庆帝在乾隆驾崩后立即逮捕和珅，赐其自尽。",
-    "outcome": "和珅被赐死"
+    "outcome": "和珅被赐死",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 和珅倒台",
+        "url": "https://zh.wikipedia.org/wiki/和珅倒台",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "qianlong-abdication",
@@ -919,7 +2283,29 @@
       "jiaqing"
     ],
     "description": "乾隆帝禅位于嘉庆帝，但实际仍掌权至驾崩。",
-    "outcome": "嘉庆即位"
+    "outcome": "嘉庆即位",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 乾隆禅位",
+        "url": "https://zh.wikipedia.org/wiki/乾隆禅位",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "xianfeng-flee",
@@ -932,7 +2318,29 @@
       "xianfeng"
     ],
     "description": "英法联军逼近北京，咸丰帝逃往热河避暑山庄。",
-    "outcome": "皇帝出逃"
+    "outcome": "皇帝出逃",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 咸丰帝逃往热河",
+        "url": "https://zh.wikipedia.org/wiki/咸丰帝逃往热河",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "xinyou-coup",
@@ -947,7 +2355,29 @@
       "gong-qinwang"
     ],
     "description": "慈禧太后联合恭亲王奕訢发动政变，铲除八大臣，开始垂帘听政。",
-    "outcome": "两宫垂帘听政开始"
+    "outcome": "两宫垂帘听政开始",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 辛酉政变",
+        "url": "https://zh.wikipedia.org/wiki/辛酉政变",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "tongzhi-death",
@@ -962,7 +2392,29 @@
       "tongzhi"
     ],
     "description": "同治帝十九岁驾崩，无子。慈禧立光绪帝。",
-    "outcome": "光绪即位"
+    "outcome": "光绪即位",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 同治帝驾崩",
+        "url": "https://zh.wikipedia.org/wiki/同治帝驾崩",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "guangxu-death",
@@ -977,7 +2429,29 @@
       "guangxu"
     ],
     "description": "光绪帝在瀛台驾崩，次日慈禧亦崩。",
-    "outcome": "光绪、慈禧相继驾崩"
+    "outcome": "光绪、慈禧相继驾崩",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 光绪帝驾崩",
+        "url": "https://zh.wikipedia.org/wiki/光绪帝驾崩",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "cixi-death",
@@ -992,7 +2466,29 @@
       "cixi"
     ],
     "description": "慈禧太后在仪鸾殿驾崩，享年74岁。",
-    "outcome": "慈禧驾崩"
+    "outcome": "慈禧驾崩",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 慈禧太后驾崩",
+        "url": "https://zh.wikipedia.org/wiki/慈禧太后驾崩",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "guangxu-imprison",
@@ -1006,7 +2502,29 @@
       "cixi"
     ],
     "description": "戊戌政变后光绪帝被软禁于中南海瀛台长达十年。",
-    "outcome": "光绪失去自由"
+    "outcome": "光绪失去自由",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 光绪被囚瀛台",
+        "url": "https://zh.wikipedia.org/wiki/光绪被囚瀛台",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "li-hongzhang-treaty",
@@ -1020,7 +2538,29 @@
       "li-hongzhang"
     ],
     "description": "李鸿章代表清政府签订马关条约，割让台湾。",
-    "outcome": "割让台湾"
+    "outcome": "割让台湾",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 签订马关条约",
+        "url": "https://zh.wikipedia.org/wiki/签订马关条约",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "xinchou-treaty",
@@ -1035,7 +2575,29 @@
       "li-hongzhang"
     ],
     "description": "清政府与十一国签订辛丑条约，赔款四亿五千万两白银。",
-    "outcome": "巨额赔款"
+    "outcome": "巨额赔款",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 签订辛丑条约",
+        "url": "https://zh.wikipedia.org/wiki/签订辛丑条约",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "cao-shi-coup",
@@ -1051,7 +2613,29 @@
       "cao-qin"
     ],
     "description": "武将石亨、曹钦发动的未遂政变",
-    "outcome": "失败，参与者被诛杀"
+    "outcome": "失败，参与者被诛杀",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 曹石之变",
+        "url": "https://zh.wikipedia.org/wiki/曹石之变",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "tingji-case",
@@ -1066,7 +2650,29 @@
       "wang-zhi"
     ],
     "description": "张差持木棍闯入太子居所的神秘事件",
-    "outcome": "疑为郑贵妃谋害太子，未查明真相"
+    "outcome": "疑为郑贵妃谋害太子，未查明真相",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 梃击案",
+        "url": "https://zh.wikipedia.org/wiki/梃击案",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "hongwan-case",
@@ -1082,7 +2688,29 @@
       "cui-wensheng"
     ],
     "description": "泰昌帝服红丸后暴毙的宫廷疑案",
-    "outcome": "泰昌帝在位仅一月即驾崩"
+    "outcome": "泰昌帝在位仅一月即驾崩",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 红丸案",
+        "url": "https://zh.wikipedia.org/wiki/红丸案",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "xi-chang",
@@ -1098,7 +2726,29 @@
       "wang-zhi"
     ],
     "description": "成化帝设立西厂，由汪直提督",
-    "outcome": "特务机构，权力在东厂之上"
+    "outcome": "特务机构，权力在东厂之上",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 西厂设立",
+        "url": "https://zh.wikipedia.org/wiki/西厂设立",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "sanfan-rebellion",
@@ -1114,7 +2764,29 @@
       "wu-sangui"
     ],
     "description": "吴三桂等三藩发动的反清战争",
-    "outcome": "康熙帝历时八年平定"
+    "outcome": "康熙帝历时八年平定",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 三藩之乱",
+        "url": "https://zh.wikipedia.org/wiki/三藩之乱",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "jinchuan-campaign",
@@ -1129,7 +2801,29 @@
       "qianlong"
     ],
     "description": "乾隆帝两次平定大小金川土司叛乱",
-    "outcome": "巩固西南边疆"
+    "outcome": "巩固西南边疆",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 大小金川之役",
+        "url": "https://zh.wikipedia.org/wiki/大小金川之役",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "taipai-treaty",
@@ -1144,7 +2838,29 @@
       "daoguang"
     ],
     "description": "中英签订中国近代第一个不平等条约",
-    "outcome": "割让香港，开放五口通商"
+    "outcome": "割让香港，开放五口通商",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 签订南京条约",
+        "url": "https://zh.wikipedia.org/wiki/签订南京条约",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "wuxu-reform",
@@ -1161,7 +2877,29 @@
       "liang-qichao"
     ],
     "description": "光绪帝在康有为等人推动下进行的维新变法",
-    "outcome": "历时103天被慈禧太后镇压"
+    "outcome": "历时103天被慈禧太后镇压",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 戊戌变法",
+        "url": "https://zh.wikipedia.org/wiki/戊戌变法",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "yongle-encyclopedia",
@@ -1177,7 +2915,29 @@
       "xie-jin"
     ],
     "description": "解缙等主持编纂的百科全书",
-    "outcome": "中国最大的百科全书"
+    "outcome": "中国最大的百科全书",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 编纂永乐大典",
+        "url": "https://zh.wikipedia.org/wiki/编纂永乐大典",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "qianlong-siku",
@@ -1193,7 +2953,29 @@
       "ji-xiaolan"
     ],
     "description": "纪晓岚等编纂的中国最大丛书",
-    "outcome": "收录3461种图书"
+    "outcome": "收录3461种图书",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 编纂四库全书",
+        "url": "https://zh.wikipedia.org/wiki/编纂四库全书",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   },
   {
     "id": "gugong-becomes-museum",
@@ -1206,6 +2988,28 @@
     ],
     "participants": [],
     "description": "紫禁城正式改为故宫博物院",
-    "outcome": "向公众开放"
+    "outcome": "向公众开放",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "description",
+          "start_year",
+          "end_year"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 故宫博物院成立",
+        "url": "https://zh.wikipedia.org/wiki/故宫博物院成立",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "outcome"
+        ]
+      }
+    ]
   }
 ]

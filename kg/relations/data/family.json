@@ -2,184 +2,616 @@
   {
     "from": "kangxi",
     "to": "yongzheng",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "yongzheng",
     "type": "父子",
-    "note": "父子关系通过kangxi建立"
+    "note": "父子关系通过kangxi建立",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "qianlong",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "longyu",
-    "type": "夫妻"
+    "type": "夫妻",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "guangxu",
     "to": "zhen-fei",
     "type": "夫妻",
-    "note": "宠妃"
+    "note": "宠妃",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuantong",
     "to": "wanrong",
-    "type": "夫妻"
+    "type": "夫妻",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle",
     "to": "hongxi",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongxi",
     "to": "xuande",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuande",
     "to": "zhengtong",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "zhengtong",
     "to": "chenghua",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chenghua",
     "to": "hongzhi",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongzhi",
     "to": "zhengde",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiajing",
     "to": "longqing",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "longqing",
     "to": "wanli",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "wanli",
     "to": "taichang",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "taichang",
     "to": "tianqi",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "taichang",
     "to": "chongzhen",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "huangtaiji",
     "to": "shunzhi",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "shunzhi",
     "to": "kangxi",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "jiaqing",
     "to": "daoguang",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "xianfeng",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "tongzhi",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongwu",
     "to": "ma-huanghou",
-    "type": "夫妻"
+    "type": "夫妻",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongle",
     "to": "xu-huanghou",
-    "type": "夫妻"
+    "type": "夫妻",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "hongxi",
     "to": "zhang-huanghou",
-    "type": "夫妻"
+    "type": "夫妻",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuande",
     "to": "sun-huanghou",
-    "type": "夫妻"
+    "type": "夫妻",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "chenghua",
     "to": "wan-guifei",
-    "type": "夫妻"
+    "type": "夫妻",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "kangxi",
     "to": "xiaochengren",
-    "type": "夫妻"
+    "type": "夫妻",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "yongzheng",
     "to": "xiaojingxian",
-    "type": "夫妻"
+    "type": "夫妻",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "xiaoxianchun",
-    "type": "夫妻"
+    "type": "夫妻",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "qianlong",
     "to": "xiang-fei",
-    "type": "夫妻"
+    "type": "夫妻",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "daoguang",
     "to": "xiaoquanchun",
-    "type": "夫妻"
+    "type": "夫妻",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "cixi",
-    "type": "夫妻"
+    "type": "夫妻",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xianfeng",
     "to": "ci-an",
-    "type": "夫妻"
+    "type": "夫妻",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "tongzhi",
     "to": "xiaozheyi",
     "type": "夫妻",
-    "note": "孝哲毅皇后"
+    "note": "孝哲毅皇后",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   },
   {
     "from": "xuantong",
     "to": "zai-feng",
-    "type": "父子"
+    "type": "父子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史记载",
+        "fields": [
+          "type",
+          "from",
+          "to"
+        ]
+      }
+    ]
   }
 ]

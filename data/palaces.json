@@ -26,7 +26,29 @@
       "depth_m": 37.2,
       "height_m": 35.05
     },
-    "color": "#d4a017"
+    "color": "#d4a017",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 太和殿",
+        "url": "https://zh.wikipedia.org/wiki/太和殿",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "zhonghe-dian": {
     "id": "zhonghe-dian",
@@ -53,7 +75,29 @@
       "depth_m": 24.15,
       "height_m": 19.7
     },
-    "color": "#d4a017"
+    "color": "#d4a017",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 中和殿",
+        "url": "https://zh.wikipedia.org/wiki/中和殿",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "baohe-dian": {
     "id": "baohe-dian",
@@ -80,7 +124,29 @@
       "depth_m": 27.75,
       "height_m": 29.5
     },
-    "color": "#d4a017"
+    "color": "#d4a017",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 保和殿",
+        "url": "https://zh.wikipedia.org/wiki/保和殿",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "qianqing-gong": {
     "id": "qianqing-gong",
@@ -106,7 +172,29 @@
       "depth_m": 21.6,
       "height_m": 20.0
     },
-    "color": "#c0392b"
+    "color": "#c0392b",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 乾清宫",
+        "url": "https://zh.wikipedia.org/wiki/乾清宫",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "jiaotai-dian": {
     "id": "jiaotai-dian",
@@ -131,7 +219,29 @@
       "depth_m": 16.8,
       "height_m": 16.5
     },
-    "color": "#c0392b"
+    "color": "#c0392b",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 交泰殿",
+        "url": "https://zh.wikipedia.org/wiki/交泰殿",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "kunning-gong": {
     "id": "kunning-gong",
@@ -156,7 +266,29 @@
       "depth_m": 16.3,
       "height_m": 15.8
     },
-    "color": "#c0392b"
+    "color": "#c0392b",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 坤宁宫",
+        "url": "https://zh.wikipedia.org/wiki/坤宁宫",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "yanxi-gong": {
     "id": "yanxi-gong",
@@ -180,7 +312,29 @@
     "description": "东西六宫之一。清代多位妃嫔曾居此。宣统元年（1909）改建为西式三层\"水晶宫\"，因辛亥革命停工。",
     "significance": "妃嫔居所，晚清西洋建筑尝试",
     "dimensions": {},
-    "color": "#8e44ad"
+    "color": "#8e44ad",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 延禧宫",
+        "url": "https://zh.wikipedia.org/wiki/延禧宫",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "chuxiu-gong": {
     "id": "chuxiu-gong",
@@ -201,7 +355,29 @@
     "description": "西六宫之一。慈禧太后入宫时居于此，后为庆祝五十大寿斥巨资修缮。光绪大婚时，慈禧居于此宫。",
     "significance": "慈禧入宫居所",
     "dimensions": {},
-    "color": "#8e44ad"
+    "color": "#8e44ad",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 储秀宫",
+        "url": "https://zh.wikipedia.org/wiki/储秀宫",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "yangxindian": {
     "id": "yangxindian",
@@ -220,7 +396,29 @@
     "description": "雍正起清代皇帝的寝宫和理政中心。\"勤政亲贤\"匾额下是皇帝日常办公之处。晚清慈禧太后在此垂帘听政。",
     "significance": "清雍正后皇帝实际寝宫，垂帘听政地",
     "dimensions": {},
-    "color": "#c0392b"
+    "color": "#c0392b",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 养心殿",
+        "url": "https://zh.wikipedia.org/wiki/养心殿",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "junji-chu": {
     "id": "junji-chu",
@@ -239,7 +437,20 @@
     "description": "雍正七年（1729）设立，清朝中后期实际最高权力机关。军机大臣在此每日觐见皇帝，处理军国大事。",
     "significance": "清代中后期最高决策机构",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 军机处",
+        "url": "https://zh.wikipedia.org/wiki/军机处",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "taihe-men": {
     "id": "taihe-men",
@@ -262,7 +473,20 @@
     "description": "外朝正门，皇帝御门听政之处。明代称奉天门。",
     "significance": "外朝正门，御门听政",
     "dimensions": {},
-    "color": "#d4a017"
+    "color": "#d4a017",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 太和门",
+        "url": "https://zh.wikipedia.org/wiki/太和门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "wu-men": {
     "id": "wu-men",
@@ -283,7 +507,20 @@
     "description": "紫禁城正南门，呈'凹'字形，中门为皇帝专用。举行献俘礼、颁布历书之处。",
     "significance": "紫禁城正门，国家礼仪象征",
     "dimensions": {},
-    "color": "#d4a017"
+    "color": "#d4a017",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 午门",
+        "url": "https://zh.wikipedia.org/wiki/午门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "duan-men": {
     "id": "duan-men",
@@ -302,7 +539,20 @@
     "description": "位于午门之北、天安门之南，形制与天安门相似。",
     "significance": "皇城礼仪通道",
     "dimensions": {},
-    "color": "#d4a017"
+    "color": "#d4a017",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 端门",
+        "url": "https://zh.wikipedia.org/wiki/端门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "wenhua-dian": {
     "id": "wenhua-dian",
@@ -323,7 +573,29 @@
     "description": "外朝东侧大殿，明代为太子讲学之处。清代为经筵讲学之所，后设文华殿大学士。",
     "significance": "太子讲学、经筵场所",
     "dimensions": {},
-    "color": "#d4a017"
+    "color": "#d4a017",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 文华殿",
+        "url": "https://zh.wikipedia.org/wiki/文华殿",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "wuying-dian": {
     "id": "wuying-dian",
@@ -344,7 +616,29 @@
     "description": "外朝西侧大殿，明代皇帝斋居之处。清代设为修书处，武英殿刻印书籍闻名。",
     "significance": "清代修书处、武英殿刻本",
     "dimensions": {},
-    "color": "#d4a017"
+    "color": "#d4a017",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 武英殿",
+        "url": "https://zh.wikipedia.org/wiki/武英殿",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "qianqing-men": {
     "id": "qianqing-men",
@@ -363,7 +657,20 @@
     "description": "内廷正门，清代御门听政改在此举行。",
     "significance": "内廷正门，御门听政",
     "dimensions": {},
-    "color": "#c0392b"
+    "color": "#c0392b",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 乾清门",
+        "url": "https://zh.wikipedia.org/wiki/乾清门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "jingren-gong": {
     "id": "jingren-gong",
@@ -382,7 +689,29 @@
     "description": "东六宫之一。康熙帝出生于此。东西六宫建筑布局相同。",
     "significance": "妃嫔居所",
     "dimensions": {},
-    "color": "#8e44ad"
+    "color": "#8e44ad",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 景仁宫",
+        "url": "https://zh.wikipedia.org/wiki/景仁宫",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "chengqian-gong": {
     "id": "chengqian-gong",
@@ -401,7 +730,29 @@
     "description": "东六宫之一。顺治帝董鄂妃居所。东西六宫建筑布局相同。",
     "significance": "妃嫔居所",
     "dimensions": {},
-    "color": "#8e44ad"
+    "color": "#8e44ad",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 承乾宫",
+        "url": "https://zh.wikipedia.org/wiki/承乾宫",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "zhongcui-gong": {
     "id": "zhongcui-gong",
@@ -420,7 +771,29 @@
     "description": "东六宫之一。清代后妃居所。东西六宫建筑布局相同。",
     "significance": "妃嫔居所",
     "dimensions": {},
-    "color": "#8e44ad"
+    "color": "#8e44ad",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 钟粹宫",
+        "url": "https://zh.wikipedia.org/wiki/钟粹宫",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "yonghe-gong": {
     "id": "yonghe-gong",
@@ -439,7 +812,29 @@
     "description": "东六宫之一。清代后妃居所。",
     "significance": "妃嫔居所",
     "dimensions": {},
-    "color": "#8e44ad"
+    "color": "#8e44ad",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 永和宫",
+        "url": "https://zh.wikipedia.org/wiki/永和宫",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "yikun-gong": {
     "id": "yikun-gong",
@@ -458,7 +853,29 @@
     "description": "西六宫之一。清代后妃居所。",
     "significance": "妃嫔居所",
     "dimensions": {},
-    "color": "#8e44ad"
+    "color": "#8e44ad",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 翊坤宫",
+        "url": "https://zh.wikipedia.org/wiki/翊坤宫",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "changchun-gong": {
     "id": "changchun-gong",
@@ -477,7 +894,29 @@
     "description": "西六宫之一。慈禧太后曾居于此，后迁储秀宫。",
     "significance": "妃嫔居所",
     "dimensions": {},
-    "color": "#8e44ad"
+    "color": "#8e44ad",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 长春宫",
+        "url": "https://zh.wikipedia.org/wiki/长春宫",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "xianfu-gong": {
     "id": "xianfu-gong",
@@ -496,7 +935,29 @@
     "description": "西六宫之一。清代后妃居所，嘉庆、道光、咸丰守孝处。",
     "significance": "妃嫔居所",
     "dimensions": {},
-    "color": "#8e44ad"
+    "color": "#8e44ad",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 咸福宫",
+        "url": "https://zh.wikipedia.org/wiki/咸福宫",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "yongshou-gong": {
     "id": "yongshou-gong",
@@ -515,7 +976,29 @@
     "description": "西六宫之一。清代后妃居所。",
     "significance": "妃嫔居所",
     "dimensions": {},
-    "color": "#8e44ad"
+    "color": "#8e44ad",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 永寿宫",
+        "url": "https://zh.wikipedia.org/wiki/永寿宫",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "taiji-dian": {
     "id": "taiji-dian",
@@ -534,7 +1017,29 @@
     "description": "西六宫之一，原名启祥宫。清代后妃居所。",
     "significance": "妃嫔居所",
     "dimensions": {},
-    "color": "#8e44ad"
+    "color": "#8e44ad",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 太极殿",
+        "url": "https://zh.wikipedia.org/wiki/太极殿",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "cining-gong": {
     "id": "cining-gong",
@@ -553,7 +1058,29 @@
     "description": "太后居所。孝庄太后、慈安太后等曾居于此。",
     "significance": "皇家礼仪场所",
     "dimensions": {},
-    "color": "#c0392b"
+    "color": "#c0392b",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 慈宁宫",
+        "url": "https://zh.wikipedia.org/wiki/慈宁宫",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "shoukang-gong": {
     "id": "shoukang-gong",
@@ -572,7 +1099,29 @@
     "description": "乾隆帝为生母崇庆皇太后所建。",
     "significance": "皇家礼仪场所",
     "dimensions": {},
-    "color": "#c0392b"
+    "color": "#c0392b",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 寿康宫",
+        "url": "https://zh.wikipedia.org/wiki/寿康宫",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "ning-shougong": {
     "id": "ning-shougong",
@@ -591,7 +1140,29 @@
     "description": "乾隆帝为退位后养老所建。珍妃井在此区域内。",
     "significance": "皇家礼仪场所",
     "dimensions": {},
-    "color": "#c0392b"
+    "color": "#c0392b",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 宁寿宫",
+        "url": "https://zh.wikipedia.org/wiki/宁寿宫",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "fengxian-dian": {
     "id": "fengxian-dian",
@@ -610,7 +1181,29 @@
     "description": "皇家祭祀祖先之所。",
     "significance": "皇家礼仪场所",
     "dimensions": {},
-    "color": "#c0392b"
+    "color": "#c0392b",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 奉先殿",
+        "url": "https://zh.wikipedia.org/wiki/奉先殿",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "chuanxindian": {
     "id": "chuanxindian",
@@ -629,7 +1222,29 @@
     "description": "祭祀先师孔子之所。",
     "significance": "皇家礼仪场所",
     "dimensions": {},
-    "color": "#c0392b"
+    "color": "#c0392b",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 传心殿",
+        "url": "https://zh.wikipedia.org/wiki/传心殿",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "yu-huayuan": {
     "id": "yu-huayuan",
@@ -648,7 +1263,29 @@
     "description": "紫禁城内最大的花园，位于坤宁宫后方。内有千秋亭、万春亭、钦安殿等。",
     "significance": "皇家御花园",
     "dimensions": {},
-    "color": "#27ae60"
+    "color": "#27ae60",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 御花园",
+        "url": "https://zh.wikipedia.org/wiki/御花园",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "cining-huayuan": {
     "id": "cining-huayuan",
@@ -667,7 +1304,29 @@
     "description": "慈宁宫西侧花园，太后太妃们游赏之处。",
     "significance": "太后花园",
     "dimensions": {},
-    "color": "#27ae60"
+    "color": "#27ae60",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 慈宁宫花园",
+        "url": "https://zh.wikipedia.org/wiki/慈宁宫花园",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "ningshou-huayuan": {
     "id": "ningshou-huayuan",
@@ -688,7 +1347,29 @@
     "description": "又称乾隆花园，位于宁寿宫区域西北，是乾隆帝为自己退位后修建的花园。内有古华轩、遂初堂等。",
     "significance": "乾隆帝养老花园",
     "dimensions": {},
-    "color": "#27ae60"
+    "color": "#27ae60",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 宁寿宫花园",
+        "url": "https://zh.wikipedia.org/wiki/宁寿宫花园",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "shenwu-men": {
     "id": "shenwu-men",
@@ -707,7 +1388,20 @@
     "description": "紫禁城北门。原名玄武门，清代避康熙讳改名。",
     "significance": "宫城门禁",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 神武门",
+        "url": "https://zh.wikipedia.org/wiki/神武门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "donghua-men": {
     "id": "donghua-men",
@@ -726,7 +1420,20 @@
     "description": "紫禁城东门。",
     "significance": "宫城门禁",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 东华门",
+        "url": "https://zh.wikipedia.org/wiki/东华门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "xihua-men": {
     "id": "xihua-men",
@@ -745,7 +1452,20 @@
     "description": "紫禁城西门。",
     "significance": "宫城门禁",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 西华门",
+        "url": "https://zh.wikipedia.org/wiki/西华门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "wenhuadian-ge": {
     "id": "wenhuadian-ge",
@@ -764,7 +1484,20 @@
     "description": "乾隆年间修建，专藏《四库全书》。仿宁波天一阁建造。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 文渊阁",
+        "url": "https://zh.wikipedia.org/wiki/文渊阁",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "nansansuo": {
     "id": "nansansuo",
@@ -783,7 +1516,20 @@
     "description": "皇子居所，位于外朝东侧。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 南三所",
+        "url": "https://zh.wikipedia.org/wiki/南三所",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "chunhua-dian": {
     "id": "chunhua-dian",
@@ -802,7 +1548,20 @@
     "description": "宁寿宫区域内建筑。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 淳化轩",
+        "url": "https://zh.wikipedia.org/wiki/淳化轩",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "huangjidian": {
     "id": "huangjidian",
@@ -821,7 +1580,29 @@
     "description": "宁寿宫区正殿，乾隆退位后在此受贺。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 皇极殿",
+        "url": "https://zh.wikipedia.org/wiki/皇极殿",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "le-shoutang": {
     "id": "le-shoutang",
@@ -840,7 +1621,29 @@
     "description": "宁寿宫区域建筑，慈禧太后曾居于此。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 乐寿堂",
+        "url": "https://zh.wikipedia.org/wiki/乐寿堂",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "yangxing-zhai": {
     "id": "yangxing-zhai",
@@ -859,7 +1662,20 @@
     "description": "御花园西侧建筑。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 养性斋",
+        "url": "https://zh.wikipedia.org/wiki/养性斋",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "qianqiu-ting": {
     "id": "qianqiu-ting",
@@ -878,7 +1694,29 @@
     "description": "御花园内亭子，与万春亭对称。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 千秋亭",
+        "url": "https://zh.wikipedia.org/wiki/千秋亭",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "wanchun-ting": {
     "id": "wanchun-ting",
@@ -897,7 +1735,29 @@
     "description": "御花园内亭子，与千秋亭对称。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 万春亭",
+        "url": "https://zh.wikipedia.org/wiki/万春亭",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "qinan-dian": {
     "id": "qinan-dian",
@@ -916,7 +1776,29 @@
     "description": "御花园正中，供奉玄武大帝。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 钦安殿",
+        "url": "https://zh.wikipedia.org/wiki/钦安殿",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "ciqiku": {
     "id": "ciqiku",
@@ -935,7 +1817,20 @@
     "description": "宫廷库房之一。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 瓷器库",
+        "url": "https://zh.wikipedia.org/wiki/瓷器库",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "duan-yi-men": {
     "id": "duan-yi-men",
@@ -954,7 +1849,20 @@
     "description": "乾清门广场侧门。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 端仪门",
+        "url": "https://zh.wikipedia.org/wiki/端仪门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "jing-yun-men": {
     "id": "jing-yun-men",
@@ -973,7 +1881,20 @@
     "description": "乾清门广场东侧门。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 景运门",
+        "url": "https://zh.wikipedia.org/wiki/景运门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "hongyi-dian": {
     "id": "hongyi-dian",
@@ -992,7 +1913,20 @@
     "description": "太和殿广场西侧楼阁。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 弘义阁",
+        "url": "https://zh.wikipedia.org/wiki/弘义阁",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "tiyi-dian": {
     "id": "tiyi-dian",
@@ -1011,7 +1945,20 @@
     "description": "太和殿广场东侧楼阁。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 体仁阁",
+        "url": "https://zh.wikipedia.org/wiki/体仁阁",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "zhaode-men": {
     "id": "zhaode-men",
@@ -1030,7 +1977,20 @@
     "description": "太和门广场侧门。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 昭德门",
+        "url": "https://zh.wikipedia.org/wiki/昭德门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "zhendu-men": {
     "id": "zhendu-men",
@@ -1049,7 +2009,20 @@
     "description": "太和门广场侧门。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 贞度门",
+        "url": "https://zh.wikipedia.org/wiki/贞度门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "xianhuamen": {
     "id": "xianhuamen",
@@ -1068,7 +2041,20 @@
     "description": "前朝区域门。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 协和门",
+        "url": "https://zh.wikipedia.org/wiki/协和门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "xiximen": {
     "id": "xiximen",
@@ -1087,7 +2073,20 @@
     "description": "前朝区域门。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 熙和门",
+        "url": "https://zh.wikipedia.org/wiki/熙和门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "cangku-fang": {
     "id": "cangku-fang",
@@ -1106,7 +2105,20 @@
     "description": "武英殿旁修书场所。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 方略馆",
+        "url": "https://zh.wikipedia.org/wiki/方略馆",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "wenyuan-dian": {
     "id": "wenyuan-dian",
@@ -1125,7 +2137,20 @@
     "description": "文华殿后殿。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 文渊殿",
+        "url": "https://zh.wikipedia.org/wiki/文渊殿",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "zhushengfang": {
     "id": "zhushengfang",
@@ -1144,7 +2169,20 @@
     "description": "西六宫区域建筑。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 主善斋",
+        "url": "https://zh.wikipedia.org/wiki/主善斋",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "yifangzhai": {
     "id": "yifangzhai",
@@ -1163,7 +2201,20 @@
     "description": "西六宫区域建筑。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 怡芳斋",
+        "url": "https://zh.wikipedia.org/wiki/怡芳斋",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "daxue-shi": {
     "id": "daxue-shi",
@@ -1182,7 +2233,20 @@
     "description": "文华殿附近，翰林办公处。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 翰林院",
+        "url": "https://zh.wikipedia.org/wiki/翰林院",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "yuyuan-dian": {
     "id": "yuyuan-dian",
@@ -1201,7 +2265,29 @@
     "description": "同治、光绪读书处。",
     "significance": "宫廷建筑",
     "dimensions": {},
-    "color": "#7f8c8d"
+    "color": "#7f8c8d",
+    "sources": [
+      {
+        "type": "official",
+        "name": "故宫博物院官网",
+        "url": "https://www.dpm.org.cn/explore/buildings.html",
+        "note": "官方建筑概述",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 毓庆宫",
+        "url": "https://zh.wikipedia.org/wiki/毓庆宫",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "nei-wu-fu": {
     "id": "nei-wu-fu",
@@ -1225,7 +2311,20 @@
       "width": 80,
       "height": 40
     },
-    "color": "#808080"
+    "color": "#808080",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 内务府",
+        "url": "https://zh.wikipedia.org/wiki/内务府",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "zuoyi-men": {
     "id": "zuoyi-men",
@@ -1249,7 +2348,20 @@
       "width": 30,
       "height": 20
     },
-    "color": "#8B4513"
+    "color": "#8B4513",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 左翼门",
+        "url": "https://zh.wikipedia.org/wiki/左翼门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "youyi-men": {
     "id": "youyi-men",
@@ -1273,7 +2385,20 @@
       "width": 30,
       "height": 20
     },
-    "color": "#8B4513"
+    "color": "#8B4513",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 右翼门",
+        "url": "https://zh.wikipedia.org/wiki/右翼门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "wuying-men": {
     "id": "wuying-men",
@@ -1297,7 +2422,20 @@
       "width": 30,
       "height": 20
     },
-    "color": "#8B4513"
+    "color": "#8B4513",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 武英门",
+        "url": "https://zh.wikipedia.org/wiki/武英门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "wenhua-men": {
     "id": "wenhua-men",
@@ -1321,7 +2459,20 @@
       "width": 30,
       "height": 20
     },
-    "color": "#8B4513"
+    "color": "#8B4513",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 文华门",
+        "url": "https://zh.wikipedia.org/wiki/文华门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "jingyun-men": {
     "id": "jingyun-men",
@@ -1345,7 +2496,20 @@
       "width": 30,
       "height": 20
     },
-    "color": "#8B4513"
+    "color": "#8B4513",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 景运门",
+        "url": "https://zh.wikipedia.org/wiki/景运门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "longzong-men": {
     "id": "longzong-men",
@@ -1369,7 +2533,20 @@
       "width": 30,
       "height": 20
     },
-    "color": "#8B4513"
+    "color": "#8B4513",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 隆宗门",
+        "url": "https://zh.wikipedia.org/wiki/隆宗门",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "ning-shou-gong": {
     "id": "ning-shou-gong",
@@ -1396,7 +2573,20 @@
       "width": 60,
       "height": 35
     },
-    "color": "#B8860B"
+    "color": "#B8860B",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 宁寿宫",
+        "url": "https://zh.wikipedia.org/wiki/宁寿宫",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "huang-ji-dian": {
     "id": "huang-ji-dian",
@@ -1420,7 +2610,20 @@
       "width": 55,
       "height": 30
     },
-    "color": "#DAA520"
+    "color": "#DAA520",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 皇极殿",
+        "url": "https://zh.wikipedia.org/wiki/皇极殿",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "ci-shou-gong": {
     "id": "ci-shou-gong",
@@ -1444,7 +2647,20 @@
       "width": 45,
       "height": 25
     },
-    "color": "#CD853F"
+    "color": "#CD853F",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 慈寿宫",
+        "url": "https://zh.wikipedia.org/wiki/慈寿宫",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "shang-shu-fang": {
     "id": "shang-shu-fang",
@@ -1469,7 +2685,20 @@
       "width": 35,
       "height": 20
     },
-    "color": "#8B6914"
+    "color": "#8B6914",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 尚书房",
+        "url": "https://zh.wikipedia.org/wiki/尚书房",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   },
   "ying-hua-dian": {
     "id": "ying-hua-dian",
@@ -1495,6 +2724,19 @@
       "width": 40,
       "height": 25
     },
-    "color": "#CD853F"
+    "color": "#CD853F",
+    "sources": [
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 英华殿",
+        "url": "https://zh.wikipedia.org/wiki/英华殿",
+        "note": "百科参考",
+        "fields": [
+          "dimensions",
+          "description",
+          "aliases"
+        ]
+      }
+    ]
   }
 }

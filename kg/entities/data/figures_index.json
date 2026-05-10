@@ -12,7 +12,27 @@
       "wanli"
     ],
     "description": "明代政治家，万历初年内阁首辅。推行一条鞭法等改革，使明朝国力一度中兴。死后被万历清算。",
-    "significance": "万历前期实际执政者，明代最重要改革家之一"
+    "significance": "万历前期实际执政者，明代最重要改革家之一",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 张居正",
+        "url": "https://zh.wikipedia.org/wiki/张居正",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yansong": {
     "id": "yansong",
@@ -25,7 +45,27 @@
       "jiajing"
     ],
     "description": "嘉靖朝内阁首辅，专权二十余年，贪腐严重。最终被弹劾罢官，家产抄没。",
-    "significance": "明代最大贪官之一"
+    "significance": "明代最大贪官之一",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 严嵩",
+        "url": "https://zh.wikipedia.org/wiki/严嵩",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "hai-rui": {
     "id": "hai-rui",
@@ -40,7 +80,27 @@
       "wanli"
     ],
     "description": "明代著名清官，以直言敢谏著称。上《治安疏》痛骂嘉靖帝，被誉为海青天。",
-    "significance": "明代清廉典范"
+    "significance": "明代清廉典范",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 海瑞",
+        "url": "https://zh.wikipedia.org/wiki/海瑞",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "wei-zhongxian": {
     "id": "wei-zhongxian",
@@ -54,7 +114,27 @@
       "chongzhen"
     ],
     "description": "明末大太监，天启朝专权，号称九千岁。崇祯即位后被铲除。",
-    "significance": "明末最大权阉"
+    "significance": "明末最大权阉",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 魏忠贤",
+        "url": "https://zh.wikipedia.org/wiki/魏忠贤",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "zheng-he": {
     "id": "zheng-he",
@@ -67,7 +147,27 @@
       "yongle"
     ],
     "description": "明代航海家，七下西洋，最远到达非洲东海岸。中国历史上最伟大的航海家。",
-    "significance": "七下西洋，世界航海史先驱"
+    "significance": "七下西洋，世界航海史先驱",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 郑和",
+        "url": "https://zh.wikipedia.org/wiki/郑和",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yu-qian": {
     "id": "yu-qian",
@@ -81,7 +181,27 @@
       "jingtai"
     ],
     "description": "明代名臣，土木堡之变后力主守京师，拥立景泰帝，保全明朝。后被英宗复辟杀害。",
-    "significance": "北京保卫战功臣"
+    "significance": "北京保卫战功臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 于谦",
+        "url": "https://zh.wikipedia.org/wiki/于谦",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "zhangtingyu": {
     "id": "zhangtingyu",
@@ -96,7 +216,27 @@
       "qianlong"
     ],
     "description": "清代名臣，历事三朝，官至保和殿大学士。协助雍正创立军机处制度。",
-    "significance": "清代三朝元老"
+    "significance": "清代三朝元老",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 张廷玉",
+        "url": "https://zh.wikipedia.org/wiki/张廷玉",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "he-shen": {
     "id": "he-shen",
@@ -109,7 +249,27 @@
       "qianlong"
     ],
     "description": "乾隆朝宠臣，中国历史上最大贪官。嘉庆即位后赐死，抄家所得相当于清政府十余年财政收入。",
-    "significance": "中国历史最大贪官"
+    "significance": "中国历史最大贪官",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 和珅",
+        "url": "https://zh.wikipedia.org/wiki/和珅",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "jixiaolan": {
     "id": "jixiaolan",
@@ -123,7 +283,27 @@
       "jiaqing"
     ],
     "description": "清代学者、文学家，总纂《四库全书》。以幽默机智著称，民间传说丰富。",
-    "significance": "四库全书总纂官"
+    "significance": "四库全书总纂官",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 纪昀（纪晓岚）",
+        "url": "https://zh.wikipedia.org/wiki/纪昀（纪晓岚）",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "lin-zexu": {
     "id": "lin-zexu",
@@ -136,7 +316,27 @@
       "daoguang"
     ],
     "description": "清代名臣，主持虎门销烟，鸦片战争中被革职流放。近代中国开眼看世界第一人。",
-    "significance": "虎门销烟，民族英雄"
+    "significance": "虎门销烟，民族英雄",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 林则徐",
+        "url": "https://zh.wikipedia.org/wiki/林则徐",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "zuo-zongtang": {
     "id": "zuo-zongtang",
@@ -152,7 +352,27 @@
       "guangxu"
     ],
     "description": "晚清名臣，收复新疆，洋务运动重要人物。",
-    "significance": "收复新疆"
+    "significance": "收复新疆",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 左宗棠",
+        "url": "https://zh.wikipedia.org/wiki/左宗棠",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "li-hongzhang": {
     "id": "li-hongzhang",
@@ -168,7 +388,27 @@
       "guangxu"
     ],
     "description": "晚清重臣，洋务运动领袖。代表清政府签订多个不平等条约，毁誉参半。",
-    "significance": "洋务运动核心人物"
+    "significance": "洋务运动核心人物",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 李鸿章",
+        "url": "https://zh.wikipedia.org/wiki/李鸿章",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "cixi": {
     "id": "cixi",
@@ -185,7 +425,27 @@
     ],
     "description": "咸丰帝懿贵妃，同治、光绪两朝实际最高统治者。垂帘听政近半个世纪，镇压戊戌变法。",
     "significance": "晚清实际统治者",
-    "consort_of": "xianfeng"
+    "consort_of": "xianfeng",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 慈禧太后",
+        "url": "https://zh.wikipedia.org/wiki/慈禧太后",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "longyu": {
     "id": "longyu",
@@ -200,7 +460,27 @@
     ],
     "description": "光绪帝皇后。宣统退位诏书的签署者，中国最后一位太后。",
     "significance": "签署清帝退位诏书",
-    "consort_of": "guangxu"
+    "consort_of": "guangxu",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 隆裕太后",
+        "url": "https://zh.wikipedia.org/wiki/隆裕太后",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "wanrong": {
     "id": "wanrong",
@@ -214,7 +494,27 @@
     ],
     "description": "溥仪皇后，中国最后一位皇后。命运悲惨，最终死于狱中。",
     "significance": "中国末代皇后",
-    "consort_of": "xuantong"
+    "consort_of": "xuantong",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 婉容",
+        "url": "https://zh.wikipedia.org/wiki/婉容",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "zhen-fei": {
     "id": "zhen-fei",
@@ -228,7 +528,27 @@
     ],
     "description": "光绪帝宠妃，支持戊戌变法。八国联军攻入北京时被慈禧投入井中溺死。",
     "significance": "支持变法，被害殉难",
-    "consort_of": "guangxu"
+    "consort_of": "guangxu",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 珍妃",
+        "url": "https://zh.wikipedia.org/wiki/珍妃",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "ci-an": {
     "id": "ci-an",
@@ -244,7 +564,27 @@
     ],
     "description": "咸丰帝皇后，与慈禧共同垂帘听政。性情温和，后暴卒死因成谜。",
     "significance": "两宫垂帘之一",
-    "consort_of": "xianfeng"
+    "consort_of": "xianfeng",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 慈安太后",
+        "url": "https://zh.wikipedia.org/wiki/慈安太后",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "eunuch-li-lianying": {
     "id": "eunuch-li-lianying",
@@ -260,7 +600,27 @@
       "xuantong"
     ],
     "description": "慈禧太后最信任的太监总管，侍奉慈禧近50年。清朝最有权势的太监之一。",
-    "significance": "慈禧贴身太监"
+    "significance": "慈禧贴身太监",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 李莲英",
+        "url": "https://zh.wikipedia.org/wiki/李莲英",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "wu-sangui": {
     "id": "wu-sangui",
@@ -274,7 +634,27 @@
       "kangxi"
     ],
     "description": "明末清初将领，引清兵入关。后反清发动三藩之乱，被康熙平定。",
-    "significance": "引清入关，三藩之乱"
+    "significance": "引清入关，三藩之乱",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 吴三桂",
+        "url": "https://zh.wikipedia.org/wiki/吴三桂",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "nalan-xingde": {
     "id": "nalan-xingde",
@@ -287,7 +667,27 @@
       "kangxi"
     ],
     "description": "清代最著名词人之一，康熙御前侍卫。词风清新婉约，有'清代第一词人'之称。",
-    "significance": "清代第一词人"
+    "significance": "清代第一词人",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 纳兰性德",
+        "url": "https://zh.wikipedia.org/wiki/纳兰性德",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "caoxueqin": {
     "id": "caoxueqin",
@@ -302,7 +702,27 @@
       "qianlong"
     ],
     "description": "《红楼梦》作者。曹家为江宁织造，雍正朝被抄家后家道中落。",
-    "significance": "红楼梦作者"
+    "significance": "红楼梦作者",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 曹雪芹",
+        "url": "https://zh.wikipedia.org/wiki/曹雪芹",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "zeng-guofan": {
     "id": "zeng-guofan",
@@ -317,7 +737,27 @@
       "tongzhi"
     ],
     "description": "晚清名臣，创建湘军镇压太平天国，洋务运动发起人之一。",
-    "significance": "湘军统帅，洋务运动发起者"
+    "significance": "湘军统帅，洋务运动发起者",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 曾国藩",
+        "url": "https://zh.wikipedia.org/wiki/曾国藩",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "kangyouwei": {
     "id": "kangyouwei",
@@ -330,7 +770,27 @@
       "guangxu"
     ],
     "description": "戊戌变法领导人，联合公车上书，推动维新运动。变法失败后流亡海外。",
-    "significance": "戊戌变法领导者"
+    "significance": "戊戌变法领导者",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 康有为",
+        "url": "https://zh.wikipedia.org/wiki/康有为",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "liangqichao": {
     "id": "liangqichao",
@@ -343,7 +803,27 @@
       "guangxu"
     ],
     "description": "戊戌变法重要人物，康有为学生。中国近代启蒙思想家，新文化运动先驱。",
-    "significance": "近代启蒙思想家"
+    "significance": "近代启蒙思想家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 梁启超",
+        "url": "https://zh.wikipedia.org/wiki/梁启超",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yuan-shikai": {
     "id": "yuan-shikai",
@@ -357,7 +837,27 @@
       "xuantong"
     ],
     "description": "晚清重臣，北洋新军创建者。逼迫溥仪退位后成为中华民国临时大总统，后称帝失败。",
-    "significance": "逼迫清帝退位"
+    "significance": "逼迫清帝退位",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 袁世凯",
+        "url": "https://zh.wikipedia.org/wiki/袁世凯",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "sun-yatsen": {
     "id": "sun-yatsen",
@@ -368,7 +868,27 @@
     "death_year": 1925,
     "served_emperors": [],
     "description": "辛亥革命领导人，中华民国国父。虽然未曾在故宫任职，但其领导的革命终结了清朝在故宫的统治。",
-    "significance": "辛亥革命领导人"
+    "significance": "辛亥革命领导人",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 孙中山",
+        "url": "https://zh.wikipedia.org/wiki/孙中山",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "dorgon": {
     "id": "dorgon",
@@ -381,7 +901,27 @@
       "shunzhi"
     ],
     "description": "清初摄政王，率清军入关定鼎北京。顺治初年实际掌权者。",
-    "significance": "清军入关实际指挥者"
+    "significance": "清军入关实际指挥者",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 多尔衮",
+        "url": "https://zh.wikipedia.org/wiki/多尔衮",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "eunuch-wang-cheng-en": {
     "id": "eunuch-wang-cheng-en",
@@ -394,7 +934,27 @@
       "chongzhen"
     ],
     "description": "崇祯帝最信任的太监。李自成攻入北京时随崇祯帝自缢于煤山。",
-    "significance": "随崇祯殉国"
+    "significance": "随崇祯殉国",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 王承恩",
+        "url": "https://zh.wikipedia.org/wiki/王承恩",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "zhangju-zheng-rival": {
     "id": "gao-gong",
@@ -409,7 +969,27 @@
       "wanli"
     ],
     "description": "隆庆朝内阁首辅，万历初年被张居正排挤出局。",
-    "significance": "张居正政敌"
+    "significance": "张居正政敌",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 高拱",
+        "url": "https://zh.wikipedia.org/wiki/高拱",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "eunuch-wei-zhongxian-rival": {
     "id": "yang-lian",
@@ -424,7 +1004,27 @@
       "tianqi"
     ],
     "description": "东林党领袖，上疏弹劾魏忠贤二十四大罪，被魏忠贤杀害。",
-    "significance": "东林党领袖，反魏忠贤"
+    "significance": "东林党领袖，反魏忠贤",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 杨涟",
+        "url": "https://zh.wikipedia.org/wiki/杨涟",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "liu-ji": {
     "id": "liu-ji",
@@ -437,7 +1037,27 @@
       "hongwu"
     ],
     "description": "明朝开国元勋，与宋濂并称'一代之宗'。神机妙算，辅佐朱元璋建立明朝。",
-    "significance": "明朝开国功臣，神机军师"
+    "significance": "明朝开国功臣，神机军师",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 刘基（刘伯温）",
+        "url": "https://zh.wikipedia.org/wiki/刘基（刘伯温）",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "li-shanchang": {
     "id": "li-shanchang",
@@ -450,7 +1070,27 @@
       "hongwu"
     ],
     "description": "明朝开国第一文臣，任左丞相。后卷入胡惟庸案被杀。",
-    "significance": "明朝开国第一文臣"
+    "significance": "明朝开国第一文臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 李善长",
+        "url": "https://zh.wikipedia.org/wiki/李善长",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "xu-da": {
     "id": "xu-da",
@@ -463,7 +1103,27 @@
       "hongwu"
     ],
     "description": "明朝开国第一武将，率军北伐灭元，攻克大都。封魏国公。",
-    "significance": "明朝开国第一武将"
+    "significance": "明朝开国第一武将",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 徐达",
+        "url": "https://zh.wikipedia.org/wiki/徐达",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "chang-yuchun": {
     "id": "chang-yuchun",
@@ -476,7 +1136,27 @@
       "hongwu"
     ],
     "description": "明朝开国猛将，自称能以十万众横行天下。北伐途中暴卒。",
-    "significance": "明朝开国猛将"
+    "significance": "明朝开国猛将",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 常遇春",
+        "url": "https://zh.wikipedia.org/wiki/常遇春",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yao-guangxiao": {
     "id": "yao-guangxiao",
@@ -489,7 +1169,27 @@
       "yongle"
     ],
     "description": "僧人出身，靖难之役主要策划者。后主持重修《太祖实录》。",
-    "significance": "靖难之役第一谋士"
+    "significance": "靖难之役第一谋士",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 姚广孝",
+        "url": "https://zh.wikipedia.org/wiki/姚广孝",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "xie-jin": {
     "id": "xie-jin",
@@ -502,7 +1202,27 @@
       "yongle"
     ],
     "description": "明代才子，主持编纂《永乐大典》。后因太子事被下狱处死。",
-    "significance": "永乐大典主要编纂者"
+    "significance": "永乐大典主要编纂者",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 解缙",
+        "url": "https://zh.wikipedia.org/wiki/解缙",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yang-shiqi": {
     "id": "yang-shiqi",
@@ -518,7 +1238,27 @@
       "zhengtong"
     ],
     "description": "'三杨'之一，历事四朝，为仁宣之治的核心人物。",
-    "significance": "三杨之首，仁宣之治"
+    "significance": "三杨之首，仁宣之治",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 杨士奇",
+        "url": "https://zh.wikipedia.org/wiki/杨士奇",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yang-rong": {
     "id": "yang-rong",
@@ -534,7 +1274,27 @@
       "zhengtong"
     ],
     "description": "'三杨'之一，擅长军事谋略，多次随永乐帝北征。",
-    "significance": "三杨之一，军事谋臣"
+    "significance": "三杨之一，军事谋臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 杨荣",
+        "url": "https://zh.wikipedia.org/wiki/杨荣",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yang-pu": {
     "id": "yang-pu",
@@ -550,7 +1310,27 @@
       "zhengtong"
     ],
     "description": "'三杨'之一，以清廉谨慎著称。",
-    "significance": "三杨之一，清廉名臣"
+    "significance": "三杨之一，清廉名臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 杨溥",
+        "url": "https://zh.wikipedia.org/wiki/杨溥",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "li-dongyang": {
     "id": "li-dongyang",
@@ -565,7 +1345,27 @@
       "zhengde"
     ],
     "description": "茶陵诗派创始人，正德朝内阁首辅。以文学和政治才能著称。",
-    "significance": "茶陵诗派创始人"
+    "significance": "茶陵诗派创始人",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 李东阳",
+        "url": "https://zh.wikipedia.org/wiki/李东阳",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "shang-lu": {
     "id": "shang-lu",
@@ -580,7 +1380,27 @@
       "chenghua"
     ],
     "description": "明代唯一连中三元（解元、会元、状元）的大臣。",
-    "significance": "连中三元第一人"
+    "significance": "连中三元第一人",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 商辂",
+        "url": "https://zh.wikipedia.org/wiki/商辂",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "xu-jie": {
     "id": "xu-jie",
@@ -594,7 +1414,27 @@
       "longqing"
     ],
     "description": "嘉靖末年内阁首辅，设计铲除严嵩。隆庆初年辅政。",
-    "significance": "铲除严嵩的首辅"
+    "significance": "铲除严嵩的首辅",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 徐阶",
+        "url": "https://zh.wikipedia.org/wiki/徐阶",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yan-shifan": {
     "id": "yan-shifan",
@@ -607,7 +1447,27 @@
       "jiajing"
     ],
     "description": "严嵩之子，实际操纵朝政。被劾后处斩。",
-    "significance": "严嵩之子，实际执政者"
+    "significance": "严嵩之子，实际执政者",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 严世蕃",
+        "url": "https://zh.wikipedia.org/wiki/严世蕃",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "qi-jiguang": {
     "id": "qi-jiguang",
@@ -622,7 +1482,27 @@
       "wanli"
     ],
     "description": "明代抗倭名将，创建戚家军，发明鸳鸯阵。后镇守蓟州防御蒙古。",
-    "significance": "抗倭名将，民族英雄"
+    "significance": "抗倭名将，民族英雄",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 戚继光",
+        "url": "https://zh.wikipedia.org/wiki/戚继光",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "li-rusong": {
     "id": "li-rusong",
@@ -635,7 +1515,27 @@
       "wanli"
     ],
     "description": "万历朝鲜之役明军统帅，收复平壤。后战死沙场。",
-    "significance": "万历三大征统帅"
+    "significance": "万历三大征统帅",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 李如松",
+        "url": "https://zh.wikipedia.org/wiki/李如松",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "shi-kefa": {
     "id": "shi-kefa",
@@ -648,7 +1548,27 @@
       "chongzhen"
     ],
     "description": "南明兵部尚书，死守扬州抗清，城破后不屈就义。",
-    "significance": "扬州抗清殉国"
+    "significance": "扬州抗清殉国",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 史可法",
+        "url": "https://zh.wikipedia.org/wiki/史可法",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "zheng-chenggong": {
     "id": "zheng-chenggong",
@@ -661,7 +1581,27 @@
       "chongzhen"
     ],
     "description": "收复台湾的民族英雄，以厦门、金门为基地抗清。1661年收复台湾。",
-    "significance": "收复台湾"
+    "significance": "收复台湾",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 郑成功",
+        "url": "https://zh.wikipedia.org/wiki/郑成功",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yu-dayou": {
     "id": "yu-dayou",
@@ -674,7 +1614,27 @@
       "jiajing"
     ],
     "description": "与戚继光并称'俞龙戚虎'，抗倭名将。",
-    "significance": "抗倭名将"
+    "significance": "抗倭名将",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 俞大猷",
+        "url": "https://zh.wikipedia.org/wiki/俞大猷",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yuan-chonghuan": {
     "id": "yuan-chonghuan",
@@ -688,7 +1648,27 @@
       "chongzhen"
     ],
     "description": "明末辽东名将，宁远大捷击伤努尔哈赤。后被崇祯帝凌迟处死。",
-    "significance": "宁远大捷，冤死"
+    "significance": "宁远大捷，冤死",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 袁崇焕",
+        "url": "https://zh.wikipedia.org/wiki/袁崇焕",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "sun-chuanting": {
     "id": "sun-chuanting",
@@ -701,7 +1681,27 @@
       "chongzhen"
     ],
     "description": "明末镇压农民起义的主要将领，战死于潼关。",
-    "significance": "明末名将"
+    "significance": "明末名将",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 孙传庭",
+        "url": "https://zh.wikipedia.org/wiki/孙传庭",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "lu-xiangsheng": {
     "id": "lu-xiangsheng",
@@ -714,7 +1714,27 @@
       "chongzhen"
     ],
     "description": "明末名将，率天雄军对抗清军，战死钜鹿。",
-    "significance": "抗清名将"
+    "significance": "抗清名将",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 卢象升",
+        "url": "https://zh.wikipedia.org/wiki/卢象升",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "eunuch-liu-jin": {
     "id": "eunuch-liu-jin",
@@ -727,7 +1747,27 @@
       "zhengde"
     ],
     "description": "正德朝'八虎'之首，专权乱政，号称'立皇帝'。被凌迟处死。",
-    "significance": "正德朝权阉"
+    "significance": "正德朝权阉",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 刘瑾",
+        "url": "https://zh.wikipedia.org/wiki/刘瑾",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "eunuch-wang-zhen": {
     "id": "eunuch-wang-zhen",
@@ -740,7 +1780,27 @@
       "zhengtong"
     ],
     "description": "英宗朝权阉，怂恿英宗亲征导致土木堡之变。死于乱军之中。",
-    "significance": "导致土木堡之变"
+    "significance": "导致土木堡之变",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 王振",
+        "url": "https://zh.wikipedia.org/wiki/王振",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "eunuch-wang-zhi": {
     "id": "eunuch-wang-zhi",
@@ -753,7 +1813,27 @@
       "chenghua"
     ],
     "description": "宪宗朝权阉，设立西厂，权势熏天。后被贬。",
-    "significance": "设立西厂"
+    "significance": "设立西厂",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 汪直",
+        "url": "https://zh.wikipedia.org/wiki/汪直",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "eunuch-feng-bao": {
     "id": "eunuch-feng-bao",
@@ -767,7 +1847,27 @@
       "wanli"
     ],
     "description": "万历初年司礼监掌印太监，与张居正合作推行改革。",
-    "significance": "与张居正合作"
+    "significance": "与张居正合作",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 冯保",
+        "url": "https://zh.wikipedia.org/wiki/冯保",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "ma-huanghou": {
     "id": "ma-huanghou",
@@ -781,7 +1881,27 @@
     ],
     "description": "朱元璋结发妻子，贤德著称。常劝谏朱元璋宽刑省罚。",
     "significance": "明太祖贤后",
-    "consort_of": "hongwu"
+    "consort_of": "hongwu",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 马皇后",
+        "url": "https://zh.wikipedia.org/wiki/马皇后",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "xu-huanghou": {
     "id": "xu-huanghou",
@@ -795,7 +1915,27 @@
     ],
     "description": "徐达之女，朱棣正妻。靖难之变中坚守北平城。编《内训》。",
     "significance": "永乐帝贤后",
-    "consort_of": "yongle"
+    "consort_of": "yongle",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 徐皇后",
+        "url": "https://zh.wikipedia.org/wiki/徐皇后",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "zhang-huanghou": {
     "id": "zhang-huanghou",
@@ -811,7 +1951,27 @@
     ],
     "description": "仁宗皇后，宣宗生母。宣德年间尊为太后，辅佐朝政。",
     "significance": "仁宣时期太后",
-    "consort_of": "hongxi"
+    "consort_of": "hongxi",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 张皇后",
+        "url": "https://zh.wikipedia.org/wiki/张皇后",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "sun-huanghou": {
     "id": "sun-huanghou",
@@ -826,7 +1986,27 @@
     ],
     "description": "宣宗皇后，英宗生母。土木堡之变后支持于谦保卫北京。",
     "significance": "英宗生母",
-    "consort_of": "xuande"
+    "consort_of": "xuande",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 孙皇后",
+        "url": "https://zh.wikipedia.org/wiki/孙皇后",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "wan-guifei": {
     "id": "wan-guifei",
@@ -839,7 +2019,27 @@
       "chenghua"
     ],
     "description": "宪宗宠妃，比宪宗大17岁。专宠后宫，迫害其他妃嫔皇子。",
-    "significance": "宪宗专宠贵妃"
+    "significance": "宪宗专宠贵妃",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 万贵妃",
+        "url": "https://zh.wikipedia.org/wiki/万贵妃",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "xiaozhuang": {
     "id": "xiaozhuang",
@@ -855,7 +2055,27 @@
     ],
     "description": "皇太极妃，顺治帝生母，康熙帝祖母。清初杰出女政治家。",
     "significance": "清初杰出女政治家",
-    "consort_of": "huangtaiji"
+    "consort_of": "huangtaiji",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 孝庄太后",
+        "url": "https://zh.wikipedia.org/wiki/孝庄太后",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "xiang-fei": {
     "id": "xiang-fei",
@@ -868,7 +2088,27 @@
       "qianlong"
     ],
     "description": "乾隆帝维吾尔族妃子，传说中的'香妃'。原型为容妃。",
-    "significance": "传说中的香妃"
+    "significance": "传说中的香妃",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 香妃",
+        "url": "https://zh.wikipedia.org/wiki/香妃",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "xiaoxianchun": {
     "id": "xiaoxianchun",
@@ -882,7 +2122,27 @@
     ],
     "description": "乾隆帝原配皇后，富察氏。深得乾隆宠爱，死后乾隆极度悲痛。",
     "significance": "乾隆挚爱皇后",
-    "consort_of": "qianlong"
+    "consort_of": "qianlong",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 孝贤纯皇后",
+        "url": "https://zh.wikipedia.org/wiki/孝贤纯皇后",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "xiaochengren": {
     "id": "xiaochengren",
@@ -896,7 +2156,27 @@
     ],
     "description": "康熙帝原配皇后，赫舍里氏。生皇二子胤礽时难产而死。",
     "significance": "康熙原配皇后",
-    "consort_of": "kangxi"
+    "consort_of": "kangxi",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 孝诚仁皇后",
+        "url": "https://zh.wikipedia.org/wiki/孝诚仁皇后",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "xiaojingxian": {
     "id": "xiaojingxian",
@@ -910,7 +2190,27 @@
     ],
     "description": "雍正帝皇后，乌拉那拉氏。雍正元年册立，雍正九年崩。",
     "significance": "雍正帝皇后",
-    "consort_of": "yongzheng"
+    "consort_of": "yongzheng",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 孝敬宪皇后",
+        "url": "https://zh.wikipedia.org/wiki/孝敬宪皇后",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "xiaoquanchun": {
     "id": "xiaoquanchun",
@@ -924,7 +2224,27 @@
     ],
     "description": "道光帝皇后，咸丰帝生母。",
     "significance": "咸丰帝生母",
-    "consort_of": "daoguang"
+    "consort_of": "daoguang",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 孝全成皇后",
+        "url": "https://zh.wikipedia.org/wiki/孝全成皇后",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "xiaoqinxian": {
     "id": "xiaoqinxian",
@@ -938,7 +2258,27 @@
     ],
     "description": "即慈禧太后。以皇后条目另列。",
     "significance": "慈禧太后",
-    "consort_of": "xianfeng"
+    "consort_of": "xianfeng",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 孝钦显皇后",
+        "url": "https://zh.wikipedia.org/wiki/孝钦显皇后",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "e-zhongyi": {
     "id": "e-zhongyi",
@@ -952,7 +2292,27 @@
       "kangxi"
     ],
     "description": "清初四大辅政大臣之一。",
-    "significance": "辅政大臣"
+    "significance": "辅政大臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 遏必隆",
+        "url": "https://zh.wikipedia.org/wiki/遏必隆",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "sonin": {
     "id": "sonin",
@@ -966,7 +2326,27 @@
       "kangxi"
     ],
     "description": "清初四大辅政大臣之首。",
-    "significance": "辅政大臣之首"
+    "significance": "辅政大臣之首",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 索尼",
+        "url": "https://zh.wikipedia.org/wiki/索尼",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "suksaha": {
     "id": "suksaha",
@@ -980,7 +2360,27 @@
       "kangxi"
     ],
     "description": "清初四大辅政大臣之一，被鳌拜矫诏处死。",
-    "significance": "辅政大臣"
+    "significance": "辅政大臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 苏克萨哈",
+        "url": "https://zh.wikipedia.org/wiki/苏克萨哈",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "aobai": {
     "id": "aobai",
@@ -994,7 +2394,27 @@
       "kangxi"
     ],
     "description": "清初四大辅政大臣之一，专横跋扈。康熙帝智擒鳌拜。",
-    "significance": "康熙智擒鳌拜"
+    "significance": "康熙智擒鳌拜",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 鳌拜",
+        "url": "https://zh.wikipedia.org/wiki/鳌拜",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "mingju": {
     "id": "mingju",
@@ -1007,7 +2427,27 @@
       "kangxi"
     ],
     "description": "康熙朝权臣，后遭弹劾罢黜。纳兰性德之父。",
-    "significance": "康熙朝权臣"
+    "significance": "康熙朝权臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 明珠",
+        "url": "https://zh.wikipedia.org/wiki/明珠",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "li-guangdi": {
     "id": "li-guangdi",
@@ -1020,7 +2460,27 @@
       "kangxi"
     ],
     "description": "康熙朝理学名臣，参与平定三藩之乱。",
-    "significance": "理学名臣"
+    "significance": "理学名臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 李光地",
+        "url": "https://zh.wikipedia.org/wiki/李光地",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "chen-tingjing": {
     "id": "chen-tingjing",
@@ -1033,7 +2493,27 @@
       "kangxi"
     ],
     "description": "康熙朝名臣，《康熙字典》总阅官。为官清廉。",
-    "significance": "康熙字典总阅官"
+    "significance": "康熙字典总阅官",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 陈廷敬",
+        "url": "https://zh.wikipedia.org/wiki/陈廷敬",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "liu-yong": {
     "id": "liu-yong",
@@ -1047,7 +2527,27 @@
       "jiaqing"
     ],
     "description": "乾隆朝名臣，民间称'刘罗锅'。以清廉著称。",
-    "significance": "刘罗锅，清廉名臣"
+    "significance": "刘罗锅，清廉名臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 刘墉",
+        "url": "https://zh.wikipedia.org/wiki/刘墉",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "wang-jie": {
     "id": "wang-jie",
@@ -1061,7 +2561,27 @@
       "jiaqing"
     ],
     "description": "乾隆朝状元，敢与和珅抗争。",
-    "significance": "敢抗争和珅的状元"
+    "significance": "敢抗争和珅的状元",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 王杰",
+        "url": "https://zh.wikipedia.org/wiki/王杰",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "ji-huang": {
     "id": "ji-huang",
@@ -1075,7 +2595,27 @@
       "jiaqing"
     ],
     "description": "即纪晓岚，《四库全书》总纂官。",
-    "significance": "四库全书总纂官"
+    "significance": "四库全书总纂官",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 纪昀",
+        "url": "https://zh.wikipedia.org/wiki/纪昀",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "fu-kang-an": {
     "id": "fu-kang-an",
@@ -1088,7 +2628,27 @@
       "qianlong"
     ],
     "description": "乾隆朝名将，傅恒之子。参与平定大小金川、台湾林爽文起义等。",
-    "significance": "乾隆朝名将"
+    "significance": "乾隆朝名将",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 福康安",
+        "url": "https://zh.wikipedia.org/wiki/福康安",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "heshen-rival": {
     "id": "heshen-rival",
@@ -1102,7 +2662,27 @@
       "jiaqing"
     ],
     "description": "乾隆朝名将，与和珅不和。平定大小金川、镇压白莲教。",
-    "significance": "与和珅对立的功臣"
+    "significance": "与和珅对立的功臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 阿桂",
+        "url": "https://zh.wikipedia.org/wiki/阿桂",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "lin-ze-xu": {
     "id": "lin-ze-xu",
@@ -1115,7 +2695,27 @@
       "daoguang"
     ],
     "description": "虎门销烟主持人，近代中国开眼看世界第一人。",
-    "significance": "虎门销烟"
+    "significance": "虎门销烟",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 林则徐",
+        "url": "https://zh.wikipedia.org/wiki/林则徐",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "wei-yuan": {
     "id": "wei-yuan",
@@ -1129,7 +2729,27 @@
       "xianfeng"
     ],
     "description": "编《海国图志》，提出'师夷长技以制夷'。",
-    "significance": "海国图志作者"
+    "significance": "海国图志作者",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 魏源",
+        "url": "https://zh.wikipedia.org/wiki/魏源",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "gong-qinwang": {
     "id": "gong-qinwang",
@@ -1145,7 +2765,27 @@
       "guangxu"
     ],
     "description": "道光帝第六子，洋务运动中央支持者。总理各国事务衙门首席大臣。",
-    "significance": "洋务运动核心亲王"
+    "significance": "洋务运动核心亲王",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 恭亲王奕訢",
+        "url": "https://zh.wikipedia.org/wiki/恭亲王奕訢",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "zeng-guoquan": {
     "id": "zeng-guoquan",
@@ -1160,7 +2800,27 @@
       "tongzhi"
     ],
     "description": "曾国藩之弟，湘军将领，攻陷天京（南京）。",
-    "significance": "攻陷天京"
+    "significance": "攻陷天京",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 曾国荃",
+        "url": "https://zh.wikipedia.org/wiki/曾国荃",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "liu-kun-yi": {
     "id": "liu-kun-yi",
@@ -1176,7 +2836,27 @@
       "guangxu"
     ],
     "description": "晚清名臣，两江总督。东南互保主要人物之一。",
-    "significance": "东南互保"
+    "significance": "东南互保",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 刘坤一",
+        "url": "https://zh.wikipedia.org/wiki/刘坤一",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "zhang-zhidong": {
     "id": "zhang-zhidong",
@@ -1192,7 +2872,27 @@
       "guangxu"
     ],
     "description": "晚清洋务派代表，提出'中学为体，西学为用'。创办汉阳铁厂。",
-    "significance": "洋务派重臣"
+    "significance": "洋务派重臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 张之洞",
+        "url": "https://zh.wikipedia.org/wiki/张之洞",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "tan-sitong": {
     "id": "tan-sitong",
@@ -1205,7 +2905,27 @@
       "guangxu"
     ],
     "description": "戊戌六君子之一，变法失败后从容就义。'我自横刀向天笑'。",
-    "significance": "戊戌六君子"
+    "significance": "戊戌六君子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 谭嗣同",
+        "url": "https://zh.wikipedia.org/wiki/谭嗣同",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yan-fu": {
     "id": "yan-fu",
@@ -1218,7 +2938,27 @@
       "guangxu"
     ],
     "description": "翻译《天演论》，传播进化论思想。近代启蒙思想家。",
-    "significance": "天演论译者"
+    "significance": "天演论译者",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 严复",
+        "url": "https://zh.wikipedia.org/wiki/严复",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "zhang-binglin": {
     "id": "zhang-binglin",
@@ -1231,7 +2971,27 @@
       "guangxu"
     ],
     "description": "近代革命家、学者。反清革命宣传家。",
-    "significance": "革命宣传家"
+    "significance": "革命宣传家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 章太炎",
+        "url": "https://zh.wikipedia.org/wiki/章太炎",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "eunuch-an-dehai": {
     "id": "eunuch-an-dehai",
@@ -1244,7 +3004,27 @@
       "tongzhi"
     ],
     "description": "慈禧太后宠信太监，出宫办事被山东巡抚丁宝桢处斩。",
-    "significance": "被丁宝桢处斩"
+    "significance": "被丁宝桢处斩",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 安德海",
+        "url": "https://zh.wikipedia.org/wiki/安德海",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "eunuch-xiao-dehai": {
     "id": "eunuch-xiao-dehai",
@@ -1258,7 +3038,27 @@
       "xuantong"
     ],
     "description": "清末太监总管，宣统朝得势。清帝退位后出宫。",
-    "significance": "清末太监总管"
+    "significance": "清末太监总管",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 小德张",
+        "url": "https://zh.wikipedia.org/wiki/小德张",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "eunuch-lian-ying": {
     "id": "eunuch-lian-ying",
@@ -1271,7 +3071,27 @@
       "guangxu"
     ],
     "description": "因上书慈禧劝其归政光绪而被处死。",
-    "significance": "因直谏被杀"
+    "significance": "因直谏被杀",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 寇连材",
+        "url": "https://zh.wikipedia.org/wiki/寇连材",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "kuai-xiang": {
     "id": "kuai-xiang",
@@ -1286,7 +3106,27 @@
       "zhengtong"
     ],
     "description": "明代建筑大师，紫禁城主要设计者之一。官至工部左侍郎。",
-    "significance": "紫禁城主要设计者"
+    "significance": "紫禁城主要设计者",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 蒯祥",
+        "url": "https://zh.wikipedia.org/wiki/蒯祥",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "lei-fada": {
     "id": "lei-fada",
@@ -1299,7 +3139,27 @@
       "kangxi"
     ],
     "description": "'样式雷'家族第一代。主持修建太和殿等。",
-    "significance": "样式雷始祖"
+    "significance": "样式雷始祖",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 雷发达",
+        "url": "https://zh.wikipedia.org/wiki/雷发达",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "lei-jinxi": {
     "id": "lei-jinxi",
@@ -1313,7 +3173,27 @@
       "qianlong"
     ],
     "description": "'样式雷'第二代，主持圆明园等皇家工程。",
-    "significance": "样式雷第二代"
+    "significance": "样式雷第二代",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 雷金兆",
+        "url": "https://zh.wikipedia.org/wiki/雷金兆",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "lei-jiayu": {
     "id": "lei-jiayu",
@@ -1327,7 +3207,27 @@
       "jiaqing"
     ],
     "description": "'样式雷'第三代，主持清漪园（颐和园）等工程。",
-    "significance": "样式雷第三代"
+    "significance": "样式雷第三代",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 雷家玺",
+        "url": "https://zh.wikipedia.org/wiki/雷家玺",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "wang-yangming": {
     "id": "wang-yangming",
@@ -1342,7 +3242,27 @@
       "jiajing"
     ],
     "description": "心学集大成者，创立'致良知'学说。同时是杰出军事家，平定宁王之乱。",
-    "significance": "心学大师"
+    "significance": "心学大师",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 王阳明",
+        "url": "https://zh.wikipedia.org/wiki/王阳明",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "li-zhi": {
     "id": "li-zhi",
@@ -1357,7 +3277,27 @@
       "wanli"
     ],
     "description": "明代异端思想家，批判程朱理学。被诬下狱后自刎。",
-    "significance": "异端思想家"
+    "significance": "异端思想家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 李贽",
+        "url": "https://zh.wikipedia.org/wiki/李贽",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "huang-zongxi": {
     "id": "huang-zongxi",
@@ -1370,7 +3310,27 @@
       "chongzhen"
     ],
     "description": "明末清初思想家，《明夷待访录》作者，批判君主专制。",
-    "significance": "明末思想家"
+    "significance": "明末思想家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 黄宗羲",
+        "url": "https://zh.wikipedia.org/wiki/黄宗羲",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "gu-yanwu": {
     "id": "gu-yanwu",
@@ -1383,7 +3343,27 @@
       "chongzhen"
     ],
     "description": "明末清初思想家，'天下兴亡匹夫有责'出处。",
-    "significance": "天下兴亡匹夫有责"
+    "significance": "天下兴亡匹夫有责",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 顾炎武",
+        "url": "https://zh.wikipedia.org/wiki/顾炎武",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "wang-fuzhi": {
     "id": "wang-fuzhi",
@@ -1396,7 +3376,27 @@
       "chongzhen"
     ],
     "description": "明末清初思想家，隐居著述，中国古代哲学集大成者。",
-    "significance": "明末哲学家"
+    "significance": "明末哲学家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 王夫之",
+        "url": "https://zh.wikipedia.org/wiki/王夫之",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "hu-weiyong": {
     "id": "hu-weiyong",
@@ -1409,7 +3409,27 @@
       "hongwu"
     ],
     "description": "明朝最后一任丞相，因谋反罪被杀，朱元璋借此废除丞相制度。",
-    "significance": "最后一任丞相"
+    "significance": "最后一任丞相",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 胡惟庸",
+        "url": "https://zh.wikipedia.org/wiki/胡惟庸",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "fang-xiaoru": {
     "id": "fang-xiaoru",
@@ -1422,7 +3442,27 @@
       "jianwen"
     ],
     "description": "建文帝重臣，拒绝为朱棣起草即位诏书，被诛十族。",
-    "significance": "诛十族忠臣"
+    "significance": "诛十族忠臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 方孝孺",
+        "url": "https://zh.wikipedia.org/wiki/方孝孺",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yu-qian-ally": {
     "id": "yu-qian-ally",
@@ -1436,7 +3476,27 @@
       "jingtai"
     ],
     "description": "北京保卫战将领，后发动夺门之变拥英宗复辟。",
-    "significance": "夺门之变"
+    "significance": "夺门之变",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 石亨",
+        "url": "https://zh.wikipedia.org/wiki/石亨",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "cao-qin": {
     "id": "cao-qin",
@@ -1450,7 +3510,27 @@
       "jingtai"
     ],
     "description": "参与夺门之变的权阉，后谋反被杀。",
-    "significance": "夺门之变权阉"
+    "significance": "夺门之变权阉",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 曹吉祥",
+        "url": "https://zh.wikipedia.org/wiki/曹吉祥",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "liu-jin-8tiger": {
     "id": "liu-jin-8tiger",
@@ -1463,7 +3543,27 @@
       "zhengde"
     ],
     "description": "'八虎'之一，正德朝权阉。",
-    "significance": "八虎之一"
+    "significance": "八虎之一",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 马永成",
+        "url": "https://zh.wikipedia.org/wiki/马永成",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "dong-xian": {
     "id": "dong-xian",
@@ -1476,7 +3576,27 @@
       "chongzhen"
     ],
     "description": "董鄂妃之父，降清后封侯。",
-    "significance": "董鄂妃之父"
+    "significance": "董鄂妃之父",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 董贤",
+        "url": "https://zh.wikipedia.org/wiki/董贤",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "sun-chengzong": {
     "id": "sun-chengzong",
@@ -1491,7 +3611,27 @@
       "chongzhen"
     ],
     "description": "明末兵部尚书，主持辽东防务。城破后自缢。",
-    "significance": "辽东防务"
+    "significance": "辽东防务",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 孙承宗",
+        "url": "https://zh.wikipedia.org/wiki/孙承宗",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "xiong-tingbi": {
     "id": "xiong-tingbi",
@@ -1505,7 +3645,27 @@
       "tianqi"
     ],
     "description": "明末辽东经略，被魏忠贤杀害。",
-    "significance": "辽东经略"
+    "significance": "辽东经略",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 熊廷弼",
+        "url": "https://zh.wikipedia.org/wiki/熊廷弼",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "ma-shuai": {
     "id": "ma-shuai",
@@ -1519,7 +3679,27 @@
       "wanli"
     ],
     "description": "万历朝鲜之役将领。",
-    "significance": "援朝将领"
+    "significance": "援朝将领",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 麻贵",
+        "url": "https://zh.wikipedia.org/wiki/麻贵",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "chen-lin": {
     "id": "chen-lin",
@@ -1534,7 +3714,27 @@
       "wanli"
     ],
     "description": "万历朝鲜之役水师将领。",
-    "significance": "援朝水师将领"
+    "significance": "援朝水师将领",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 陈璘",
+        "url": "https://zh.wikipedia.org/wiki/陈璘",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "shi-lang": {
     "id": "shi-lang",
@@ -1547,7 +3747,27 @@
       "kangxi"
     ],
     "description": "原郑成功部下，后降清。率军攻取台湾。",
-    "significance": "攻取台湾"
+    "significance": "攻取台湾",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 施琅",
+        "url": "https://zh.wikipedia.org/wiki/施琅",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "pengchun": {
     "id": "pengchun",
@@ -1560,7 +3780,27 @@
       "kangxi"
     ],
     "description": "参与雅克萨之战。",
-    "significance": "雅克萨之战"
+    "significance": "雅克萨之战",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 彭春",
+        "url": "https://zh.wikipedia.org/wiki/彭春",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "fei-yang-gu": {
     "id": "fei-yang-gu",
@@ -1573,7 +3813,27 @@
       "kangxi"
     ],
     "description": "参与征噶尔丹之战。",
-    "significance": "征噶尔丹"
+    "significance": "征噶尔丹",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 费扬古",
+        "url": "https://zh.wikipedia.org/wiki/费扬古",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yin-reng": {
     "id": "yin-reng",
@@ -1586,7 +3846,27 @@
       "kangxi"
     ],
     "description": "康熙帝嫡子，两立两废的太子。",
-    "significance": "两废太子"
+    "significance": "两废太子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 胤礽",
+        "url": "https://zh.wikipedia.org/wiki/胤礽",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yinsi": {
     "id": "yinsi",
@@ -1600,7 +3880,27 @@
       "yongzheng"
     ],
     "description": "八阿哥，九子夺嫡核心人物。",
-    "significance": "八阿哥"
+    "significance": "八阿哥",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 胤禩",
+        "url": "https://zh.wikipedia.org/wiki/胤禩",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yinzhen-rival": {
     "id": "yinzhen-rival",
@@ -1614,7 +3914,27 @@
       "yongzheng"
     ],
     "description": "十四阿哥，九子夺嫡竞争者。",
-    "significance": "十四阿哥"
+    "significance": "十四阿哥",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 胤禵",
+        "url": "https://zh.wikipedia.org/wiki/胤禵",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "nian-gengyao": {
     "id": "nian-gengyao",
@@ -1628,7 +3948,27 @@
       "yongzheng"
     ],
     "description": "雍正初年权臣，平定青海。后被赐死。",
-    "significance": "平定青海，被赐死"
+    "significance": "平定青海，被赐死",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 年羹尧",
+        "url": "https://zh.wikipedia.org/wiki/年羹尧",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "longkodo": {
     "id": "longkodo",
@@ -1642,7 +3982,27 @@
       "yongzheng"
     ],
     "description": "雍正即位关键人物，后被囚死。",
-    "significance": "拥立雍正"
+    "significance": "拥立雍正",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 隆科多",
+        "url": "https://zh.wikipedia.org/wiki/隆科多",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "liu-tong-xun": {
     "id": "liu-tong-xun",
@@ -1656,7 +4016,27 @@
       "qianlong"
     ],
     "description": "乾隆朝名臣，刘墉之父。以敢谏著称。",
-    "significance": "敢谏名臣"
+    "significance": "敢谏名臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 刘统勋",
+        "url": "https://zh.wikipedia.org/wiki/刘统勋",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "he-shen-fu": {
     "id": "he-shen-fu",
@@ -1670,7 +4050,27 @@
       "jiaqing"
     ],
     "description": "和珅党羽，嘉庆初年被治罪。",
-    "significance": "和珅党羽"
+    "significance": "和珅党羽",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 福长安",
+        "url": "https://zh.wikipedia.org/wiki/福长安",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "shao-yong": {
     "id": "shao-yong",
@@ -1681,7 +4081,27 @@
     "death_year": null,
     "served_emperors": [],
     "description": "此处为占位",
-    "significance": "占位"
+    "significance": "占位",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 邵雍",
+        "url": "https://zh.wikipedia.org/wiki/邵雍",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "ding-ruchang": {
     "id": "ding-ruchang",
@@ -1697,7 +4117,27 @@
       "guangxu"
     ],
     "description": "北洋水师提督，甲午战争中战败后自杀。",
-    "significance": "北洋水师提督"
+    "significance": "北洋水师提督",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 丁汝昌",
+        "url": "https://zh.wikipedia.org/wiki/丁汝昌",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "deng-shichang": {
     "id": "deng-shichang",
@@ -1713,7 +4153,27 @@
       "guangxu"
     ],
     "description": "致远舰管带，黄海海战中壮烈殉国。",
-    "significance": "黄海海战殉国"
+    "significance": "黄海海战殉国",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 邓世昌",
+        "url": "https://zh.wikipedia.org/wiki/邓世昌",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "guan-yue-qing": {
     "id": "guan-yue-qing",
@@ -1726,7 +4186,27 @@
       "daoguang"
     ],
     "description": "鸦片战争中守卫虎门炮台，战死。",
-    "significance": "虎门殉国"
+    "significance": "虎门殉国",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 关天培",
+        "url": "https://zh.wikipedia.org/wiki/关天培",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "se-leng-e": {
     "id": "se-leng-e",
@@ -1741,7 +4221,27 @@
       "tongzhi"
     ],
     "description": "蒙古亲王，参与镇压太平天国和捻军。",
-    "significance": "蒙古亲王"
+    "significance": "蒙古亲王",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 僧格林沁",
+        "url": "https://zh.wikipedia.org/wiki/僧格林沁",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "rong-lu": {
     "id": "rong-lu",
@@ -1757,7 +4257,27 @@
       "guangxu"
     ],
     "description": "慈禧太后亲信，戊戌政变后掌兵权。",
-    "significance": "慈禧亲信"
+    "significance": "慈禧亲信",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 荣禄",
+        "url": "https://zh.wikipedia.org/wiki/荣禄",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "gang-yi": {
     "id": "gang-yi",
@@ -1773,7 +4293,27 @@
       "guangxu"
     ],
     "description": "保守派大臣，支持义和团。",
-    "significance": "保守派大臣"
+    "significance": "保守派大臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 刚毅",
+        "url": "https://zh.wikipedia.org/wiki/刚毅",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "zai-yi": {
     "id": "zai-yi",
@@ -1789,7 +4329,27 @@
       "guangxu"
     ],
     "description": "端郡王，支持义和团。八国联军后被流放。",
-    "significance": "端郡王"
+    "significance": "端郡王",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 载漪",
+        "url": "https://zh.wikipedia.org/wiki/载漪",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "pu-jun": {
     "id": "pu-jun",
@@ -1802,7 +4362,27 @@
       "guangxu"
     ],
     "description": "大阿哥，曾被立为同治嗣子。",
-    "significance": "大阿哥"
+    "significance": "大阿哥",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 溥俊",
+        "url": "https://zh.wikipedia.org/wiki/溥俊",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "zai-feng": {
     "id": "zai-feng",
@@ -1816,7 +4396,27 @@
       "xuantong"
     ],
     "description": "醇亲王，溥仪生父。宣统朝摄政王。",
-    "significance": "溥仪生父"
+    "significance": "溥仪生父",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 载沣",
+        "url": "https://zh.wikipedia.org/wiki/载沣",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yuan-shikai-son": {
     "id": "yuan-shikai-son",
@@ -1830,7 +4430,27 @@
       "xuantong"
     ],
     "description": "袁世凯长子。",
-    "significance": "袁世凯长子"
+    "significance": "袁世凯长子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 袁克定",
+        "url": "https://zh.wikipedia.org/wiki/袁克定",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "pu-songling": {
     "id": "pu-songling",
@@ -1843,7 +4463,27 @@
       "kangxi"
     ],
     "description": "《聊斋志异》作者。",
-    "significance": "聊斋志异作者"
+    "significance": "聊斋志异作者",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 蒲松龄",
+        "url": "https://zh.wikipedia.org/wiki/蒲松龄",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "wu-jingzi": {
     "id": "wu-jingzi",
@@ -1857,7 +4497,27 @@
       "qianlong"
     ],
     "description": "《儒林外史》作者。",
-    "significance": "儒林外史作者"
+    "significance": "儒林外史作者",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 吴敬梓",
+        "url": "https://zh.wikipedia.org/wiki/吴敬梓",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "kong-shangren": {
     "id": "kong-shangren",
@@ -1870,7 +4530,27 @@
       "kangxi"
     ],
     "description": "《桃花扇》作者。",
-    "significance": "桃花扇作者"
+    "significance": "桃花扇作者",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 孔尚任",
+        "url": "https://zh.wikipedia.org/wiki/孔尚任",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "hong-sheng": {
     "id": "hong-sheng",
@@ -1883,7 +4563,27 @@
       "kangxi"
     ],
     "description": "《长生殿》作者。",
-    "significance": "长生殿作者"
+    "significance": "长生殿作者",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 洪昇",
+        "url": "https://zh.wikipedia.org/wiki/洪昇",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "ning-wang": {
     "id": "ning-wang",
@@ -1897,7 +4597,27 @@
       "zhengde"
     ],
     "description": "宁王，发动叛乱被王阳明平定。",
-    "significance": "宁王之乱"
+    "significance": "宁王之乱",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 朱宸濠",
+        "url": "https://zh.wikipedia.org/wiki/朱宸濠",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "wei-zhongxian-ally": {
     "id": "wei-zhongxian-ally",
@@ -1910,7 +4630,27 @@
       "tianqi"
     ],
     "description": "魏忠贤阉党核心人物。",
-    "significance": "阉党核心"
+    "significance": "阉党核心",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 崔呈秀",
+        "url": "https://zh.wikipedia.org/wiki/崔呈秀",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "donglin-1": {
     "id": "donglin-1",
@@ -1924,7 +4664,27 @@
       "tianqi"
     ],
     "description": "东林党领袖，被魏忠贤杀害。",
-    "significance": "东林党六君子"
+    "significance": "东林党六君子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 左光斗",
+        "url": "https://zh.wikipedia.org/wiki/左光斗",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "donglin-2": {
     "id": "donglin-2",
@@ -1938,7 +4698,27 @@
       "tianqi"
     ],
     "description": "东林党人，被魏忠贤杀害。",
-    "significance": "东林党六君子"
+    "significance": "东林党六君子",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 魏大中",
+        "url": "https://zh.wikipedia.org/wiki/魏大中",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "tian-wenqi": {
     "id": "tian-wenqi",
@@ -1952,7 +4732,27 @@
       "yongzheng"
     ],
     "description": "雍正朝酷吏型官员。",
-    "significance": "雍正酷吏"
+    "significance": "雍正酷吏",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 田文镜",
+        "url": "https://zh.wikipedia.org/wiki/田文镜",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "li-wei": {
     "id": "li-wei",
@@ -1966,7 +4766,27 @@
       "yongzheng"
     ],
     "description": "雍正朝名臣，以善于缉盗著称。",
-    "significance": "善于缉盗"
+    "significance": "善于缉盗",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 李卫",
+        "url": "https://zh.wikipedia.org/wiki/李卫",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "li-zicheng": {
     "id": "li-zicheng",
@@ -1979,7 +4799,27 @@
       "chongzhen"
     ],
     "description": "闯王，推翻明朝统治的农民起义领袖",
-    "significance": "建立大顺政权"
+    "significance": "建立大顺政权",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 李自成",
+        "url": "https://zh.wikipedia.org/wiki/李自成",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "gongqinwang-yixin": {
     "id": "gongqinwang-yixin",
@@ -1995,7 +4835,27 @@
       "guangxu"
     ],
     "description": "恭亲王，洋务运动领导人之一",
-    "significance": "总理衙门大臣"
+    "significance": "总理衙门大臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 奕訢",
+        "url": "https://zh.wikipedia.org/wiki/奕訢",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "ji-xiaolan": {
     "id": "ji-xiaolan",
@@ -2009,7 +4869,27 @@
       "jiaqing"
     ],
     "description": "四库全书总纂官，字晓岚",
-    "significance": "大学者"
+    "significance": "大学者",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 纪昀",
+        "url": "https://zh.wikipedia.org/wiki/纪昀",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "zhang-tingyu": {
     "id": "zhang-tingyu",
@@ -2024,7 +4904,27 @@
       "qianlong"
     ],
     "description": "康雍乾三朝元老",
-    "significance": "配享太庙"
+    "significance": "配享太庙",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 张廷玉",
+        "url": "https://zh.wikipedia.org/wiki/张廷玉",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "li-lian-ying": {
     "id": "li-lian-ying",
@@ -2040,7 +4940,27 @@
       "xuantong"
     ],
     "description": "慈禧太后最信任的太监，大总管",
-    "significance": "权倾一时"
+    "significance": "权倾一时",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 李莲英",
+        "url": "https://zh.wikipedia.org/wiki/李莲英",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "ci-xi": {
     "id": "ci-xi",
@@ -2056,7 +4976,27 @@
       "xuantong"
     ],
     "description": "同治光绪两朝实际统治者",
-    "significance": "垂帘听政48年"
+    "significance": "垂帘听政48年",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 慈禧太后",
+        "url": "https://zh.wikipedia.org/wiki/慈禧太后",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "sun-yat-sen": {
     "id": "sun-yat-sen",
@@ -2070,7 +5010,27 @@
       "xuantong"
     ],
     "description": "中国民主革命先行者，中华民国国父",
-    "significance": "推翻帝制"
+    "significance": "推翻帝制",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 孙中山",
+        "url": "https://zh.wikipedia.org/wiki/孙中山",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "kang-youwei": {
     "id": "kang-youwei",
@@ -2084,7 +5044,27 @@
       "xuantong"
     ],
     "description": "戊戌变法领导人，今文经学家",
-    "significance": "维新派领袖"
+    "significance": "维新派领袖",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 康有为",
+        "url": "https://zh.wikipedia.org/wiki/康有为",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "liang-qichao": {
     "id": "liang-qichao",
@@ -2098,7 +5078,27 @@
       "xuantong"
     ],
     "description": "戊戌变法参与者，近代思想家",
-    "significance": "新史学开创者"
+    "significance": "新史学开创者",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 梁启超",
+        "url": "https://zh.wikipedia.org/wiki/梁启超",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "an-de-hai": {
     "id": "an-de-hai",
@@ -2112,7 +5112,27 @@
       "tongzhi"
     ],
     "description": "慈禧太后宠信太监",
-    "significance": "被山东巡抚丁宝桢处死"
+    "significance": "被山东巡抚丁宝桢处死",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 安德海",
+        "url": "https://zh.wikipedia.org/wiki/安德海",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "lei-fa-da": {
     "id": "lei-fa-da",
@@ -2125,7 +5145,27 @@
       "kangxi"
     ],
     "description": "样式雷创始人，清代皇家建筑设计师",
-    "significance": "样式雷家族始祖"
+    "significance": "样式雷家族始祖",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 雷发达",
+        "url": "https://zh.wikipedia.org/wiki/雷发达",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "qi-ji-guang": {
     "id": "qi-ji-guang",
@@ -2140,7 +5180,27 @@
       "wanli"
     ],
     "description": "抗倭名将，创建戚家军",
-    "significance": "民族英雄"
+    "significance": "民族英雄",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 戚继光",
+        "url": "https://zh.wikipedia.org/wiki/戚继光",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "li-ru-song": {
     "id": "li-ru-song",
@@ -2153,7 +5213,27 @@
       "wanli"
     ],
     "description": "万历朝鲜之役明军统帅",
-    "significance": "平壤大捷"
+    "significance": "平壤大捷",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 李如松",
+        "url": "https://zh.wikipedia.org/wiki/李如松",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "shi-ke-fa": {
     "id": "shi-ke-fa",
@@ -2166,7 +5246,27 @@
       "chongzhen"
     ],
     "description": "南明抗清名臣，扬州保卫战殉国",
-    "significance": "民族英雄"
+    "significance": "民族英雄",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 史可法",
+        "url": "https://zh.wikipedia.org/wiki/史可法",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "duo-er-gun": {
     "id": "duo-er-gun",
@@ -2179,7 +5279,27 @@
       "shunzhi"
     ],
     "description": "睿亲王，清初摄政王",
-    "significance": "入关统帅"
+    "significance": "入关统帅",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 多尔衮",
+        "url": "https://zh.wikipedia.org/wiki/多尔衮",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "xiao-zhuang": {
     "id": "xiao-zhuang",
@@ -2193,7 +5313,27 @@
       "kangxi"
     ],
     "description": "皇太极妃，顺治生母，康熙祖母",
-    "significance": "清初重要政治人物"
+    "significance": "清初重要政治人物",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 孝庄太后",
+        "url": "https://zh.wikipedia.org/wiki/孝庄太后",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yan-shi-fan": {
     "id": "yan-shi-fan",
@@ -2206,7 +5346,27 @@
       "jiajing"
     ],
     "description": "严嵩之子，父子专权",
-    "significance": "被抄家处死"
+    "significance": "被抄家处死",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 严世蕃",
+        "url": "https://zh.wikipedia.org/wiki/严世蕃",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "gu-xian-cheng": {
     "id": "gu-xian-cheng",
@@ -2219,7 +5379,27 @@
       "wanli"
     ],
     "description": "东林书院创始人",
-    "significance": "东林党领袖"
+    "significance": "东林党领袖",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 顾宪成",
+        "url": "https://zh.wikipedia.org/wiki/顾宪成",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "lu-xiang-sheng": {
     "id": "lu-xiang-sheng",
@@ -2232,7 +5412,27 @@
       "chongzhen"
     ],
     "description": "明末抗清名将",
-    "significance": "巨鹿战死"
+    "significance": "巨鹿战死",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 卢象升",
+        "url": "https://zh.wikipedia.org/wiki/卢象升",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "chen-yuan-long": {
     "id": "chen-yuan-long",
@@ -2246,7 +5446,27 @@
       "yongzheng"
     ],
     "description": "康熙朝名臣",
-    "significance": "文渊阁大学士"
+    "significance": "文渊阁大学士",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 陈元龙",
+        "url": "https://zh.wikipedia.org/wiki/陈元龙",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "liang-shi-cheng": {
     "id": "liang-shi-cheng",
@@ -2260,7 +5480,27 @@
       "qianlong"
     ],
     "description": "乾隆朝名臣，书法家",
-    "significance": "东阁大学士"
+    "significance": "东阁大学士",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 梁诗正",
+        "url": "https://zh.wikipedia.org/wiki/梁诗正",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "lei-jin-wei": {
     "id": "lei-jin-wei",
@@ -2273,7 +5513,27 @@
       "qianlong"
     ],
     "description": "样式雷第三代传人",
-    "significance": "皇家建筑师"
+    "significance": "皇家建筑师",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 雷金徽",
+        "url": "https://zh.wikipedia.org/wiki/雷金徽",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "lei-jing-chang": {
     "id": "lei-jing-chang",
@@ -2287,7 +5547,27 @@
       "jiaqing"
     ],
     "description": "样式雷第四代传人",
-    "significance": "皇家建筑师"
+    "significance": "皇家建筑师",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 雷景昌",
+        "url": "https://zh.wikipedia.org/wiki/雷景昌",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "gao-shi-qi": {
     "id": "gao-shi-qi",
@@ -2300,7 +5580,27 @@
       "kangxi"
     ],
     "description": "康熙朝文学侍从",
-    "significance": "南书房行走"
+    "significance": "南书房行走",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 高士奇",
+        "url": "https://zh.wikipedia.org/wiki/高士奇",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "tang-ying": {
     "id": "tang-ying",
@@ -2314,7 +5614,27 @@
       "qianlong"
     ],
     "description": "景德镇御窑督陶官",
-    "significance": "陶瓷大师"
+    "significance": "陶瓷大师",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 唐英",
+        "url": "https://zh.wikipedia.org/wiki/唐英",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "lang-shi-ning": {
     "id": "lang-shi-ning",
@@ -2329,7 +5649,27 @@
       "qianlong"
     ],
     "description": "意大利传教士，宫廷画师",
-    "significance": "中西合璧画风"
+    "significance": "中西合璧画风",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 郎世宁",
+        "url": "https://zh.wikipedia.org/wiki/郎世宁",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "ning-qi": {
     "id": "ning-qi",
@@ -2342,7 +5682,27 @@
       "shunzhi"
     ],
     "description": "顺治帝妃子",
-    "significance": "后宫"
+    "significance": "后宫",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 宁悫妃",
+        "url": "https://zh.wikipedia.org/wiki/宁悫妃",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "hesheli": {
     "id": "hesheli",
@@ -2355,7 +5715,27 @@
       "kangxi"
     ],
     "description": "康熙帝孝诚仁皇后",
-    "significance": "索尼孙女"
+    "significance": "索尼孙女",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 赫舍里氏",
+        "url": "https://zh.wikipedia.org/wiki/赫舍里氏",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "niu-hulu": {
     "id": "niu-hulu",
@@ -2369,7 +5749,27 @@
       "qianlong"
     ],
     "description": "雍正帝孝圣宪皇后，乾隆生母",
-    "significance": "圣母皇太后"
+    "significance": "圣母皇太后",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 钮祜禄氏",
+        "url": "https://zh.wikipedia.org/wiki/钮祜禄氏",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "na-la-shi": {
     "id": "na-la-shi",
@@ -2383,7 +5783,27 @@
       "qianlong"
     ],
     "description": "乾隆帝继皇后",
-    "significance": "断发风波"
+    "significance": "断发风波",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 那拉氏",
+        "url": "https://zh.wikipedia.org/wiki/那拉氏",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "hui-fa": {
     "id": "hui-fa",
@@ -2396,7 +5816,27 @@
       "qianlong"
     ],
     "description": "乾隆帝令贵妃",
-    "significance": "嘉庆生母"
+    "significance": "嘉庆生母",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 辉发那拉氏",
+        "url": "https://zh.wikipedia.org/wiki/辉发那拉氏",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "tong-jia-shi": {
     "id": "tong-jia-shi",
@@ -2409,7 +5849,27 @@
       "kangxi"
     ],
     "description": "康熙帝孝懿仁皇后",
-    "significance": "一等公佟国维之女"
+    "significance": "一等公佟国维之女",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 佟佳氏",
+        "url": "https://zh.wikipedia.org/wiki/佟佳氏",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "li-shan-chang": {
     "id": "li-shan-chang",
@@ -2422,7 +5882,27 @@
       "hongwu"
     ],
     "description": "明朝开国丞相",
-    "significance": "开国第一功臣"
+    "significance": "开国第一功臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 李善长",
+        "url": "https://zh.wikipedia.org/wiki/李善长",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "chang-yu-chun": {
     "id": "chang-yu-chun",
@@ -2435,7 +5915,27 @@
       "hongwu"
     ],
     "description": "明朝开国名将",
-    "significance": "勇冠三军"
+    "significance": "勇冠三军",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 常遇春",
+        "url": "https://zh.wikipedia.org/wiki/常遇春",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "deng-yu": {
     "id": "deng-yu",
@@ -2448,7 +5948,27 @@
       "hongwu"
     ],
     "description": "明朝开国将领",
-    "significance": "战功卓著"
+    "significance": "战功卓著",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 邓愈",
+        "url": "https://zh.wikipedia.org/wiki/邓愈",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "tang-he": {
     "id": "tang-he",
@@ -2461,7 +5981,27 @@
       "hongwu"
     ],
     "description": "明朝开国名将",
-    "significance": "谨慎善终"
+    "significance": "谨慎善终",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 汤和",
+        "url": "https://zh.wikipedia.org/wiki/汤和",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "fu-you-de": {
     "id": "fu-you-de",
@@ -2474,7 +6014,27 @@
       "hongwu"
     ],
     "description": "明朝开国名将",
-    "significance": "平定云南"
+    "significance": "平定云南",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 傅友德",
+        "url": "https://zh.wikipedia.org/wiki/傅友德",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "lan-yu": {
     "id": "lan-yu",
@@ -2487,7 +6047,27 @@
       "hongwu"
     ],
     "description": "明朝开国名将",
-    "significance": "捕鱼儿海大捷"
+    "significance": "捕鱼儿海大捷",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 蓝玉",
+        "url": "https://zh.wikipedia.org/wiki/蓝玉",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "wang-meng": {
     "id": "wang-meng",
@@ -2500,7 +6080,27 @@
       "hongwu"
     ],
     "description": "明朝丞相",
-    "significance": "被胡惟庸案牵连"
+    "significance": "被胡惟庸案牵连",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 汪广洋",
+        "url": "https://zh.wikipedia.org/wiki/汪广洋",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "hu-wei-yong": {
     "id": "hu-wei-yong",
@@ -2513,7 +6113,27 @@
       "hongwu"
     ],
     "description": "明朝丞相，胡惟庸案主犯",
-    "significance": "被诛"
+    "significance": "被诛",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 胡惟庸",
+        "url": "https://zh.wikipedia.org/wiki/胡惟庸",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "fang-guo-zhen": {
     "id": "fang-guo-zhen",
@@ -2526,7 +6146,27 @@
       "hongwu"
     ],
     "description": "元末割据浙东势力",
-    "significance": "降明"
+    "significance": "降明",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 方国珍",
+        "url": "https://zh.wikipedia.org/wiki/方国珍",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "zhu-wen-zheng": {
     "id": "zhu-wen-zheng",
@@ -2539,7 +6179,27 @@
       "hongwu"
     ],
     "description": "朱元璋侄子，洪都保卫战",
-    "significance": "后获罪死"
+    "significance": "后获罪死",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 朱文正",
+        "url": "https://zh.wikipedia.org/wiki/朱文正",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "li-jinglong": {
     "id": "li-jinglong",
@@ -2554,7 +6214,27 @@
       "yongle"
     ],
     "description": "李文忠之子，靖难之役将领",
-    "significance": "投降朱棣"
+    "significance": "投降朱棣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 李景隆",
+        "url": "https://zh.wikipedia.org/wiki/李景隆",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "tie-xuan": {
     "id": "tie-xuan",
@@ -2567,7 +6247,27 @@
       "jianwen"
     ],
     "description": "建文朝忠臣，坚守济南",
-    "significance": "被朱棣所杀"
+    "significance": "被朱棣所杀",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 铁铉",
+        "url": "https://zh.wikipedia.org/wiki/铁铉",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "sheng-yong": {
     "id": "sheng-yong",
@@ -2580,7 +6280,27 @@
       "jianwen"
     ],
     "description": "建文朝将领，多次击败朱棣",
-    "significance": "降朱棣后自杀"
+    "significance": "降朱棣后自杀",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 盛庸",
+        "url": "https://zh.wikipedia.org/wiki/盛庸",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "jing-nan": {
     "id": "jing-nan",
@@ -2593,7 +6313,27 @@
       "jianwen"
     ],
     "description": "建文朝御史大夫",
-    "significance": "刺杀朱棣未遂被杀"
+    "significance": "刺杀朱棣未遂被杀",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 景清",
+        "url": "https://zh.wikipedia.org/wiki/景清",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "xia-yuan-ji": {
     "id": "xia-yuan-ji",
@@ -2608,7 +6348,27 @@
       "xuande"
     ],
     "description": "永乐朝户部尚书",
-    "significance": "理财名臣"
+    "significance": "理财名臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 夏原吉",
+        "url": "https://zh.wikipedia.org/wiki/夏原吉",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yi-ya-tu": {
     "id": "yi-ya-tu",
@@ -2622,7 +6382,27 @@
       "xuande"
     ],
     "description": "女真族太监，经营东北",
-    "significance": "设立奴儿干都司"
+    "significance": "设立奴儿干都司",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 亦失哈",
+        "url": "https://zh.wikipedia.org/wiki/亦失哈",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "chen-cheng": {
     "id": "chen-cheng",
@@ -2636,7 +6416,27 @@
       "xuande"
     ],
     "description": "出使西域的外交使节",
-    "significance": "五次出使哈密"
+    "significance": "五次出使哈密",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 陈诚",
+        "url": "https://zh.wikipedia.org/wiki/陈诚",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "jin-you-zi": {
     "id": "jin-you-zi",
@@ -2651,7 +6451,27 @@
       "xuande"
     ],
     "description": "永乐朝文学侍从",
-    "significance": "随朱棣北征"
+    "significance": "随朱棣北征",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 金幼孜",
+        "url": "https://zh.wikipedia.org/wiki/金幼孜",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "hu-guang": {
     "id": "hu-guang",
@@ -2664,7 +6484,27 @@
       "yongle"
     ],
     "description": "永乐大典编纂者之一",
-    "significance": "状元"
+    "significance": "状元",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 胡广",
+        "url": "https://zh.wikipedia.org/wiki/胡广",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "zhou-xin": {
     "id": "zhou-xin",
@@ -2677,7 +6517,27 @@
       "yongle"
     ],
     "description": "清廉御史",
-    "significance": "冷面寒铁"
+    "significance": "冷面寒铁",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 周新",
+        "url": "https://zh.wikipedia.org/wiki/周新",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "gao-gong": {
     "id": "gao-gong",
@@ -2692,7 +6552,27 @@
       "wanli"
     ],
     "description": "隆庆朝内阁首辅",
-    "significance": "被张居正取代"
+    "significance": "被张居正取代",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 高拱",
+        "url": "https://zh.wikipedia.org/wiki/高拱",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yan-song": {
     "id": "yan-song",
@@ -2705,7 +6585,27 @@
       "jiajing"
     ],
     "description": "嘉靖朝权臣，把持朝政二十年",
-    "significance": "中国历史著名奸臣"
+    "significance": "中国历史著名奸臣",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 严嵩",
+        "url": "https://zh.wikipedia.org/wiki/严嵩",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "qiu-jun": {
     "id": "qiu-jun",
@@ -2719,7 +6619,27 @@
       "hongzhi"
     ],
     "description": "海南籍大学者",
-    "significance": "大学衍义补作者"
+    "significance": "大学衍义补作者",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 丘濬",
+        "url": "https://zh.wikipedia.org/wiki/丘濬",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "li-dong-yang": {
     "id": "li-dong-yang",
@@ -2734,7 +6654,27 @@
       "zhengde"
     ],
     "description": "茶陵诗派创始人",
-    "significance": "内阁大学士"
+    "significance": "内阁大学士",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 李东阳",
+        "url": "https://zh.wikipedia.org/wiki/李东阳",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "tang-yin": {
     "id": "tang-yin",
@@ -2748,7 +6688,27 @@
       "zhengde"
     ],
     "description": "唐伯虎，江南四大才子之一",
-    "significance": "画家诗人"
+    "significance": "画家诗人",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 唐寅",
+        "url": "https://zh.wikipedia.org/wiki/唐寅",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "wen-zheng-ming": {
     "id": "wen-zheng-ming",
@@ -2763,7 +6723,27 @@
       "jiajing"
     ],
     "description": "吴门四家之一",
-    "significance": "书画大家"
+    "significance": "书画大家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 文徵明",
+        "url": "https://zh.wikipedia.org/wiki/文徵明",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "shen-zhou": {
     "id": "shen-zhou",
@@ -2778,7 +6758,27 @@
       "zhengde"
     ],
     "description": "吴门画派创始人",
-    "significance": "文人画大师"
+    "significance": "文人画大师",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 沈周",
+        "url": "https://zh.wikipedia.org/wiki/沈周",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "wang-shi-zhen": {
     "id": "wang-shi-zhen",
@@ -2793,7 +6793,27 @@
       "wanli"
     ],
     "description": "后七子领袖",
-    "significance": "文坛领袖"
+    "significance": "文坛领袖",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 王世贞",
+        "url": "https://zh.wikipedia.org/wiki/王世贞",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "gui-you-guang": {
     "id": "gui-you-guang",
@@ -2806,7 +6826,27 @@
       "jiajing"
     ],
     "description": "唐宋派散文家",
-    "significance": "项脊轩志作者"
+    "significance": "项脊轩志作者",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 归有光",
+        "url": "https://zh.wikipedia.org/wiki/归有光",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "xu-xia-ke": {
     "id": "xu-xia-ke",
@@ -2821,7 +6861,27 @@
       "chongzhen"
     ],
     "description": "地理学家、旅行家",
-    "significance": "徐霞客游记"
+    "significance": "徐霞客游记",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 徐霞客",
+        "url": "https://zh.wikipedia.org/wiki/徐霞客",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "song-ying-xing": {
     "id": "song-ying-xing",
@@ -2835,7 +6895,27 @@
       "chongzhen"
     ],
     "description": "天工开物作者",
-    "significance": "科技百科全书"
+    "significance": "科技百科全书",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 宋应星",
+        "url": "https://zh.wikipedia.org/wiki/宋应星",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "li-shi-zhen": {
     "id": "li-shi-zhen",
@@ -2850,7 +6930,27 @@
       "wanli"
     ],
     "description": "本草纲目作者",
-    "significance": "医药学家"
+    "significance": "医药学家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 李时珍",
+        "url": "https://zh.wikipedia.org/wiki/李时珍",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "wu-cheng-en": {
     "id": "wu-cheng-en",
@@ -2863,7 +6963,27 @@
       "jiajing"
     ],
     "description": "西游记作者",
-    "significance": "小说家"
+    "significance": "小说家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 吴承恩",
+        "url": "https://zh.wikipedia.org/wiki/吴承恩",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "shi-nai-an": {
     "id": "shi-nai-an",
@@ -2876,7 +6996,27 @@
       "hongwu"
     ],
     "description": "水浒传作者",
-    "significance": "小说家"
+    "significance": "小说家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 施耐庵",
+        "url": "https://zh.wikipedia.org/wiki/施耐庵",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "luo-guan-zhong": {
     "id": "luo-guan-zhong",
@@ -2889,7 +7029,27 @@
       "hongwu"
     ],
     "description": "三国演义作者",
-    "significance": "小说家"
+    "significance": "小说家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 罗贯中",
+        "url": "https://zh.wikipedia.org/wiki/罗贯中",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "tang-xian-zu": {
     "id": "tang-xian-zu",
@@ -2904,7 +7064,27 @@
       "wanli"
     ],
     "description": "牡丹亭作者",
-    "significance": "戏剧家"
+    "significance": "戏剧家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 汤显祖",
+        "url": "https://zh.wikipedia.org/wiki/汤显祖",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "cao-yin": {
     "id": "cao-yin",
@@ -2917,7 +7097,27 @@
       "kangxi"
     ],
     "description": "江宁织造，曹雪芹祖父",
-    "significance": "藏书家"
+    "significance": "藏书家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 曹寅",
+        "url": "https://zh.wikipedia.org/wiki/曹寅",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "cao-xue-qin": {
     "id": "cao-xue-qin",
@@ -2931,7 +7131,27 @@
       "qianlong"
     ],
     "description": "红楼梦作者",
-    "significance": "文学巨匠"
+    "significance": "文学巨匠",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 曹雪芹",
+        "url": "https://zh.wikipedia.org/wiki/曹雪芹",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "wu-jing-zi": {
     "id": "wu-jing-zi",
@@ -2946,7 +7166,27 @@
       "qianlong"
     ],
     "description": "儒林外史作者",
-    "significance": "讽刺小说家"
+    "significance": "讽刺小说家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 吴敬梓",
+        "url": "https://zh.wikipedia.org/wiki/吴敬梓",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "pu-song-ling": {
     "id": "pu-song-ling",
@@ -2959,7 +7199,27 @@
       "kangxi"
     ],
     "description": "聊斋志异作者",
-    "significance": "文言短篇小说大师"
+    "significance": "文言短篇小说大师",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 蒲松龄",
+        "url": "https://zh.wikipedia.org/wiki/蒲松龄",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "yuan-mei": {
     "id": "yuan-mei",
@@ -2975,7 +7235,27 @@
       "jiaqing"
     ],
     "description": "随园诗话作者",
-    "significance": "诗人美食家"
+    "significance": "诗人美食家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 袁枚",
+        "url": "https://zh.wikipedia.org/wiki/袁枚",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "zhen-xi-chao": {
     "id": "zhen-xi-chao",
@@ -2990,7 +7270,27 @@
       "qianlong"
     ],
     "description": "郑板桥，扬州八怪之一",
-    "significance": "书画家"
+    "significance": "书画家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 郑燮",
+        "url": "https://zh.wikipedia.org/wiki/郑燮",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "dai-zhen": {
     "id": "dai-zhen",
@@ -3004,7 +7304,27 @@
       "qianlong"
     ],
     "description": "考据学大师",
-    "significance": "思想家"
+    "significance": "思想家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 戴震",
+        "url": "https://zh.wikipedia.org/wiki/戴震",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "gu-yan-wu": {
     "id": "gu-yan-wu",
@@ -3019,7 +7339,27 @@
       "kangxi"
     ],
     "description": "天下兴亡匹夫有责",
-    "significance": "经世致用思想家"
+    "significance": "经世致用思想家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 顾炎武",
+        "url": "https://zh.wikipedia.org/wiki/顾炎武",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "huang-zong-xi": {
     "id": "huang-zong-xi",
@@ -3034,7 +7374,27 @@
       "kangxi"
     ],
     "description": "明夷待访录作者",
-    "significance": "启蒙思想家"
+    "significance": "启蒙思想家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 黄宗羲",
+        "url": "https://zh.wikipedia.org/wiki/黄宗羲",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "wang-fu-zhi": {
     "id": "wang-fu-zhi",
@@ -3049,7 +7409,27 @@
       "kangxi"
     ],
     "description": "船山先生，唯物主义者",
-    "significance": "大思想家"
+    "significance": "大思想家",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 王夫之",
+        "url": "https://zh.wikipedia.org/wiki/王夫之",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "shi-tao": {
     "id": "shi-tao",
@@ -3063,7 +7443,27 @@
       "kangxi"
     ],
     "description": "明宗室后裔，画家",
-    "significance": "搜尽奇峰打草稿"
+    "significance": "搜尽奇峰打草稿",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 石涛",
+        "url": "https://zh.wikipedia.org/wiki/石涛",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   },
   "ba-da-shan-ren": {
     "id": "ba-da-shan-ren",
@@ -3078,6 +7478,26 @@
       "kangxi"
     ],
     "description": "朱耷，明宗室后裔",
-    "significance": "写意画大师"
+    "significance": "写意画大师",
+    "sources": [
+      {
+        "type": "book",
+        "name": "《明史》/《清史稿》",
+        "note": "正史列传",
+        "fields": [
+          "description"
+        ]
+      },
+      {
+        "type": "wikipedia",
+        "name": "维基百科 - 八大山人",
+        "url": "https://zh.wikipedia.org/wiki/八大山人",
+        "note": "百科参考",
+        "fields": [
+          "description",
+          "significance"
+        ]
+      }
+    ]
   }
 }
