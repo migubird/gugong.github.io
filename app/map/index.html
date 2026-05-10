@@ -18,12 +18,12 @@
 
   <main>
     <div id="map-container">
-      <svg id="palace-map" viewBox="0 0 1000 800" xmlns="http://www.w3.org/2000/svg">
+      <svg id="palace-map" viewBox="0 0 1000 900" xmlns="http://www.w3.org/2000/svg">
         <!-- 背景 -->
-        <rect x="0" y="0" width="1000" height="800" fill="#1a1a2e"/>
+        <rect x="0" y="0" width="1000" height="900" fill="#1a1a2e"/>
 
         <!-- 宫墙 -->
-        <rect x="100" y="50" width="800" height="700" fill="none" stroke="#c41e3a" stroke-width="4" rx="5"/>
+        <rect x="100" y="40" width="800" height="800" fill="none" stroke="#c41e3a" stroke-width="4" rx="5"/>
 
         <!-- 午门（南） -->
         <rect x="400" y="730" width="200" height="20" fill="#c41e3a" rx="2"/>
@@ -34,12 +34,12 @@
         <text x="500" y="57" text-anchor="middle" fill="#fff" font-size="12">神武门</text>
 
         <!-- 中轴线 -->
-        <line x1="500" y1="60" x2="500" y2="750" stroke="#d4a01733" stroke-width="2" stroke-dasharray="5,5"/>
+        <line x1="500" y1="40" x2="500" y2="850" stroke="#d4a01733" stroke-width="2" stroke-dasharray="5,5"/>
 
         <!-- 外朝区域标签 -->
-        <text x="500" y="640" text-anchor="middle" fill="#d4a017" font-size="18" font-weight="bold" opacity="0.5">外 朝</text>
+        <text x="500" y="580" text-anchor="middle" fill="#d4a017" font-size="18" font-weight="bold" opacity="0.5">外 朝</text>
         <!-- 内廷区域标签 -->
-        <text x="500" y="270" text-anchor="middle" fill="#c0392b" font-size="18" font-weight="bold" opacity="0.5">内 廷</text>
+        <text x="500" y="250" text-anchor="middle" fill="#c0392b" font-size="18" font-weight="bold" opacity="0.5">内 廷</text>
 
         <!-- 宫殿将通过JS动态生成 -->
         <g id="palace-layer"></g>
